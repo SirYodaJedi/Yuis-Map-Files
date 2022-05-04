@@ -1,0 +1,91 @@
+# PLEASE avoid capital letters in extensions! Git is unfortunately case-sensitive.
+
+# == Whitelist ==
+# this is actually useless, but it's moreso here for informational purposes.
+
+# Map source files
+!*.map
+!*.rmf
+!*.vmf
+
+# Asset lists
+!*.csv
+
+# Readmes
+!*.txt
+
+# == Blacklist ==
+# If you REALLY need one of these, then avoid the warning at the top of this file and make the extension all caps.
+# (you really shouldn't need them, though)
+
+## Compiled maps
+# BSP - IdTech 1-3, GoldSrc, Source 1
+*.bsp
+
+## Backups, since git takes care of that
+*.vmx
+*.bak
+
+## Material metadata (distributed seprately, if not included in a given game or SDK)
+# VMT (Valve Material Type) - Source 1
+*.vmt
+# VMAT (Valve MATerial) - Source 2
+*.vmat
+
+## Textures and uncompressed images
+# DDS (DirectDraw Surface) common
+*.dds
+# VTF - Source 1 propriatary format
+*.vtf
+# TEX - Nu2 games from 2009 onward; actually just DDS
+*.tex
+# TEXTURE - Skywalker Saga (nTT) proprietary format
+*.texture
+# Generic uncompressed images
+*.bmp
+*.tga
+
+## 3D models
+# Generic formats/extentions
+*.obj
+*.fbx
+*.mdl
+# Blender
+*.blend
+# Nu2 and nTT
+*.gsc
+*.ghg
+*.nup
+*.hgp
+*.hgo
+
+## Archives
+# Generic formats
+*.zip
+*.7z
+*.gz
+*.rar
+*.cab
+# Generic extensions
+*.pak
+*.dat
+# Common
+*.wad
+*.pk3
+*.pk7
+# VPK (Valve PaK) - Source 1+2
+*.vpk
+# FPK (FilePaK) - Tt Games
+*.fpk 
+# BrickBench - asset storage for eponymous program
+*.brickbench
+
+## Personally identifying information
+# LOG - can have usernames
+*.log
+
+## Just no
+*.exe
+*.EXE
+*.dll
+*.DLL
