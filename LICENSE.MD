@@ -3,8 +3,11 @@
 * * Use any of this content commercially. Paid mods are unethical, and stolen-for-profit paid mods even more so.
 * * Release any files from this repo, derivative or otherwise, on the Steam Workshop. This included compiled versions of maps.
 * * Redistribute compiled maps without the uncompiled source files.
+
+# You are NEVER permitted to
 * * Redistribute compiled maps in a form that deliberately obfuscates the contents and discourages reverse-engineering.
 * * Redistribute any files, compiled or otherwise, with malware.
+* * Modify this file, being `LICENSE.md` (that'd just be silly).
 
 # If redistributing these maps, you MUST
 * * Include the uncompiled source files. 
