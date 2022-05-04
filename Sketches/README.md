@@ -1,0 +1,3 @@
+This folder contains rough 3D sketches of maps for games that don't use brushes. I find it easier to quickly place and edit brushes than proper 3D meshes, so when mapping for such games, I sketch a rough layout to use as a base using Hammer, then sweat the fine details in Blender.
+
+Or will, rather. I'm still learning, and am not proficient enough in level design or 3D modeling to make a map for a game without the assistance of brushes yet. I'd love to make maps for Complete Saga and Battlefront II Classic down the line, though!
