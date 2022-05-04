@@ -1,0 +1,1 @@
+A quick futile test I had, before realizing that trying to use a proper skydome instead of a skybox would break probably break ray-traced lighting, as it wouldn't be recognized by the compiler as "sky".
