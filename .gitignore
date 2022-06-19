@@ -26,6 +26,11 @@
 *.vmx
 *.bak
 
+## Can be generated from other files
+# Source 1 leaks and portal files
+*.lin
+*.prt
+
 ## Material metadata (distributed seprately, if not included in a given game or SDK)
 # VMT (Valve Material Type) - Source 1
 *.vmt
