@@ -1,5 +1,5 @@
 $staticprop
-$modelname "props/luigi_yui"
+$modelname "props/luigi_yui/luigi_yui"
 $scale "0.125000"
 $body "Body" "luigi_yui_ref"
 $cdmaterials "models/props/luigi_yui"
