@@ -1,5 +1,5 @@
 $staticprop
-$modelname "christo/christophsis_crate"
+$modelname "christo/boxes/christophsis_crate"
 $scale "0.500000"
 $body "Body" "christophsis_crate_ref"
 $cdmaterials "models/christo/christophsis_crate"
