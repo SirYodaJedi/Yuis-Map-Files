@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9109"
-	"mapversion" "15"
+	"mapversion" "16"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "15"
+	"mapversion" "16"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -37,7 +37,7 @@ entity
 	"mass" "35.0"
 	"mat_nonormal" "0"
 	"materialpath" "models/christo/christophsis_crate"
-	"modelname" "christo/christophsis_crate"
+	"modelname" "christo/boxes/christophsis_crate"
 	"origin" "0 0 0"
 	"physmodel" "crate_collision"
 	"scale" "0.5"
