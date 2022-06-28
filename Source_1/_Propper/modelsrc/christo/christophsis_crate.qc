@@ -9,6 +9,10 @@ $autocenter
 $collisionmodel "christophsis_crate_phys"  {
 	$mass 35.000000
 }
+$lod 25
+{
+	replacemodel "christophsis_crate_ref" "christophsis_crate_lod2"
+}
 $lod 50
 {
 	replacemodel "christophsis_crate_ref" "christophsis_crate_lod1"
