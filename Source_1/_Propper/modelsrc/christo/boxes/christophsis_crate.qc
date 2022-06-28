@@ -12,8 +12,10 @@ $collisionmodel "christophsis_crate_phys"  {
 $lod 25
 {
 	replacemodel "christophsis_crate_ref" "christophsis_crate_lod2"
+	replacematerial "face" "face_flat"
 }
 $lod 50
 {
 	replacemodel "christophsis_crate_ref" "christophsis_crate_lod1"
+	replacematerial "face" "face_flat_lr"
 }

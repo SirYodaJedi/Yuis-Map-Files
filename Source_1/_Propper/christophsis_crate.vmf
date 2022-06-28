@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9109"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -109,7 +109,7 @@ entity
 		side
 		{
 			"id" "2159"
-			"plane" "(-8 -8 28) (-11 -11 32) (-16 0 32)"
+			"plane" "(-16 0 32) (-12 0 28) (-8 -8 28)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE5"
 			"uaxis" "[0.413803 -0.910366 0 57.863] -0.0943988"
 			"vaxis" "[0.612849 0.278568 -0.73947 60.3163] 0.0880021"
@@ -261,7 +261,7 @@ entity
 		side
 		{
 			"id" "2171"
-			"plane" "(8 -8 28) (11 -11 32) (0 -16 32)"
+			"plane" "(0 -16 32) (0 -12 28) (8 -8 28)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE3"
 			"uaxis" "[0.910366 0.413803 0 57.863] -0.0943988"
 			"vaxis" "[-0.278568 0.612849 -0.73947 60.3163] 0.0880021"
@@ -282,7 +282,7 @@ entity
 		side
 		{
 			"id" "2182"
-			"plane" "(12 0 28) (8 -8 28) (28 -28 28)"
+			"plane" "(8 -8 28) (28 -28 28) (28 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -293,7 +293,7 @@ entity
 		side
 		{
 			"id" "2181"
-			"plane" "(11 -11 32) (16 0 32) (28 0 32)"
+			"plane" "(16 0 32) (28 0 32) (28 -28 32)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 256] 0.109375"
 			"vaxis" "[0 -1 0 256] 0.109375"
@@ -304,7 +304,7 @@ entity
 		side
 		{
 			"id" "2180"
-			"plane" "(28 0 28) (28 0 32) (16 0 32)"
+			"plane" "(28 0 32) (16 0 32) (12 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.015625"
@@ -315,7 +315,7 @@ entity
 		side
 		{
 			"id" "2179"
-			"plane" "(8 -8 28) (11 -11 32) (28 -28 32)"
+			"plane" "(11 -11 32) (28 -28 32) (28 -28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0.707107 -0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.015625"
@@ -326,7 +326,7 @@ entity
 		side
 		{
 			"id" "2178"
-			"plane" "(28 -28 28) (28 -28 32) (28 0 32)"
+			"plane" "(28 -28 32) (28 0 32) (28 0 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 0] 0.0625"
@@ -337,7 +337,7 @@ entity
 		side
 		{
 			"id" "2177"
-			"plane" "(12 0 28) (16 0 32) (11 -11 32)"
+			"plane" "(16 0 32) (11 -11 32) (8 -8 28)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE2"
 			"uaxis" "[-0.413803 -0.910366 0 70.137] 0.0943988"
 			"vaxis" "[-0.612849 0.278568 -0.73947 60.3164] 0.0880021"
@@ -358,7 +358,7 @@ entity
 		side
 		{
 			"id" "2188"
-			"plane" "(8 8 28) (12 0 28) (28 0 28)"
+			"plane" "(12 0 28) (28 0 28) (28 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -369,7 +369,7 @@ entity
 		side
 		{
 			"id" "2187"
-			"plane" "(16 0 32) (11 11 32) (28 28 32)"
+			"plane" "(11 11 32) (28 28 32) (28 0 32)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 256] 0.109375"
 			"vaxis" "[0 -1 0 256] 0.109375"
@@ -380,7 +380,7 @@ entity
 		side
 		{
 			"id" "2186"
-			"plane" "(28 28 28) (28 28 32) (11 11 32)"
+			"plane" "(28 28 32) (11 11 32) (8 8 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0.707107 0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.015625"
@@ -391,7 +391,7 @@ entity
 		side
 		{
 			"id" "2185"
-			"plane" "(12 0 28) (16 0 32) (28 0 32)"
+			"plane" "(16 0 32) (28 0 32) (28 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.015625"
@@ -402,7 +402,7 @@ entity
 		side
 		{
 			"id" "2184"
-			"plane" "(28 0 28) (28 0 32) (28 28 32)"
+			"plane" "(28 0 32) (28 28 32) (28 28 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 0] 0.0625"
@@ -413,7 +413,7 @@ entity
 		side
 		{
 			"id" "2183"
-			"plane" "(8 8 28) (11 11 32) (16 0 32)"
+			"plane" "(11 11 32) (16 0 32) (12 0 28)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE1"
 			"uaxis" "[-0.413803 0.910366 0 57.863] -0.0943988"
 			"vaxis" "[-0.612849 -0.278568 -0.73947 60.3163] 0.0880021"
@@ -434,7 +434,7 @@ entity
 		side
 		{
 			"id" "2194"
-			"plane" "(0 12 28) (8 8 28) (28 28 28)"
+			"plane" "(8 8 28) (28 28 28) (0 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -445,7 +445,7 @@ entity
 		side
 		{
 			"id" "2193"
-			"plane" "(11 11 32) (0 16 32) (0 28 32)"
+			"plane" "(0 16 32) (0 28 32) (28 28 32)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 256] 0.109375"
 			"vaxis" "[0 -1 0 256] 0.109375"
@@ -456,7 +456,7 @@ entity
 		side
 		{
 			"id" "2192"
-			"plane" "(8 8 28) (11 11 32) (28 28 32)"
+			"plane" "(11 11 32) (28 28 32) (28 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0.707107 0.707107 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.015625"
@@ -467,7 +467,7 @@ entity
 		side
 		{
 			"id" "2191"
-			"plane" "(0 28 28) (0 28 32) (0 16 32)"
+			"plane" "(0 28 32) (0 16 32) (0 12 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.015625"
@@ -478,7 +478,7 @@ entity
 		side
 		{
 			"id" "2190"
-			"plane" "(28 28 28) (28 28 32) (0 28 32)"
+			"plane" "(28 28 32) (0 28 32) (0 28 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE3"
 			"uaxis" "[-1 0 0 256] 0.109375"
 			"vaxis" "[0 0 -1 0] 0.0625"
@@ -489,7 +489,7 @@ entity
 		side
 		{
 			"id" "2189"
-			"plane" "(0 12 28) (0 16 32) (11 11 32)"
+			"plane" "(0 16 32) (11 11 32) (8 8 28)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE0"
 			"uaxis" "[0.910366 -0.413803 0 70.137] 0.0943988"
 			"vaxis" "[-0.278568 -0.612849 -0.73947 60.3164] 0.0880021"
@@ -793,7 +793,7 @@ entity
 		side
 		{
 			"id" "2213"
-			"plane" "(11 -11 -32) (8 -8 -28) (0 -12 -28)"
+			"plane" "(0 -12 -28) (0 -16 -32) (11 -11 -32)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE4"
 			"uaxis" "[0.910366 0.413803 0 70] 0.0943988"
 			"vaxis" "[-0.278568 0.612849 0.73947 60] 0.0880021"
@@ -1249,7 +1249,7 @@ entity
 		side
 		{
 			"id" "2249"
-			"plane" "(11 11 -32) (8 8 -28) (12 0 -28)"
+			"plane" "(12 0 -28) (16 0 -32) (11 11 -32)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE4"
 			"uaxis" "[-0.413803 0.910366 0 70.137] 0.0943988"
 			"vaxis" "[-0.612849 -0.278568 0.73947 60.3164] 0.0880021"
@@ -1422,7 +1422,7 @@ entity
 		side
 		{
 			"id" "2272"
-			"plane" "(-28 -8 -8) (-28 0 -12) (-28 0 -28)"
+			"plane" "(-28 0 -12) (-28 0 -28) (-28 -28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1433,7 +1433,7 @@ entity
 		side
 		{
 			"id" "2271"
-			"plane" "(-32 -28 -28) (-32 0 -28) (-32 0 -16)"
+			"plane" "(-32 0 -28) (-32 0 -16) (-32 -11 -11)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1444,7 +1444,7 @@ entity
 		side
 		{
 			"id" "2270"
-			"plane" "(-28 -28 -28) (-32 -28 -28) (-32 -11 -11)"
+			"plane" "(-32 -28 -28) (-32 -11 -11) (-28 -8 -8)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -0.707107 -0.707107 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1455,7 +1455,7 @@ entity
 		side
 		{
 			"id" "2269"
-			"plane" "(-32 0 -28) (-28 0 -28) (-28 0 -12)"
+			"plane" "(-28 0 -28) (-28 0 -12) (-32 0 -16)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1466,7 +1466,7 @@ entity
 		side
 		{
 			"id" "2268"
-			"plane" "(-32 -28 -28) (-28 -28 -28) (-28 0 -28)"
+			"plane" "(-28 -28 -28) (-28 0 -28) (-32 0 -28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE1"
 			"uaxis" "[0 -1 0 256] 0.109375"
 			"vaxis" "[1 0 0 0] 0.0625"
@@ -1477,7 +1477,7 @@ entity
 		side
 		{
 			"id" "2267"
-			"plane" "(-32 0 -16) (-28 0 -12) (-28 -8 -8)"
+			"plane" "(-28 0 -12) (-28 -8 -8) (-32 -11 -11)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE3"
 			"uaxis" "[0 -0.910366 0.413803 -70.137] -0.0943988"
 			"vaxis" "[0.73947 0.278568 0.612849 -3.6837] 0.0880021"
@@ -1498,7 +1498,7 @@ entity
 		side
 		{
 			"id" "2278"
-			"plane" "(-28 -8 -8) (-28 -28 -28) (-28 -28 -0)"
+			"plane" "(-28 -8 -8) (-28 -28 -28) (-28 -28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1509,7 +1509,7 @@ entity
 		side
 		{
 			"id" "2277"
-			"plane" "(-32 -16 -0) (-32 -28 -0) (-32 -28 -28)"
+			"plane" "(-32 -16 0) (-32 -28 0) (-32 -28 -28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1520,7 +1520,7 @@ entity
 		side
 		{
 			"id" "2276"
-			"plane" "(-28 -12 -0) (-28 -28 -0) (-32 -28 -0)"
+			"plane" "(-28 -12 0) (-28 -28 0) (-32 -28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1542,7 +1542,7 @@ entity
 		side
 		{
 			"id" "2274"
-			"plane" "(-32 -28 -28) (-32 -28 -0) (-28 -28 -0)"
+			"plane" "(-32 -28 -28) (-32 -28 0) (-28 -28 0)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 0 1 256] 0.109375"
 			"vaxis" "[1 0 0 0] 0.0625"
@@ -1553,7 +1553,7 @@ entity
 		side
 		{
 			"id" "2273"
-			"plane" "(-28 -8 -8) (-28 -12 -0) (-32 -16 -0)"
+			"plane" "(-28 -8 -8) (-28 -12 0) (-32 -16 0)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE2"
 			"uaxis" "[0 0.413803 -0.910366 -57.863] 0.0943988"
 			"vaxis" "[0.73947 0.612849 0.278568 -3.68358] 0.0880021"
@@ -1574,7 +1574,7 @@ entity
 		side
 		{
 			"id" "2284"
-			"plane" "(-28 -8 8) (-28 -12 0) (-28 -28 -0)"
+			"plane" "(-28 -8 8) (-28 -12 0) (-28 -28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1585,7 +1585,7 @@ entity
 		side
 		{
 			"id" "2283"
-			"plane" "(-32 -16 -0) (-32 -11 11) (-32 -28 28)"
+			"plane" "(-32 -16 0) (-32 -11 11) (-32 -28 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1607,7 +1607,7 @@ entity
 		side
 		{
 			"id" "2281"
-			"plane" "(-32 -28 -0) (-28 -28 -0) (-28 -12 0)"
+			"plane" "(-32 -28 0) (-28 -28 0) (-28 -12 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1618,7 +1618,7 @@ entity
 		side
 		{
 			"id" "2280"
-			"plane" "(-28 -28 -0) (-32 -28 -0) (-32 -28 28)"
+			"plane" "(-28 -28 0) (-32 -28 0) (-32 -28 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 0 1 256] 0.109375"
 			"vaxis" "[1 0 0 0] 0.0625"
@@ -1629,7 +1629,7 @@ entity
 		side
 		{
 			"id" "2279"
-			"plane" "(-32 -16 -0) (-28 -12 0) (-28 -8 8)"
+			"plane" "(-32 -16 0) (-28 -12 0) (-28 -8 8)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE1"
 			"uaxis" "[0 0.413803 0.910366 57.8629] -0.0943988"
 			"vaxis" "[0.73947 0.612849 -0.278568 -3.68372] 0.0880021"
@@ -1661,7 +1661,7 @@ entity
 		side
 		{
 			"id" "2289"
-			"plane" "(-32 -11 11) (-32 -0 16) (-32 -0 28)"
+			"plane" "(-32 -11 11) (-32 0 16) (-32 0 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1683,7 +1683,7 @@ entity
 		side
 		{
 			"id" "2287"
-			"plane" "(-32 -0 16) (-28 0 12) (-28 -0 28)"
+			"plane" "(-32 0 16) (-28 0 12) (-28 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1694,7 +1694,7 @@ entity
 		side
 		{
 			"id" "2286"
-			"plane" "(-32 -0 28) (-28 -0 28) (-28 -28 28)"
+			"plane" "(-32 0 28) (-28 0 28) (-28 -28 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE3"
 			"uaxis" "[0 1 0 -256] 0.109375"
 			"vaxis" "[1 0 0 0] 0.0625"
@@ -1705,7 +1705,7 @@ entity
 		side
 		{
 			"id" "2285"
-			"plane" "(-28 0 12) (-32 -0 16) (-32 -11 11)"
+			"plane" "(-28 0 12) (-32 0 16) (-32 -11 11)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE0"
 			"uaxis" "[0 -0.910366 -0.413803 70.137] 0.0943988"
 			"vaxis" "[0.73947 0.278568 -0.612849 -3.68356] 0.0880021"
@@ -1726,7 +1726,7 @@ entity
 		side
 		{
 			"id" "2296"
-			"plane" "(-28 -0 12) (-28 -0 28) (-28 28 28)"
+			"plane" "(-28 8 8) (-28 0 12) (-28 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1737,7 +1737,7 @@ entity
 		side
 		{
 			"id" "2295"
-			"plane" "(-32 11 11) (-32 28 28) (-32 -0 28)"
+			"plane" "(-32 0 16) (-32 11 11) (-32 28 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1748,7 +1748,7 @@ entity
 		side
 		{
 			"id" "2294"
-			"plane" "(-28 8 8) (-28 28 28) (-32 28 28)"
+			"plane" "(-32 11 11) (-28 8 8) (-28 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0.707107 0.707107 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1759,7 +1759,7 @@ entity
 		side
 		{
 			"id" "2293"
-			"plane" "(-32 -0 16) (-32 -0 28) (-28 -0 28)"
+			"plane" "(-28 0 12) (-32 0 16) (-32 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.015625"
@@ -1770,7 +1770,7 @@ entity
 		side
 		{
 			"id" "2292"
-			"plane" "(-28 28 28) (-28 -0 28) (-32 -0 28)"
+			"plane" "(-32 28 28) (-28 28 28) (-28 0 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE3"
 			"uaxis" "[0 1 0 -256] 0.109375"
 			"vaxis" "[1 0 0 0] 0.0625"
@@ -1781,7 +1781,7 @@ entity
 		side
 		{
 			"id" "2291"
-			"plane" "(-32 11 11) (-32 -0 16) (-28 -0 12)"
+			"plane" "(-28 8 8) (-32 11 11) (-32 0 16)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE7"
 			"uaxis" "[0 0.910366 -0.413803 58] -0.0943988"
 			"vaxis" "[0.73947 -0.278568 -0.612849 -4] 0.0880021"
@@ -1878,7 +1878,7 @@ entity
 		side
 		{
 			"id" "2308"
-			"plane" "(28 -12 0) (28 -28 0) (28 -28 -28)"
+			"plane" "(28 -28 0) (28 -28 -28) (28 -8 -8)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1889,7 +1889,7 @@ entity
 		side
 		{
 			"id" "2307"
-			"plane" "(32 -11 -11) (32 -28 -28) (32 -28 0)"
+			"plane" "(32 -28 -28) (32 -28 0) (32 -16 0)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1900,7 +1900,7 @@ entity
 		side
 		{
 			"id" "2306"
-			"plane" "(32 -16 0) (32 -28 0) (28 -28 0)"
+			"plane" "(32 -28 0) (28 -28 0) (28 -12 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -1911,7 +1911,7 @@ entity
 		side
 		{
 			"id" "2305"
-			"plane" "(32 -28 -28) (32 -11 -11) (28 -8 -8)"
+			"plane" "(32 -11 -11) (28 -8 -8) (28 -28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -0.707107 -0.707107 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -1922,7 +1922,7 @@ entity
 		side
 		{
 			"id" "2304"
-			"plane" "(28 -28 -28) (28 -28 0) (32 -28 0)"
+			"plane" "(28 -28 0) (32 -28 0) (32 -28 -28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE0"
 			"uaxis" "[0 0 -1 256] 0.109375"
 			"vaxis" "[-1 0 0 0] 0.0625"
@@ -1933,7 +1933,7 @@ entity
 		side
 		{
 			"id" "2303"
-			"plane" "(32 -11 -11) (32 -16 0) (28 -12 0)"
+			"plane" "(32 -16 0) (28 -12 0) (28 -8 -8)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE5"
 			"uaxis" "[0 0.413803 -0.910366 -70.137] -0.0943988"
 			"vaxis" "[-0.73947 0.612849 0.278568 60.3162] 0.0880021"
@@ -1954,7 +1954,7 @@ entity
 		side
 		{
 			"id" "2314"
-			"plane" "(28 -0 -28) (28 -0 -12) (28 -8 -8)"
+			"plane" "(28 0 -12) (28 -8 -8) (28 -28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1965,7 +1965,7 @@ entity
 		side
 		{
 			"id" "2313"
-			"plane" "(32 -0 -16) (32 -0 -28) (32 -28 -28)"
+			"plane" "(32 0 -28) (32 -28 -28) (32 -11 -11)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -1976,7 +1976,7 @@ entity
 		side
 		{
 			"id" "2312"
-			"plane" "(28 -28 -28) (28 -8 -8) (32 -11 -11)"
+			"plane" "(28 -8 -8) (32 -11 -11) (32 -28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -0.707107 -0.707107 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -1987,7 +1987,7 @@ entity
 		side
 		{
 			"id" "2311"
-			"plane" "(32 -0 -28) (32 -0 -16) (28 -0 -12)"
+			"plane" "(32 0 -16) (28 0 -12) (28 0 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -1998,7 +1998,7 @@ entity
 		side
 		{
 			"id" "2310"
-			"plane" "(32 -28 -28) (32 -0 -28) (28 -0 -28)"
+			"plane" "(32 0 -28) (28 0 -28) (28 -28 -28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE1"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[-1 0 0 0] 0.0625"
@@ -2009,7 +2009,7 @@ entity
 		side
 		{
 			"id" "2309"
-			"plane" "(28 -8 -8) (28 -0 -12) (32 -0 -16)"
+			"plane" "(28 0 -12) (32 0 -16) (32 -11 -11)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE4"
 			"uaxis" "[0 -0.910366 0.413803 -58] 0.0943988"
 			"vaxis" "[-0.73947 0.278568 0.612849 60] 0.0880021"
@@ -2030,7 +2030,7 @@ entity
 		side
 		{
 			"id" "2320"
-			"plane" "(28 8 -8) (28 -0 -12) (28 -0 -28)"
+			"plane" "(28 0 -12) (28 0 -28) (28 28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2041,7 +2041,7 @@ entity
 		side
 		{
 			"id" "2319"
-			"plane" "(32 28 -28) (32 -0 -28) (32 -0 -16)"
+			"plane" "(32 0 -28) (32 0 -16) (32 11 -11)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2052,7 +2052,7 @@ entity
 		side
 		{
 			"id" "2318"
-			"plane" "(28 28 -28) (32 28 -28) (32 11 -11)"
+			"plane" "(32 28 -28) (32 11 -11) (28 8 -8)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0.707107 -0.707107 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2063,7 +2063,7 @@ entity
 		side
 		{
 			"id" "2317"
-			"plane" "(32 -0 -28) (28 -0 -28) (28 -0 -12)"
+			"plane" "(28 0 -28) (28 0 -12) (32 0 -16)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2074,7 +2074,7 @@ entity
 		side
 		{
 			"id" "2316"
-			"plane" "(28 -0 -28) (32 -0 -28) (32 28 -28)"
+			"plane" "(32 0 -28) (32 28 -28) (28 28 -28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE1"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[-1 0 0 0] 0.0625"
@@ -2085,7 +2085,7 @@ entity
 		side
 		{
 			"id" "2315"
-			"plane" "(28 8 -8) (32 11 -11) (32 -0 -16)"
+			"plane" "(28 0 -12) (28 8 -8) (32 11 -11)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE3"
 			"uaxis" "[0 0.910366 0.413803 -70.137] -0.0943988"
 			"vaxis" "[-0.73947 -0.278568 0.612849 60.3163] 0.0880021"
@@ -2106,7 +2106,7 @@ entity
 		side
 		{
 			"id" "2326"
-			"plane" "(28 12 -0) (28 8 -8) (28 28 -28)"
+			"plane" "(28 8 -8) (28 28 -28) (28 28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2117,7 +2117,7 @@ entity
 		side
 		{
 			"id" "2325"
-			"plane" "(32 11 -11) (32 16 -0) (32 28 -0)"
+			"plane" "(32 16 0) (32 28 0) (32 28 -28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2128,7 +2128,7 @@ entity
 		side
 		{
 			"id" "2324"
-			"plane" "(28 28 -0) (32 28 -0) (32 16 -0)"
+			"plane" "(32 28 0) (32 16 0) (28 12 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2139,7 +2139,7 @@ entity
 		side
 		{
 			"id" "2323"
-			"plane" "(32 28 -28) (28 28 -28) (28 8 -8)"
+			"plane" "(28 28 -28) (28 8 -8) (32 11 -11)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0.707107 -0.707107 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2150,7 +2150,7 @@ entity
 		side
 		{
 			"id" "2322"
-			"plane" "(28 28 -28) (32 28 -28) (32 28 -0)"
+			"plane" "(32 28 -28) (32 28 0) (28 28 0)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 0 1 256] 0.109375"
 			"vaxis" "[-1 0 0 0] 0.0625"
@@ -2161,7 +2161,7 @@ entity
 		side
 		{
 			"id" "2321"
-			"plane" "(32 11 -11) (28 8 -8) (28 12 -0)"
+			"plane" "(28 8 -8) (28 12 0) (32 16 0)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE2"
 			"uaxis" "[0 -0.413803 -0.910366 -57.8629] 0.0943988"
 			"vaxis" "[-0.73947 -0.612849 0.278568 60.3164] 0.0880021"
@@ -2182,7 +2182,7 @@ entity
 		side
 		{
 			"id" "2332"
-			"plane" "(28 8 8) (28 12 0) (28 28 -0)"
+			"plane" "(28 8 8) (28 12 0) (28 28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2193,7 +2193,7 @@ entity
 		side
 		{
 			"id" "2331"
-			"plane" "(32 16 -0) (32 11 11) (32 28 28)"
+			"plane" "(32 16 0) (32 11 11) (32 28 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2215,7 +2215,7 @@ entity
 		side
 		{
 			"id" "2329"
-			"plane" "(28 12 0) (32 16 -0) (32 28 -0)"
+			"plane" "(28 12 0) (32 16 0) (32 28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2226,7 +2226,7 @@ entity
 		side
 		{
 			"id" "2328"
-			"plane" "(28 28 -0) (32 28 -0) (32 28 28)"
+			"plane" "(28 28 0) (32 28 0) (32 28 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 0 1 256] 0.109375"
 			"vaxis" "[-1 0 0 0] 0.0625"
@@ -2237,7 +2237,7 @@ entity
 		side
 		{
 			"id" "2327"
-			"plane" "(32 16 -0) (28 12 0) (28 8 8)"
+			"plane" "(32 16 0) (28 12 0) (28 8 8)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE1"
 			"uaxis" "[0 -0.413803 0.910366 57.8629] -0.0943988"
 			"vaxis" "[-0.73947 -0.612849 -0.278568 60.3163] 0.0880021"
@@ -2258,7 +2258,7 @@ entity
 		side
 		{
 			"id" "2338"
-			"plane" "(28 0 12) (28 8 8) (28 28 28)"
+			"plane" "(28 8 8) (28 28 28) (28 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2269,7 +2269,7 @@ entity
 		side
 		{
 			"id" "2337"
-			"plane" "(32 11 11) (32 0 16) (32 0 28)"
+			"plane" "(32 0 16) (32 0 28) (32 28 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2280,7 +2280,7 @@ entity
 		side
 		{
 			"id" "2336"
-			"plane" "(28 8 8) (32 11 11) (32 28 28)"
+			"plane" "(32 11 11) (32 28 28) (28 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0.707107 0.707107 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2291,7 +2291,7 @@ entity
 		side
 		{
 			"id" "2335"
-			"plane" "(32 0 16) (28 0 12) (28 0 28)"
+			"plane" "(28 0 12) (28 0 28) (32 0 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.015625"
@@ -2302,7 +2302,7 @@ entity
 		side
 		{
 			"id" "2334"
-			"plane" "(28 28 28) (32 28 28) (32 0 28)"
+			"plane" "(32 28 28) (32 0 28) (28 0 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE3"
 			"uaxis" "[0 -1 0 -256] 0.109375"
 			"vaxis" "[-1 0 0 0] 0.0625"
@@ -2313,7 +2313,7 @@ entity
 		side
 		{
 			"id" "2333"
-			"plane" "(28 0 12) (32 0 16) (32 11 11)"
+			"plane" "(32 0 16) (32 11 11) (28 8 8)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE0"
 			"uaxis" "[0 0.910366 -0.413803 70.137] 0.0943988"
 			"vaxis" "[-0.73947 -0.278568 -0.612849 60.3164] 0.0880021"
@@ -2486,7 +2486,7 @@ entity
 		side
 		{
 			"id" "2356"
-			"plane" "(8 28 -8) (12 28 0) (28 28 0)"
+			"plane" "(12 28 0) (28 28 0) (28 28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2497,7 +2497,7 @@ entity
 		side
 		{
 			"id" "2355"
-			"plane" "(16 32 0) (11 32 -11) (28 32 -28)"
+			"plane" "(11 32 -11) (28 32 -28) (28 32 0)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2508,7 +2508,7 @@ entity
 		side
 		{
 			"id" "2354"
-			"plane" "(12 28 0) (16 32 0) (28 32 0)"
+			"plane" "(16 32 0) (28 32 0) (28 28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -2519,7 +2519,7 @@ entity
 		side
 		{
 			"id" "2353"
-			"plane" "(28 28 -28) (28 32 -28) (11 32 -11)"
+			"plane" "(28 32 -28) (11 32 -11) (8 28 -8)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0.707107 0 -0.707107 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -2530,7 +2530,7 @@ entity
 		side
 		{
 			"id" "2352"
-			"plane" "(28 32 -28) (28 28 -28) (28 28 0)"
+			"plane" "(28 28 -28) (28 28 0) (28 32 0)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE0"
 			"uaxis" "[0 0 -1 256] 0.109375"
 			"vaxis" "[0 -1 0 0] 0.0625"
@@ -2541,7 +2541,7 @@ entity
 		side
 		{
 			"id" "2351"
-			"plane" "(8 28 -8) (11 32 -11) (16 32 0)"
+			"plane" "(11 32 -11) (16 32 0) (12 28 0)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE5"
 			"uaxis" "[-0.413803 0 -0.910366 -70.137] -0.0943988"
 			"vaxis" "[-0.612849 -0.73947 0.278568 60.3162] 0.0880021"
@@ -2714,7 +2714,7 @@ entity
 		side
 		{
 			"id" "2374"
-			"plane" "(-8 28 -8) (-28 28 -28) (-28 28 0)"
+			"plane" "(-12 28 0) (-8 28 -8) (-28 28 -28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2725,7 +2725,7 @@ entity
 		side
 		{
 			"id" "2373"
-			"plane" "(-16 32 0) (-28 32 0) (-28 32 -28)"
+			"plane" "(-11 32 -11) (-16 32 0) (-28 32 0)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2736,7 +2736,7 @@ entity
 		side
 		{
 			"id" "2372"
-			"plane" "(-28 32 0) (-16 32 0) (-12 28 0)"
+			"plane" "(-28 28 0) (-28 32 0) (-16 32 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -2747,7 +2747,7 @@ entity
 		side
 		{
 			"id" "2371"
-			"plane" "(-28 28 -28) (-8 28 -8) (-11 32 -11)"
+			"plane" "(-28 32 -28) (-28 28 -28) (-8 28 -8)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-0.707107 0 -0.707107 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -2758,7 +2758,7 @@ entity
 		side
 		{
 			"id" "2370"
-			"plane" "(-28 32 -28) (-28 32 0) (-28 28 0)"
+			"plane" "(-28 28 -28) (-28 32 -28) (-28 32 0)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE2"
 			"uaxis" "[0 0 1 256] 0.109375"
 			"vaxis" "[0 -1 0 0] 0.0625"
@@ -2769,7 +2769,7 @@ entity
 		side
 		{
 			"id" "2369"
-			"plane" "(-8 28 -8) (-12 28 0) (-16 32 0)"
+			"plane" "(-11 32 -11) (-8 28 -8) (-12 28 0)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE2"
 			"uaxis" "[0.413803 0 -0.910366 -57.8629] 0.0943988"
 			"vaxis" "[0.612849 -0.73947 0.278568 60.3164] 0.0880021"
@@ -2942,7 +2942,7 @@ entity
 		side
 		{
 			"id" "2392"
-			"plane" "(0 28 12) (0 28 28) (28 28 28)"
+			"plane" "(8 28 8) (0 28 12) (0 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -2953,7 +2953,7 @@ entity
 		side
 		{
 			"id" "2391"
-			"plane" "(11 32 11) (28 32 28) (0 32 28)"
+			"plane" "(0 32 16) (11 32 11) (28 32 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -2964,7 +2964,7 @@ entity
 		side
 		{
 			"id" "2390"
-			"plane" "(8 28 8) (28 28 28) (28 32 28)"
+			"plane" "(11 32 11) (8 28 8) (28 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0.707107 0 0.707107 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -2975,7 +2975,7 @@ entity
 		side
 		{
 			"id" "2389"
-			"plane" "(0 32 16) (0 32 28) (0 28 28)"
+			"plane" "(0 28 12) (0 32 16) (0 32 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -2986,7 +2986,7 @@ entity
 		side
 		{
 			"id" "2388"
-			"plane" "(0 32 28) (28 32 28) (28 28 28)"
+			"plane" "(0 28 28) (0 32 28) (28 32 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE3"
 			"uaxis" "[1 0 0 -256] 0.109375"
 			"vaxis" "[0 -1 0 0] 0.0625"
@@ -2997,7 +2997,7 @@ entity
 		side
 		{
 			"id" "2387"
-			"plane" "(11 32 11) (0 32 16) (0 28 12)"
+			"plane" "(8 28 8) (11 32 11) (0 32 16)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE7"
 			"uaxis" "[0.910366 0 -0.413803 58] -0.0943988"
 			"vaxis" "[-0.278568 -0.73947 -0.612849 60] 0.0880021"
@@ -3018,7 +3018,7 @@ entity
 		side
 		{
 			"id" "2398"
-			"plane" "(12 28 0) (8 28 8) (28 28 28)"
+			"plane" "(8 28 8) (28 28 28) (28 28 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
@@ -3029,7 +3029,7 @@ entity
 		side
 		{
 			"id" "2397"
-			"plane" "(11 32 11) (16 32 0) (28 32 0)"
+			"plane" "(16 32 0) (28 32 0) (28 32 28)"
 			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 256] 0.109375"
 			"vaxis" "[0 0 -1 256] 0.109375"
@@ -3040,7 +3040,7 @@ entity
 		side
 		{
 			"id" "2396"
-			"plane" "(8 28 8) (11 32 11) (28 32 28)"
+			"plane" "(11 32 11) (28 32 28) (28 28 28)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0.707107 0 0.707107 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -3051,7 +3051,7 @@ entity
 		side
 		{
 			"id" "2395"
-			"plane" "(16 32 0) (12 28 0) (28 28 0)"
+			"plane" "(12 28 0) (28 28 0) (28 32 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.015625"
@@ -3062,7 +3062,7 @@ entity
 		side
 		{
 			"id" "2394"
-			"plane" "(28 32 0) (28 28 0) (28 28 28)"
+			"plane" "(28 28 0) (28 28 28) (28 32 28)"
 			"material" "CHRISTOPHSIS/CRATE/SIDE1"
 			"uaxis" "[0 0 -1 256] 0.109375"
 			"vaxis" "[0 -1 0 0] 0.0625"
@@ -3073,7 +3073,7 @@ entity
 		side
 		{
 			"id" "2393"
-			"plane" "(12 28 0) (16 32 0) (11 32 11)"
+			"plane" "(16 32 0) (11 32 11) (8 28 8)"
 			"material" "CHRISTOPHSIS/CRATE/INNERSIDE4"
 			"uaxis" "[-0.413803 0 0.910366 70.137] 0.0943988"
 			"vaxis" "[-0.612849 -0.73947 -0.278568 60.3163] 0.0880021"
@@ -3899,7 +3899,7 @@ entity
 		{
 			"id" "2464"
 			"plane" "(-192 32 -32) (-128 32 -32) (-128 32 32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT_LR"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 0] 0.125"
 			"vaxis" "[0 0 -1 256] 0.125"
 			"rotation" "-90"
@@ -3910,7 +3910,7 @@ entity
 		{
 			"id" "2463"
 			"plane" "(-128 -32 -32) (-192 -32 -32) (-192 -32 32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT_LR"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 0] 0.125"
 			"vaxis" "[0 0 1 256] -0.125"
 			"rotation" "90"
@@ -3921,7 +3921,7 @@ entity
 		{
 			"id" "2462"
 			"plane" "(-128 32 -32) (-192 32 -32) (-192 -32 -32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT_LR"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 0] -0.125"
 			"vaxis" "[0 -1 0 -256] 0.125"
 			"rotation" "0"
@@ -3932,7 +3932,7 @@ entity
 		{
 			"id" "2461"
 			"plane" "(-192 32 32) (-128 32 32) (-128 -32 32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT_LR"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 0] 0.125"
 			"vaxis" "[0 -1 0 -256] 0.125"
 			"rotation" "0"
@@ -3943,7 +3943,7 @@ entity
 		{
 			"id" "2460"
 			"plane" "(-128 32 32) (-128 32 -32) (-128 -32 -32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT_LR"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.125"
 			"vaxis" "[0 0 1 256] -0.125"
 			"rotation" "90"
@@ -3954,7 +3954,7 @@ entity
 		{
 			"id" "2459"
 			"plane" "(-192 -32 32) (-192 -32 -32) (-192 32 -32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT_LR"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 -256] 0.125"
 			"vaxis" "[0 0 -1 256] 0.125"
 			"rotation" "-90"
@@ -4067,7 +4067,7 @@ entity
 		{
 			"id" "2878"
 			"plane" "(-104 -28 32) (-104 28 32) (-48 28 32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 352] 0.125"
 			"vaxis" "[0 -1 0 -256] 0.125"
 			"rotation" "0"
@@ -4143,7 +4143,7 @@ entity
 		{
 			"id" "2914"
 			"plane" "(-104 -32 -28) (-104 -32 28) (-48 -32 28)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[1 0 0 352] 0.125"
 			"vaxis" "[0 0 -1 -256] 0.125"
 			"rotation" "0"
@@ -4219,7 +4219,7 @@ entity
 		{
 			"id" "2890"
 			"plane" "(-44 -28 -28) (-44 -28 28) (-44 28 28)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 1 0 256] 0.125"
 			"vaxis" "[0 0 -1 -256] 0.125"
 			"rotation" "0"
@@ -4295,7 +4295,7 @@ entity
 		{
 			"id" "2938"
 			"plane" "(-48 -28 -32) (-48 28 -32) (-104 28 -32)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 -352] 0.125"
 			"vaxis" "[0 -1 0 -256] 0.125"
 			"rotation" "0"
@@ -4371,7 +4371,7 @@ entity
 		{
 			"id" "2902"
 			"plane" "(-108 28 -28) (-108 28 28) (-108 -28 28)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[0 -1 0 -256] 0.125"
 			"vaxis" "[0 0 -1 -256] 0.125"
 			"rotation" "0"
@@ -4447,7 +4447,7 @@ entity
 		{
 			"id" "2926"
 			"plane" "(-48 32 -28) (-48 32 28) (-104 32 28)"
-			"material" "CHRISTOPHSIS/CRATE/FACE_FLAT"
+			"material" "CHRISTOPHSIS/CRATE/FACE"
 			"uaxis" "[-1 0 0 -352] 0.125"
 			"vaxis" "[0 0 -1 -256] 0.125"
 			"rotation" "0"
