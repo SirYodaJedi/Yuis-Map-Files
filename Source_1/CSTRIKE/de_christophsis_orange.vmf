@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "9109"
-	"mapversion" "113"
+	"editorbuild" "9008"
+	"mapversion" "114"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -128,7 +128,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "113"
+	"mapversion" "114"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -13371,7 +13371,7 @@ world
 		{
 			"id" "9845"
 			"plane" "(6272 7232 3904) (6272 7360 3904) (6432 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13382,7 +13382,7 @@ world
 		{
 			"id" "9846"
 			"plane" "(6272 7360 3872) (6272 7232 3872) (6432 7232 3872)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13393,7 +13393,7 @@ world
 		{
 			"id" "9847"
 			"plane" "(6272 7232 3872) (6272 7360 3872) (6272 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13404,7 +13404,7 @@ world
 		{
 			"id" "9848"
 			"plane" "(6432 7360 3872) (6432 7232 3872) (6432 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13415,7 +13415,7 @@ world
 		{
 			"id" "9849"
 			"plane" "(6272 7360 3872) (6432 7360 3872) (6432 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13426,7 +13426,7 @@ world
 		{
 			"id" "9850"
 			"plane" "(6432 7232 3872) (6272 7232 3872) (6272 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13447,7 +13447,7 @@ world
 		{
 			"id" "9928"
 			"plane" "(6272 7232 4032) (6272 7360 4032) (6432 7360 4032)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13458,7 +13458,7 @@ world
 		{
 			"id" "9927"
 			"plane" "(6272 7360 4000) (6272 7232 4000) (6432 7232 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13469,7 +13469,7 @@ world
 		{
 			"id" "9926"
 			"plane" "(6272 7232 4000) (6272 7360 4000) (6272 7360 4032)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13480,7 +13480,7 @@ world
 		{
 			"id" "9925"
 			"plane" "(6432 7360 4000) (6432 7232 4000) (6432 7232 4032)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13491,7 +13491,7 @@ world
 		{
 			"id" "9924"
 			"plane" "(6272 7360 4000) (6432 7360 4000) (6432 7360 4032)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13502,7 +13502,7 @@ world
 		{
 			"id" "9923"
 			"plane" "(6432 7232 4000) (6272 7232 4000) (6272 7232 4032)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13523,7 +13523,7 @@ world
 		{
 			"id" "9929"
 			"plane" "(6272 7232 4000) (6304 7232 4000) (6304 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13534,7 +13534,7 @@ world
 		{
 			"id" "9930"
 			"plane" "(6272 7360 3904) (6304 7360 3904) (6304 7360 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13545,7 +13545,7 @@ world
 		{
 			"id" "9931"
 			"plane" "(6272 7232 4000) (6272 7232 3904) (6272 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13556,7 +13556,7 @@ world
 		{
 			"id" "9932"
 			"plane" "(6304 7360 4000) (6304 7360 3904) (6304 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13567,7 +13567,7 @@ world
 		{
 			"id" "9933"
 			"plane" "(6304 7232 4000) (6272 7232 4000) (6272 7360 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13578,7 +13578,7 @@ world
 		{
 			"id" "9934"
 			"plane" "(6304 7360 3904) (6272 7360 3904) (6272 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13599,7 +13599,7 @@ world
 		{
 			"id" "9935"
 			"plane" "(6400 7232 4000) (6432 7232 4000) (6432 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13610,7 +13610,7 @@ world
 		{
 			"id" "9936"
 			"plane" "(6400 7360 3904) (6432 7360 3904) (6432 7360 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13621,7 +13621,7 @@ world
 		{
 			"id" "9937"
 			"plane" "(6400 7232 4000) (6400 7232 3904) (6400 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13632,7 +13632,7 @@ world
 		{
 			"id" "9938"
 			"plane" "(6432 7360 4000) (6432 7360 3904) (6432 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13643,7 +13643,7 @@ world
 		{
 			"id" "9939"
 			"plane" "(6432 7232 4000) (6400 7232 4000) (6400 7360 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13654,7 +13654,7 @@ world
 		{
 			"id" "9940"
 			"plane" "(6432 7360 3904) (6400 7360 3904) (6400 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13675,7 +13675,7 @@ world
 		{
 			"id" "9941"
 			"plane" "(6304 7264 4000) (6400 7264 4000) (6400 7232 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13686,7 +13686,7 @@ world
 		{
 			"id" "9942"
 			"plane" "(6304 7232 3904) (6400 7232 3904) (6400 7264 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13697,7 +13697,7 @@ world
 		{
 			"id" "9943"
 			"plane" "(6304 7264 4000) (6304 7232 4000) (6304 7232 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13708,7 +13708,7 @@ world
 		{
 			"id" "9944"
 			"plane" "(6400 7264 3904) (6400 7232 3904) (6400 7232 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13719,7 +13719,7 @@ world
 		{
 			"id" "9945"
 			"plane" "(6400 7264 4000) (6304 7264 4000) (6304 7264 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13730,7 +13730,7 @@ world
 		{
 			"id" "9946"
 			"plane" "(6400 7232 3904) (6304 7232 3904) (6304 7232 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13751,7 +13751,7 @@ world
 		{
 			"id" "9958"
 			"plane" "(6304 7360 4000) (6400 7360 4000) (6400 7328 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13762,7 +13762,7 @@ world
 		{
 			"id" "9957"
 			"plane" "(6304 7328 3904) (6400 7328 3904) (6400 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -13773,7 +13773,7 @@ world
 		{
 			"id" "9956"
 			"plane" "(6304 7360 4000) (6304 7328 4000) (6304 7328 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13784,7 +13784,7 @@ world
 		{
 			"id" "9955"
 			"plane" "(6400 7360 3904) (6400 7328 3904) (6400 7328 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13795,7 +13795,7 @@ world
 		{
 			"id" "9954"
 			"plane" "(6400 7360 4000) (6304 7360 4000) (6304 7360 3904)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -13806,7 +13806,7 @@ world
 		{
 			"id" "9953"
 			"plane" "(6400 7328 3904) (6304 7328 3904) (6304 7328 4000)"
-			"material" "BRICK/BLENDCOBBLETOCOBBLESNOW001"
+			"material" "BRICK/BRICKFLOOR001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -21837,13 +21837,13 @@ entity
 entity
 {
 	"id" "11919"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "8022.26 7445.1 3905"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -21853,13 +21853,13 @@ entity
 entity
 {
 	"id" "11921"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "8540.45 7504 4048"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -21869,13 +21869,13 @@ entity
 entity
 {
 	"id" "11927"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "7841.14 8172.27 4001"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -21885,13 +21885,13 @@ entity
 entity
 {
 	"id" "11929"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "7976.54 8057.28 4001"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -21901,13 +21901,13 @@ entity
 entity
 {
 	"id" "11931"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "7428.5 7822.75 4001"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -21917,13 +21917,13 @@ entity
 entity
 {
 	"id" "11979"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "8188.09 7302 3905"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -21933,13 +21933,13 @@ entity
 entity
 {
 	"id" "11983"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "8519.57 7776.45 4001"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -29128,13 +29128,13 @@ entity
 entity
 {
 	"id" "21108"
-	"classname" "info_player_teamspawn"
+	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"spawnflags" "511"
+	"spawnflags" "1"
 	"origin" "8696.46 8094.03 4001"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupid" "43"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -33164,13 +33164,12 @@ entity
 entity
 {
 	"id" "25409"
-	"classname" "info_player_start"
+	"classname" "info_player_terrorist"
 	"angles" "0 0 0"
-	"spawnflags" "0"
 	"origin" "7392 7824 4009"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "220 30 220"
 		"visgroupid" "42"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -33180,17 +33179,44 @@ entity
 entity
 {
 	"id" "25411"
-	"classname" "info_player_start"
+	"classname" "info_player_terrorist"
 	"angles" "0 0 0"
-	"spawnflags" "0"
 	"origin" "7456 7824 4009"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "220 30 220"
 		"visgroupid" "42"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 1500]"
+	}
+}
+entity
+{
+	"id" "25552"
+	"classname" "info_player_counterterrorist"
+	"angles" "0 0 0"
+	"origin" "8440 7656.24 4008"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "25554"
+	"classname" "info_player_counterterrorist"
+	"angles" "0 0 0"
+	"origin" "8440 7719.95 4008"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 cameras
