@@ -1,3 +1,4 @@
+/* For Source 1 */
 $staticprop
 $modelname "christo/boxes/christophsis_crate_1x1"
 $scale "0.500000"

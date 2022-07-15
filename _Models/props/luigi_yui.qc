@@ -1,3 +1,4 @@
+/* For Source 1 */
 $staticprop
 $modelname "props/luigi_yui/luigi_yui"
 $scale "0.125000"
