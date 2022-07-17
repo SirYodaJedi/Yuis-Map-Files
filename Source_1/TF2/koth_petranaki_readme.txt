@@ -5,5 +5,6 @@ hiatus. (also i can't figure out custom skyboxes in Source; they just show up as
 transparent)
 
 Legalese:
-Textures from Lego Star Wars III: The Clone Wars, © Tt Games and Lucasfilm.
-Music from Star Wars Episode II: Attack of the Clones soundtrack, © Lucasfilm.
+Textures from Lego Star Wars III: The Clone Wars, © 2011 Tt Games and Lucasfilm.
+Music from Star Wars Episode II: Attack of the Clones soundtrack, © 2002 Lucasfilm.
+Music composed by John Williams, performed by The London Symphony Orchestra.
