@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "205"
+	"mapversion" "206"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -170,13 +170,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "205"
+	"mapversion" "206"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -42728,7 +42728,7 @@ entity
 		side
 		{
 			"id" "19786"
-			"plane" "(7504 8032 4128) (7504 7744 4128) (7505 7744 4128)"
+			"plane" "(7504 8032 4136) (7504 7744 4136) (7505 7744 4136)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -42739,7 +42739,7 @@ entity
 		side
 		{
 			"id" "19785"
-			"plane" "(7504 7744 4128) (7504 8032 4128) (7504 8032 4144)"
+			"plane" "(7504 7744 4136) (7504 8032 4136) (7504 8032 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42750,7 +42750,7 @@ entity
 		side
 		{
 			"id" "19784"
-			"plane" "(7505 8032 4128) (7505 7744 4128) (7505 7744 4144)"
+			"plane" "(7505 8032 4136) (7505 7744 4136) (7505 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42761,7 +42761,7 @@ entity
 		side
 		{
 			"id" "19783"
-			"plane" "(7504 8032 4128) (7505 8032 4128) (7505 8032 4144)"
+			"plane" "(7504 8032 4136) (7505 8032 4136) (7505 8032 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42772,7 +42772,7 @@ entity
 		side
 		{
 			"id" "19782"
-			"plane" "(7505 7744 4128) (7504 7744 4128) (7504 7744 4144)"
+			"plane" "(7505 7744 4136) (7504 7744 4136) (7504 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42806,7 +42806,7 @@ entity
 		side
 		{
 			"id" "19793"
-			"plane" "(7360 8033 4144) (7504 8033 4144) (7504 8032 4144)"
+			"plane" "(7360 8032 4144) (7360 8033 4144) (7504 8033 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -42817,7 +42817,7 @@ entity
 		side
 		{
 			"id" "19792"
-			"plane" "(7360 8032 4128) (7504 8032 4128) (7504 8033 4128)"
+			"plane" "(7360 8033 4136) (7360 8032 4136) (7504 8032 4136)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -42828,7 +42828,7 @@ entity
 		side
 		{
 			"id" "19791"
-			"plane" "(7360 8033 4144) (7360 8032 4144) (7360 8032 4128)"
+			"plane" "(7360 8032 4136) (7360 8033 4136) (7360 8033 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42839,7 +42839,7 @@ entity
 		side
 		{
 			"id" "19790"
-			"plane" "(7504 8033 4128) (7504 8032 4128) (7504 8032 4144)"
+			"plane" "(7504 8033 4136) (7504 8032 4136) (7504 8032 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42850,7 +42850,7 @@ entity
 		side
 		{
 			"id" "19789"
-			"plane" "(7504 8033 4144) (7360 8033 4144) (7360 8033 4128)"
+			"plane" "(7360 8033 4136) (7504 8033 4136) (7504 8033 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42861,7 +42861,7 @@ entity
 		side
 		{
 			"id" "19788"
-			"plane" "(7504 8032 4128) (7360 8032 4128) (7360 8032 4144)"
+			"plane" "(7504 8032 4136) (7360 8032 4136) (7360 8032 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42894,7 +42894,7 @@ entity
 		side
 		{
 			"id" "19799"
-			"plane" "(7360 7744 4144) (7504 7744 4144) (7504 7743 4144)"
+			"plane" "(7360 7743 4144) (7360 7744 4144) (7504 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -42905,7 +42905,7 @@ entity
 		side
 		{
 			"id" "19798"
-			"plane" "(7360 7743 4128) (7504 7743 4128) (7504 7744 4128)"
+			"plane" "(7360 7744 4136) (7360 7743 4136) (7504 7743 4136)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -42916,7 +42916,7 @@ entity
 		side
 		{
 			"id" "19797"
-			"plane" "(7360 7744 4144) (7360 7743 4144) (7360 7743 4128)"
+			"plane" "(7360 7743 4136) (7360 7744 4136) (7360 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42927,7 +42927,7 @@ entity
 		side
 		{
 			"id" "19796"
-			"plane" "(7504 7744 4128) (7504 7743 4128) (7504 7743 4144)"
+			"plane" "(7504 7744 4136) (7504 7743 4136) (7504 7743 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42938,7 +42938,7 @@ entity
 		side
 		{
 			"id" "19795"
-			"plane" "(7504 7744 4144) (7360 7744 4144) (7360 7744 4128)"
+			"plane" "(7360 7744 4136) (7504 7744 4136) (7504 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42949,7 +42949,7 @@ entity
 		side
 		{
 			"id" "19794"
-			"plane" "(7504 7743 4128) (7360 7743 4128) (7360 7743 4144)"
+			"plane" "(7504 7743 4136) (7360 7743 4136) (7360 7743 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -42993,7 +42993,7 @@ entity
 		side
 		{
 			"id" "19804"
-			"plane" "(7359 8032 4128) (7359 7744 4128) (7360 7744 4128)"
+			"plane" "(7359 8032 4136) (7359 7744 4136) (7360 7744 4136)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -43004,7 +43004,7 @@ entity
 		side
 		{
 			"id" "19803"
-			"plane" "(7359 7744 4128) (7359 8032 4128) (7359 8032 4144)"
+			"plane" "(7359 7744 4136) (7359 8032 4136) (7359 8032 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -43015,7 +43015,7 @@ entity
 		side
 		{
 			"id" "19802"
-			"plane" "(7360 8032 4128) (7360 7744 4128) (7360 7744 4144)"
+			"plane" "(7360 8032 4136) (7360 7744 4136) (7360 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -43026,7 +43026,7 @@ entity
 		side
 		{
 			"id" "19801"
-			"plane" "(7359 8032 4128) (7360 8032 4128) (7360 8032 4144)"
+			"plane" "(7359 8032 4136) (7360 8032 4136) (7360 8032 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -43037,7 +43037,7 @@ entity
 		side
 		{
 			"id" "19800"
-			"plane" "(7360 7744 4128) (7359 7744 4128) (7359 7744 4144)"
+			"plane" "(7360 7744 4136) (7359 7744 4136) (7359 7744 4144)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
