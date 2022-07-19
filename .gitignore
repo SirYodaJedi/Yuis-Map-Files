@@ -1,5 +1,7 @@
 # PLEASE avoid capital letters in extensions! Git is unfortunately case-sensitive.
 
+# Temporary blacklist is at bottom, because Git ignored the gitignore entiries if I put them at the top.
+
 # == Whitelist ==
 # this is actually useless, but it's moreso here for informational purposes.
 
@@ -94,3 +96,9 @@
 *.EXE
 *.dll
 *.DLL
+
+
+# == Temporary blacklist ==
+# anything that's not ready to be public
+Source_1/TF2/test/test_audiofile.vmf
+Source_1/HL2DM/dm_crossfire_bms
