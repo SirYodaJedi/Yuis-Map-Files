@@ -26,6 +26,8 @@
 
 ## Backups, since git takes care of that
 *.vmx
+*.rmx
+*.max
 *.bak
 
 ## Can be generated from other files
