@@ -9,6 +9,7 @@
 !*.map
 !*.rmf
 !*.vmf
+!*.jmf
 
 # Asset lists
 !*.csv
@@ -29,6 +30,7 @@
 *.rmx
 *.max
 *.bak
+*.jmx
 
 ## Can be generated from other files
 # Source 1 leaks and portal files
@@ -99,6 +101,11 @@
 *.dll
 *.DLL
 
+## Too big; use .map for backup instead
+IdTech_3/*.jmf
+IdTech_3/*/*.jmf
+IdTech_3/*/*/*.jmf
+IdTech_3/*/*/*/*.jmf
 
 # == Temporary blacklist ==
 # anything that's not ready to be public
