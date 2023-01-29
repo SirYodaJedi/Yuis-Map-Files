@@ -101,12 +101,6 @@
 *.dll
 *.DLL
 
-## Too big; use .map for backup instead
-IdTech_3/*.jmf
-IdTech_3/*/*.jmf
-IdTech_3/*/*/*.jmf
-IdTech_3/*/*/*/*.jmf
-
 # == Temporary blacklist ==
 # anything that's not ready to be public
 Source_1/TF2/test/test_audiofile.vmf
