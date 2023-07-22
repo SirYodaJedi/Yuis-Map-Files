@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "862"
+	"mapversion" "863"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "862"
+	"mapversion" "863"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -46501,7 +46501,7 @@ world
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -97810,7 +97810,7 @@ world
 		{
 			"id" "8764"
 			"plane" "(-4160 7232 -1984) (2112 7232 -1984) (2112 960 -1984)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -97821,7 +97821,7 @@ world
 		{
 			"id" "8762"
 			"plane" "(-4160 7232 -1984) (-4160 960 -1984) (-4160 960 -4160)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97832,7 +97832,7 @@ world
 		{
 			"id" "8761"
 			"plane" "(2112 7232 -4160) (2112 960 -4160) (2112 960 -1984)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97843,7 +97843,7 @@ world
 		{
 			"id" "8760"
 			"plane" "(2112 7232 -1984) (-4160 7232 -1984) (-4160 7232 -4160)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97854,7 +97854,7 @@ world
 		{
 			"id" "8759"
 			"plane" "(2112 960 -4160) (-4160 960 -4160) (-4160 960 -1984)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97865,7 +97865,7 @@ world
 		{
 			"id" "8763"
 			"plane" "(2048 1024 -2048) (2048 7168 -2048) (-4096 7168 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -97887,7 +97887,7 @@ world
 		{
 			"id" "8769"
 			"plane" "(-4096 1024 -4096) (2048 1024 -4096) (2048 7168 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -97898,7 +97898,7 @@ world
 		{
 			"id" "8768"
 			"plane" "(-4096 1024 -4096) (-4096 7168 -4096) (-4096 7168 -3808)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97909,7 +97909,7 @@ world
 		{
 			"id" "8770"
 			"plane" "(2048 7168 -4096) (2048 1024 -4096) (2048 1024 -3808)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97920,7 +97920,7 @@ world
 		{
 			"id" "8767"
 			"plane" "(-4096 7168 -4096) (2048 7168 -4096) (2048 7168 -3808)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97931,7 +97931,7 @@ world
 		{
 			"id" "8766"
 			"plane" "(2048 1024 -4096) (-4096 1024 -4096) (-4096 1024 -3808)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97942,7 +97942,7 @@ world
 		{
 			"id" "8765"
 			"plane" "(-4096 7168 -3808) (2048 7168 -3808) (2048 1024 -3808)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -97964,7 +97964,7 @@ world
 		{
 			"id" "8776"
 			"plane" "(-4160 960 -4096) (-4160 7232 -4096) (-4160 7232 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97975,7 +97975,7 @@ world
 		{
 			"id" "8774"
 			"plane" "(-4160 7232 -4096) (-4096 7232 -4096) (-4096 7232 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97986,7 +97986,7 @@ world
 		{
 			"id" "8773"
 			"plane" "(-4160 960 -4096) (-4160 960 -2048) (-4096 960 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97997,7 +97997,7 @@ world
 		{
 			"id" "8772"
 			"plane" "(-4160 960 -2048) (-4160 7232 -2048) (-4096 7232 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98008,7 +98008,7 @@ world
 		{
 			"id" "8771"
 			"plane" "(-4160 7232 -4096) (-4160 960 -4096) (-4096 960 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98019,7 +98019,7 @@ world
 		{
 			"id" "8775"
 			"plane" "(-4096 7232 -4096) (-4096 960 -4096) (-4096 960 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98041,7 +98041,7 @@ world
 		{
 			"id" "8781"
 			"plane" "(2112 7232 -4160) (2112 960 -4160) (2112 960 -1984)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98052,7 +98052,7 @@ world
 		{
 			"id" "8780"
 			"plane" "(2112 7232 -1984) (-4160 7232 -1984) (-4160 7232 -4160)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98063,7 +98063,7 @@ world
 		{
 			"id" "8782"
 			"plane" "(2112 960 -4160) (-4160 960 -4160) (-4160 960 -1984)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98074,7 +98074,7 @@ world
 		{
 			"id" "8779"
 			"plane" "(-4096 7168 -2048) (2048 7168 -2048) (2048 1024 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98085,7 +98085,7 @@ world
 		{
 			"id" "8778"
 			"plane" "(-4096 1024 -4096) (2048 1024 -4096) (2048 7168 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98096,7 +98096,7 @@ world
 		{
 			"id" "8777"
 			"plane" "(2048 1024 -2048) (2048 1024 -4096) (2048 7168 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98118,7 +98118,7 @@ world
 		{
 			"id" "8729"
 			"plane" "(2112 7232 -1984) (-4160 7232 -1984) (-4160 7232 -4160)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98129,7 +98129,7 @@ world
 		{
 			"id" "8786"
 			"plane" "(-4096 7168 -2048) (2048 7168 -2048) (2048 1024 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98140,7 +98140,7 @@ world
 		{
 			"id" "8785"
 			"plane" "(-4096 1024 -4096) (2048 1024 -4096) (2048 7168 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98151,7 +98151,7 @@ world
 		{
 			"id" "8784"
 			"plane" "(-4096 7168 -2048) (-4096 1024 -2048) (-4096 1024 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98162,7 +98162,7 @@ world
 		{
 			"id" "8783"
 			"plane" "(2048 7168 -4096) (2048 1024 -4096) (2048 1024 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98173,7 +98173,7 @@ world
 		{
 			"id" "8729"
 			"plane" "(-4096 7168 -4096) (-4096 7168 -2048) (2048 7168 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98195,7 +98195,7 @@ world
 		{
 			"id" "8730"
 			"plane" "(2112 960 -4160) (-4160 960 -4160) (-4160 960 -1984)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98206,7 +98206,7 @@ world
 		{
 			"id" "8725"
 			"plane" "(-4096 7168 -2048) (2048 7168 -2048) (2048 1024 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98217,7 +98217,7 @@ world
 		{
 			"id" "8726"
 			"plane" "(-4096 1024 -4096) (2048 1024 -4096) (2048 7168 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -98228,7 +98228,7 @@ world
 		{
 			"id" "8727"
 			"plane" "(-4096 7168 -2048) (-4096 1024 -2048) (-4096 1024 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98239,7 +98239,7 @@ world
 		{
 			"id" "8728"
 			"plane" "(2048 7168 -4096) (2048 1024 -4096) (2048 1024 -2048)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98250,7 +98250,7 @@ world
 		{
 			"id" "8730"
 			"plane" "(-4096 1024 -2048) (-4096 1024 -4096) (2048 1024 -4096)"
-			"material" "TOOLS/TOOLSSKYBOX"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
