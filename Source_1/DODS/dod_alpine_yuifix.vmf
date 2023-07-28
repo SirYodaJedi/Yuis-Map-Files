@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "870"
+	"mapversion" "871"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "870"
+	"mapversion" "871"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -121654,24 +121654,14 @@ entity
 entity
 {
 	"id" "43442"
-	"classname" "prop_static"
+	"classname" "func_instance"
 	"angles" "0 285 0"
-	"disableshadows" "1"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/mapmodels/barbed_wire.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "0"
+	"file" "instances/inst_barbedwire_1.vmf"
+	"fixup_style" "0"
 	"origin" "-1500 952 -128"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 -14268]"
@@ -121680,24 +121670,14 @@ entity
 entity
 {
 	"id" "43462"
-	"classname" "prop_static"
+	"classname" "func_instance"
 	"angles" "0 14.9999 0"
-	"disableshadows" "1"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/mapmodels/barbed_wire.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "0"
+	"file" "instances/inst_barbedwire_1.vmf"
+	"fixup_style" "0"
 	"origin" "-1752 1184 -112"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 -13768]"
@@ -121706,24 +121686,14 @@ entity
 entity
 {
 	"id" "43522"
-	"classname" "prop_static"
+	"classname" "func_instance"
 	"angles" "-3.5 0 0"
-	"disableshadows" "1"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/mapmodels/barbed_wire.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "0"
+	"file" "instances/inst_barbedwire_1.vmf"
+	"fixup_style" "0"
 	"origin" "-1880 1008 -132"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 -13268]"
@@ -121876,24 +121846,14 @@ entity
 entity
 {
 	"id" "44252"
-	"classname" "prop_static"
+	"classname" "func_instance"
 	"angles" "0 270 0"
-	"disableshadows" "1"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/mapmodels/barbed_wire.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "0"
+	"file" "instances/inst_barbedwire_1.vmf"
+	"fixup_style" "0"
 	"origin" "1600 1208 0"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 -9768]"
