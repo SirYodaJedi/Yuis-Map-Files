@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "873"
+	"mapversion" "874"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "873"
+	"mapversion" "874"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -122185,7 +122185,7 @@ entity
 	"id" "45899"
 	"classname" "info_player_axis"
 	"angles" "0 270 0"
-	"origin" "-432 2928 96"
+	"origin" "-432 2928 112"
 	editor
 	{
 		"color" "220 30 220"
@@ -122507,7 +122507,7 @@ entity
 	"id" "45990"
 	"classname" "info_player_allies"
 	"angles" "0 90 0"
-	"origin" "-1120 -2256 1"
+	"origin" "-1120 -2256 17"
 	editor
 	{
 		"color" "220 30 220"
