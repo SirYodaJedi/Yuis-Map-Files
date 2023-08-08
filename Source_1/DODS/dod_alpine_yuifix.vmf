@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "879"
+	"mapversion" "881"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,13 +44,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "1"
-	"nGridSpacing" "8"
+	"nGridSpacing" "16"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "879"
+	"mapversion" "881"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -129732,7 +129732,7 @@ entity
 	"angles" "0 0 0"
 	"orientationtype" "1"
 	"spawnflags" "16"
-	"target" "b17track1"
+	"target" "b17track01"
 	"targetname" "b17track00"
 	"origin" "-1024 1152 -3712"
 	editor
@@ -129750,8 +129750,8 @@ entity
 	"classname" "path_track"
 	"angles" "0 0 0"
 	"orientationtype" "1"
-	"target" "b17track2"
-	"targetname" "b17track1"
+	"target" "b17track02"
+	"targetname" "b17track01"
 	"origin" "-1024 1928 -3328"
 	editor
 	{
@@ -129769,11 +129769,11 @@ entity
 	"angles" "0 0 0"
 	"orientationtype" "1"
 	"spawnflags" "0"
-	"target" "b17track3"
-	"targetname" "b17track2"
+	"target" "b17track03"
+	"targetname" "b17track02"
 	connections
 	{
-		"OnPass" "b17_sfx,PlaySound,,5,-1"
+		"OnPass" "b17_sfx,PlaySound,,0.25,-1"
 	}
 	"origin" "-1024 3336 -3328"
 	editor
@@ -129791,8 +129791,8 @@ entity
 	"classname" "path_track"
 	"angles" "0 0 0"
 	"orientationtype" "1"
-	"target" "b17track4"
-	"targetname" "b17track3"
+	"target" "b17track04"
+	"targetname" "b17track03"
 	"origin" "-1024 4992 -3200"
 	editor
 	{
@@ -129809,8 +129809,8 @@ entity
 	"classname" "path_track"
 	"angles" "0 0 0"
 	"orientationtype" "1"
-	"target" "b17track5"
-	"targetname" "b17track4"
+	"target" "b17track05"
+	"targetname" "b17track04"
 	"origin" "-1024 6912 -3584"
 	editor
 	{
@@ -129827,8 +129827,8 @@ entity
 	"classname" "path_track"
 	"angles" "0 0 0"
 	"orientationtype" "1"
-	"target" "b17track00"
-	"targetname" "b17track5"
+	"target" "b17track06"
+	"targetname" "b17track05"
 	"origin" "-1024 7040 -3712"
 	editor
 	{
@@ -146992,6 +146992,186 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -14768]"
+	}
+}
+entity
+{
+	"id" "119359"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track07"
+	"targetname" "b17track06"
+	"origin" "1792 2560 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119380"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track08"
+	"targetname" "b17track07"
+	"origin" "-3584 3840 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119440"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track09"
+	"targetname" "b17track08"
+	"origin" "1792 5120 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119500"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track10"
+	"targetname" "b17track09"
+	"origin" "-2816 5888 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119550"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track11"
+	"targetname" "b17track10"
+	"origin" "512 1792 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119577"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track12"
+	"targetname" "b17track11"
+	"origin" "1536 4096 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119633"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track13"
+	"targetname" "b17track12"
+	"origin" "-2816 1792 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119663"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track14"
+	"targetname" "b17track13"
+	"origin" "-3328 5120 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "119679"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"radius" "0"
+	"spawnflags" "0"
+	"speed" "0"
+	"target" "b17track00"
+	"targetname" "b17track14"
+	"origin" "768 5888 -3712"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 cameras
