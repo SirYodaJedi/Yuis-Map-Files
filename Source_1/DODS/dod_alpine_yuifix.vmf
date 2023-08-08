@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "877"
+	"mapversion" "879"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,8 +50,9 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "877"
+	"mapversion" "879"
 	"classname" "worldspawn"
+	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
@@ -129767,8 +129768,13 @@ entity
 	"classname" "path_track"
 	"angles" "0 0 0"
 	"orientationtype" "1"
+	"spawnflags" "0"
 	"target" "b17track3"
 	"targetname" "b17track2"
+	connections
+	{
+		"OnPass" "b17_sfx,PlaySound,,5,-1"
+	}
 	"origin" "-1024 3336 -3328"
 	editor
 	{
@@ -146955,6 +146961,37 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "117681"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "Ambient.B17FlyBy"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "4992"
+	"spawnflags" "48"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "b17_sfx"
+	"volstart" "0"
+	"origin" "32 0 1680"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -14768]"
 	}
 }
 cameras
