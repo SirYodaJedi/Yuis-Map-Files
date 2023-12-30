@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "7"
+	"mapversion" "8"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "7"
+	"mapversion" "8"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -44,7 +44,7 @@ entity
 	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
+	"model" "models/mapmodels/barbed_wire/0_vertexlit_xtra.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
