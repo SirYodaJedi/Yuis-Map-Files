@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "894"
+	"mapversion" "895"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "894"
+	"mapversion" "895"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -23084,7 +23084,7 @@ world
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "100 0 0 0 0"
 				}
 				triangle_tags
 				{
@@ -23114,10 +23114,10 @@ world
 		{
 			"id" "181"
 			"plane" "(1664 1024 8) (1344 -384 200) (1312 -384 192)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0.945354 -0.181414 0.270913 -69] 0.38"
-			"vaxis" "[-0.189579 -0.981857 0.00404834 353] 0.38"
-			"rotation" "0"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.878479 -0.397634 0.26488 -73] 0.38"
+			"vaxis" "[-0.397378 -0.915883 -0.0569976 488] 0.38"
+			"rotation" "-13"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 			dispinfo
@@ -23161,11 +23161,11 @@ world
 				}
 				alphas
 				{
-					"row0" "255 255 255 255 255"
-					"row1" "255 255 255 255 255"
-					"row2" "0 130 0 0 255"
-					"row3" "0 0 30 255 255"
-					"row4" "255 255 255 255 255"
+					"row0" "0 0 0 0 0"
+					"row1" "0 0 0 0 0"
+					"row2" "255 125 255 255 0"
+					"row3" "255 255 225 0 0"
+					"row4" "0 0 0 0 0"
 				}
 				triangle_tags
 				{
@@ -23184,10 +23184,10 @@ world
 		{
 			"id" "182"
 			"plane" "(1888 1024 0) (1568 -384 192) (1536 -384 200)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0.944267 -0.247677 -0.216831 139.658] 0.38"
-			"vaxis" "[-0.252872 -0.967492 0.00390535 93.4407] 0.38"
-			"rotation" "0"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.863182 -0.458967 -0.210395 -73] 0.38"
+			"vaxis" "[-0.458805 -0.88698 0.0525816 488] 0.38"
+			"rotation" "-13"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 			dispinfo
@@ -74013,7 +74013,7 @@ world
 		{
 			"id" "8842"
 			"plane" "(-2560 3840 -3560) (-1536 3840 -3560) (-1536 3864 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74024,7 +74024,7 @@ world
 		{
 			"id" "8843"
 			"plane" "(-2560 3864 -3559) (-2560 3840 -3559) (-2560 3840 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74035,7 +74035,7 @@ world
 		{
 			"id" "8844"
 			"plane" "(-1536 3864 -3560) (-1536 3840 -3560) (-1536 3840 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74078,7 +74078,7 @@ world
 		{
 			"id" "8847"
 			"plane" "(-2560 3840 -3536) (-1536 3840 -3536) (-1536 3816 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74089,7 +74089,7 @@ world
 		{
 			"id" "8848"
 			"plane" "(-2560 3816 -3559) (-1536 3816 -3559) (-1536 3840 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74100,7 +74100,7 @@ world
 		{
 			"id" "8849"
 			"plane" "(-2560 3840 -3536) (-2560 3816 -3536) (-2560 3816 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74111,7 +74111,7 @@ world
 		{
 			"id" "8850"
 			"plane" "(-1536 3840 -3559) (-1536 3816 -3559) (-1536 3816 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74192,7 +74192,7 @@ world
 		{
 			"id" "8852"
 			"plane" "(-1536 3816 -3559) (-2560 3816 -3559) (-2560 3816 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74213,7 +74213,7 @@ world
 		{
 			"id" "8853"
 			"plane" "(-2560 3888 -3536) (-1536 3888 -3536) (-1536 3864 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74224,7 +74224,7 @@ world
 		{
 			"id" "8854"
 			"plane" "(-2560 3864 -3559) (-1536 3864 -3559) (-1536 3888 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74235,7 +74235,7 @@ world
 		{
 			"id" "8855"
 			"plane" "(-2560 3888 -3536) (-2560 3864 -3536) (-2560 3864 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74246,7 +74246,7 @@ world
 		{
 			"id" "8856"
 			"plane" "(-1536 3888 -3559) (-1536 3864 -3559) (-1536 3864 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74257,7 +74257,7 @@ world
 		{
 			"id" "8857"
 			"plane" "(-1536 3888 -3536) (-2560 3888 -3536) (-2560 3888 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74348,7 +74348,7 @@ world
 		{
 			"id" "8859"
 			"plane" "(-2560 3864 -3512) (-1536 3864 -3512) (-1536 3840 -3512)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74429,7 +74429,7 @@ world
 		{
 			"id" "8861"
 			"plane" "(-2560 3864 -3512) (-2560 3840 -3512) (-2560 3840 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74440,7 +74440,7 @@ world
 		{
 			"id" "8862"
 			"plane" "(-1536 3864 -3536) (-1536 3840 -3536) (-1536 3840 -3512)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74451,7 +74451,7 @@ world
 		{
 			"id" "8863"
 			"plane" "(-1536 3864 -3512) (-2560 3864 -3512) (-2560 3864 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74462,7 +74462,7 @@ world
 		{
 			"id" "8864"
 			"plane" "(-1536 3840 -3536) (-2560 3840 -3536) (-2560 3840 -3512)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74483,7 +74483,7 @@ world
 		{
 			"id" "8865"
 			"plane" "(-2576 3864 -3536) (-2560 3864 -3536) (-2560 3840 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74494,7 +74494,7 @@ world
 		{
 			"id" "8866"
 			"plane" "(-2576 3840 -3560) (-2560 3840 -3560) (-2560 3864 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74505,7 +74505,7 @@ world
 		{
 			"id" "8867"
 			"plane" "(-2576 3864 -3536) (-2576 3840 -3536) (-2576 3840 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74586,7 +74586,7 @@ world
 		{
 			"id" "8869"
 			"plane" "(-2560 3864 -3536) (-2576 3864 -3536) (-2576 3864 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74597,7 +74597,7 @@ world
 		{
 			"id" "8870"
 			"plane" "(-2560 3840 -3560) (-2576 3840 -3560) (-2576 3840 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
+			"material" "NATURE/ALPINE_RAILROAD"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98690,9 +98690,9 @@ entity
 				distances
 				{
 					"row0" "0 0 0 0 0"
-					"row1" "0 0 0 0 0"
-					"row2" "0 0 0 0 0"
-					"row3" "0 0 0 0 0"
+					"row1" "0 0 0 0 1e-005"
+					"row2" "0 0 0 0 1e-005"
+					"row3" "0 0 0 0 1e-005"
 					"row4" "0 0 0 0 0"
 				}
 				offsets
@@ -98705,11 +98705,11 @@ entity
 				}
 				offset_normals
 				{
-					"row0" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row1" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row2" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row3" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row4" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row0" "0 0 1 0 0 1 0 0 1 0 0 1 0.121268 0 0.985071"
+					"row1" "0 0 1 0 0 1 0 0 1 0 0 1 0.122183 0 0.992508"
+					"row2" "0 0 1 0 0 1 0 0 1 0 0 1 0.122183 0 0.992508"
+					"row3" "0 0 1 0 0 1 0 0 1 0 0 1 0.122183 0 0.992508"
+					"row4" "0 0 1 0 0 1 0 0 1 0 0 1 0.121268 0 0.985071"
 				}
 				alphas
 				{
@@ -98717,7 +98717,7 @@ entity
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "175 0 0 0 252.5"
 				}
 				triangle_tags
 				{
@@ -98747,8 +98747,8 @@ entity
 		{
 			"id" "175"
 			"plane" "(1632 1536 0) (1664 1536 8) (1664 1024 8)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0.970142 0 0.242536 -214.019] 0.375"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.970142 0 0.242536 -341] 0.375"
 			"vaxis" "[0 -1 0 256] 0.375"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -98798,7 +98798,7 @@ entity
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "0 0 0 255 175"
 				}
 				triangle_tags
 				{
@@ -98817,8 +98817,8 @@ entity
 		{
 			"id" "176"
 			"plane" "(1888 1024 0) (1856 1024 8) (1856 1536 8)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0.970142 0 -0.242536 -188.383] 0.375"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.970142 0 -0.242536 -341] 0.375"
 			"vaxis" "[0 -1 0 256] 0.375"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -98841,9 +98841,9 @@ entity
 				distances
 				{
 					"row0" "0 0 0 0 0"
-					"row1" "0 0 0 0 0"
-					"row2" "0 0 0 0 0"
-					"row3" "0 0 0 0 0"
+					"row1" "1e-005 0 0 0 0"
+					"row2" "1e-005 0 0 0 0"
+					"row3" "1e-005 0 0 0 0"
 					"row4" "0 0 0 0 0"
 				}
 				offsets
@@ -98856,11 +98856,11 @@ entity
 				}
 				offset_normals
 				{
-					"row0" "0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
-					"row1" "0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
-					"row2" "0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
-					"row3" "0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
-					"row4" "0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
+					"row0" "0.121268 0 0.985071 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
+					"row1" "0.122183 0 0.992508 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
+					"row2" "0.122183 0 0.992508 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
+					"row3" "0.122183 0 0.992508 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
+					"row4" "0.121268 0 0.985071 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142 0.242536 -0 0.970142"
 				}
 				alphas
 				{
@@ -98868,7 +98868,7 @@ entity
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "252.5 255 250 175 0"
 				}
 				triangle_tags
 				{
@@ -101139,10 +101139,10 @@ entity
 		{
 			"id" "896"
 			"plane" "(-768 -1872 200) (-1248 -1872 200) (-1248 -1856 192)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0 -0.894427 0.447214 7.26478] 0.38"
-			"vaxis" "[-1 0 0 88] 0.38"
-			"rotation" "0"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[-1 0 0 -273] 0.38"
+			"vaxis" "[0 0.894427 -0.447214 88] 0.38"
+			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 			dispinfo
@@ -101209,10 +101209,10 @@ entity
 		{
 			"id" "895"
 			"plane" "(-1248 -2032 200) (-768 -2032 200) (-768 -2048 192)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0 -0.894427 -0.447214 19.3583] 0.38"
-			"vaxis" "[-1 0 0 88] 0.38"
-			"rotation" "0"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[-1 0 0 -273] 0.38"
+			"vaxis" "[0 0.894427 0.447214 88] 0.38"
+			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 			dispinfo
@@ -101392,10 +101392,10 @@ entity
 		{
 			"id" "1503"
 			"plane" "(-768 -1872 200) (-768 -1856 192) (-128 -1840 192)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0 -0.894427 0.447214 7.26478] 0.38"
-			"vaxis" "[-1 0 0 88] 0.38"
-			"rotation" "0"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[-1 0 0 -273] 0.38"
+			"vaxis" "[0 0.894427 -0.447214 88] 0.38"
+			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 			dispinfo
@@ -101462,10 +101462,10 @@ entity
 		{
 			"id" "1504"
 			"plane" "(-128 -2048 200) (-128 -2064 192) (-768 -2048 192)"
-			"material" "NATURE/GRAVELFLOOR002A_BUMP"
-			"uaxis" "[0 -0.894427 -0.447214 19.3583] 0.38"
-			"vaxis" "[-1 0 0 88] 0.38"
-			"rotation" "0"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[-1 0 0 -273] 0.38"
+			"vaxis" "[0 0.894427 0.447214 88] 0.38"
+			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 			dispinfo
@@ -107597,7 +107597,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -118826,7 +118826,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -118905,7 +118905,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -118984,7 +118984,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -119204,7 +119204,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -119283,7 +119283,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -119763,7 +119763,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -119842,7 +119842,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -119921,7 +119921,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -120000,7 +120000,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -120302,7 +120302,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -120381,7 +120381,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122039,7 +122039,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122118,7 +122118,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122197,7 +122197,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122276,7 +122276,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122399,7 +122399,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122571,7 +122571,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -122719,7 +122719,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -128255,7 +128255,7 @@ entity
 				}
 				alphas
 				{
-					"row0" "0 0 0 0 0"
+					"row0" "250 0 0 0 225"
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
@@ -128289,9 +128289,9 @@ entity
 		{
 			"id" "2986"
 			"plane" "(1344 3712 224) (1408 3712 232) (1408 3584 216)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
-			"uaxis" "[0.992395 -0.0152678 0.122143 -66.5476] 0.375"
-			"vaxis" "[-0.0152678 -1 0 142.08] 0.375"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.992395 -0.0152678 0.122143 -171] 0.375"
+			"vaxis" "[-0.0152678 -1 0 85] 0.375"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -128336,7 +128336,7 @@ entity
 				}
 				alphas
 				{
-					"row0" "0 0 0 0 0"
+					"row0" "0 0 0 0 250"
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
@@ -128359,9 +128359,9 @@ entity
 		{
 			"id" "2987"
 			"plane" "(1600 3712 232) (1664 3712 224) (1664 3584 208)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
-			"uaxis" "[0.992395 0.0152678 -0.122143 -213.785] 0.375"
-			"vaxis" "[0.0152678 -1 0 19.6112] 0.375"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.992395 0.0152678 -0.122143 -171] 0.375"
+			"vaxis" "[0.0152678 -1 0 85] 0.375"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -128406,7 +128406,7 @@ entity
 				}
 				alphas
 				{
-					"row0" "0 0 0 0 0"
+					"row0" "225 0 0 0 0"
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
@@ -128512,7 +128512,7 @@ entity
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "200 0 0 0 255"
 				}
 				triangle_tags
 				{
@@ -128542,9 +128542,9 @@ entity
 		{
 			"id" "2107"
 			"plane" "(1408 3712 232) (1344 3712 224) (1344 4416 224)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
-			"uaxis" "[0.992278 0 0.124037 -218.409] 0.375"
-			"vaxis" "[0 -1 0 85.333] 0.375"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.992278 0 0.124037 -171] 0.375"
+			"vaxis" "[0 -1 0 85] 0.375"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -128593,7 +128593,7 @@ entity
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "0 0 0 200 200"
 				}
 				triangle_tags
 				{
@@ -128612,9 +128612,9 @@ entity
 		{
 			"id" "2108"
 			"plane" "(1664 3712 224) (1600 3712 232) (1600 4416 232)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
-			"uaxis" "[0.992278 0 -0.124037 -60.9809] 0.375"
-			"vaxis" "[0 -1 0 85.333] 0.375"
+			"material" "NATURE/ALPINE_RAILROAD"
+			"uaxis" "[0.992278 0 -0.124037 -171] 0.375"
+			"vaxis" "[0 -1 0 85] 0.375"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -128663,7 +128663,7 @@ entity
 					"row1" "0 0 0 0 0"
 					"row2" "0 0 0 0 0"
 					"row3" "0 0 0 0 0"
-					"row4" "0 0 0 0 0"
+					"row4" "255 175 0 0 0"
 				}
 				triangle_tags
 				{
@@ -130416,7 +130416,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -130495,7 +130495,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -130574,7 +130574,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -130653,7 +130653,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -130809,7 +130809,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -130888,7 +130888,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -130989,7 +130989,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131068,7 +131068,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131169,7 +131169,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131270,7 +131270,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131371,7 +131371,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131450,7 +131450,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131804,7 +131804,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -131910,7 +131910,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132016,7 +132016,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132122,7 +132122,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132228,7 +132228,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132334,7 +132334,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132440,7 +132440,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132546,7 +132546,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132652,7 +132652,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132758,7 +132758,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -132864,7 +132864,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -134534,7 +134534,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -134640,7 +134640,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -134746,7 +134746,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -134852,7 +134852,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -139445,7 +139445,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -139540,7 +139540,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -139635,7 +139635,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -139730,7 +139730,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145423,7 +145423,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145519,7 +145519,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145615,7 +145615,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145711,7 +145711,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145807,7 +145807,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145903,7 +145903,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -145999,7 +145999,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -146095,7 +146095,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -146191,7 +146191,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -146287,7 +146287,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -146383,7 +146383,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -146479,7 +146479,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -146575,7 +146575,7 @@ hidden
 				{
 					"color" "0 255 255"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148110,7 +148110,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148189,7 +148189,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148287,7 +148287,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148385,7 +148385,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148464,7 +148464,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148543,7 +148543,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148622,7 +148622,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148756,7 +148756,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148854,7 +148854,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -148952,7 +148952,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149050,7 +149050,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149148,7 +149148,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149246,7 +149246,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149344,7 +149344,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149442,7 +149442,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149540,7 +149540,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149638,7 +149638,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149736,7 +149736,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149834,7 +149834,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -149932,7 +149932,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -150030,7 +150030,7 @@ hidden
 				{
 					"color" "220 30 220"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
@@ -150124,7 +150124,7 @@ hidden
 				{
 					"color" "180 180 0"
 					"visgroupshown" "1"
-					"visgroupautoshown" "0"
+					"visgroupautoshown" "1"
 				}
 			}
 		}
