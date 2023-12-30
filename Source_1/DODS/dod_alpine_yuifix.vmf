@@ -23114,7 +23114,7 @@ world
 		{
 			"id" "181"
 			"plane" "(1664 1024 8) (1344 -384 200) (1312 -384 192)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0.945354 -0.181414 0.270913 -69] 0.38"
 			"vaxis" "[-0.189579 -0.981857 0.00404834 353] 0.38"
 			"rotation" "0"
@@ -23184,7 +23184,7 @@ world
 		{
 			"id" "182"
 			"plane" "(1888 1024 0) (1568 -384 192) (1536 -384 200)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0.944267 -0.247677 -0.216831 139.658] 0.38"
 			"vaxis" "[-0.252872 -0.967492 0.00390535 93.4407] 0.38"
 			"rotation" "0"
@@ -74013,7 +74013,7 @@ world
 		{
 			"id" "8842"
 			"plane" "(-2560 3840 -3560) (-1536 3840 -3560) (-1536 3864 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74024,7 +74024,7 @@ world
 		{
 			"id" "8843"
 			"plane" "(-2560 3864 -3559) (-2560 3840 -3559) (-2560 3840 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74035,7 +74035,7 @@ world
 		{
 			"id" "8844"
 			"plane" "(-1536 3864 -3560) (-1536 3840 -3560) (-1536 3840 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74078,7 +74078,7 @@ world
 		{
 			"id" "8847"
 			"plane" "(-2560 3840 -3536) (-1536 3840 -3536) (-1536 3816 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74089,7 +74089,7 @@ world
 		{
 			"id" "8848"
 			"plane" "(-2560 3816 -3559) (-1536 3816 -3559) (-1536 3840 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74100,7 +74100,7 @@ world
 		{
 			"id" "8849"
 			"plane" "(-2560 3840 -3536) (-2560 3816 -3536) (-2560 3816 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74111,7 +74111,7 @@ world
 		{
 			"id" "8850"
 			"plane" "(-1536 3840 -3559) (-1536 3816 -3559) (-1536 3816 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74192,7 +74192,7 @@ world
 		{
 			"id" "8852"
 			"plane" "(-1536 3816 -3559) (-2560 3816 -3559) (-2560 3816 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74213,7 +74213,7 @@ world
 		{
 			"id" "8853"
 			"plane" "(-2560 3888 -3536) (-1536 3888 -3536) (-1536 3864 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74224,7 +74224,7 @@ world
 		{
 			"id" "8854"
 			"plane" "(-2560 3864 -3559) (-1536 3864 -3559) (-1536 3888 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74235,7 +74235,7 @@ world
 		{
 			"id" "8855"
 			"plane" "(-2560 3888 -3536) (-2560 3864 -3536) (-2560 3864 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74246,7 +74246,7 @@ world
 		{
 			"id" "8856"
 			"plane" "(-1536 3888 -3559) (-1536 3864 -3559) (-1536 3864 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74257,7 +74257,7 @@ world
 		{
 			"id" "8857"
 			"plane" "(-1536 3888 -3536) (-2560 3888 -3536) (-2560 3888 -3559)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74348,7 +74348,7 @@ world
 		{
 			"id" "8859"
 			"plane" "(-2560 3864 -3512) (-1536 3864 -3512) (-1536 3840 -3512)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74429,7 +74429,7 @@ world
 		{
 			"id" "8861"
 			"plane" "(-2560 3864 -3512) (-2560 3840 -3512) (-2560 3840 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74440,7 +74440,7 @@ world
 		{
 			"id" "8862"
 			"plane" "(-1536 3864 -3536) (-1536 3840 -3536) (-1536 3840 -3512)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74451,7 +74451,7 @@ world
 		{
 			"id" "8863"
 			"plane" "(-1536 3864 -3512) (-2560 3864 -3512) (-2560 3864 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74462,7 +74462,7 @@ world
 		{
 			"id" "8864"
 			"plane" "(-1536 3840 -3536) (-2560 3840 -3536) (-2560 3840 -3512)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74483,7 +74483,7 @@ world
 		{
 			"id" "8865"
 			"plane" "(-2576 3864 -3536) (-2560 3864 -3536) (-2560 3840 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74494,7 +74494,7 @@ world
 		{
 			"id" "8866"
 			"plane" "(-2576 3840 -3560) (-2560 3840 -3560) (-2560 3864 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -74505,7 +74505,7 @@ world
 		{
 			"id" "8867"
 			"plane" "(-2576 3864 -3536) (-2576 3840 -3536) (-2576 3840 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74586,7 +74586,7 @@ world
 		{
 			"id" "8869"
 			"plane" "(-2560 3864 -3536) (-2576 3864 -3536) (-2576 3864 -3560)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -74597,7 +74597,7 @@ world
 		{
 			"id" "8870"
 			"plane" "(-2560 3840 -3560) (-2576 3840 -3560) (-2576 3840 -3536)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -98667,7 +98667,7 @@ entity
 		{
 			"id" "175"
 			"plane" "(1632 1536 0) (1664 1536 8) (1664 1024 8)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0.970142 0 0.242536 -214.019] 0.375"
 			"vaxis" "[0 -1 0 256] 0.375"
 			"rotation" "0"
@@ -98678,7 +98678,7 @@ entity
 		{
 			"id" "176"
 			"plane" "(1888 1024 0) (1856 1024 8) (1856 1536 8)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0.970142 0 -0.242536 -188.383] 0.375"
 			"vaxis" "[0 -1 0 256] 0.375"
 			"rotation" "0"
@@ -100872,7 +100872,7 @@ entity
 		{
 			"id" "896"
 			"plane" "(-768 -1872 200) (-1248 -1872 200) (-1248 -1856 192)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 -0.894427 0.447214 7.26478] 0.38"
 			"vaxis" "[-1 0 0 88] 0.38"
 			"rotation" "0"
@@ -100883,7 +100883,7 @@ entity
 		{
 			"id" "895"
 			"plane" "(-1248 -2032 200) (-768 -2032 200) (-768 -2048 192)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 -0.894427 -0.447214 19.3583] 0.38"
 			"vaxis" "[-1 0 0 88] 0.38"
 			"rotation" "0"
@@ -100948,7 +100948,7 @@ entity
 		{
 			"id" "1503"
 			"plane" "(-768 -1872 200) (-768 -1856 192) (-128 -1840 192)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 -0.894427 0.447214 7.26478] 0.38"
 			"vaxis" "[-1 0 0 88] 0.38"
 			"rotation" "0"
@@ -100959,7 +100959,7 @@ entity
 		{
 			"id" "1504"
 			"plane" "(-128 -2048 200) (-128 -2064 192) (-768 -2048 192)"
-			"material" "NATURE/GRAVELFLOOR002A"
+			"material" "NATURE/GRAVELFLOOR002A_BUMP"
 			"uaxis" "[0 -0.894427 -0.447214 19.3583] 0.38"
 			"vaxis" "[-1 0 0 88] 0.38"
 			"rotation" "0"
@@ -126988,7 +126988,7 @@ entity
 		{
 			"id" "2986"
 			"plane" "(1344 3712 224) (1408 3712 232) (1408 3584 216)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRICTION"
+			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
 			"uaxis" "[0.992395 -0.0152678 0.122143 -66.5476] 0.375"
 			"vaxis" "[-0.0152678 -1 0 142.08] 0.375"
 			"rotation" "0"
@@ -126999,7 +126999,7 @@ entity
 		{
 			"id" "2987"
 			"plane" "(1600 3712 232) (1664 3712 224) (1664 3584 208)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRICTION"
+			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
 			"uaxis" "[0.992395 0.0152678 -0.122143 -213.785] 0.375"
 			"vaxis" "[0.0152678 -1 0 19.6112] 0.375"
 			"rotation" "0"
@@ -127064,7 +127064,7 @@ entity
 		{
 			"id" "2107"
 			"plane" "(1408 3712 232) (1344 3712 224) (1344 4416 224)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRICTION"
+			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
 			"uaxis" "[0.992278 0 0.124037 -218.409] 0.375"
 			"vaxis" "[0 -1 0 85.333] 0.375"
 			"rotation" "0"
@@ -127075,7 +127075,7 @@ entity
 		{
 			"id" "2108"
 			"plane" "(1664 3712 224) (1600 3712 232) (1600 4416 232)"
-			"material" "NATURE/GRAVELFLOOR002A_LOWFRICTION"
+			"material" "NATURE/GRAVELFLOOR002A_LOWFRIC_BUMP"
 			"uaxis" "[0.992278 0 -0.124037 -60.9809] 0.375"
 			"vaxis" "[0 -1 0 85.333] 0.375"
 			"rotation" "0"
