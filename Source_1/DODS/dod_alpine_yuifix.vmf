@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "918"
+	"mapversion" "919"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,13 +44,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "1"
-	"nGridSpacing" "4"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "918"
+	"mapversion" "919"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -142445,13 +142445,13 @@ entity
 {
 	"id" "89853"
 	"classname" "info_no_dynamic_shadow"
-	"sides" "2589 4649"
-	"origin" "231 433.304 450.532"
+	"origin" "229 432 450"
 	editor
 	{
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "disabled due to structural renovation which might change brush IDs; contained brush sides 2589 and 4649"
 		"logicalpos" "[4500 -10768]"
 	}
 }
