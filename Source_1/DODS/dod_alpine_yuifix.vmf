@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "919"
+	"mapversion" "922"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "919"
+	"mapversion" "922"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -113843,7 +113843,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "-1141.05 92 231.878"
 	editor
@@ -113863,7 +113863,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "-1144 -24 212"
 	editor
@@ -113883,7 +113883,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01b.mdl"
+	"model" "models/props_wasteland/rockgranite01b_smooth.mdl"
 	"solid" "6"
 	"origin" "-840 852 260"
 	editor
@@ -122451,7 +122451,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "-1632 480 48"
 	editor
@@ -122471,7 +122471,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff07b.mdl"
+	"model" "models/props_wasteland/rockcliff07b_smooth.mdl"
 	"solid" "6"
 	"origin" "-1664 544 -16"
 	editor
@@ -132194,7 +132194,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "364 -556 512"
 	editor
@@ -132214,7 +132214,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "528 -752 464"
 	editor
@@ -132234,7 +132234,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "432 -224 512"
 	editor
@@ -132276,7 +132276,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff07b.mdl"
+	"model" "models/props_wasteland/rockcliff07b_smooth.mdl"
 	"solid" "6"
 	"origin" "960 720 416"
 	editor
@@ -132296,7 +132296,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff01b.mdl"
+	"model" "models/props_wasteland/rockcliff01b_smooth.mdl"
 	"solid" "6"
 	"origin" "1024 704 416"
 	editor
@@ -132316,7 +132316,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "688 512 464"
 	editor
@@ -132930,7 +132930,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff07b.mdl"
+	"model" "models/props_wasteland/rockcliff07b_smooth.mdl"
 	"solid" "6"
 	"origin" "1296 -200 224"
 	editor
@@ -132950,7 +132950,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "1712 -100 192"
 	editor
@@ -133848,7 +133848,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "604 2000 252"
 	editor
@@ -133868,7 +133868,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02b.mdl"
+	"model" "models/props_wasteland/rockgranite02b_smooth.mdl"
 	"solid" "6"
 	"origin" "564 1984 284"
 	editor
@@ -133888,7 +133888,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "504 1632 252"
 	editor
@@ -133908,7 +133908,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "676 1504 248"
 	editor
@@ -133928,7 +133928,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff01b.mdl"
+	"model" "models/props_wasteland/rockcliff01b_smooth.mdl"
 	"solid" "6"
 	"origin" "116 1752 316"
 	editor
@@ -133948,7 +133948,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02b.mdl"
+	"model" "models/props_wasteland/rockgranite02b_smooth.mdl"
 	"solid" "6"
 	"origin" "104 1804 264"
 	editor
@@ -133968,7 +133968,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02c.mdl"
+	"model" "models/props_wasteland/rockgranite02c_smooth.mdl"
 	"solid" "6"
 	"origin" "264 2212 268"
 	editor
@@ -133988,7 +133988,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff01c.mdl"
+	"model" "models/props_wasteland/rockcliff01c_smooth.mdl"
 	"solid" "6"
 	"origin" "-164.205 1318.68 316"
 	editor
@@ -134008,7 +134008,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff06i.mdl"
+	"model" "models/props_wasteland/rockcliff06i_smooth.mdl"
 	"solid" "6"
 	"origin" "-68.2046 1286.68 316"
 	editor
@@ -134028,7 +134028,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite01a.mdl"
+	"model" "models/props_wasteland/rockgranite01a_smooth.mdl"
 	"solid" "6"
 	"origin" "-176.205 1194.68 256"
 	editor
@@ -137544,7 +137544,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockcliff01b.mdl"
+	"model" "models/props_wasteland/rockcliff01b_smooth.mdl"
 	"solid" "6"
 	"origin" "321.408 -955.393 364"
 	editor
@@ -137586,7 +137586,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "396 -1188 352"
 	editor
@@ -138068,7 +138068,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02c.mdl"
+	"model" "models/props_wasteland/rockgranite02c_smooth.mdl"
 	"solid" "6"
 	"origin" "1404 2680 136"
 	editor
@@ -138088,7 +138088,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "1464 2644 136"
 	editor
@@ -138318,7 +138318,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/rockgranite02a.mdl"
+	"model" "models/props_wasteland/rockgranite02a_smooth.mdl"
 	"solid" "6"
 	"origin" "1360 72 156"
 	editor
@@ -139967,9 +139967,9 @@ entity
 		{
 			"id" "9912"
 			"plane" "(-884 2580 124) (-888 2580 124) (-888 2584 124)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 -96] 0.25"
-			"vaxis" "[0 -1 0 96] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -32] 0.25"
+			"vaxis" "[0 -1 0 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140043,9 +140043,9 @@ entity
 		{
 			"id" "9918"
 			"plane" "(-916 2580 156) (-920 2580 156) (-920 2584 156)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 32] 0.25"
-			"vaxis" "[0 -1 0 96] 0.25"
+			"vaxis" "[0 -1 0 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140119,9 +140119,9 @@ entity
 		{
 			"id" "9906"
 			"plane" "(-948 2580 188) (-952 2580 188) (-952 2584 188)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 -96] 0.25"
-			"vaxis" "[0 -1 0 96] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -32] 0.25"
+			"vaxis" "[0 -1 0 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140240,9 +140240,9 @@ entity
 		{
 			"id" "9668"
 			"plane" "(-1176 2488 188) (-1172 2484 188) (-1172 2484 192)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 64] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140772,9 +140772,9 @@ entity
 		{
 			"id" "9656"
 			"plane" "(-1132 2444 188) (-1128 2440 188) (-1128 2440 192)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 64] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140783,9 +140783,9 @@ entity
 		{
 			"id" "9655"
 			"plane" "(-1200 2368 252) (-1204 2372 252) (-1204 2372 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 64] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140935,9 +140935,9 @@ entity
 		{
 			"id" "9562"
 			"plane" "(-1248 2416 256) (-1248 2416 252) (-1200 2368 252)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 64] 0.25"
-			"vaxis" "[0 0 -1 64] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -141076,7 +141076,7 @@ entity
 		{
 			"id" "9776"
 			"plane" "(-1204 2372 252) (-1244 2412 252) (-1244 2412 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -141141,9 +141141,9 @@ entity
 		{
 			"id" "9735"
 			"plane" "(-1172 2484 188) (-1132 2444 188) (-1132 2444 192)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 -96] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -141250,7 +141250,7 @@ entity
 		{
 			"id" "9954"
 			"plane" "(-1131 2533 188) (-1128 2536 188) (-1125 2533 188)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -141326,7 +141326,7 @@ entity
 		{
 			"id" "9948"
 			"plane" "(-1176 2488 188) (-1173 2491 188) (-1170 2488 188)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -141402,9 +141402,9 @@ entity
 		{
 			"id" "9971"
 			"plane" "(-1251 2412 252) (-1248 2415 252) (-1245 2412 252)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 96] 0.25"
-			"vaxis" "[0 -1 0 -100] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 -36] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -141478,9 +141478,9 @@ entity
 		{
 			"id" "9965"
 			"plane" "(-1296 2367 252) (-1293 2370 252) (-1290 2367 252)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 96] 0.25"
-			"vaxis" "[0 -1 0 -100] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 -36] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -141631,7 +141631,7 @@ entity
 		{
 			"id" "9928"
 			"plane" "(-1092 2553 188) (-1091 2549 188) (-1095 2548 188)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -141707,9 +141707,9 @@ entity
 		{
 			"id" "9934"
 			"plane" "(-968 2584 188) (-967 2580 188) (-971 2579 188)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 -112] 0.25"
-			"vaxis" "[0 -1 0 124] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -48] 0.25"
+			"vaxis" "[0 -1 0 60] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -141819,7 +141819,7 @@ entity
 		{
 			"id" "9978"
 			"plane" "(-1400 1508 1232) (-1404 1508 1232) (-1404 1512 1232)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -141830,7 +141830,7 @@ entity
 		{
 			"id" "9979"
 			"plane" "(-1376 1536 912) (-1380 1536 912) (-1380 1532 912)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -141982,7 +141982,7 @@ entity
 		{
 			"id" "10009"
 			"plane" "(-1412 1500 1240) (-1404 1500 1240) (-1404 1508 1240)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -142047,7 +142047,7 @@ entity
 		{
 			"id" "9972"
 			"plane" "(-1412 1512 1232) (-1412 1508 1232) (-1416 1508 1232)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -142058,7 +142058,7 @@ entity
 		{
 			"id" "9973"
 			"plane" "(-1436 1532 912) (-1436 1536 912) (-1440 1536 912)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -142123,7 +142123,7 @@ entity
 		{
 			"id" "9990"
 			"plane" "(-1416 1500 1232) (-1412 1500 1232) (-1412 1496 1232)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
@@ -142134,7 +142134,7 @@ entity
 		{
 			"id" "9991"
 			"plane" "(-1440 1472 912) (-1436 1472 912) (-1436 1476 912)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
@@ -142199,7 +142199,7 @@ entity
 		{
 			"id" "9984"
 			"plane" "(-1404 1496 1232) (-1404 1500 1232) (-1400 1500 1232)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
@@ -142210,7 +142210,7 @@ entity
 		{
 			"id" "9985"
 			"plane" "(-1380 1476 912) (-1380 1472 912) (-1376 1472 912)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
@@ -142364,8 +142364,8 @@ entity
 		{
 			"id" "10014"
 			"plane" "(-1264 1684 704) (-1260 1684 704) (-1260 1680 704)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 -64] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -48] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -142375,8 +142375,8 @@ entity
 		{
 			"id" "10015"
 			"plane" "(-1264 1680 479.837) (-1260 1680 479.837) (-1260 1684 479.837)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[1 0 0 -64] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -48] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
