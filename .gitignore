@@ -33,6 +33,7 @@
 *.jmx
 
 ## Can be generated from other files
+*.json
 # Source 1 leaks and portal files
 *.lin
 *.prt
@@ -59,6 +60,7 @@
 ## 3D models
 # Generic formats/extentions
 *.obj
+*.mtl
 *.fbx
 *.mdl
 # Blender
@@ -94,12 +96,17 @@
 ## Personally identifying information
 # LOG - can have usernames
 *.log
+*log.txt
 
 ## Just no
 *.exe
 *.EXE
 *.dll
 *.DLL
+*.bat
+*.BAT
+*.sh
+*.SH
 
 # == Temporary blacklist ==
 # anything that's not ready to be public
