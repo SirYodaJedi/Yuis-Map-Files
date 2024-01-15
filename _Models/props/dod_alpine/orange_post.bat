@@ -1,0 +1,1 @@
+"D:\Applications\IdTech 2 Modding\ericw-tools\latest\qbsp.exe" -wadpath . -nosubdivide -objexport orange_post.map
