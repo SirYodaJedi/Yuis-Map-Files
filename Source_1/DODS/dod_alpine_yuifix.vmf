@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "927"
+	"mapversion" "930"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,13 +44,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "1"
-	"nGridSpacing" "1"
+	"nGridSpacing" "4"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "927"
+	"mapversion" "930"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -118449,13 +118449,14 @@ entity
 {
 	"id" "38100"
 	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disablereceiveshadows" "1"
+	"disableshadows" "1"
 	"origin" "-375 448 576"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
+	"targetname" "window_texlights"
 	solid
 	{
 		"id" "38037"
@@ -118803,13 +118804,14 @@ entity
 {
 	"id" "38520"
 	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disablereceiveshadows" "1"
+	"disableshadows" "1"
 	"origin" "-224 265 448"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
+	"targetname" "window_texlights"
 	solid
 	{
 		"id" "38444"
@@ -119314,13 +119316,14 @@ entity
 {
 	"id" "39578"
 	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disablereceiveshadows" "1"
+	"disableshadows" "1"
 	"origin" "124 448 576"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
+	"targetname" "window_texlights"
 	solid
 	{
 		"id" "39148"
@@ -119817,13 +119820,14 @@ entity
 {
 	"id" "39953"
 	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disablereceiveshadows" "1"
+	"disableshadows" "1"
 	"origin" "-64 448 700"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
+	"targetname" "window_texlights"
 	solid
 	{
 		"id" "39894"
@@ -121509,13 +121513,14 @@ entity
 {
 	"id" "42847"
 	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disablereceiveshadows" "1"
+	"disableshadows" "1"
 	"origin" "1928 864 100"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
+	"targetname" "window_texlights"
 	solid
 	{
 		"id" "42775"
@@ -148589,6 +148594,43 @@ entity
 		"visgroupautoshown" "1"
 		"comments" "Unnecessary; probably was used for lining up the skyroom to the rest of the level."
 		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "134991"
+	"classname" "env_tonemap_controller"
+	"targetname" "hdr_tonemapper"
+	"origin" "0 0 1920"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 15000]"
+	}
+}
+entity
+{
+	"id" "135077"
+	"classname" "logic_auto"
+	"spawnflags" "0"
+	connections
+	{
+		"OnMapSpawn" "window_texlights,Kill,,0.01,-1"
+		"OnMultiNewRound" "window_texlights,Kill,,0.01,-1"
+		"OnMapSpawn" "hdr_tonemapper,UseDefaultAutoExposure,,0.01,-1"
+		"OnMultiNewRound" "hdr_tonemapper,UseDefaultBloomScale,,0.01,-1"
+		"OnMultiNewRound" "hdr_tonemapper,UseDefaultAutoExposure,,0.01,-1"
+		"OnMapSpawn" "hdr_tonemapper,UseDefaultBloomScale,,0.01,-1"
+	}
+	"origin" "32 0 1920"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 15000]"
 	}
 }
 cameras
