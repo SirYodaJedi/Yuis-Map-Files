@@ -17998,7 +17998,7 @@ world
 		{
 			"id" "1002"
 			"plane" "(-4096 7168 -1536) (-4096 -5120 -1536) (4096 -5120 -1536)"
-			"material" "NATURE/WATER_CANALS_CHEAP001"
+			"material" "NATURE/WATER_CANALS_CHEAP001_PRETTY"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -18009,7 +18009,7 @@ world
 		{
 			"id" "1003"
 			"plane" "(4096 -5120 -1536) (-4096 -5120 -1536) (-4096 -5120 -1440)"
-			"material" "NATURE/WATER_CANALS_CHEAP001"
+			"material" "NATURE/WATER_CANALS_CHEAP001_PRETTY"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -18020,7 +18020,7 @@ world
 		{
 			"id" "1004"
 			"plane" "(-4096 7168 -1536) (4096 7168 -1536) (4096 7168 -1440)"
-			"material" "NATURE/WATER_CANALS_CHEAP001"
+			"material" "NATURE/WATER_CANALS_CHEAP001_PRETTY"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -18031,7 +18031,7 @@ world
 		{
 			"id" "1005"
 			"plane" "(-4096 -5120 -1536) (-4096 7168 -1536) (-4096 7168 -1440)"
-			"material" "NATURE/WATER_CANALS_CHEAP001"
+			"material" "NATURE/WATER_CANALS_CHEAP001_PRETTY"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -18042,7 +18042,7 @@ world
 		{
 			"id" "1006"
 			"plane" "(4096 7168 -1536) (4096 -5120 -1536) (4096 -5120 -1440)"
-			"material" "NATURE/WATER_CANALS_CHEAP001"
+			"material" "NATURE/WATER_CANALS_CHEAP001_PRETTY"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -18053,7 +18053,7 @@ world
 		{
 			"id" "1007"
 			"plane" "(-4096 -5120 -1440) (-4096 7168 -1440) (4096 7168 -1440)"
-			"material" "NATURE/WATER_CANALS_CHEAP001"
+			"material" "NATURE/WATER_CANALS_CHEAP001_PRETTY"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -100974,7 +100974,7 @@ entity
 		{
 			"id" "1875"
 			"plane" "(-2104 -2008 168) (-2104 -1896 168) (-2088 -1896 168)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -100985,7 +100985,7 @@ entity
 		{
 			"id" "1876"
 			"plane" "(-2104 -1896 152) (-2104 -2008 152) (-2088 -2008 152)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -100996,7 +100996,7 @@ entity
 		{
 			"id" "1877"
 			"plane" "(-2104 -2008 152) (-2104 -1896 152) (-2104 -1896 168)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 -32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -101007,7 +101007,7 @@ entity
 		{
 			"id" "1878"
 			"plane" "(-2088 -1896 152) (-2088 -2008 152) (-2088 -2008 168)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 -32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -101582,7 +101582,7 @@ entity
 		{
 			"id" "1637"
 			"plane" "(-2104 -2008 -16) (-2104 -1896 -16) (-2088 -1896 -16)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -101593,7 +101593,7 @@ entity
 		{
 			"id" "1636"
 			"plane" "(-2104 -1896 -32) (-2104 -2008 -32) (-2088 -2008 -32)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -101604,7 +101604,7 @@ entity
 		{
 			"id" "1635"
 			"plane" "(-2104 -2008 -32) (-2104 -1896 -32) (-2104 -1896 -16)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -101615,7 +101615,7 @@ entity
 		{
 			"id" "1634"
 			"plane" "(-2088 -1896 -32) (-2088 -2008 -32) (-2088 -2008 -16)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -104389,7 +104389,7 @@ entity
 		{
 			"id" "1898"
 			"plane" "(-2438 -1880 140) (-2118 -1880 -20) (-2118 -2024 -20)"
-			"material" "METAL/METALTRUSS011A"
+			"material" "METAL/METALTRUSS011A_A2C"
 			"uaxis" "[0 1 0 59.4287] 0.28"
 			"vaxis" "[0.894427 0 -0.447213 77.7563] 0.28"
 			"rotation" "90"
@@ -104444,7 +104444,7 @@ entity
 		{
 			"id" "1893"
 			"plane" "(-2440 -2024 136) (-2120 -2024 -24) (-2120 -1880 -24)"
-			"material" "METAL/METALTRUSS011A"
+			"material" "METAL/METALTRUSS011A_A2C"
 			"uaxis" "[0 1 0 59.4287] 0.28"
 			"vaxis" "[0.894427 0 -0.447213 77.7563] 0.28"
 			"rotation" "0"
@@ -104541,7 +104541,7 @@ entity
 		{
 			"id" "1803"
 			"plane" "(-2112 -2040 -8) (-2416 -2040 144) (-2416 -2024 144)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.807] 0.25"
 			"rotation" "90"
@@ -104552,7 +104552,7 @@ entity
 		{
 			"id" "1804"
 			"plane" "(-2120 -2024 -24) (-2424 -2024 128) (-2424 -2040 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.807] 0.25"
 			"rotation" "0"
@@ -104585,7 +104585,7 @@ entity
 		{
 			"id" "1807"
 			"plane" "(-2424 -2024 128) (-2120 -2024 -24) (-2112 -2024 -8)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.447214 0 0.894427 34.4587] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.805] 0.25"
 			"rotation" "0"
@@ -104596,7 +104596,7 @@ entity
 		{
 			"id" "1808"
 			"plane" "(-2416 -2040 144) (-2112 -2040 -8) (-2120 -2040 -24)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.447214 0 0.894427 34.4587] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.805] 0.25"
 			"rotation" "0"
@@ -104617,7 +104617,7 @@ entity
 		{
 			"id" "1869"
 			"plane" "(-2112 -1864 -8) (-2112 -1880 -8) (-2416 -1880 144)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.807] 0.25"
 			"rotation" "90"
@@ -104628,7 +104628,7 @@ entity
 		{
 			"id" "1870"
 			"plane" "(-2120 -1880 -24) (-2120 -1864 -24) (-2424 -1864 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.807] 0.25"
 			"rotation" "0"
@@ -104661,7 +104661,7 @@ entity
 		{
 			"id" "1873"
 			"plane" "(-2112 -1864 -8) (-2416 -1864 144) (-2424 -1864 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.447214 0 0.894427 34.4587] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.805] 0.25"
 			"rotation" "0"
@@ -104672,7 +104672,7 @@ entity
 		{
 			"id" "1874"
 			"plane" "(-2416 -1880 144) (-2112 -1880 -8) (-2120 -1880 -24)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.447214 0 0.894427 34.4587] 0.25"
 			"vaxis" "[0.894427 0 -0.447213 373.805] 0.25"
 			"rotation" "0"
@@ -105041,7 +105041,7 @@ entity
 		{
 			"id" "1961"
 			"plane" "(-2160 -2040 128) (-2160 -2024 128) (-2220 -2024 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.363] 0.25"
 			"rotation" "0"
@@ -105052,7 +105052,7 @@ entity
 		{
 			"id" "1962"
 			"plane" "(-2232 -2040 80) (-2232 -2024 80) (-2172 -2024 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.363] 0.25"
 			"rotation" "0"
@@ -105063,7 +105063,7 @@ entity
 		{
 			"id" "1963"
 			"plane" "(-2160 -2024 128) (-2172 -2024 140) (-2232 -2024 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 -0.707107 9.38184] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.362] 0.25"
 			"rotation" "0"
@@ -105074,7 +105074,7 @@ entity
 		{
 			"id" "1964"
 			"plane" "(-2220 -2040 68) (-2232 -2040 80) (-2172 -2040 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 0.707107 -9.38184] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.362] 0.25"
 			"rotation" "0"
@@ -105204,7 +105204,7 @@ entity
 		{
 			"id" "1974"
 			"plane" "(-2244 -2040 68) (-2244 -2024 68) (-2304 -2024 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.734] 0.25"
 			"rotation" "0"
@@ -105215,7 +105215,7 @@ entity
 		{
 			"id" "1975"
 			"plane" "(-2292 -2040 140) (-2292 -2024 140) (-2232 -2024 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.734] 0.25"
 			"rotation" "0"
@@ -105226,7 +105226,7 @@ entity
 		{
 			"id" "1976"
 			"plane" "(-2244 -2024 68) (-2232 -2024 80) (-2292 -2024 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 0.707107 8.71581] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.733] 0.25"
 			"rotation" "0"
@@ -105237,7 +105237,7 @@ entity
 		{
 			"id" "1977"
 			"plane" "(-2304 -2040 128) (-2292 -2040 140) (-2232 -2040 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 0.707107 8.71582] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.733] 0.25"
 			"rotation" "0"
@@ -105345,7 +105345,7 @@ entity
 		{
 			"id" "2026"
 			"plane" "(-2136 -2024 -174) (-2228 -2024 10) (-2228 -2040 10)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 437.344] 0.25"
 			"rotation" "0"
@@ -105356,7 +105356,7 @@ entity
 		{
 			"id" "2025"
 			"plane" "(-2120 -2040 -166) (-2212 -2040 18) (-2212 -2024 18)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 437.344] 0.25"
 			"rotation" "0"
@@ -105367,7 +105367,7 @@ entity
 		{
 			"id" "2024"
 			"plane" "(-2120 -2024 -166) (-2212 -2024 18) (-2228 -2024 10)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.894427 0 -0.447214 -13.4688] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 437.343] 0.25"
 			"rotation" "0"
@@ -105378,7 +105378,7 @@ entity
 		{
 			"id" "2023"
 			"plane" "(-2136 -2040 -174) (-2228 -2040 10) (-2212 -2040 18)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.894427 0 -0.447214 -13.4687] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 437.343] 0.25"
 			"rotation" "0"
@@ -105497,7 +105497,7 @@ entity
 		{
 			"id" "2032"
 			"plane" "(-2136 -1864 -174) (-2228 -1864 10) (-2228 -1880 10)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 437.344] 0.25"
 			"rotation" "0"
@@ -105508,7 +105508,7 @@ entity
 		{
 			"id" "2031"
 			"plane" "(-2120 -1880 -166) (-2212 -1880 18) (-2212 -1864 18)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 437.344] 0.25"
 			"rotation" "0"
@@ -105519,7 +105519,7 @@ entity
 		{
 			"id" "2030"
 			"plane" "(-2120 -1864 -166) (-2212 -1864 18) (-2228 -1864 10)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.894427 0 -0.447214 -13.4688] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 437.343] 0.25"
 			"rotation" "0"
@@ -105530,7 +105530,7 @@ entity
 		{
 			"id" "2029"
 			"plane" "(-2136 -1880 -174) (-2228 -1880 10) (-2212 -1880 18)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.894427 0 -0.447214 -13.4687] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 437.343] 0.25"
 			"rotation" "0"
@@ -105823,7 +105823,7 @@ entity
 		{
 			"id" "1928"
 			"plane" "(-2160 -1880 128) (-2160 -1864 128) (-2220 -1864 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.363] 0.25"
 			"rotation" "0"
@@ -105834,7 +105834,7 @@ entity
 		{
 			"id" "1929"
 			"plane" "(-2232 -1880 80) (-2232 -1864 80) (-2172 -1864 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.363] 0.25"
 			"rotation" "0"
@@ -105845,7 +105845,7 @@ entity
 		{
 			"id" "1930"
 			"plane" "(-2160 -1864 128) (-2172 -1864 140) (-2232 -1864 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 -0.707107 9.38184] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.362] 0.25"
 			"rotation" "0"
@@ -105856,7 +105856,7 @@ entity
 		{
 			"id" "1931"
 			"plane" "(-2220 -1880 68) (-2232 -1880 80) (-2172 -1880 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 0.707107 -9.38184] 0.25"
 			"vaxis" "[0.707107 0 0.707107 115.362] 0.25"
 			"rotation" "0"
@@ -105986,7 +105986,7 @@ entity
 		{
 			"id" "1922"
 			"plane" "(-2244 -1880 68) (-2244 -1864 68) (-2304 -1864 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.734] 0.25"
 			"rotation" "0"
@@ -105997,7 +105997,7 @@ entity
 		{
 			"id" "1923"
 			"plane" "(-2292 -1880 140) (-2292 -1864 140) (-2232 -1864 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.734] 0.25"
 			"rotation" "0"
@@ -106008,7 +106008,7 @@ entity
 		{
 			"id" "1924"
 			"plane" "(-2244 -1864 68) (-2232 -1864 80) (-2292 -1864 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 0.707107 8.71581] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.733] 0.25"
 			"rotation" "0"
@@ -106019,7 +106019,7 @@ entity
 		{
 			"id" "1925"
 			"plane" "(-2304 -1880 128) (-2292 -1880 140) (-2232 -1880 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 0.707107 8.71582] 0.25"
 			"vaxis" "[0.707107 0 -0.707107 222.733] 0.25"
 			"rotation" "0"
@@ -106225,7 +106225,7 @@ entity
 		{
 			"id" "2071"
 			"plane" "(-2434 -1876 192) (-2434 -2028 192) (-2434 -2028 152)"
-			"material" "METAL/METALTRUSS024A"
+			"material" "METAL/METALTRUSS024A_A2C"
 			"uaxis" "[0 1 0 350.315] 0.148438"
 			"vaxis" "[0 0 -1 204.8] 0.15625"
 			"rotation" "0"
@@ -106236,7 +106236,7 @@ entity
 		{
 			"id" "2072"
 			"plane" "(-2430 -1876 152) (-2430 -2028 152) (-2430 -2028 192)"
-			"material" "METAL/METALTRUSS024A"
+			"material" "METAL/METALTRUSS024A_A2C"
 			"uaxis" "[0 1 0 350.315] 0.148438"
 			"vaxis" "[0 0 -1 204.8] 0.15625"
 			"rotation" "0"
@@ -106377,7 +106377,7 @@ entity
 		{
 			"id" "2083"
 			"plane" "(-2306 -1876 192) (-2306 -2028 192) (-2306 -2028 152)"
-			"material" "METAL/METALTRUSS024A"
+			"material" "METAL/METALTRUSS024A_A2C"
 			"uaxis" "[0 1 0 350.315] 0.148438"
 			"vaxis" "[0 0 -1 204.8] 0.15625"
 			"rotation" "0"
@@ -106388,7 +106388,7 @@ entity
 		{
 			"id" "2084"
 			"plane" "(-2302 -1876 152) (-2302 -2028 152) (-2302 -2028 192)"
-			"material" "METAL/METALTRUSS024A"
+			"material" "METAL/METALTRUSS024A_A2C"
 			"uaxis" "[0 1 0 350.315] 0.148438"
 			"vaxis" "[0 0 -1 204.8] 0.15625"
 			"rotation" "0"
@@ -106453,7 +106453,7 @@ entity
 		{
 			"id" "2053"
 			"plane" "(-2178 -1876 192) (-2178 -2028 192) (-2178 -2028 152)"
-			"material" "METAL/METALTRUSS024A"
+			"material" "METAL/METALTRUSS024A_A2C"
 			"uaxis" "[0 1 0 350.315] 0.148438"
 			"vaxis" "[0 0 -1 204.8] 0.15625"
 			"rotation" "0"
@@ -106464,7 +106464,7 @@ entity
 		{
 			"id" "2054"
 			"plane" "(-2174 -1876 152) (-2174 -2028 152) (-2174 -2028 192)"
-			"material" "METAL/METALTRUSS024A"
+			"material" "METAL/METALTRUSS024A_A2C"
 			"uaxis" "[0 1 0 350.315] 0.148438"
 			"vaxis" "[0 0 -1 204.8] 0.15625"
 			"rotation" "0"
@@ -107644,7 +107644,7 @@ entity
 		{
 			"id" "3432"
 			"plane" "(-3514 -2024 -20) (-3514 -1880 -20) (-3194 -1880 140)"
-			"material" "METAL/METALTRUSS011A"
+			"material" "METAL/METALTRUSS011A_A2C"
 			"uaxis" "[0 1 0 59.4287] 0.28"
 			"vaxis" "[-0.894427 0 -0.447213 6.99622] 0.28"
 			"rotation" "90"
@@ -107699,7 +107699,7 @@ entity
 		{
 			"id" "3437"
 			"plane" "(-3512 -1880 -24) (-3512 -2024 -24) (-3192 -2024 136)"
-			"material" "METAL/METALTRUSS011A"
+			"material" "METAL/METALTRUSS011A_A2C"
 			"uaxis" "[0 1 0 59.4287] 0.28"
 			"vaxis" "[-0.894427 0 -0.447213 6.99622] 0.28"
 			"rotation" "0"
@@ -107796,7 +107796,7 @@ entity
 		{
 			"id" "3444"
 			"plane" "(-3216 -2024 144) (-3216 -2040 144) (-3520 -2040 -8)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.155] 0.25"
 			"rotation" "90"
@@ -107807,7 +107807,7 @@ entity
 		{
 			"id" "3445"
 			"plane" "(-3208 -2040 128) (-3208 -2024 128) (-3512 -2024 -24)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.155] 0.25"
 			"rotation" "0"
@@ -107840,7 +107840,7 @@ entity
 		{
 			"id" "3448"
 			"plane" "(-3520 -2024 -8) (-3512 -2024 -24) (-3208 -2024 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.447214 0 0.894427 7.62195] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.153] 0.25"
 			"rotation" "0"
@@ -107851,7 +107851,7 @@ entity
 		{
 			"id" "3449"
 			"plane" "(-3512 -2040 -24) (-3520 -2040 -8) (-3216 -2040 144)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.447214 0 0.894427 7.62195] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.153] 0.25"
 			"rotation" "0"
@@ -107872,7 +107872,7 @@ entity
 		{
 			"id" "3450"
 			"plane" "(-3216 -1880 144) (-3520 -1880 -8) (-3520 -1864 -8)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.155] 0.25"
 			"rotation" "90"
@@ -107883,7 +107883,7 @@ entity
 		{
 			"id" "3451"
 			"plane" "(-3208 -1864 128) (-3512 -1864 -24) (-3512 -1880 -24)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.155] 0.25"
 			"rotation" "0"
@@ -107916,7 +107916,7 @@ entity
 		{
 			"id" "3454"
 			"plane" "(-3208 -1864 128) (-3216 -1864 144) (-3520 -1864 -8)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.447214 0 0.894427 7.62195] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.153] 0.25"
 			"rotation" "0"
@@ -107927,7 +107927,7 @@ entity
 		{
 			"id" "3455"
 			"plane" "(-3512 -1880 -24) (-3520 -1880 -8) (-3216 -1880 144)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.447214 0 0.894427 7.62195] 0.25"
 			"vaxis" "[-0.894427 0 -0.447213 192.153] 0.25"
 			"rotation" "0"
@@ -108296,7 +108296,7 @@ entity
 		{
 			"id" "3484"
 			"plane" "(-3412 -2024 68) (-3472 -2024 128) (-3472 -2040 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -108307,7 +108307,7 @@ entity
 		{
 			"id" "3485"
 			"plane" "(-3460 -2024 140) (-3400 -2024 80) (-3400 -2040 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -108318,7 +108318,7 @@ entity
 		{
 			"id" "3486"
 			"plane" "(-3400 -2024 80) (-3460 -2024 140) (-3472 -2024 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 -0.707107 15.6752] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -108329,7 +108329,7 @@ entity
 		{
 			"id" "3487"
 			"plane" "(-3460 -2040 140) (-3400 -2040 80) (-3412 -2040 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 0.707107 -15.6752] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -108459,7 +108459,7 @@ entity
 		{
 			"id" "3497"
 			"plane" "(-3328 -2024 128) (-3388 -2024 68) (-3388 -2040 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -108470,7 +108470,7 @@ entity
 		{
 			"id" "3498"
 			"plane" "(-3400 -2024 80) (-3340 -2024 140) (-3340 -2040 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -108481,7 +108481,7 @@ entity
 		{
 			"id" "3499"
 			"plane" "(-3340 -2024 140) (-3400 -2024 80) (-3388 -2024 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 0.707107 15.0092] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -108492,7 +108492,7 @@ entity
 		{
 			"id" "3500"
 			"plane" "(-3400 -2040 80) (-3340 -2040 140) (-3328 -2040 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 0.707107 15.0092] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -108600,7 +108600,7 @@ entity
 		{
 			"id" "3508"
 			"plane" "(-3404 -2040 10) (-3404 -2024 10) (-3496 -2024 -174)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 90.5067] 0.25"
 			"rotation" "0"
@@ -108611,7 +108611,7 @@ entity
 		{
 			"id" "3509"
 			"plane" "(-3420 -2024 18) (-3420 -2040 18) (-3512 -2040 -166)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 90.5067] 0.25"
 			"rotation" "0"
@@ -108622,7 +108622,7 @@ entity
 		{
 			"id" "3510"
 			"plane" "(-3404 -2024 10) (-3420 -2024 18) (-3512 -2024 -166)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.894427 0 -0.447214 -23.8171] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 90.5291] 0.25"
 			"rotation" "0"
@@ -108633,7 +108633,7 @@ entity
 		{
 			"id" "3511"
 			"plane" "(-3420 -2040 18) (-3404 -2040 10) (-3496 -2040 -174)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.894427 0 -0.447214 -23.8171] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 90.5291] 0.25"
 			"rotation" "0"
@@ -108752,7 +108752,7 @@ entity
 		{
 			"id" "3520"
 			"plane" "(-3404 -1880 10) (-3404 -1864 10) (-3496 -1864 -174)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 90.5067] 0.25"
 			"rotation" "0"
@@ -108763,7 +108763,7 @@ entity
 		{
 			"id" "3521"
 			"plane" "(-3420 -1864 18) (-3420 -1880 18) (-3512 -1880 -166)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 -1 0 -32] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 90.5067] 0.25"
 			"rotation" "0"
@@ -108774,7 +108774,7 @@ entity
 		{
 			"id" "3522"
 			"plane" "(-3404 -1864 10) (-3420 -1864 18) (-3512 -1864 -166)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.894427 0 -0.447214 -23.8171] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 90.5291] 0.25"
 			"rotation" "0"
@@ -108785,7 +108785,7 @@ entity
 		{
 			"id" "3523"
 			"plane" "(-3420 -1880 18) (-3404 -1880 10) (-3496 -1880 -174)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.894427 0 -0.447214 -23.8171] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 90.5291] 0.25"
 			"rotation" "0"
@@ -109078,7 +109078,7 @@ entity
 		{
 			"id" "3546"
 			"plane" "(-3412 -1864 68) (-3472 -1864 128) (-3472 -1880 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -109089,7 +109089,7 @@ entity
 		{
 			"id" "3547"
 			"plane" "(-3460 -1864 140) (-3400 -1864 80) (-3400 -1880 80)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -109100,7 +109100,7 @@ entity
 		{
 			"id" "3548"
 			"plane" "(-3400 -1864 80) (-3460 -1864 140) (-3472 -1864 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 -0.707107 15.6752] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -109111,7 +109111,7 @@ entity
 		{
 			"id" "3549"
 			"plane" "(-3460 -1880 140) (-3400 -1880 80) (-3412 -1880 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0.707107 0 0.707107 -15.6752] 0.25"
 			"vaxis" "[-0.707107 0 0.707107 57.6557] 0.25"
 			"rotation" "0"
@@ -109241,7 +109241,7 @@ entity
 		{
 			"id" "3559"
 			"plane" "(-3328 -1864 128) (-3388 -1864 68) (-3388 -1880 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -109252,7 +109252,7 @@ entity
 		{
 			"id" "3560"
 			"plane" "(-3400 -1864 80) (-3340 -1864 140) (-3340 -1880 140)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -109263,7 +109263,7 @@ entity
 		{
 			"id" "3561"
 			"plane" "(-3340 -1864 140) (-3400 -1864 80) (-3388 -1864 68)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 0.707107 15.0092] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -109274,7 +109274,7 @@ entity
 		{
 			"id" "3562"
 			"plane" "(-3400 -1880 80) (-3340 -1880 140) (-3328 -1880 128)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-0.707107 0 0.707107 15.0092] 0.25"
 			"vaxis" "[-0.707107 0 -0.707107 165.027] 0.25"
 			"rotation" "0"
@@ -112086,7 +112086,7 @@ entity
 		{
 			"id" "3654"
 			"plane" "(-3544 -1896 168) (-3528 -1896 168) (-3528 -2008 168)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -112097,7 +112097,7 @@ entity
 		{
 			"id" "3655"
 			"plane" "(-3544 -2008 152) (-3528 -2008 152) (-3528 -1896 152)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -112108,7 +112108,7 @@ entity
 		{
 			"id" "3656"
 			"plane" "(-3528 -1896 168) (-3528 -1896 152) (-3528 -2008 152)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 -32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -112119,7 +112119,7 @@ entity
 		{
 			"id" "3657"
 			"plane" "(-3544 -2008 168) (-3544 -2008 152) (-3544 -1896 152)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 -32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -112694,7 +112694,7 @@ entity
 		{
 			"id" "3702"
 			"plane" "(-3544 -1896 -16) (-3528 -1896 -16) (-3528 -2008 -16)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -112705,7 +112705,7 @@ entity
 		{
 			"id" "3703"
 			"plane" "(-3544 -2008 -32) (-3528 -2008 -32) (-3528 -1896 -32)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "0"
@@ -112716,7 +112716,7 @@ entity
 		{
 			"id" "3704"
 			"plane" "(-3528 -1896 -16) (-3528 -1896 -32) (-3528 -2008 -32)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
@@ -112727,7 +112727,7 @@ entity
 		{
 			"id" "3705"
 			"plane" "(-3544 -2008 -16) (-3544 -2008 -32) (-3544 -1896 -32)"
-			"material" "METAL/METALTRUSS002A"
+			"material" "METAL/METALTRUSS002A_A2C"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 1 0 416] 0.25"
 			"rotation" "90"
