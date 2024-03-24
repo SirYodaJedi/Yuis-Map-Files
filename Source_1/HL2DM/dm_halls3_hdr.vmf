@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "14"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -72,7 +72,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "14"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -11010,7 +11010,7 @@ world
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -496] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -21472,7 +21472,7 @@ world
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -496] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -81185,7 +81185,7 @@ entity
 	"id" "4566"
 	"classname" "func_brush"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"InputFilter" "0"
 	"origin" "-1311.8 -348.14 763.78"
 	"renderamt" "255"
@@ -131690,13 +131690,153 @@ entity
 		"logicalpos" "[6000 15000]"
 	}
 }
+entity
+{
+	"id" "15386"
+	"classname" "info_player_rebel"
+	"angles" "0 270 0"
+	"origin" "49 237 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -12768]"
+	}
+}
+entity
+{
+	"id" "15388"
+	"classname" "info_player_rebel"
+	"angles" "0 270 0"
+	"origin" "-180 237 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -12268]"
+	}
+}
+entity
+{
+	"id" "15390"
+	"classname" "info_player_rebel"
+	"angles" "0 270 0"
+	"origin" "-412 237 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -11768]"
+	}
+}
+entity
+{
+	"id" "15392"
+	"classname" "info_player_rebel"
+	"angles" "0 270 0"
+	"origin" "-647 237 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -11268]"
+	}
+}
+entity
+{
+	"id" "15394"
+	"classname" "info_player_rebel"
+	"angles" "0 270 0"
+	"origin" "-875 237 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -10768]"
+	}
+}
+entity
+{
+	"id" "15411"
+	"classname" "info_player_combine"
+	"angles" "0 90 0"
+	"origin" "49 -1070 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -10268]"
+	}
+}
+entity
+{
+	"id" "15413"
+	"classname" "info_player_combine"
+	"angles" "0 90 0"
+	"origin" "-179 -1070 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -9768]"
+	}
+}
+entity
+{
+	"id" "15415"
+	"classname" "info_player_combine"
+	"angles" "0 90 0"
+	"origin" "-414 -1070 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -9268]"
+	}
+}
+entity
+{
+	"id" "15417"
+	"classname" "info_player_combine"
+	"angles" "0 90 0"
+	"origin" "-646 -1070 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -8768]"
+	}
+}
+entity
+{
+	"id" "15419"
+	"classname" "info_player_combine"
+	"angles" "0 90 0"
+	"origin" "-875 -1070 33"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 -8268]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1240.71 -1048.24 455.232]"
-		"look" "[-995.01 -1084.52 358.899]"
+		"position" "[-1305.01 -333.951 725.024]"
+		"look" "[-1385.65 -488.21 926.681]"
 	}
 	camera
 	{
