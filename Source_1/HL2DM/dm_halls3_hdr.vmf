@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "21"
+	"mapversion" "22"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -72,7 +72,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "21"
+	"mapversion" "22"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -83990,17 +83990,17 @@ entity
 {
 	"id" "4700"
 	"classname" "env_sun"
-	"angles" "0 0 0"
+	"angles" "0 26 0"
 	"HDRColorScale" "1.0"
 	"material" "sprites/light_glow02_add_noz"
 	"overlaycolor" "0 0 0"
 	"overlaymaterial" "sprites/light_glow02_add_noz"
 	"overlaysize" "-1"
-	"pitch" "0"
+	"pitch" "-60"
 	"rendercolor" "254 255 223"
 	"size" "16"
 	"target" "suntarget"
-	"use_angles" "0"
+	"use_angles" "1"
 	"origin" "-1056.49 -400 752"
 	editor
 	{
@@ -84023,6 +84023,7 @@ entity
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "old sun target; the sun now uses the same angles as light_env"
 		"logicalpos" "[500 3500]"
 	}
 }
@@ -131875,8 +131876,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-775.372 230.799 324.391]"
-		"look" "[-633.808 450.452 272.65]"
+		"position" "[-1298.48 -479.381 452.271]"
+		"look" "[-1219.87 -715.679 546.869]"
 	}
 }
 cordons
