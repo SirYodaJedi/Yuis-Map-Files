@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "25"
+	"mapversion" "26"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -90,7 +90,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "25"
+	"mapversion" "26"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -126434,7 +126434,7 @@ entity
 	"id" "7146"
 	"classname" "prop_static"
 	"angles" "0 210 0"
-	"disableselfshadowing" "0"
+	"disableselfshadowing" "1"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
@@ -126443,7 +126443,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_combine/combinetower001.mdl"
+	"model" "models/props_combine/combinetower001_tarponly.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -132254,13 +132254,40 @@ entity
 		"logicalpos" "[0 5000]"
 	}
 }
+entity
+{
+	"id" "20529"
+	"classname" "prop_static"
+	"angles" "0 210 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_combine/combinetower001_toweronly.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-1249.04 -389.292 663.114"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[4500 4000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-443.682 -429.036 127.607]"
-		"look" "[-661.557 -546.843 29.5417]"
+		"position" "[-1373.93 -388.033 960.598]"
+		"look" "[-1149.64 -480.479 850.551]"
 	}
 }
 cordons
