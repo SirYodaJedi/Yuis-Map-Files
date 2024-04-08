@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "26"
+	"mapversion" "27"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -90,7 +90,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "26"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -132119,7 +132119,7 @@ entity
 	"model" "models/props_lab/hev_case_static_base.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-734 -456 24.6065"
 	editor
 	{
@@ -132150,7 +132150,7 @@ entity
 	"model" "models/props_lab/hev_case_static_base.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-966 -456 24.6065"
 	editor
 	{
@@ -132181,7 +132181,7 @@ entity
 	"model" "models/props_lab/hev_case_static_base.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-504 -456 24.6065"
 	editor
 	{
@@ -132212,7 +132212,7 @@ entity
 	"model" "models/props_lab/hev_case_static_base.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-272 -456 24.6065"
 	editor
 	{
@@ -132243,7 +132243,7 @@ entity
 	"model" "models/props_lab/hev_case_static_base.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-40 -456 24.6065"
 	editor
 	{
@@ -132286,8 +132286,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1373.93 -388.033 960.598]"
-		"look" "[-1149.64 -480.479 850.551]"
+		"position" "[-901.976 -497.5 71.3656]"
+		"look" "[-1077.07 -303.042 121.282]"
 	}
 }
 cordons
