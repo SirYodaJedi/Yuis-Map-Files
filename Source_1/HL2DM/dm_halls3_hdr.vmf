@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "30"
+	"mapversion" "33"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -90,7 +90,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "30"
+	"mapversion" "33"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -76727,7 +76727,7 @@ world
 				"v" "-1512 72 -10057.3"
 				"v" "-1512 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -76804,7 +76804,7 @@ world
 				"v" "-1832 -232 -10058.3"
 				"v" "-1512 -232 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -76822,7 +76822,7 @@ world
 				"v" "-1832 72 -10057.3"
 				"v" "-1832 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -76840,7 +76840,7 @@ world
 				"v" "-1512 72 -10057.3"
 				"v" "-1832 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -76858,7 +76858,7 @@ world
 				"v" "-1512 -232 -10057.3"
 				"v" "-1512 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -76876,7 +76876,7 @@ world
 				"v" "-1832 -232 -10057.3"
 				"v" "-1512 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -76904,7 +76904,7 @@ world
 				"v" "-1832 72 -10057.3"
 				"v" "-1832 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -76981,7 +76981,7 @@ world
 				"v" "-2128 -232 -10058.3"
 				"v" "-1832 -232 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -76999,7 +76999,7 @@ world
 				"v" "-2128 72 -10057.3"
 				"v" "-2128 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77017,7 +77017,7 @@ world
 				"v" "-1832 72 -10057.3"
 				"v" "-2128 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77035,7 +77035,7 @@ world
 				"v" "-1832 -232 -10057.3"
 				"v" "-1832 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77053,7 +77053,7 @@ world
 				"v" "-2128 -232 -10057.3"
 				"v" "-1832 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77081,7 +77081,7 @@ world
 				"v" "-1512 -536 -10057.3"
 				"v" "-1512 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77158,7 +77158,7 @@ world
 				"v" "-1832 -840 -10058.3"
 				"v" "-1512 -840 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77176,7 +77176,7 @@ world
 				"v" "-1832 -536 -10057.3"
 				"v" "-1832 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77194,7 +77194,7 @@ world
 				"v" "-1512 -536 -10057.3"
 				"v" "-1832 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77212,7 +77212,7 @@ world
 				"v" "-1512 -840 -10057.3"
 				"v" "-1512 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77230,7 +77230,7 @@ world
 				"v" "-1832 -840 -10057.3"
 				"v" "-1512 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77258,7 +77258,7 @@ world
 				"v" "-1832 -536 -10057.3"
 				"v" "-1832 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77335,7 +77335,7 @@ world
 				"v" "-2128 -840 -10058.3"
 				"v" "-1832 -840 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77353,7 +77353,7 @@ world
 				"v" "-2128 -536 -10057.3"
 				"v" "-2128 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77371,7 +77371,7 @@ world
 				"v" "-1832 -536 -10057.3"
 				"v" "-2128 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77389,7 +77389,7 @@ world
 				"v" "-1832 -840 -10057.3"
 				"v" "-1832 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77407,7 +77407,7 @@ world
 				"v" "-2128 -840 -10057.3"
 				"v" "-1832 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77435,7 +77435,7 @@ world
 				"v" "-2128 -536 -10057.3"
 				"v" "-2128 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77512,7 +77512,7 @@ world
 				"v" "-2424 -840 -10058.3"
 				"v" "-2128 -840 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77530,7 +77530,7 @@ world
 				"v" "-2424 -536 -10057.3"
 				"v" "-2424 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77548,7 +77548,7 @@ world
 				"v" "-2128 -536 -10057.3"
 				"v" "-2424 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77566,7 +77566,7 @@ world
 				"v" "-2128 -840 -10057.3"
 				"v" "-2128 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77584,7 +77584,7 @@ world
 				"v" "-2424 -840 -10057.3"
 				"v" "-2128 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77612,7 +77612,7 @@ world
 				"v" "-2128 72 -10057.3"
 				"v" "-2128 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77689,7 +77689,7 @@ world
 				"v" "-2424 -232 -10058.3"
 				"v" "-2128 -232 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77707,7 +77707,7 @@ world
 				"v" "-2424 72 -10057.3"
 				"v" "-2424 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77725,7 +77725,7 @@ world
 				"v" "-2128 72 -10057.3"
 				"v" "-2424 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77743,7 +77743,7 @@ world
 				"v" "-2128 -232 -10057.3"
 				"v" "-2128 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77761,7 +77761,7 @@ world
 				"v" "-2424 -232 -10057.3"
 				"v" "-2128 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77789,7 +77789,7 @@ world
 				"v" "-2128 -232 -10057.3"
 				"v" "-2128 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77866,7 +77866,7 @@ world
 				"v" "-2424 -536 -10058.3"
 				"v" "-2128 -536 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -77884,7 +77884,7 @@ world
 				"v" "-2424 -232 -10057.3"
 				"v" "-2424 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77902,7 +77902,7 @@ world
 				"v" "-2128 -232 -10057.3"
 				"v" "-2424 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77920,7 +77920,7 @@ world
 				"v" "-2128 -536 -10057.3"
 				"v" "-2128 -232 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77938,7 +77938,7 @@ world
 				"v" "-2424 -536 -10057.3"
 				"v" "-2128 -536 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -77966,7 +77966,7 @@ world
 				"v" "-2424 72 -10057.3"
 				"v" "-2424 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78043,7 +78043,7 @@ world
 				"v" "-3336 -840 -10058.3"
 				"v" "-2424 -840 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78061,7 +78061,7 @@ world
 				"v" "-3336 72 -10057.3"
 				"v" "-3336 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78079,7 +78079,7 @@ world
 				"v" "-2424 72 -10057.3"
 				"v" "-3336 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78097,7 +78097,7 @@ world
 				"v" "-2424 -840 -10057.3"
 				"v" "-2424 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78115,7 +78115,7 @@ world
 				"v" "-3336 -840 -10057.3"
 				"v" "-2424 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78143,7 +78143,7 @@ world
 				"v" "-2424 984 -10057.3"
 				"v" "-2424 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78220,7 +78220,7 @@ world
 				"v" "-3336 72 -10058.3"
 				"v" "-2424 72 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78238,7 +78238,7 @@ world
 				"v" "-3336 984 -10057.3"
 				"v" "-3336 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78256,7 +78256,7 @@ world
 				"v" "-2424 984 -10057.3"
 				"v" "-3336 984 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78274,7 +78274,7 @@ world
 				"v" "-2424 72 -10057.3"
 				"v" "-2424 984 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78292,7 +78292,7 @@ world
 				"v" "-3336 72 -10057.3"
 				"v" "-2424 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78320,7 +78320,7 @@ world
 				"v" "-2424 -840 -10057.3"
 				"v" "-2424 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78397,7 +78397,7 @@ world
 				"v" "-3336 -1752 -10058.3"
 				"v" "-2424 -1752 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78415,7 +78415,7 @@ world
 				"v" "-3336 -840 -10057.3"
 				"v" "-3336 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78433,7 +78433,7 @@ world
 				"v" "-2424 -840 -10057.3"
 				"v" "-3336 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78451,7 +78451,7 @@ world
 				"v" "-2424 -1752 -10057.3"
 				"v" "-2424 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78469,7 +78469,7 @@ world
 				"v" "-3336 -1752 -10057.3"
 				"v" "-2424 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78497,7 +78497,7 @@ world
 				"v" "-1512 984 -10057.3"
 				"v" "-1512 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78574,7 +78574,7 @@ world
 				"v" "-2424 72 -10058.3"
 				"v" "-1512 72 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78592,7 +78592,7 @@ world
 				"v" "-2424 984 -10057.3"
 				"v" "-2424 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78610,7 +78610,7 @@ world
 				"v" "-1512 984 -10057.3"
 				"v" "-2424 984 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78628,7 +78628,7 @@ world
 				"v" "-1512 72 -10057.3"
 				"v" "-1512 984 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78646,7 +78646,7 @@ world
 				"v" "-2424 72 -10057.3"
 				"v" "-1512 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78674,7 +78674,7 @@ world
 				"v" "-1512 -840 -10057.3"
 				"v" "-1512 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78751,7 +78751,7 @@ world
 				"v" "-2424 -1752 -10058.3"
 				"v" "-1512 -1752 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78769,7 +78769,7 @@ world
 				"v" "-2424 -840 -10057.3"
 				"v" "-2424 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78787,7 +78787,7 @@ world
 				"v" "-1512 -840 -10057.3"
 				"v" "-2424 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78805,7 +78805,7 @@ world
 				"v" "-1512 -1752 -10057.3"
 				"v" "-1512 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78823,7 +78823,7 @@ world
 				"v" "-2424 -1752 -10057.3"
 				"v" "-1512 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78851,7 +78851,7 @@ world
 				"v" "-600 984 -10057.3"
 				"v" "-600 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78928,7 +78928,7 @@ world
 				"v" "-1512 72 -10058.3"
 				"v" "-600 72 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -78946,7 +78946,7 @@ world
 				"v" "-1512 984 -10057.3"
 				"v" "-1512 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78964,7 +78964,7 @@ world
 				"v" "-600 984 -10057.3"
 				"v" "-1512 984 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -78982,7 +78982,7 @@ world
 				"v" "-600 72 -10057.3"
 				"v" "-600 984 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79000,7 +79000,7 @@ world
 				"v" "-1512 72 -10057.3"
 				"v" "-600 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79028,7 +79028,7 @@ world
 				"v" "-600 72 -10057.3"
 				"v" "-600 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -79105,7 +79105,7 @@ world
 				"v" "-1512 -840 -10058.3"
 				"v" "-600 -840 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -79123,7 +79123,7 @@ world
 				"v" "-1512 72 -10057.3"
 				"v" "-1512 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79141,7 +79141,7 @@ world
 				"v" "-600 72 -10057.3"
 				"v" "-1512 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79159,7 +79159,7 @@ world
 				"v" "-600 -840 -10057.3"
 				"v" "-600 72 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79177,7 +79177,7 @@ world
 				"v" "-1512 -840 -10057.3"
 				"v" "-600 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79205,7 +79205,7 @@ world
 				"v" "-600 -840 -10057.3"
 				"v" "-600 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -79282,7 +79282,7 @@ world
 				"v" "-1512 -1752 -10058.3"
 				"v" "-600 -1752 -10058.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 -0 -0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -79300,7 +79300,7 @@ world
 				"v" "-1512 -840 -10057.3"
 				"v" "-1512 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79318,7 +79318,7 @@ world
 				"v" "-600 -840 -10057.3"
 				"v" "-1512 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79336,7 +79336,7 @@ world
 				"v" "-600 -1752 -10057.3"
 				"v" "-600 -840 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -79354,7 +79354,7 @@ world
 				"v" "-1512 -1752 -10057.3"
 				"v" "-600 -1752 -10057.3"
 			}
-			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAIL"
+			"material" "NATURE/BLENDGRASSGRAVEL001A_NODETAILPROPS"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -127496,7 +127496,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/bridge_railing.mdl"
+	"model" "models/props_wasteland/bridge_railing_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -127550,7 +127550,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/bridge_railing.mdl"
+	"model" "models/props_wasteland/bridge_railing_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -127577,7 +127577,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_wasteland/bridge_railing.mdl"
+	"model" "models/props_wasteland/bridge_railing_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -127739,7 +127739,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_canal/refinery_03_skybox.mdl"
+	"model" "models/props_canal/refinery_03_skybox_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -127766,7 +127766,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_canal/refinery_05_skybox.mdl"
+	"model" "models/props_canal/refinery_05_skybox_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -127793,7 +127793,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_canal/refinery_03_skybox.mdl"
+	"model" "models/props_canal/refinery_03_skybox_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -127820,7 +127820,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_buildings/row_industrial_cluster.mdl"
+	"model" "models/props_buildings/row_industrial_cluster_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -127955,7 +127955,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_buildings/row_industrial_cluster.mdl"
+	"model" "models/props_buildings/row_industrial_cluster_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -129008,7 +129008,7 @@ entity
 	"ignorenormals" "0"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props_canal/winch01.mdl"
+	"model" "models/props_canal/winch01_a2c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -132286,8 +132286,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1301.56 -232.598 326.498]"
-		"look" "[-1162 -5.72585 330.217]"
+		"position" "[177.855 -159.711 -370.591]"
+		"look" "[181.797 -166.019 -636.875]"
 	}
 }
 cordons
