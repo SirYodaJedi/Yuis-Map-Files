@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "52"
+	"mapversion" "53"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -96,7 +96,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "52"
+	"mapversion" "53"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -134265,7 +134265,7 @@ entity
 {
 	"id" "7337"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"sides" "1265 1269 1270 1271 1260 1261"
 	"origin" "-394 352 64"
 	editor
@@ -134280,7 +134280,7 @@ entity
 {
 	"id" "7338"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-414 -1132 68"
 	editor
 	{
@@ -134294,7 +134294,7 @@ entity
 {
 	"id" "7339"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-1304 -1180 52"
 	editor
 	{
@@ -134308,7 +134308,7 @@ entity
 {
 	"id" "7340"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-1416 -444 176"
 	editor
 	{
@@ -134322,7 +134322,7 @@ entity
 {
 	"id" "7341"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-1308 408 72"
 	editor
 	{
@@ -134336,7 +134336,7 @@ entity
 {
 	"id" "7342"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-884 -456 68"
 	editor
 	{
@@ -134350,7 +134350,7 @@ entity
 {
 	"id" "7343"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-652 -452 68"
 	editor
 	{
@@ -134364,7 +134364,7 @@ entity
 {
 	"id" "7344"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-420 -456 68"
 	editor
 	{
@@ -134378,7 +134378,7 @@ entity
 {
 	"id" "7345"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-188 -456 68"
 	editor
 	{
@@ -134392,7 +134392,7 @@ entity
 {
 	"id" "7346"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "52 -456 68"
 	editor
 	{
@@ -134406,7 +134406,7 @@ entity
 {
 	"id" "7347"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "56 -28 68"
 	editor
 	{
@@ -134420,7 +134420,7 @@ entity
 {
 	"id" "7348"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-184 -28 68"
 	editor
 	{
@@ -134434,7 +134434,7 @@ entity
 {
 	"id" "7349"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-416 -28 68"
 	editor
 	{
@@ -134448,7 +134448,7 @@ entity
 {
 	"id" "7350"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-648 -24 68"
 	editor
 	{
@@ -134462,7 +134462,7 @@ entity
 {
 	"id" "7351"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-880 -28 68"
 	editor
 	{
@@ -134476,7 +134476,7 @@ entity
 {
 	"id" "7352"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "56 -812 68"
 	editor
 	{
@@ -134490,7 +134490,7 @@ entity
 {
 	"id" "7353"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-184 -812 68"
 	editor
 	{
@@ -134504,7 +134504,7 @@ entity
 {
 	"id" "7354"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-416 -812 68"
 	editor
 	{
@@ -134518,7 +134518,7 @@ entity
 {
 	"id" "7355"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-648 -808 68"
 	editor
 	{
@@ -134532,7 +134532,7 @@ entity
 {
 	"id" "7356"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-880 -812 68"
 	editor
 	{
@@ -134546,7 +134546,7 @@ entity
 {
 	"id" "7357"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-1166 -52 420"
 	editor
 	{
@@ -134560,7 +134560,7 @@ entity
 {
 	"id" "7358"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "-854 -396 200"
 	editor
 	{
@@ -134574,7 +134574,7 @@ entity
 {
 	"id" "7359"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "28 -436 196"
 	editor
 	{
@@ -134588,7 +134588,7 @@ entity
 {
 	"id" "7360"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "332 -16 268"
 	editor
 	{
@@ -134602,7 +134602,7 @@ entity
 {
 	"id" "7361"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "336 -816 268"
 	editor
 	{
@@ -134616,7 +134616,7 @@ entity
 {
 	"id" "7362"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "233 -1108 276"
 	editor
 	{
@@ -134630,7 +134630,7 @@ entity
 {
 	"id" "7363"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "213 284 272"
 	editor
 	{
@@ -135424,8 +135424,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[309.086 -1303.51 345.948]"
-		"look" "[212.277 -1059.01 303.358]"
+		"position" "[-391.019 333.201 72.901]"
+		"look" "[-548.563 540.754 17.5147]"
 	}
 }
 cordons
