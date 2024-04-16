@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "53"
+	"mapversion" "58"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -31,6 +31,12 @@ visgroups
 		"name" "OLD_bevels"
 		"visgroupid" "53"
 		"color" "145 214 239"
+	}
+	visgroup
+	{
+		"name" "alphashadows"
+		"visgroupid" "79"
+		"color" "83 112 129"
 	}
 }
 viewsettings
@@ -96,7 +102,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "53"
+	"mapversion" "58"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -135417,6 +135423,37 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15268]"
+	}
+}
+entity
+{
+	"id" "47034"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "1"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "60"
+	"mindxlevel" "70"
+	"model" "models/dm_halls3_hdr/alphashadows.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "0"
+	"origin" "-320 -448 384"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupid" "79"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
