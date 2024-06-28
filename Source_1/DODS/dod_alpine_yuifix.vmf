@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "930"
+	"mapversion" "931"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "930"
+	"mapversion" "931"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -118448,14 +118448,8 @@ entity
 entity
 {
 	"id" "38100"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "1"
-	"disableshadows" "1"
+	"classname" "func_null"
 	"origin" "-375 448 576"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "10"
 	"targetname" "window_texlights"
 	solid
 	{
@@ -118803,14 +118797,8 @@ entity
 entity
 {
 	"id" "38520"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "1"
-	"disableshadows" "1"
+	"classname" "func_null"
 	"origin" "-224 265 448"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "10"
 	"targetname" "window_texlights"
 	solid
 	{
@@ -119315,14 +119303,8 @@ entity
 entity
 {
 	"id" "39578"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "1"
-	"disableshadows" "1"
+	"classname" "func_null"
 	"origin" "124 448 576"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "10"
 	"targetname" "window_texlights"
 	solid
 	{
@@ -119819,14 +119801,8 @@ entity
 entity
 {
 	"id" "39953"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "1"
-	"disableshadows" "1"
+	"classname" "func_null"
 	"origin" "-64 448 700"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "10"
 	"targetname" "window_texlights"
 	solid
 	{
@@ -121512,14 +121488,8 @@ entity
 entity
 {
 	"id" "42847"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "1"
-	"disableshadows" "1"
+	"classname" "func_null"
 	"origin" "1928 864 100"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "10"
 	"targetname" "window_texlights"
 	solid
 	{
@@ -121952,6 +121922,7 @@ entity
 	"id" "43248"
 	"classname" "dod_control_point"
 	"angles" "0 270 0"
+	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "Voice.US_FlagCapture"
 	"point_allies_model" "models/mapmodels/flags.mdl"
 	"point_allies_model_bodygroup" "1"
@@ -121984,6 +121955,7 @@ entity
 	"id" "43264"
 	"classname" "dod_control_point"
 	"angles" "0 270 0"
+	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "Voice.US_FlagCapture"
 	"point_allies_model" "models/mapmodels/flags.mdl"
 	"point_allies_model_bodygroup" "1"
@@ -122112,6 +122084,7 @@ entity
 	"id" "43290"
 	"classname" "dod_control_point"
 	"angles" "0 270 0"
+	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "Voice.US_FlagCapture"
 	"point_allies_model" "models/mapmodels/flags.mdl"
 	"point_allies_model_bodygroup" "1"
@@ -148617,8 +148590,6 @@ entity
 	"spawnflags" "0"
 	connections
 	{
-		"OnMapSpawn" "window_texlights,Kill,,0.01,-1"
-		"OnMultiNewRound" "window_texlights,Kill,,0.01,-1"
 		"OnMapSpawn" "hdr_tonemapper,UseDefaultAutoExposure,,0.01,-1"
 		"OnMultiNewRound" "hdr_tonemapper,UseDefaultBloomScale,,0.01,-1"
 		"OnMultiNewRound" "hdr_tonemapper,UseDefaultAutoExposure,,0.01,-1"
