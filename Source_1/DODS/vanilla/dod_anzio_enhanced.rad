@@ -2,7 +2,13 @@ forcetextureshadow props_urban/patio_chair2.mdl
 forcetextureshadow props_urban/patio_table2.mdl
 forcetextureshadow props_foliage/ivy_01.mdl
 forcetextureshadow props_foliage/vine_wall1.mdl
+forcetextureshadow props_foliage/vine_wall2.mdl
 forcetextureshadow props_foliage/hedge_medium.mdl
 forcetextureshadow props_foliage/shrub_small.mdl
 forcetextureshadow props_foliage/tree_deciduous_01a.mdl
 forcetextureshadow props_foliage/tree_poplar_01.mdl
+forcetextureshadow props_building_details/storefront_template001a_bars.mdl
+
+// essentially a decal; shouldn't cast shadows
+noshadow models/props_foliage/vines01.vmt
+noshadow models/props_foliage/vines01_a2c.vmt
