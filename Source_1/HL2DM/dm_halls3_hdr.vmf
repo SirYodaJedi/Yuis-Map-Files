@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8864"
-	"mapversion" "58"
+	"editorbuild" "8869"
+	"mapversion" "59"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -94,7 +94,24 @@ light_plus
 	"soften_cosine" "0"
 	"debug" "0"
 	"cubemap" "1"
-	"hdr" "0"
+}
+postprocess_plus
+{
+	"enable" "1"
+	"copied_from_controller" "1"
+	"bloom_scale" "1"
+	"bloom_exponent" "2.5"
+	"bloom_saturation" "1"
+	"auto_exposure_min" "0.5"
+	"auto_exposure_max" "2"
+	"tonemap_percent_target" "60"
+	"tonemap_percent_bright_pixels" "2"
+	"tonemap_min_avg_luminance" "3"
+	"tonemap_rate" "1"
+	"vignette_enable" "0"
+	"vignette_start" "1"
+	"vignette_end" "2"
+	"vignette_blur" "0"
 }
 bgimages_plus
 {
@@ -102,7 +119,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "58"
+	"mapversion" "59"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.5 from halls3"
 	"detailmaterial" "detail/detailsprites"
@@ -130338,6 +130355,7 @@ entity
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
+	"enablelightbounce" "1"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -130797,6 +130815,7 @@ entity
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
+	"enablelightbounce" "1"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -131283,6 +131302,7 @@ entity
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
+	"enablelightbounce" "1"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -135461,8 +135481,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-391.019 333.201 72.901]"
-		"look" "[-548.563 540.754 17.5147]"
+		"position" "[-809.114 222.271 147.001]"
+		"look" "[-594.646 350.121 54.144]"
 	}
 }
 cordons
