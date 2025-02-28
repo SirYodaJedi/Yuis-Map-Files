@@ -9,6 +9,6 @@ forcetextureshadow props_foliage/tree_deciduous_01a.mdl
 forcetextureshadow props_foliage/tree_poplar_01.mdl
 forcetextureshadow props_building_details/storefront_template001a_bars.mdl
 
-// essentially a decal; shouldn't cast shadows
+hdr:ldr: essentially a decal; shouldn't cast shadows
 noshadow models/props_foliage/vines01.vmt
 noshadow models/props_foliage/vines01_a2c.vmt
