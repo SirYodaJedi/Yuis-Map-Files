@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "5819"
+	"mapversion" "5820"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -179,7 +179,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "5819"
+	"mapversion" "5820"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -729142,34 +729142,30 @@ entity
 		"logicalpos" "[14500 3000]"
 	}
 }
-hidden
+entity
 {
-	entity
+	"id" "2886548"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableshadows" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_misc/reins.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "0"
+	"origin" "1960.32 3071.14 -304.464"
+	editor
 	{
-		"id" "2886548"
-		"classname" "prop_static"
-		"angles" "0.000000 0.000000 0.000000"
-		"disableshadows" "0"
-		"fademaxdist" "0"
-		"fademindist" "-1"
-		"fadescale" "1"
-		"lightmapresolutionx" "32"
-		"lightmapresolutiony" "32"
-		"maxdxlevel" "0"
-		"mindxlevel" "0"
-		"model" "models/props_misc/reins.mdl"
-		"screenspacefade" "0"
-		"skin" "0"
-		"solid" "0"
-		"origin" "1960.32 3071.14 -304.464"
-		editor
-		{
-			"color" "255 255 0"
-			"visgroupid" "28"
-			"visgroupshown" "0"
-			"visgroupautoshown" "1"
-			"logicalpos" "[14500 3500]"
-		}
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14500 3500]"
 	}
 }
 entity
@@ -766545,22 +766541,18 @@ entity
 		"logicalpos" "[-11268 10000]"
 	}
 }
-hidden
+entity
 {
-	entity
+	"id" "2890538"
+	"classname" "infodecal"
+	"texture" "decals/dirt_decal_05"
+	"origin" "1954.07 3072 -313.394"
+	editor
 	{
-		"id" "2890538"
-		"classname" "infodecal"
-		"texture" "decals/dirt_decal_05"
-		"origin" "1954.07 3072 -313.394"
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupid" "28"
-			"visgroupshown" "0"
-			"visgroupautoshown" "1"
-			"logicalpos" "[-11268 10500]"
-		}
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-11268 10500]"
 	}
 }
 entity
@@ -805515,8 +805507,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1583.69 3120.7 -231.452]"
-		"look" "[892.135 3630.57 -339.994]"
+		"position" "[1947.87 2894.66 -281.746]"
+		"look" "[1642.04 3699.8 -372.268]"
 	}
 	camera
 	{
