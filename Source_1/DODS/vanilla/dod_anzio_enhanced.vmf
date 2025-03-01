@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "5822"
+	"mapversion" "5823"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -179,7 +179,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "5822"
+	"mapversion" "5823"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -153315,7 +153315,7 @@ world
 				"v" "-576 1600 -592"
 				"v" "-320 1600 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -153333,7 +153333,7 @@ world
 				"v" "-576 1040 -608"
 				"v" "-320 1040 -608"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -153351,7 +153351,7 @@ world
 				"v" "-576 1600 -592"
 				"v" "-576 1040 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -153369,7 +153369,7 @@ world
 				"v" "-320 1600 -592"
 				"v" "-576 1600 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -153387,7 +153387,7 @@ world
 				"v" "-576 1040 -592"
 				"v" "-320 1040 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -153405,7 +153405,7 @@ world
 				"v" "-320 1040 -592"
 				"v" "-320 1600 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -317783,7 +317783,7 @@ world
 				"v" "-7424 -108 -5194"
 				"v" "-7424 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -9.5359] 0.13"
 			"vaxis" "[0 -1 0 24.3079] 0.13"
 			"rotation" "0"
@@ -317801,7 +317801,7 @@ world
 				"v" "-7424 -784 -5212"
 				"v" "-7424 -108 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -31.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -317819,7 +317819,7 @@ world
 				"v" "-9216 -108 -5194"
 				"v" "-9216 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -52] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317837,7 +317837,7 @@ world
 				"v" "-7424 -784 -5194"
 				"v" "-7424 -108 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -52] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317855,7 +317855,7 @@ world
 				"v" "-7424 -108 -5194"
 				"v" "-9216 -108 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -31.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317873,7 +317873,7 @@ world
 				"v" "-9216 -784 -5194"
 				"v" "-7424 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -31.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317903,7 +317903,7 @@ world
 				"v" "-6816 -200 -5194"
 				"v" "-5120 -200 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -63.965] 0.125"
 			"vaxis" "[0 -1 0 40] 0.125"
 			"rotation" "0"
@@ -317921,7 +317921,7 @@ world
 				"v" "-6816 -784 -5212"
 				"v" "-5120 -784 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -31.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -317939,7 +317939,7 @@ world
 				"v" "-6816 -200 -5194"
 				"v" "-6816 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -52] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317957,7 +317957,7 @@ world
 				"v" "-5120 -200 -5194"
 				"v" "-6816 -200 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -31.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317975,7 +317975,7 @@ world
 				"v" "-6816 -784 -5194"
 				"v" "-5120 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -31.9844] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -317993,7 +317993,7 @@ world
 				"v" "-5120 -784 -5194"
 				"v" "-5120 -200 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -16] 0.25"
 			"vaxis" "[0 0 -1 48] 0.25"
 			"rotation" "0"
@@ -318499,7 +318499,7 @@ world
 				"v" "-9216 -784 -5194"
 				"v" "-7424 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -47.965] 0.125"
 			"vaxis" "[0 -1 0 40] 0.125"
 			"rotation" "0"
@@ -318517,7 +318517,7 @@ world
 				"v" "-9216 -1536 -5212"
 				"v" "-7217.68 -1536 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -318535,7 +318535,7 @@ world
 				"v" "-9216 -784 -5194"
 				"v" "-9216 -1536 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -52] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -318553,7 +318553,7 @@ world
 				"v" "-7424 -784 -5194"
 				"v" "-9216 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -318571,7 +318571,7 @@ world
 				"v" "-9216 -1536 -5194"
 				"v" "-7217.68 -1536 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9844] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -318589,7 +318589,7 @@ world
 				"v" "-7217.68 -1536 -5194"
 				"v" "-7424 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -318619,7 +318619,7 @@ world
 				"v" "-6816 -784 -5194"
 				"v" "-5120 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -47.965] 0.125"
 			"vaxis" "[0 -1 0 40] 0.125"
 			"rotation" "0"
@@ -318637,7 +318637,7 @@ world
 				"v" "-7216 -1536 -5212"
 				"v" "-5120 -1536 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -318655,7 +318655,7 @@ world
 				"v" "-5120 -784 -5194"
 				"v" "-6816 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -318673,7 +318673,7 @@ world
 				"v" "-7216 -1536 -5194"
 				"v" "-5120 -1536 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9844] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -318691,7 +318691,7 @@ world
 				"v" "-5120 -1536 -5194"
 				"v" "-5120 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -16] 0.25"
 			"vaxis" "[0 0 -1 48] 0.25"
 			"rotation" "0"
@@ -318709,7 +318709,7 @@ world
 				"v" "-6816 -784 -5194"
 				"v" "-7216 -1536 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336550,7 +336550,7 @@ world
 				"v" "1872 -848 -592"
 				"v" "1392 -848 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -336568,7 +336568,7 @@ world
 				"v" "1872 -584 -768"
 				"v" "1392 -584 -768"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 -16] 1"
 			"rotation" "0"
@@ -336586,7 +336586,7 @@ world
 				"v" "1872 -848 -592"
 				"v" "1872 -584 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 16] 1"
 			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
@@ -336604,7 +336604,7 @@ world
 				"v" "1872 -584 -592"
 				"v" "1392 -584 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
@@ -336622,7 +336622,7 @@ world
 				"v" "1392 -848 -592"
 				"v" "1872 -848 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336640,7 +336640,7 @@ world
 				"v" "1392 -584 -592"
 				"v" "1392 -848 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336670,7 +336670,7 @@ world
 				"v" "-320 1472 -592"
 				"v" "256 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -336688,7 +336688,7 @@ world
 				"v" "-320 640 -608"
 				"v" "256 640 -608"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -336706,7 +336706,7 @@ world
 				"v" "-320 1472 -592"
 				"v" "-320 640 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336724,7 +336724,7 @@ world
 				"v" "256 1472 -592"
 				"v" "-320 1472 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336742,7 +336742,7 @@ world
 				"v" "-320 640 -592"
 				"v" "256 640 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336760,7 +336760,7 @@ world
 				"v" "256 640 -592"
 				"v" "256 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336790,7 +336790,7 @@ world
 				"v" "256 1472 -592"
 				"v" "512 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -336808,7 +336808,7 @@ world
 				"v" "256 640 -608"
 				"v" "512 640 -608"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -336826,7 +336826,7 @@ world
 				"v" "512 1472 -592"
 				"v" "256 1472 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336844,7 +336844,7 @@ world
 				"v" "256 640 -592"
 				"v" "512 640 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336862,7 +336862,7 @@ world
 				"v" "512 640 -592"
 				"v" "512 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336880,7 +336880,7 @@ world
 				"v" "256 1472 -592"
 				"v" "256 640 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -370018,7 +370018,7 @@ world
 				"v" "512 -6272 -592"
 				"v" "512 -2560 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -370036,7 +370036,7 @@ world
 				"v" "2816 -6272 -896"
 				"v" "2816 -2560 -896"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 -1 0 56] 2"
 			"rotation" "0"
@@ -370054,7 +370054,7 @@ world
 				"v" "2816 -6272 -592"
 				"v" "2816 -2560 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -56] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -370072,7 +370072,7 @@ world
 				"v" "512 -6272 -592"
 				"v" "2816 -6272 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -370090,7 +370090,7 @@ world
 				"v" "512 -2560 -592"
 				"v" "512 -6272 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -370108,7 +370108,7 @@ world
 				"v" "2816 -2560 -592"
 				"v" "512 -2560 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -392925,7 +392925,7 @@ world
 				"v" "-896 -1088 -592"
 				"v" "-896 -1856 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -392943,7 +392943,7 @@ world
 				"v" "-896 -1856 -768"
 				"v" "-896 -1088 -768"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 -1 0 24] 2"
 			"rotation" "0"
@@ -392961,7 +392961,7 @@ world
 				"v" "-2048 -1088 -592"
 				"v" "-2048 -1856 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -24] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -392979,7 +392979,7 @@ world
 				"v" "-896 -1856 -592"
 				"v" "-896 -1088 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -24] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -392997,7 +392997,7 @@ world
 				"v" "-896 -1088 -592"
 				"v" "-2048 -1088 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -393015,7 +393015,7 @@ world
 				"v" "-2048 -1856 -592"
 				"v" "-896 -1856 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -393045,7 +393045,7 @@ world
 				"v" "-2048 -1856 -592"
 				"v" "-896 -1856 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -393063,7 +393063,7 @@ world
 				"v" "-2048 -6272 -1040"
 				"v" "-896 -6272 -1040"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 -1 0 -8] 2"
 			"rotation" "0"
@@ -393081,7 +393081,7 @@ world
 				"v" "-2048 -1856 -592"
 				"v" "-2048 -6272 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -393099,7 +393099,7 @@ world
 				"v" "-896 -1856 -592"
 				"v" "-2048 -1856 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -393117,7 +393117,7 @@ world
 				"v" "-2048 -6272 -592"
 				"v" "-896 -6272 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -393135,7 +393135,7 @@ world
 				"v" "-896 -6272 -592"
 				"v" "-896 -1856 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417327,7 +417327,7 @@ world
 				"v" "-896 -1856 -592"
 				"v" "512 -1856 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -417345,7 +417345,7 @@ world
 				"v" "-896 -6272 -1040"
 				"v" "512 -6272 -1040"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 -1 0 -8] 2"
 			"rotation" "0"
@@ -417363,7 +417363,7 @@ world
 				"v" "512 -1856 -592"
 				"v" "-896 -1856 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417381,7 +417381,7 @@ world
 				"v" "-896 -6272 -592"
 				"v" "512 -6272 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417399,7 +417399,7 @@ world
 				"v" "-896 -1856 -592"
 				"v" "-896 -6272 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417417,7 +417417,7 @@ world
 				"v" "512 -6272 -592"
 				"v" "512 -1856 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417681,7 +417681,7 @@ world
 				"v" "2816 -2560 -592"
 				"v" "512 -2560 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -417699,7 +417699,7 @@ world
 				"v" "2816 -1664 -720"
 				"v" "512 -1664 -720"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 -1 0 56] 2"
 			"rotation" "0"
@@ -417717,7 +417717,7 @@ world
 				"v" "2816 -2560 -592"
 				"v" "2816 -1664 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 -56] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417735,7 +417735,7 @@ world
 				"v" "2816 -1664 -592"
 				"v" "512 -1664 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 8] 2"
 			"vaxis" "[0 0 -1 -8] 2"
 			"rotation" "0"
@@ -417753,7 +417753,7 @@ world
 				"v" "512 -2560 -592"
 				"v" "2816 -2560 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -417771,7 +417771,7 @@ world
 				"v" "512 -1664 -592"
 				"v" "512 -2560 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428639,7 +428639,7 @@ world
 				"v" "520 192 -592"
 				"v" "800 192 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 1 0 240] 1"
 			"rotation" "0"
@@ -428656,7 +428656,7 @@ world
 				"v" "520 52 -768"
 				"v" "800 192 -768"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 1 0 48] 1"
 			"rotation" "0"
@@ -428674,7 +428674,7 @@ world
 				"v" "520 192 -592"
 				"v" "520 52 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 -1 0 -48] 1"
 			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
@@ -428692,7 +428692,7 @@ world
 				"v" "800 192 -592"
 				"v" "520 192 -592"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428710,7 +428710,7 @@ world
 				"v" "520 52 -592"
 				"v" "800 192 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428740,7 +428740,7 @@ world
 				"v" "1392 -16 -592"
 				"v" "1392 -1664 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 1 0 240] 1"
 			"rotation" "0"
@@ -428758,7 +428758,7 @@ world
 				"v" "520 -1664 -592"
 				"v" "520 -1664 -640"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 -1 0 -48] 1"
 			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
@@ -428776,7 +428776,7 @@ world
 				"v" "1392 -16 -592"
 				"v" "1392 -16 -640"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428794,7 +428794,7 @@ world
 				"v" "1392 -1664 -592"
 				"v" "1392 -1664 -640"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428812,7 +428812,7 @@ world
 				"v" "520 52 -640"
 				"v" "992 288 -640"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428830,7 +428830,7 @@ world
 				"v" "1240 288 -592"
 				"v" "1240 288 -640"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -428850,7 +428850,7 @@ world
 				"v" "1240 288 -640"
 				"v" "992 288 -640"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -428868,7 +428868,7 @@ world
 				"v" "992 288 -592"
 				"v" "992 288 -640"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463093,7 +463093,7 @@ world
 				"v" "-6816 -784 -5194"
 				"v" "-7216 -1535.97 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463110,7 +463110,7 @@ world
 				"v" "-6912 -784 -5212"
 				"v" "-7216 -1536 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463128,7 +463128,7 @@ world
 				"v" "-6816 -784 -5194"
 				"v" "-6912 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463146,7 +463146,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-6816 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463164,7 +463164,7 @@ world
 				"v" "-6912 -784 -5194"
 				"v" "-7216 -1535.99 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463194,7 +463194,7 @@ world
 				"v" "-6912 -784 -5194"
 				"v" "-7216 -1535.95 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463211,7 +463211,7 @@ world
 				"v" "-6976 -784 -5212"
 				"v" "-7216 -1535.98 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463229,7 +463229,7 @@ world
 				"v" "-6912 -784 -5194"
 				"v" "-6976 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463247,7 +463247,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-6912 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463265,7 +463265,7 @@ world
 				"v" "-6976 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463295,7 +463295,7 @@ world
 				"v" "-6976 -784 -5194"
 				"v" "-7216 -1535.96 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463312,7 +463312,7 @@ world
 				"v" "-7040 -784 -5212"
 				"v" "-7216 -1535.98 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463330,7 +463330,7 @@ world
 				"v" "-6976 -784 -5194"
 				"v" "-7040 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463348,7 +463348,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-6976 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463366,7 +463366,7 @@ world
 				"v" "-7040 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463396,7 +463396,7 @@ world
 				"v" "-7040 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463413,7 +463413,7 @@ world
 				"v" "-7104 -784 -5212"
 				"v" "-7216 -1536 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463431,7 +463431,7 @@ world
 				"v" "-7040 -784 -5194"
 				"v" "-7104 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463449,7 +463449,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-7040 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463467,7 +463467,7 @@ world
 				"v" "-7104 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463497,7 +463497,7 @@ world
 				"v" "-7104 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463514,7 +463514,7 @@ world
 				"v" "-7168 -784 -5212"
 				"v" "-7216 -1535.97 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463532,7 +463532,7 @@ world
 				"v" "-7104 -784 -5194"
 				"v" "-7168 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463550,7 +463550,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-7104 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463568,7 +463568,7 @@ world
 				"v" "-7168 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463598,7 +463598,7 @@ world
 				"v" "-7232 -784 -5194"
 				"v" "-7168 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463615,7 +463615,7 @@ world
 				"v" "-7232 -784 -5212"
 				"v" "-7216 -1535.94 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463633,7 +463633,7 @@ world
 				"v" "-7168 -784 -5194"
 				"v" "-7232 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463651,7 +463651,7 @@ world
 				"v" "-7232 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463669,7 +463669,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-7168 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463699,7 +463699,7 @@ world
 				"v" "-7296 -784 -5194"
 				"v" "-7232 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463716,7 +463716,7 @@ world
 				"v" "-7296 -784 -5212"
 				"v" "-7216 -1535.98 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463734,7 +463734,7 @@ world
 				"v" "-7232 -784 -5194"
 				"v" "-7296 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463752,7 +463752,7 @@ world
 				"v" "-7296 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463770,7 +463770,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-7232 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463800,7 +463800,7 @@ world
 				"v" "-7360 -784 -5194"
 				"v" "-7296 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463817,7 +463817,7 @@ world
 				"v" "-7360 -784 -5212"
 				"v" "-7216 -1535.93 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463835,7 +463835,7 @@ world
 				"v" "-7296 -784 -5194"
 				"v" "-7360 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463853,7 +463853,7 @@ world
 				"v" "-7360 -784 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463871,7 +463871,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-7296 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463902,7 +463902,7 @@ world
 				"v" "-7424 -784 -5194"
 				"v" "-7360 -784 -5194"
 			}
-			"material" "NATURE/WATER_ANZIO001_CHEAP"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -48] 0.13"
 			"vaxis" "[0 -1 0 40] 0.13"
 			"rotation" "0"
@@ -463920,7 +463920,7 @@ world
 				"v" "-7217.67 -1535.98 -5212"
 				"v" "-7216 -1535.98 -5212"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 -1 0 52] 0.25"
 			"rotation" "0"
@@ -463938,7 +463938,7 @@ world
 				"v" "-7360 -784 -5194"
 				"v" "-7424 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9824] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463956,7 +463956,7 @@ world
 				"v" "-7217.67 -1535.98 -5194"
 				"v" "-7216 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[1 0 0 -23.9844] 0.25"
 			"vaxis" "[0 0 -1 52] 0.25"
 			"rotation" "0"
@@ -463974,7 +463974,7 @@ world
 				"v" "-7424 -784 -5194"
 				"v" "-7217.67 -1535.98 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -463992,7 +463992,7 @@ world
 				"v" "-7216 -1535.98 -5194"
 				"v" "-7360 -784 -5194"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -610128,7 +610128,7 @@ entity
 	"id" "2742561"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "0"
@@ -641898,7 +641898,7 @@ entity
 	"id" "2742590"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "0"
@@ -649435,136 +649435,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 -16268]"
-	}
-}
-entity
-{
-	"id" "2883392"
-	"classname" "func_ladder"
-	solid
-	{
-		"id" "2883393"
-		side
-		{
-			"id" "134966"
-			"plane" "(-1139 1108 -96) (-1139 1112 -96) (-1115 1112 -96)"
-			vertices_plus
-			{
-				"v" "-1139 1108 -96"
-				"v" "-1139 1112 -96"
-				"v" "-1115 1112 -96"
-				"v" "-1115 1108 -96"
-			}
-			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 10.9964] 0.25"
-			"vaxis" "[0 -1 0 -7.9906] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "134967"
-			"plane" "(-1139 1112 -248) (-1139 1108 -248) (-1115 1108 -248)"
-			vertices_plus
-			{
-				"v" "-1139 1112 -248"
-				"v" "-1139 1108 -248"
-				"v" "-1115 1108 -248"
-				"v" "-1115 1112 -248"
-			}
-			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[-1 0 0 10.9964] 0.25"
-			"vaxis" "[0 -1 0 -7.9906] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "134968"
-			"plane" "(-1139 1108 -248) (-1139 1112 -248) (-1139 1112 -96)"
-			vertices_plus
-			{
-				"v" "-1139 1108 -248"
-				"v" "-1139 1112 -248"
-				"v" "-1139 1112 -96"
-				"v" "-1139 1108 -96"
-			}
-			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[0 -1 0 7.9906] 0.25"
-			"vaxis" "[0 0 -1 -8] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "134969"
-			"plane" "(-1115 1112 -248) (-1115 1108 -248) (-1115 1108 -96)"
-			vertices_plus
-			{
-				"v" "-1115 1112 -248"
-				"v" "-1115 1108 -248"
-				"v" "-1115 1108 -96"
-				"v" "-1115 1112 -96"
-			}
-			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[0 1 0 7.9906] 0.25"
-			"vaxis" "[0 0 -1 -8] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "134970"
-			"plane" "(-1139 1112 -248) (-1115 1112 -248) (-1115 1112 -96)"
-			vertices_plus
-			{
-				"v" "-1139 1112 -248"
-				"v" "-1115 1112 -248"
-				"v" "-1115 1112 -96"
-				"v" "-1139 1112 -96"
-			}
-			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[-1 0 0 10.9964] 0.25"
-			"vaxis" "[0 0 -1 -8] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "134971"
-			"plane" "(-1115 1108 -248) (-1139 1108 -248) (-1139 1108 -96)"
-			vertices_plus
-			{
-				"v" "-1115 1108 -248"
-				"v" "-1139 1108 -248"
-				"v" "-1139 1108 -96"
-				"v" "-1115 1108 -96"
-			}
-			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 10.9964] 0.25"
-			"vaxis" "[0 0 -1 -8] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[9000 -15768]"
 	}
 }
 entity
@@ -690527,6 +690397,7 @@ entity
 	"id" "2885091"
 	"classname" "prop_static"
 	"angles" "0 90 0"
+	"disableselfshadowing" "1"
 	"disableshadows" "0"
 	"fademaxdist" "1000"
 	"fademindist" "800"
@@ -690649,7 +690520,7 @@ entity
 	"classname" "prop_static"
 	"angles" "0 90 0"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"fademaxdist" "1000"
 	"fademindist" "800"
 	"fadescale" "1"
@@ -713427,7 +713298,7 @@ entity
 	"id" "2885704"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "0"
@@ -785968,24 +785839,6 @@ entity
 }
 entity
 {
-	"id" "3994210"
-	"classname" "editor_text"
-	"angles" "90 -0 0"
-	"color" "255 255 255"
-	"message" "<- Lightmap seam"
-	"textsize" "5"
-	"origin" "-1417 -449.5 -407"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"comments" "(it's more noticable in-game, trust me)"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
 	"id" "4003178"
 	"classname" "func_viscluster"
 	solid
@@ -805170,6 +805023,136 @@ entity
 		"logicalpos" "[0 1000]"
 	}
 }
+entity
+{
+	"id" "4044081"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "2883393"
+		side
+		{
+			"id" "156512"
+			"plane" "(-1139 1108 -96) (-1139 1112 -96) (-1115 1112 -96)"
+			vertices_plus
+			{
+				"v" "-1139 1108 -96"
+				"v" "-1139 1112 -96"
+				"v" "-1115 1112 -96"
+				"v" "-1115 1108 -96"
+			}
+			"material" "TOOLS/TOOLSINVISIBLELADDER"
+			"uaxis" "[1 0 0 10.9964] 0.25"
+			"vaxis" "[0 -1 0 -7.9906] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "156511"
+			"plane" "(-1139 1112 -248) (-1139 1108 -248) (-1115 1108 -248)"
+			vertices_plus
+			{
+				"v" "-1139 1112 -248"
+				"v" "-1139 1108 -248"
+				"v" "-1115 1108 -248"
+				"v" "-1115 1112 -248"
+			}
+			"material" "TOOLS/TOOLSINVISIBLELADDER"
+			"uaxis" "[-1 0 0 10.9964] 0.25"
+			"vaxis" "[0 -1 0 -7.9906] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "156510"
+			"plane" "(-1139 1108 -248) (-1139 1112 -248) (-1139 1112 -96)"
+			vertices_plus
+			{
+				"v" "-1139 1108 -248"
+				"v" "-1139 1112 -248"
+				"v" "-1139 1112 -96"
+				"v" "-1139 1108 -96"
+			}
+			"material" "TOOLS/TOOLSINVISIBLELADDER"
+			"uaxis" "[0 -1 0 7.9906] 0.25"
+			"vaxis" "[0 0 -1 -8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "156509"
+			"plane" "(-1115 1112 -248) (-1115 1108 -248) (-1115 1108 -96)"
+			vertices_plus
+			{
+				"v" "-1115 1112 -248"
+				"v" "-1115 1108 -248"
+				"v" "-1115 1108 -96"
+				"v" "-1115 1112 -96"
+			}
+			"material" "TOOLS/TOOLSINVISIBLELADDER"
+			"uaxis" "[0 1 0 7.9906] 0.25"
+			"vaxis" "[0 0 -1 -8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "156508"
+			"plane" "(-1139 1112 -248) (-1115 1112 -248) (-1115 1112 -96)"
+			vertices_plus
+			{
+				"v" "-1139 1112 -248"
+				"v" "-1115 1112 -248"
+				"v" "-1115 1112 -96"
+				"v" "-1139 1112 -96"
+			}
+			"material" "TOOLS/TOOLSINVISIBLELADDER"
+			"uaxis" "[-1 0 0 10.9964] 0.25"
+			"vaxis" "[0 0 -1 -8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "156507"
+			"plane" "(-1115 1108 -248) (-1139 1108 -248) (-1139 1108 -96)"
+			vertices_plus
+			{
+				"v" "-1115 1108 -248"
+				"v" "-1139 1108 -248"
+				"v" "-1139 1108 -96"
+				"v" "-1115 1108 -96"
+			}
+			"material" "TOOLS/TOOLSINVISIBLELADDER"
+			"uaxis" "[1 0 0 10.9964] 0.25"
+			"vaxis" "[0 0 -1 -8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "0 180 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
 cameras
 {
 	"activecamera" "4"
@@ -805195,8 +805178,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[-67.6087 517.871 -386.584]"
-		"look" "[-928.868 517.876 -296.064]"
+		"position" "[1254.23 -727.526 -574.936]"
+		"look" "[1897.39 -148.428 -605.157]"
 	}
 	camera
 	{
