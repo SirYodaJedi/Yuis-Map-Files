@@ -153315,7 +153315,7 @@ world
 				"v" "-576 1600 -592"
 				"v" "-320 1600 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -153333,7 +153333,7 @@ world
 				"v" "-576 1040 -608"
 				"v" "-320 1040 -608"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -153351,7 +153351,7 @@ world
 				"v" "-576 1600 -592"
 				"v" "-576 1040 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -153369,7 +153369,7 @@ world
 				"v" "-320 1600 -592"
 				"v" "-576 1600 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -153387,7 +153387,7 @@ world
 				"v" "-576 1040 -592"
 				"v" "-320 1040 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -153405,7 +153405,7 @@ world
 				"v" "-320 1040 -592"
 				"v" "-320 1600 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336314,7 +336314,7 @@ world
 				"v" "1872 -848 -592"
 				"v" "1392 -848 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -336332,7 +336332,7 @@ world
 				"v" "1872 -584 -768"
 				"v" "1392 -584 -768"
 			}
-			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 -16] 1"
 			"rotation" "0"
@@ -336350,7 +336350,7 @@ world
 				"v" "1872 -848 -592"
 				"v" "1872 -584 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 16] 1"
 			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
@@ -336368,7 +336368,7 @@ world
 				"v" "1872 -584 -592"
 				"v" "1392 -584 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
@@ -336386,7 +336386,7 @@ world
 				"v" "1392 -848 -592"
 				"v" "1872 -848 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336404,7 +336404,7 @@ world
 				"v" "1392 -584 -592"
 				"v" "1392 -848 -592"
 			}
-			"material" "NATURE/WATER_ANZIO001_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO001_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336434,7 +336434,7 @@ world
 				"v" "-320 1472 -592"
 				"v" "256 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -336452,7 +336452,7 @@ world
 				"v" "-320 640 -608"
 				"v" "256 640 -608"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -336470,7 +336470,7 @@ world
 				"v" "-320 1472 -592"
 				"v" "-320 640 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336488,7 +336488,7 @@ world
 				"v" "256 1472 -592"
 				"v" "-320 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336506,7 +336506,7 @@ world
 				"v" "-320 640 -592"
 				"v" "256 640 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336524,7 +336524,7 @@ world
 				"v" "256 640 -592"
 				"v" "256 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336554,7 +336554,7 @@ world
 				"v" "256 1472 -592"
 				"v" "512 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 16] 1"
 			"vaxis" "[0 -1 0 176] 1"
 			"rotation" "0"
@@ -336572,7 +336572,7 @@ world
 				"v" "256 640 -608"
 				"v" "512 640 -608"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -336590,7 +336590,7 @@ world
 				"v" "512 1472 -592"
 				"v" "256 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336608,7 +336608,7 @@ world
 				"v" "256 640 -592"
 				"v" "512 640 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336626,7 +336626,7 @@ world
 				"v" "512 640 -592"
 				"v" "512 1472 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -336644,7 +336644,7 @@ world
 				"v" "256 1472 -592"
 				"v" "256 640 -592"
 			}
-			"material" "NATURE/WATER_ANZIO002_ENHANCED_NOFOG"
+			"material" "NATURE/WATER_ANZIO002_ENHANCED_KEEPLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
