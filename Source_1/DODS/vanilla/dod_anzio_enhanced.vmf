@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "5834"
+	"mapversion" "5836"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -197,7 +197,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "5834"
+	"mapversion" "5836"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -468959,9 +468959,10 @@ entity
 	"fademaxdist" "1200"
 	"fademindist" "1000"
 	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exteriors/storefront1.mdl"
+	"generatelightmaps" "1"
+	"lightmapresolutionx" "256"
+	"lightmapresolutiony" "256"
+	"model" "models/props_exteriors/storefront1_lmuv.mdl"
 	"skin" "2"
 	"solid" "6"
 	"origin" "-228 692 -388"
@@ -762990,12 +762991,13 @@ entity
 	"fademaxdist" "1728"
 	"fademindist" "1560"
 	"fadescale" "0"
+	"generatelightmaps" "1"
 	"lightingorigin" "bar_facade"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
+	"lightmapresolutionx" "256"
+	"lightmapresolutiony" "256"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/props_exteriors/storefront3.mdl"
+	"model" "models/props_exteriors/storefront3_lmuv.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -806716,8 +806718,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[164.45 -564.249 -292.063]"
-		"look" "[328.447 285.785 -275.803]"
+		"position" "[-406.791 540.261 -342.483]"
+		"look" "[82.8507 1241.63 -476.797]"
 	}
 	camera
 	{
