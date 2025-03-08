@@ -14,3 +14,7 @@ forcetextureshadow props_building_details/storefront_template001a_bars.mdl
 hdr:ldr: essentially a decal; shouldn't cast shadows
 noshadow models/props_foliage/vines01.vmt
 noshadow models/props_foliage/vines01_a2c.vmt
+
+hdr:ldr: stained glass isn't opaque, but it doesn't have $translucent or $alphatest, so VRAD thinks it is
+noshadow models/props_italian/anzio_church_window1_glass.vmt
+noshadow models/props_italian/anzio_stained_glass.vmt
