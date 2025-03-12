@@ -176080,7 +176080,7 @@ entity
 {
 	"id" "3108"
 	"classname" "dod_trigger_sandbag"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"sandbag_range" "15"
 	"angles" "0 271 0"
 	solid
@@ -180265,7 +180265,7 @@ entity
 {
 	"id" "3205"
 	"classname" "dod_trigger_sandbag"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"sandbag_range" "15"
 	"angles" "0 271 0"
 	solid
@@ -180354,7 +180354,7 @@ entity
 {
 	"id" "3207"
 	"classname" "dod_trigger_sandbag"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"sandbag_range" "15"
 	solid
 	{
@@ -180442,7 +180442,7 @@ entity
 {
 	"id" "3209"
 	"classname" "dod_trigger_sandbag"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"sandbag_range" "15"
 	solid
 	{
@@ -180530,7 +180530,7 @@ entity
 {
 	"id" "3211"
 	"classname" "dod_trigger_sandbag"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"sandbag_range" "15"
 	"angles" "0 180 0"
 	solid
@@ -180619,7 +180619,7 @@ entity
 {
 	"id" "3213"
 	"classname" "dod_trigger_sandbag"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"sandbag_range" "15"
 	"angles" "0 180 0"
 	solid
@@ -180750,7 +180750,7 @@ entity
 {
 	"id" "3262"
 	"classname" "trigger_hurt"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"spawnflags" "128"
 	"dmg" "25"
 	"damage" "10"
@@ -180847,7 +180847,7 @@ entity
 {
 	"id" "3264"
 	"classname" "trigger_hurt"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"spawnflags" "64"
 	"dmg" "25"
 	"damage" "10"
@@ -180944,7 +180944,7 @@ entity
 {
 	"id" "3266"
 	"classname" "trigger_hurt"
-	"rendercolor" "0 0 0"
+	"rendercolor" "255 255 255"
 	"spawnflags" "64"
 	"dmg" "25"
 	"damage" "10"
