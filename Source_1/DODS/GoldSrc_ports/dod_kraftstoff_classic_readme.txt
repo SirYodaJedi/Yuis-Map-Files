@@ -2,4 +2,4 @@ An attempt at cleaning up Valve's unreleased port of dod_kraftstoff from DoD 1.3
 been abandoned soon after the decision to remake Day of Defeat from the ground up for its Source port, like 
 with Counter-Strike: Source instead of doing a mostly straight port like Half-Life: Source was. I am not going to
 be doing a fancy Source engine remake, just cleaning up and polishing what is already here. There are some features
-that are 
+that are missing from the original VMF which I've reimplemented (spawn protection, some decals), but there are others (like the autoturrets in Axis spawn) which are too difficult/not worth it to implement.
