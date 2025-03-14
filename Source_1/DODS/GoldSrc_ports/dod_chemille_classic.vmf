@@ -152196,7 +152196,7 @@ entity
 		{
 			"id" "14795"
 			"plane" "(-1536 -2240 216) (-1536 -2232 216) (-960 -2232 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -152251,7 +152251,7 @@ entity
 		{
 			"id" "14800"
 			"plane" "(-960 -2232 32) (-968 -2240 32) (-968 -2240 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158348,7 +158348,7 @@ entity
 		{
 			"id" "15011"
 			"plane" "(-2312 -2232 216) (-1792 -2232 216) (-1792 -2240 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -158449,7 +158449,7 @@ entity
 		{
 			"id" "15017"
 			"plane" "(-1816 -624 304) (-1816 160 304) (-1808 152 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -158504,7 +158504,7 @@ entity
 		{
 			"id" "15022"
 			"plane" "(-1808 152 128) (-1808 152 304) (-1816 160 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-0.707107 0.707107 0 -4.07733] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158550,7 +158550,7 @@ entity
 		{
 			"id" "15023"
 			"plane" "(-1608 160 304) (-1600 152 304) (-1808 152 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 1 0 -8] 1"
 			"rotation" "0"
@@ -158594,7 +158594,7 @@ entity
 		{
 			"id" "15027"
 			"plane" "(-1816 160 128) (-1816 160 304) (-1808 152 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158605,7 +158605,7 @@ entity
 		{
 			"id" "15028"
 			"plane" "(-1600 152 128) (-1600 152 304) (-1608 160 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158651,7 +158651,7 @@ entity
 		{
 			"id" "15029"
 			"plane" "(-2648 256 304) (-2648 744 304) (-2640 736 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[1 0 0 -8] 1"
 			"rotation" "0"
@@ -158706,7 +158706,7 @@ entity
 		{
 			"id" "15034"
 			"plane" "(-2640 736 128) (-2640 736 304) (-2648 744 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158726,7 +158726,7 @@ entity
 		{
 			"id" "15035"
 			"plane" "(-2640 736 304) (-2648 744 304) (-1984 744 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 8] 1"
 			"rotation" "0"
@@ -158770,7 +158770,7 @@ entity
 		{
 			"id" "15039"
 			"plane" "(-1984 736 128) (-1984 736 304) (-1984 744 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158781,7 +158781,7 @@ entity
 		{
 			"id" "15040"
 			"plane" "(-2648 744 128) (-2648 744 304) (-2640 736 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -158827,7 +158827,7 @@ entity
 		{
 			"id" "15041"
 			"plane" "(-1608 320 304) (-1600 320 304) (-1600 152 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -158882,7 +158882,7 @@ entity
 		{
 			"id" "15046"
 			"plane" "(-1608 160 128) (-1608 160 304) (-1600 152 304)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -165309,7 +165309,7 @@ entity
 		{
 			"id" "15473"
 			"plane" "(-576 -2432 216) (-584 -2432 216) (-584 -1520 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -165410,7 +165410,7 @@ entity
 		{
 			"id" "15479"
 			"plane" "(-768 -1336 216) (-768 -1324 216) (-576 -1516 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -167508,7 +167508,7 @@ entity
 		{
 			"id" "15567"
 			"plane" "(-968 -2240 216) (-960 -2232 216) (-960 -2376 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 -12] 1"
 			"vaxis" "[1 0 0 8] 1"
 			"rotation" "0"
@@ -167563,7 +167563,7 @@ entity
 		{
 			"id" "15572"
 			"plane" "(-960 -2232 216) (-968 -2240 216) (-968 -2240 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-0.707107 -0.707107 0 4.07733] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -167609,7 +167609,7 @@ entity
 		{
 			"id" "15573"
 			"plane" "(-776 -2720 216) (-776 -2728 216) (-896 -2752 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 8] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -167664,7 +167664,7 @@ entity
 		{
 			"id" "15578"
 			"plane" "(-776 -2728 216) (-776 -2720 216) (-776 -2720 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -167710,7 +167710,7 @@ entity
 		{
 			"id" "15579"
 			"plane" "(-584 -2432 216) (-576 -2432 216) (-600 -2536 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -167765,7 +167765,7 @@ entity
 		{
 			"id" "15584"
 			"plane" "(-576 -2432 216) (-584 -2432 216) (-584 -2432 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -167811,7 +167811,7 @@ entity
 		{
 			"id" "15585"
 			"plane" "(-664 -2640 216) (-660 -2644 216) (-776 -2728 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 8] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -167866,7 +167866,7 @@ entity
 		{
 			"id" "15590"
 			"plane" "(-660 -2644 216) (-664 -2640 216) (-664 -2640 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -167912,7 +167912,7 @@ entity
 		{
 			"id" "15591"
 			"plane" "(-600 -2536 216) (-660 -2644 216) (-664 -2640 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -167967,7 +167967,7 @@ entity
 		{
 			"id" "15596"
 			"plane" "(-608 -2536 216) (-608 -2536 32) (-600 -2536 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -168215,7 +168215,7 @@ entity
 		{
 			"id" "15651"
 			"plane" "(1680 624 272) (1688 616 272) (640 616 272)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 -8] 1"
 			"vaxis" "[0 1 0 -8] 1"
 			"rotation" "0"
@@ -168316,7 +168316,7 @@ entity
 		{
 			"id" "15657"
 			"plane" "(656 1920 224) (656 1616 224) (648 1608 224)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -168417,7 +168417,7 @@ entity
 		{
 			"id" "15663"
 			"plane" "(824 1608 224) (832 1616 224) (832 1408 224)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 -8] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -168518,7 +168518,7 @@ entity
 		{
 			"id" "15669"
 			"plane" "(648 1608 224) (656 1616 224) (832 1616 224)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -169023,7 +169023,7 @@ entity
 		{
 			"id" "15699"
 			"plane" "(896 1928 224) (896 1920 224) (656 1920 224)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 -8] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -169078,7 +169078,7 @@ entity
 		{
 			"id" "15704"
 			"plane" "(656 1920 144) (648 1928 144) (648 1928 224)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169124,7 +169124,7 @@ entity
 		{
 			"id" "15705"
 			"plane" "(1688 1928 272) (1688 616 272) (1680 624 272)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[-1 0 0 -8] 1"
 			"rotation" "0"
@@ -169294,7 +169294,7 @@ entity
 		{
 			"id" "15711"
 			"plane" "(-1600 -2744 216) (-896 -2744 216) (-896 -2752 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 8] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -169349,7 +169349,7 @@ entity
 		{
 			"id" "15716"
 			"plane" "(-896 -2752 32) (-896 -2752 216) (-896 -2744 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 -8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169395,7 +169395,7 @@ entity
 		{
 			"id" "15717"
 			"plane" "(-968 -2368 216) (-960 -2376 216) (-1920 -2376 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -169439,7 +169439,7 @@ entity
 		{
 			"id" "15721"
 			"plane" "(-1920 -2368 32) (-1920 -2368 216) (-1920 -2376 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169450,7 +169450,7 @@ entity
 		{
 			"id" "15722"
 			"plane" "(-960 -2376 32) (-960 -2376 216) (-968 -2368 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-0.707107 0.707107 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169496,7 +169496,7 @@ entity
 		{
 			"id" "15723"
 			"plane" "(-2040 -2400 216) (-2040 -2392 216) (-1920 -2368 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -169551,7 +169551,7 @@ entity
 		{
 			"id" "15728"
 			"plane" "(-2040 -2392 216) (-2040 -2400 216) (-2040 -2400 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169597,7 +169597,7 @@ entity
 		{
 			"id" "15729"
 			"plane" "(-2232 -2688 216) (-2240 -2688 216) (-2216 -2584 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[1 0 0 0] 1"
 			"rotation" "0"
@@ -169652,7 +169652,7 @@ entity
 		{
 			"id" "15734"
 			"plane" "(-2240 -2688 216) (-2232 -2688 216) (-2232 -2688 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169698,7 +169698,7 @@ entity
 		{
 			"id" "15735"
 			"plane" "(-2152 -2480 216) (-2156 -2476 216) (-2040 -2392 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -169753,7 +169753,7 @@ entity
 		{
 			"id" "15740"
 			"plane" "(-2156 -2476 216) (-2152 -2480 216) (-2152 -2480 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169799,7 +169799,7 @@ entity
 		{
 			"id" "15741"
 			"plane" "(-2216 -2584 216) (-2156 -2476 216) (-2152 -2480 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[1 0 0 0] 1"
 			"rotation" "0"
@@ -169854,7 +169854,7 @@ entity
 		{
 			"id" "15746"
 			"plane" "(-2208 -2584 216) (-2208 -2584 32) (-2216 -2584 32)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -169900,7 +169900,7 @@ entity
 		{
 			"id" "15747"
 			"plane" "(-2240 -2688 216) (-2232 -2688 216) (-2232 -3008 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 -8] 1"
 			"vaxis" "[1 0 0 0] 1"
 			"rotation" "0"
@@ -169955,7 +169955,7 @@ entity
 		{
 			"id" "15752"
 			"plane" "(-2232 -3008 32) (-2240 -3008 32) (-2240 -3008 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -170001,7 +170001,7 @@ entity
 		{
 			"id" "15753"
 			"plane" "(-1856 -3008 216) (-1864 -3008 216) (-1864 -2744 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[-1 0 0 0] 1"
 			"rotation" "0"
@@ -170056,7 +170056,7 @@ entity
 		{
 			"id" "15758"
 			"plane" "(-1864 -2744 32) (-1856 -2752 32) (-1856 -2752 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0.707107 -0.707107 0 -4.07732] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -170102,7 +170102,7 @@ entity
 		{
 			"id" "15759"
 			"plane" "(-1600 -2752 216) (-1856 -2752 216) (-1864 -2744 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-1 0 0 8] 1"
 			"vaxis" "[0 1 0 0] 1"
 			"rotation" "0"
@@ -170146,7 +170146,7 @@ entity
 		{
 			"id" "15763"
 			"plane" "(-1600 -2744 32) (-1600 -2752 32) (-1600 -2752 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 1 0 -8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -170157,7 +170157,7 @@ entity
 		{
 			"id" "15764"
 			"plane" "(-1856 -2752 32) (-1864 -2744 32) (-1864 -2744 216)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -171409,7 +171409,7 @@ entity
 		{
 			"id" "15849"
 			"plane" "(-1168 -3144 -40) (-1312 -3144 -40) (-1312 -3136 -40)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[1 0 0 -8] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -171453,7 +171453,7 @@ entity
 		{
 			"id" "15853"
 			"plane" "(-1312 -3136 -40) (-1312 -3144 -40) (-1312 -3144 -160)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[0 -1 0 8] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -171464,7 +171464,7 @@ entity
 		{
 			"id" "15854"
 			"plane" "(-1168 -3144 -40) (-1168 -3136 -40) (-1168 -3136 -160)"
-			"material" "DOD_ANZIO/{BLUE"
+			"material" "TOOLS/TOOLSINVISIBLE"
 			"uaxis" "[-0.707107 0.707107 0 12.9789] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
