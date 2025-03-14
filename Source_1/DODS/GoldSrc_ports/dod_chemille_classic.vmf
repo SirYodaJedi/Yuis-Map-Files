@@ -176354,7 +176354,7 @@ entity
 	"id" "3119"
 	"classname" "prop_physics"
 	"angles" "0 0 0"
-	"model" "models/helmets/helmet_axis.mdl"
+	"model" "models/helmets/helmet_german.mdl"
 	"mindxlevel" "0"
 	"maxdxlevel" "0"
 	"skin" "0"
@@ -176382,6 +176382,7 @@ entity
 		"visgroupid" "2"
 		"visgroupid" "3"
 		"visgroupshown" "1"
+		"comments" "Opting for vanilla DoDS model instead of ported DoD1.3 model, since that's what players will be wearing"
 	}
 }
 entity
