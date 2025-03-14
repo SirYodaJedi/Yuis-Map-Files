@@ -156407,38 +156407,6 @@ entity
 }
 entity
 {
-	"id" "2568"
-	"classname" "light_environment"
-	"angles" "0 270 0"
-	"_light" "255 128 64 90"
-	"pitch" "-60"
-	"_ambient" "128 255 255 30"
-	"origin" "-832 -320 704"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupid" "3"
-		"visgroupshown" "1"
-	}
-}
-entity
-{
-	"id" "2569"
-	"classname" "light_environment"
-	"angles" "0 270 0"
-	"_light" "255 128 64 90"
-	"pitch" "-60"
-	"_ambient" "128 255 255 30"
-	"origin" "128 1536 704"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupid" "3"
-		"visgroupshown" "1"
-	}
-}
-entity
-{
 	"id" "2570"
 	"classname" "func_detail"
 	"rendercolor" "255 255 255"
@@ -158936,22 +158904,6 @@ entity
 	{
 		"color" "220 30 220"
 		"visgroupid" "2"
-		"visgroupshown" "1"
-	}
-}
-entity
-{
-	"id" "2603"
-	"classname" "light_environment"
-	"angles" "0 270 0"
-	"_light" "255 128 64 90"
-	"pitch" "-60"
-	"_ambient" "128 255 255 30"
-	"origin" "-2016 48 704"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupid" "3"
 		"visgroupshown" "1"
 	}
 }
