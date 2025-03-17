@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "51"
+	"mapversion" "52"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -125,7 +125,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "51"
+	"mapversion" "52"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -151528,7 +151528,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2374.67 -1158.28 -9.99336"
 	editor
 	{
@@ -151608,7 +151608,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2374.67 -1158.28 118.007"
 	editor
 	{
@@ -151688,7 +151688,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1734.67 -742.28 150.007"
 	editor
 	{
@@ -151768,7 +151768,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1638.67 -966.28 150.007"
 	editor
 	{
@@ -151848,7 +151848,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1702.67 -966.28 -41.9934"
 	editor
 	{
@@ -151928,7 +151928,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1862.67 -1158.28 -16.9934"
 	editor
 	{
@@ -152009,7 +152009,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1734.67 -550.28 -49.9934"
 	editor
 	{
@@ -152089,7 +152089,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1734.67 -182.28 -89.9934"
 	editor
 	{
@@ -152169,7 +152169,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-630.669 -6.28003 38.0066"
 	editor
 	{
@@ -152249,7 +152249,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-118.669 -390.28 102.007"
 	editor
 	{
@@ -152329,7 +152329,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-262.669 -390.28 54.0066"
 	editor
 	{
@@ -152409,7 +152409,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-262.669 -710.28 54.0066"
 	editor
 	{
@@ -152489,7 +152489,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-758.669 -1142.28 102.007"
 	editor
 	{
@@ -152569,7 +152569,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1158.67 -1142.28 -25.9934"
 	editor
 	{
@@ -152649,7 +152649,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-99.6694 201.72 102.007"
 	editor
 	{
@@ -152729,7 +152729,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "281.331 281.72 54.0066"
 	editor
 	{
@@ -152809,7 +152809,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "441.331 473.72 38.0066"
 	editor
 	{
@@ -152889,7 +152889,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "441.331 633.72 38.0066"
 	editor
 	{
@@ -152969,7 +152969,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-582.669 265.72 86.0066"
 	editor
 	{
@@ -153049,7 +153049,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-902.669 265.72 86.0066"
 	editor
 	{
@@ -153129,7 +153129,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1057.67 441.72 166.007"
 	editor
 	{
@@ -153209,7 +153209,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1312.67 441.72 167.007"
 	editor
 	{
@@ -153289,7 +153289,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-902.669 681.72 150.007"
 	editor
 	{
@@ -153369,7 +153369,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1814.67 505.72 70.0066"
 	editor
 	{
@@ -154399,7 +154399,7 @@ entity
 	"model" "MODELS/mapmodels/hk_neucar_shot/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1360 -208 -191"
 	editor
 	{
@@ -165999,7 +165999,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2084 84 -30"
 	editor
 	{
@@ -166025,7 +166025,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2087 216 -30"
 	editor
 	{
@@ -166051,7 +166051,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2496 679 -148"
 	editor
 	{
@@ -166077,7 +166077,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2087 -387 -148"
 	editor
 	{
@@ -166103,7 +166103,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2299 -543 -148"
 	editor
 	{
@@ -166129,7 +166129,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1471 -608 -132"
 	editor
 	{
@@ -174027,7 +174027,7 @@ entity
 	"model" "models/mapmodels/street_lamp1/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1296 -1760 -112"
 	editor
 	{
@@ -174053,7 +174053,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-960 -1488 -160"
 	editor
 	{
@@ -177049,7 +177049,7 @@ entity
 	"model" "models/mapmodels/big_water_tower/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "940 1503 392"
 	editor
 	{
@@ -177075,7 +177075,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "1584 1855 -60"
 	editor
 	{
@@ -177101,7 +177101,7 @@ entity
 	"model" "models/props_foliage/tree_deciduous_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "132 1266 -63"
 	editor
 	{
@@ -185431,7 +185431,7 @@ entity
 	"model" "models/mapmodels/hk_radio/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1231 287 -8"
 	editor
 	{
@@ -185458,7 +185458,7 @@ entity
 	"model" "models/mapmodels/hk_radio/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1209 287 -8"
 	editor
 	{
@@ -185485,7 +185485,7 @@ entity
 	"model" "models/props_foliage/tree_deciduous_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1980 -134 -41"
 	editor
 	{
@@ -198829,7 +198829,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1136 -1664 -160"
 	editor
 	{
@@ -198855,7 +198855,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2546 -1712 51"
 	editor
 	{
@@ -198881,7 +198881,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2528 -1516 48"
 	editor
 	{
@@ -198927,7 +198927,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1632.82 -2483.52 -161.43"
 	editor
 	{
@@ -199516,7 +199516,7 @@ entity
 	"model" "models/mapmodels/street_lamp1/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-848 -848 -134"
 	editor
 	{
@@ -199542,7 +199542,7 @@ entity
 	"model" "models/mapmodels/street_lamp1/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1856 128 11"
 	editor
 	{
@@ -199568,7 +199568,7 @@ entity
 	"model" "models/props_foliage/tree_deciduous_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2076 -118 -25"
 	editor
 	{
@@ -199594,7 +199594,7 @@ entity
 	"model" "models/mapmodels/street_lamp1/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2400 -368 -101"
 	editor
 	{
@@ -199878,7 +199878,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1900.82 -2471.52 -49.43"
 	editor
 	{
@@ -199904,7 +199904,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1900.82 -2631.52 -45.43"
 	editor
 	{
@@ -199930,7 +199930,7 @@ entity
 	"model" "models/mapmodels/street_lamp1/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2360 616 42"
 	editor
 	{
@@ -199955,7 +199955,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1406.67 -3262.28 -53.9934"
 	editor
 	{
@@ -200032,7 +200032,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-1662.67 -3262.28 -49.9934"
 	editor
 	{
@@ -200204,7 +200204,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/mapmodels/bulb/0_vertexlit.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2118.67 -1030.28 151.007"
 	editor
 	{
@@ -200230,7 +200230,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "192 559 -120"
 	editor
 	{
@@ -200256,7 +200256,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-4 463 -68"
 	editor
 	{
@@ -200282,7 +200282,7 @@ entity
 	"model" "models/mapmodels/barbed_wire/0_vertexlit.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-2755 -64 30"
 	editor
 	{
@@ -343833,8 +343833,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[344.941 768.233 411.73]"
-		"look" "[344.123 768.632 411.301]"
+		"position" "[-1170.98 328.956 7.49119]"
+		"look" "[-1170.76 328.277 6.78176]"
 	}
 }
 cordons
