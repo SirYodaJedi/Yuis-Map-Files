@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "65"
+	"mapversion" "67"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -131,7 +131,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "65"
+	"mapversion" "67"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -93416,9 +93416,9 @@ world
 				"v" "112 64 144"
 				"v" "112 -80 144"
 			}
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[0 -1 0 57] 1"
-			"vaxis" "[-1 0 0 48] 1"
+			"material" "TOOLS/CR_MATWOOD"
+			"uaxis" "[0 -1 0 25] 1"
+			"vaxis" "[-1 0 0 16] 1"
 			"rotation" "90"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -93434,9 +93434,9 @@ world
 				"v" "112 -80 140"
 				"v" "112 64 140"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[-1 0 0 -4] 1"
-			"vaxis" "[0 -1 0 48] 1"
+			"vaxis" "[0 -1 0 16] 1"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -93452,9 +93452,9 @@ world
 				"v" "-304 64 144"
 				"v" "-304 -80 144"
 			}
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[0 -1 0 48] 1"
-			"vaxis" "[0 0 -1 -48] 1"
+			"material" "TOOLS/CR_MATWOOD"
+			"uaxis" "[0 -1 0 16] 1"
+			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -93470,9 +93470,9 @@ world
 				"v" "112 -80 144"
 				"v" "112 64 144"
 			}
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[0 1 0 -48] 1"
-			"vaxis" "[0 0 -1 -48] 1"
+			"material" "TOOLS/CR_MATWOOD"
+			"uaxis" "[0 1 0 -16] 1"
+			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -93488,9 +93488,9 @@ world
 				"v" "112 64 144"
 				"v" "-304 64 144"
 			}
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[-1 0 0 -40] 1"
-			"vaxis" "[0 0 -1 -48] 1"
+			"material" "TOOLS/CR_MATWOOD"
+			"uaxis" "[-1 0 0 -8] 1"
+			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -93506,9 +93506,9 @@ world
 				"v" "-304 -80 144"
 				"v" "112 -80 144"
 			}
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[1 0 0 40] 1"
-			"vaxis" "[0 0 -1 -48] 1"
+			"material" "TOOLS/CR_MATWOOD"
+			"uaxis" "[1 0 0 8] 1"
+			"vaxis" "[0 0 -1 -16] 1"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -93773,7 +93773,7 @@ world
 				"v" "112 -200 16"
 				"v" "112 -304 16"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -93791,7 +93791,7 @@ world
 				"v" "112 -304 -48"
 				"v" "112 -80 -48"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -93809,7 +93809,7 @@ world
 				"v" "16 -200 16"
 				"v" "16 -304 16"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93827,7 +93827,7 @@ world
 				"v" "112 -304 16"
 				"v" "112 -200 16"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93845,7 +93845,7 @@ world
 				"v" "16 -80 -48"
 				"v" "112 -80 -48"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93863,7 +93863,7 @@ world
 				"v" "16 -304 16"
 				"v" "112 -304 16"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93892,7 +93892,7 @@ world
 				"v" "-112 -208 72"
 				"v" "-112 -304 72"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -93910,7 +93910,7 @@ world
 				"v" "16 -304 -48"
 				"v" "16 -208 -48"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
@@ -93928,7 +93928,7 @@ world
 				"v" "-208 -208 72"
 				"v" "-208 -304 72"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[0 -1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93946,7 +93946,7 @@ world
 				"v" "16 -304 8"
 				"v" "16 -208 8"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[0 1 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93965,7 +93965,7 @@ world
 				"v" "-112 -208 72"
 				"v" "-208 -208 72"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[-1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -93984,7 +93984,7 @@ world
 				"v" "-112 -304 72"
 				"v" "16 -304 8"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[1 0 0 0] 1"
 			"vaxis" "[0 0 -1 0] 1"
 			"rotation" "0"
@@ -94002,9 +94002,9 @@ world
 				"v" "16 -208 8"
 				"v" "16 -304 8"
 			}
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/CR_MATWOOD"
 			"uaxis" "[0 -1 0 0] 1"
-			"vaxis" "[0.707107 0 -0.707107 -45.2548] 1"
+			"vaxis" "[0.707107 0 -0.707107 -13.2548] 1"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -189953,7 +189953,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"spawnflags" "1"
-	"targetname" "door_near_destroyedhouse"
+	"targetname" "door_near_house"
 	"tntdelay" "3"
 	"vrad_brush_cast_shadows" "0"
 	solid
@@ -342952,13 +342952,16 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_house"
+	"targetname" "bombtarget_house_allies"
 	connections
 	{
-		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
-		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
+		"OnBombExploded" "door_near_house,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house_axis,Kill,,1,-1"
+		"OnBombExploded" "bombtarget_house_allies,Kill,,1.01,-1"
+		"OnBombPlanted" "bombtarget_house_axis,Disable,,0,-1"
+		"OnBombDefused" "bombtarget_house_axis,Enable,,0,-1"
 	}
-	"origin" "76 -320 68"
+	"origin" "64 -314 68"
 	editor
 	{
 		"color" "220 30 220"
@@ -342975,13 +342978,16 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_house"
+	"targetname" "bombtarget_house_allies"
 	connections
 	{
-		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
-		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
+		"OnBombExploded" "door_near_house,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house_allies,Kill,,1.01,-1"
+		"OnBombExploded" "bombtarget_house_axis,Kill,,1,-1"
+		"OnBombDefused" "bombtarget_house_axis,Enable,,0,-1"
+		"OnBombPlanted" "bombtarget_house_axis,Disable,,0,-1"
 	}
-	"origin" "76 -300 68"
+	"origin" "64 -306 68"
 	editor
 	{
 		"color" "220 30 220"
@@ -342998,13 +343004,16 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_house"
+	"targetname" "bombtarget_house_axis"
 	connections
 	{
-		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
-		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
+		"OnBombExploded" "door_near_house,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house_axis,Kill,,1.01,-1"
+		"OnBombExploded" "bombtarget_house_allies,Kill,,1,-1"
+		"OnBombPlanted" "bombtarget_house_allies,Disable,,0,-1"
+		"OnBombDefused" "bombtarget_house_allies,Enable,,0,-1"
 	}
-	"origin" "52 -300 68"
+	"origin" "64 -306 68"
 	editor
 	{
 		"color" "220 30 220"
@@ -343021,13 +343030,16 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_house"
+	"targetname" "bombtarget_house_axis"
 	connections
 	{
-		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
-		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
+		"OnBombExploded" "door_near_house,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house_allies,Kill,,1,-1"
+		"OnBombExploded" "bombtarget_house_axis,Kill,,1.01,-1"
+		"OnBombPlanted" "bombtarget_house_allies,Disable,,0,-1"
+		"OnBombDefused" "bombtarget_house_allies,Enable,,0,-1"
 	}
-	"origin" "52 -320 68"
+	"origin" "64 -314 68"
 	editor
 	{
 		"color" "220 30 220"
@@ -343044,13 +343056,16 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_factory"
+	"targetname" "bombtarget_factory_axis"
 	connections
 	{
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
-		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
+		"OnBombExploded" "bombtarget_factory_allies,Kill,,1,-1"
+		"OnBombExploded" "bombtarget_factory_axis,Kill,,1.01,-1"
+		"OnBombDefused" "bombtarget_factory_allies,Enable,,0,-1"
+		"OnBombPlanted" "bombtarget_factory_allies,Disable,,0,-1"
 	}
-	"origin" "-1532 -980 56"
+	"origin" "-1530 -994 56"
 	editor
 	{
 		"color" "220 30 220"
@@ -343067,13 +343082,16 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_factory"
+	"targetname" "bombtarget_factory_allies"
 	connections
 	{
+		"OnBombPlanted" "bombtarget_factory_axis,Disable,,0,-1"
+		"OnBombExploded" "bombtarget_factory_allies,Kill,,1.01,-1"
+		"OnBombExploded" "bombtarget_factory_axis,Kill,,1,-1"
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
-		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
+		"OnBombDefused" "bombtarget_factory_axis,Enable,,0,-1"
 	}
-	"origin" "-1532 -1004 56"
+	"origin" "-1530 -994 56"
 	editor
 	{
 		"color" "220 30 220"
@@ -343090,13 +343108,16 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_factory"
+	"targetname" "bombtarget_factory_axis"
 	connections
 	{
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
-		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
+		"OnBombExploded" "bombtarget_factory_axis,Kill,,1.01,-1"
+		"OnBombExploded" "bombtarget_factory_allies,Kill,,1,-1"
+		"OnBombPlanted" "bombtarget_factory_allies,Disable,,0,-1"
+		"OnBombDefused" "bombtarget_factory_allies,Enable,,0,-1"
 	}
-	"origin" "-1520 -980 56"
+	"origin" "-1522 -994 56"
 	editor
 	{
 		"color" "220 30 220"
@@ -343113,13 +343134,16 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
-	"targetname" "bombtarget_factory"
+	"targetname" "bombtarget_factory_allies"
 	connections
 	{
+		"OnBombPlanted" "bombtarget_factory_axis,Disable,,0,-1"
+		"OnBombExploded" "bombtarget_factory_allies,Kill,,1.01,-1"
+		"OnBombExploded" "bombtarget_factory_axis,Kill,,1,-1"
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
-		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
+		"OnBombDefused" "bombtarget_factory_axis,Enable,,0,-1"
 	}
-	"origin" "-1520 -1004 56"
+	"origin" "-1522 -994 56"
 	editor
 	{
 		"color" "220 30 220"
@@ -343485,8 +343509,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[405.207 986.062 94.5277]"
-		"look" "[406.166 986.369 94.4641]"
+		"position" "[-21.6998 -188.498 217.338]"
+		"look" "[-22.4346 -187.972 216.89]"
 	}
 }
 cordons
