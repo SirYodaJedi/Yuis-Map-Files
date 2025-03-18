@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "62"
+	"mapversion" "65"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -56,7 +56,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "1"
 }
 palette_plus
 {
@@ -131,7 +131,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "62"
+	"mapversion" "65"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -155537,20 +155537,22 @@ entity
 entity
 {
 	"id" "2538"
-	"classname" "func_ladder"
+	"classname" "func_detail"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
 	solid
 	{
 		"id" "2539"
 		side
 		{
 			"id" "14849"
-			"plane" "(-1608 -712 74) (-1640 -712 74) (-1640 -708 74)"
+			"plane" "(-1640 -709 74) (-1608 -709 74) (-1608 -712 74)"
 			vertices_plus
 			{
-				"v" "-1640 -712 74"
-				"v" "-1640 -708 74"
-				"v" "-1608 -708 74"
+				"v" "-1640 -709 74"
+				"v" "-1608 -709 74"
 				"v" "-1608 -712 74"
+				"v" "-1640 -712 74"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 -12] 1"
@@ -155562,13 +155564,13 @@ entity
 		side
 		{
 			"id" "14850"
-			"plane" "(-1608 -752 -150) (-1640 -752 -150) (-1640 -756 -150)"
+			"plane" "(-1640 -756 -150) (-1608 -756 -150) (-1608 -753 -150)"
 			vertices_plus
 			{
-				"v" "-1640 -752 -150"
 				"v" "-1640 -756 -150"
 				"v" "-1608 -756 -150"
-				"v" "-1608 -752 -150"
+				"v" "-1608 -753 -150"
+				"v" "-1640 -753 -150"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 -12] 1"
@@ -155580,13 +155582,13 @@ entity
 		side
 		{
 			"id" "14851"
-			"plane" "(-1608 -756 -150) (-1608 -712 74) (-1608 -708 74)"
+			"plane" "(-1608 -756 -150) (-1608 -712 74) (-1608 -709 74)"
 			vertices_plus
 			{
-				"v" "-1608 -752 -150"
 				"v" "-1608 -756 -150"
 				"v" "-1608 -712 74"
-				"v" "-1608 -708 74"
+				"v" "-1608 -709 74"
+				"v" "-1608 -753 -150"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 0 -1 -5.88123] 1"
@@ -155598,13 +155600,13 @@ entity
 		side
 		{
 			"id" "14852"
-			"plane" "(-1640 -752 -150) (-1640 -708 74) (-1640 -712 74)"
+			"plane" "(-1640 -753 -150) (-1640 -709 74) (-1640 -712 74)"
 			vertices_plus
 			{
-				"v" "-1640 -756 -150"
-				"v" "-1640 -752 -150"
-				"v" "-1640 -708 74"
+				"v" "-1640 -753 -150"
+				"v" "-1640 -709 74"
 				"v" "-1640 -712 74"
+				"v" "-1640 -756 -150"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 0 -1 -5.88123] 1"
@@ -155619,10 +155621,10 @@ entity
 			"plane" "(-1640 -756 -150) (-1640 -712 74) (-1608 -712 74)"
 			vertices_plus
 			{
-				"v" "-1608 -756 -150"
 				"v" "-1640 -756 -150"
 				"v" "-1640 -712 74"
 				"v" "-1608 -712 74"
+				"v" "-1608 -756 -150"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 0 -1 -29.3515] 0.8"
@@ -155634,13 +155636,13 @@ entity
 		side
 		{
 			"id" "14854"
-			"plane" "(-1608 -752 -150) (-1608 -708 74) (-1640 -708 74)"
+			"plane" "(-1608 -753 -150) (-1608 -709 74) (-1640 -709 74)"
 			vertices_plus
 			{
-				"v" "-1640 -752 -150"
-				"v" "-1608 -752 -150"
-				"v" "-1608 -708 74"
-				"v" "-1640 -708 74"
+				"v" "-1608 -753 -150"
+				"v" "-1608 -709 74"
+				"v" "-1640 -709 74"
+				"v" "-1640 -753 -150"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 0 -1 -20.3515] 0.8"
@@ -155651,14 +155653,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 8500]"
@@ -169610,20 +169612,22 @@ entity
 entity
 {
 	"id" "2665"
-	"classname" "func_ladder"
+	"classname" "func_detail"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
 	solid
 	{
 		"id" "2666"
 		side
 		{
 			"id" "15293"
-			"plane" "(464 1000 136) (432 1000 136) (432 1004 136)"
+			"plane" "(432 1003 136) (464 1003 136) (464 1000 136)"
 			vertices_plus
 			{
-				"v" "432 1000 136"
-				"v" "432 1004 136"
-				"v" "464 1004 136"
+				"v" "432 1003 136"
+				"v" "464 1003 136"
 				"v" "464 1000 136"
+				"v" "432 1000 136"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 16] 1"
@@ -169635,13 +169639,13 @@ entity
 		side
 		{
 			"id" "15294"
-			"plane" "(464 980 -48) (432 980 -48) (432 976 -48)"
+			"plane" "(432 976 -48) (464 976 -48) (464 979 -48)"
 			vertices_plus
 			{
-				"v" "432 980 -48"
 				"v" "432 976 -48"
 				"v" "464 976 -48"
-				"v" "464 980 -48"
+				"v" "464 979 -48"
+				"v" "432 979 -48"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[-1 0 0 -16] 1"
@@ -169653,13 +169657,13 @@ entity
 		side
 		{
 			"id" "15295"
-			"plane" "(432 976 -48) (432 980 -48) (432 1004 136)"
+			"plane" "(432 979 -48) (432 1003 136) (432 1000 136)"
 			vertices_plus
 			{
-				"v" "432 976 -48"
-				"v" "432 980 -48"
-				"v" "432 1004 136"
+				"v" "432 979 -48"
+				"v" "432 1003 136"
 				"v" "432 1000 136"
+				"v" "432 976 -48"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 -1 0 16] 1"
@@ -169671,13 +169675,13 @@ entity
 		side
 		{
 			"id" "15296"
-			"plane" "(464 1000 136) (464 1004 136) (464 980 -48)"
+			"plane" "(464 976 -48) (464 1000 136) (464 1003 136)"
 			vertices_plus
 			{
-				"v" "464 980 -48"
 				"v" "464 976 -48"
 				"v" "464 1000 136"
-				"v" "464 1004 136"
+				"v" "464 1003 136"
+				"v" "464 979 -48"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 -16] 1"
@@ -169689,13 +169693,13 @@ entity
 		side
 		{
 			"id" "15297"
-			"plane" "(432 980 -48) (464 980 -48) (464 1004 136)"
+			"plane" "(464 979 -48) (464 1003 136) (432 1003 136)"
 			vertices_plus
 			{
-				"v" "432 980 -48"
-				"v" "464 980 -48"
-				"v" "464 1004 136"
-				"v" "432 1004 136"
+				"v" "464 979 -48"
+				"v" "464 1003 136"
+				"v" "432 1003 136"
+				"v" "432 979 -48"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[-1 0 0 -16] 0.5"
@@ -169707,13 +169711,13 @@ entity
 		side
 		{
 			"id" "15298"
-			"plane" "(432 1000 136) (464 1000 136) (464 976 -48)"
+			"plane" "(432 976 -48) (432 1000 136) (464 1000 136)"
 			vertices_plus
 			{
-				"v" "464 976 -48"
 				"v" "432 976 -48"
 				"v" "432 1000 136"
 				"v" "464 1000 136"
+				"v" "464 976 -48"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 16] 0.5"
@@ -169724,14 +169728,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -2768]"
@@ -172978,20 +172982,22 @@ entity
 entity
 {
 	"id" "2711"
-	"classname" "func_ladder"
+	"classname" "func_detail"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
 	solid
 	{
 		"id" "2712"
 		side
 		{
 			"id" "15455"
-			"plane" "(-1880 -2120 312) (-1876 -2120 312) (-1876 -2152 312)"
+			"plane" "(-1877 -2152 312) (-1880 -2152 312) (-1880 -2120 312)"
 			vertices_plus
 			{
-				"v" "-1876 -2152 312"
+				"v" "-1877 -2152 312"
 				"v" "-1880 -2152 312"
 				"v" "-1880 -2120 312"
-				"v" "-1876 -2120 312"
+				"v" "-1877 -2120 312"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 -1 0 8] 1"
@@ -173003,13 +173009,13 @@ entity
 		side
 		{
 			"id" "15456"
-			"plane" "(-1876 -2120 40) (-1880 -2120 40) (-1880 -2152 40)"
+			"plane" "(-1877 -2120 40) (-1880 -2120 40) (-1880 -2152 40)"
 			vertices_plus
 			{
-				"v" "-1876 -2120 40"
+				"v" "-1877 -2120 40"
 				"v" "-1880 -2120 40"
 				"v" "-1880 -2152 40"
-				"v" "-1876 -2152 40"
+				"v" "-1877 -2152 40"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 -8] 1"
@@ -173021,12 +173027,12 @@ entity
 		side
 		{
 			"id" "15457"
-			"plane" "(-1876 -2120 40) (-1876 -2120 312) (-1880 -2120 312)"
+			"plane" "(-1880 -2120 40) (-1877 -2120 40) (-1877 -2120 312)"
 			vertices_plus
 			{
 				"v" "-1880 -2120 40"
-				"v" "-1876 -2120 40"
-				"v" "-1876 -2120 312"
+				"v" "-1877 -2120 40"
+				"v" "-1877 -2120 312"
 				"v" "-1880 -2120 312"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
@@ -173039,13 +173045,13 @@ entity
 		side
 		{
 			"id" "15458"
-			"plane" "(-1876 -2152 312) (-1876 -2152 40) (-1880 -2152 40)"
+			"plane" "(-1877 -2152 40) (-1880 -2152 40) (-1880 -2152 312)"
 			vertices_plus
 			{
-				"v" "-1876 -2152 40"
+				"v" "-1877 -2152 40"
 				"v" "-1880 -2152 40"
 				"v" "-1880 -2152 312"
-				"v" "-1876 -2152 312"
+				"v" "-1877 -2152 312"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 -8] 1"
@@ -173057,13 +173063,13 @@ entity
 		side
 		{
 			"id" "15459"
-			"plane" "(-1876 -2152 40) (-1876 -2152 312) (-1876 -2120 312)"
+			"plane" "(-1877 -2120 40) (-1877 -2152 40) (-1877 -2152 312)"
 			vertices_plus
 			{
-				"v" "-1876 -2120 40"
-				"v" "-1876 -2152 40"
-				"v" "-1876 -2152 312"
-				"v" "-1876 -2120 312"
+				"v" "-1877 -2120 40"
+				"v" "-1877 -2152 40"
+				"v" "-1877 -2152 312"
+				"v" "-1877 -2120 312"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 -16] 0.5"
@@ -173075,7 +173081,7 @@ entity
 		side
 		{
 			"id" "15460"
-			"plane" "(-1880 -2152 312) (-1880 -2152 40) (-1880 -2120 40)"
+			"plane" "(-1880 -2152 40) (-1880 -2120 40) (-1880 -2120 312)"
 			vertices_plus
 			{
 				"v" "-1880 -2152 40"
@@ -173092,14 +173098,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 5000]"
@@ -173238,19 +173244,21 @@ entity
 entity
 {
 	"id" "2715"
-	"classname" "func_ladder"
+	"classname" "func_detail"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
 	solid
 	{
 		"id" "2716"
 		side
 		{
 			"id" "15467"
-			"plane" "(-1960 -2072 112) (-1960 -2068 112) (-1928 -2068 112)"
+			"plane" "(-1960 -2072 112) (-1960 -2069 112) (-1928 -2069 112)"
 			vertices_plus
 			{
 				"v" "-1960 -2072 112"
-				"v" "-1960 -2068 112"
-				"v" "-1928 -2068 112"
+				"v" "-1960 -2069 112"
+				"v" "-1928 -2069 112"
 				"v" "-1928 -2072 112"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
@@ -173263,13 +173271,13 @@ entity
 		side
 		{
 			"id" "15468"
-			"plane" "(-1960 -2068 -160) (-1960 -2072 -160) (-1928 -2072 -160)"
+			"plane" "(-1960 -2069 -160) (-1960 -2072 -160) (-1928 -2072 -160)"
 			vertices_plus
 			{
-				"v" "-1960 -2068 -160"
+				"v" "-1960 -2069 -160"
 				"v" "-1960 -2072 -160"
 				"v" "-1928 -2072 -160"
-				"v" "-1928 -2068 -160"
+				"v" "-1928 -2069 -160"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[-1 0 0 8] 1"
@@ -173281,12 +173289,12 @@ entity
 		side
 		{
 			"id" "15469"
-			"plane" "(-1960 -2068 -160) (-1960 -2068 112) (-1960 -2072 112)"
+			"plane" "(-1960 -2072 -160) (-1960 -2069 -160) (-1960 -2069 112)"
 			vertices_plus
 			{
 				"v" "-1960 -2072 -160"
-				"v" "-1960 -2068 -160"
-				"v" "-1960 -2068 112"
+				"v" "-1960 -2069 -160"
+				"v" "-1960 -2069 112"
 				"v" "-1960 -2072 112"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
@@ -173299,13 +173307,13 @@ entity
 		side
 		{
 			"id" "15470"
-			"plane" "(-1928 -2068 112) (-1928 -2068 -160) (-1928 -2072 -160)"
+			"plane" "(-1928 -2069 -160) (-1928 -2072 -160) (-1928 -2072 112)"
 			vertices_plus
 			{
-				"v" "-1928 -2068 -160"
+				"v" "-1928 -2069 -160"
 				"v" "-1928 -2072 -160"
 				"v" "-1928 -2072 112"
-				"v" "-1928 -2068 112"
+				"v" "-1928 -2069 112"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 -8] 1"
@@ -173317,13 +173325,13 @@ entity
 		side
 		{
 			"id" "15471"
-			"plane" "(-1928 -2068 -160) (-1928 -2068 112) (-1960 -2068 112)"
+			"plane" "(-1960 -2069 -160) (-1928 -2069 -160) (-1928 -2069 112)"
 			vertices_plus
 			{
-				"v" "-1960 -2068 -160"
-				"v" "-1928 -2068 -160"
-				"v" "-1928 -2068 112"
-				"v" "-1960 -2068 112"
+				"v" "-1960 -2069 -160"
+				"v" "-1928 -2069 -160"
+				"v" "-1928 -2069 112"
+				"v" "-1960 -2069 112"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[-1 0 0 16] 0.5"
@@ -173335,7 +173343,7 @@ entity
 		side
 		{
 			"id" "15472"
-			"plane" "(-1928 -2072 112) (-1928 -2072 -160) (-1960 -2072 -160)"
+			"plane" "(-1928 -2072 -160) (-1960 -2072 -160) (-1960 -2072 112)"
 			vertices_plus
 			{
 				"v" "-1928 -2072 -160"
@@ -173352,14 +173360,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 6000]"
@@ -342341,7 +342349,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "226 179 154 10"
+	"_light" "226 179 154 5"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -342366,7 +342374,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "226 179 154 10"
+	"_light" "226 179 154 5"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -342944,9 +342952,11 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_house"
 	connections
 	{
 		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
 	}
 	"origin" "76 -320 68"
 	editor
@@ -342965,9 +342975,11 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_house"
 	connections
 	{
 		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
 	}
 	"origin" "76 -300 68"
 	editor
@@ -342986,9 +342998,11 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_house"
 	connections
 	{
 		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
 	}
 	"origin" "52 -300 68"
 	editor
@@ -343007,9 +343021,11 @@ entity
 	"angles" "-90 90 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_house"
 	connections
 	{
 		"OnBombExploded" "door_near_destroyedhouse,Break,,0,-1"
+		"OnBombExploded" "bombtarget_house,Kill,,1,-1"
 	}
 	"origin" "52 -320 68"
 	editor
@@ -343028,9 +343044,11 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_factory"
 	connections
 	{
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
+		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
 	}
 	"origin" "-1532 -980 56"
 	editor
@@ -343049,9 +343067,11 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_factory"
 	connections
 	{
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
+		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
 	}
 	"origin" "-1532 -1004 56"
 	editor
@@ -343070,9 +343090,11 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "3"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_factory"
 	connections
 	{
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
+		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
 	}
 	"origin" "-1520 -980 56"
 	editor
@@ -343091,9 +343113,11 @@ entity
 	"angles" "-90 0 0"
 	"bombing_team" "2"
 	"StartDisabled" "0"
+	"targetname" "bombtarget_factory"
 	connections
 	{
 		"OnBombExploded" "door_near_factory,Break,,0,-1"
+		"OnBombExploded" "bombtarget_factory,Kill,,1,-1"
 	}
 	"origin" "-1520 -1004 56"
 	editor
@@ -343461,8 +343485,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2218.8 417.711 175.698]"
-		"look" "[-2219.63 418.28 175.69]"
+		"position" "[405.207 986.062 94.5277]"
+		"look" "[406.166 986.369 94.4641]"
 	}
 }
 cordons
