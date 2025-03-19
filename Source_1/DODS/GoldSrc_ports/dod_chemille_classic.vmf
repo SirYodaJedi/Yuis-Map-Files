@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "78"
+	"mapversion" "81"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -149,7 +149,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "78"
+	"mapversion" "81"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -343032,13 +343032,37 @@ entity
 		"logicalpos" "[0 5000]"
 	}
 }
+entity
+{
+	"id" "80075"
+	"classname" "env_wind"
+	"angles" "0 45 0"
+	"gustdirchange" "20"
+	"gustduration" "5"
+	"maxgust" "25"
+	"maxgustdelay" "0"
+	"maxwind" "25"
+	"mingust" "25"
+	"mingustdelay" "0"
+	"minwind" "25"
+	"targetname" "wind_ent"
+	"origin" "988 -340 345"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Why don't you work?"
+		"logicalpos" "[0 6000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
 		"position" "[929.655 -146.381 432.728]"
-		"look" "[929.923 -147.246 432.278]"
+		"look" "[929.978 -147.269 432.368]"
 	}
 }
 cordons
