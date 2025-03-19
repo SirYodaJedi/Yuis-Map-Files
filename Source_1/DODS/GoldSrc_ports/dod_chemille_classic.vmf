@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "82"
+	"mapversion" "84"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -149,7 +149,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "82"
+	"mapversion" "84"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -178508,6 +178508,7 @@ entity
 	"id" "2840"
 	"classname" "dod_control_point"
 	"angles" "0 0 0"
+	"body" "3"
 	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "ambience/uspointcaptured.wav"
 	"point_allies_model" "models/mapmodels/flags.mdl"
@@ -178516,22 +178517,22 @@ entity
 	"point_axis_capsound" "ambience/gerpointcaptured.wav"
 	"point_axis_model" "models/mapmodels/flags.mdl"
 	"point_axis_target" "flag_axis_master"
-	"point_hud_icon_allies" "sprites/obj_icons/icon_obj_allies"
-	"point_hud_icon_axis" "sprites/obj_icons/icon_obj_axis"
-	"point_hud_icon_bombed" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_neutral" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_timercap" "sprites/obj_icons/icon_obj_neutral"
+	"point_hud_icon_allies" "sprites/obj_icons/classic/icon_obj_allies"
+	"point_hud_icon_axis" "sprites/obj_icons/classic/icon_obj_axis"
+	"point_hud_icon_bombed" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_neutral" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_timercap" "sprites/obj_icons/classic/icon_obj_neutral"
 	"point_index" "0"
 	"point_name" "POINT_CHEMILLE_DESTROYEDHOUSE"
 	"point_points_for_cap" "1"
 	"point_pointvalue" "0"
-	"point_printname" "TODO: Set Name"
+	"point_printname" "Destroyed House"
 	"point_reset_model" "models/mapmodels/flags.mdl"
 	"point_reset_model_bodygroup" "3"
 	"point_team_points" "1"
 	"point_win_string" "MAP_PLAYER_CAP"
 	"target" "score"
-	"targetname" "al1"
+	"targetname" "cap_house"
 	"origin" "-200 840 -40"
 	editor
 	{
@@ -178546,6 +178547,7 @@ entity
 	"id" "2842"
 	"classname" "dod_control_point"
 	"angles" "0 0 0"
+	"body" "3"
 	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "ambience/uspointcaptured.wav"
 	"point_allies_model" "models/mapmodels/flags.mdl"
@@ -178554,22 +178556,22 @@ entity
 	"point_axis_capsound" "ambience/gerpointcaptured.wav"
 	"point_axis_model" "models/mapmodels/flags.mdl"
 	"point_axis_target" "flag_axis_master"
-	"point_hud_icon_allies" "sprites/obj_icons/icon_obj_allies"
-	"point_hud_icon_axis" "sprites/obj_icons/icon_obj_axis"
-	"point_hud_icon_bombed" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_neutral" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_timercap" "sprites/obj_icons/icon_obj_neutral"
+	"point_hud_icon_allies" "sprites/obj_icons/classic/icon_obj_allies"
+	"point_hud_icon_axis" "sprites/obj_icons/classic/icon_obj_axis"
+	"point_hud_icon_bombed" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_neutral" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_timercap" "sprites/obj_icons/classic/icon_obj_neutral"
 	"point_index" "3"
 	"point_name" "POINT_CHURCH"
 	"point_points_for_cap" "1"
 	"point_pointvalue" "0"
-	"point_printname" "TODO: Set Name"
+	"point_printname" "Church"
 	"point_reset_model" "models/mapmodels/flags.mdl"
 	"point_reset_model_bodygroup" "3"
 	"point_team_points" "1"
 	"point_win_string" "MAP_PLAYER_CAP"
 	"target" "score"
-	"targetname" "ax1"
+	"targetname" "cap_church"
 	"origin" "-1856 -1792 -152"
 	editor
 	{
@@ -178584,6 +178586,7 @@ entity
 	"id" "2843"
 	"classname" "dod_control_point"
 	"angles" "0 0 0"
+	"body" "3"
 	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "ambience/uspointcaptured.wav"
 	"point_allies_model" "models/mapmodels/flags.mdl"
@@ -178592,22 +178595,22 @@ entity
 	"point_axis_capsound" "ambience/gerpointcaptured.wav"
 	"point_axis_model" "models/mapmodels/flags.mdl"
 	"point_axis_target" "flag_axis_master"
-	"point_hud_icon_allies" "sprites/obj_icons/icon_obj_allies"
-	"point_hud_icon_axis" "sprites/obj_icons/icon_obj_axis"
-	"point_hud_icon_bombed" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_neutral" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_timercap" "sprites/obj_icons/icon_obj_neutral"
+	"point_hud_icon_allies" "sprites/obj_icons/classic/icon_obj_allies"
+	"point_hud_icon_axis" "sprites/obj_icons/classic/icon_obj_axis"
+	"point_hud_icon_bombed" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_neutral" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_timercap" "sprites/obj_icons/classic/icon_obj_neutral"
 	"point_index" "2"
 	"point_name" "POINT_CHEMILLE_DESTROYEDFACTORY"
 	"point_points_for_cap" "1"
 	"point_pointvalue" "0"
-	"point_printname" "TODO: Set Name"
+	"point_printname" "Destroyed Factory"
 	"point_reset_model" "models/mapmodels/flags.mdl"
 	"point_reset_model_bodygroup" "3"
 	"point_team_points" "1"
 	"point_win_string" "MAP_PLAYER_CAP"
 	"target" "score"
-	"targetname" "factory"
+	"targetname" "cap_factory"
 	"origin" "-1280 -640 -152"
 	editor
 	{
@@ -229130,7 +229133,7 @@ entity
 	"area_allies_numcap" "1"
 	"area_axis_cancap" "1"
 	"area_axis_numcap" "1"
-	"area_cap_point" "ax1"
+	"area_cap_point" "cap_church"
 	"area_hud_sprite" "sprites/hud/caparea"
 	"area_time_to_cap" "0.1"
 	solid
@@ -229267,7 +229270,7 @@ entity
 	"area_allies_numcap" "1"
 	"area_axis_cancap" "1"
 	"area_axis_numcap" "1"
-	"area_cap_point" "factory"
+	"area_cap_point" "cap_factory"
 	"area_hud_sprite" "sprites/hud/caparea"
 	"area_time_to_cap" "0.1"
 	solid
@@ -229401,6 +229404,7 @@ entity
 	"id" "2841"
 	"classname" "dod_control_point"
 	"angles" "0 0 0"
+	"body" "3"
 	"model" "models/mapmodels/flags.mdl"
 	"point_allies_capsound" "ambience/uspointcaptured.wav"
 	"point_allies_model" "models/mapmodels/flags.mdl"
@@ -229409,22 +229413,22 @@ entity
 	"point_axis_capsound" "ambience/gerpointcaptured.wav"
 	"point_axis_model" "models/mapmodels/flags.mdl"
 	"point_axis_target" "flag_axis_master"
-	"point_hud_icon_allies" "sprites/obj_icons/icon_obj_allies"
-	"point_hud_icon_axis" "sprites/obj_icons/icon_obj_axis"
-	"point_hud_icon_bombed" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_neutral" "sprites/obj_icons/icon_obj_neutral"
-	"point_hud_icon_timercap" "sprites/obj_icons/icon_obj_neutral"
+	"point_hud_icon_allies" "sprites/obj_icons/classic/icon_obj_allies"
+	"point_hud_icon_axis" "sprites/obj_icons/classic/icon_obj_axis"
+	"point_hud_icon_bombed" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_neutral" "sprites/obj_icons/classic/icon_obj_neutral"
+	"point_hud_icon_timercap" "sprites/obj_icons/classic/icon_obj_neutral"
 	"point_index" "1"
 	"point_name" "POINT_CHEMILLE_UNDERPASS"
 	"point_points_for_cap" "1"
 	"point_pointvalue" "0"
-	"point_printname" "TODO: Set Name"
+	"point_printname" "Underpass"
 	"point_reset_model" "models/mapmodels/flags.mdl"
 	"point_reset_model_bodygroup" "3"
 	"point_team_points" "1"
 	"point_win_string" "MAP_PLAYER_CAP"
 	"target" "score"
-	"targetname" "underpass"
+	"targetname" "cap_underpass"
 	"origin" "-2496 64 -208"
 	editor
 	{
@@ -229442,7 +229446,7 @@ entity
 	"area_allies_numcap" "1"
 	"area_axis_cancap" "1"
 	"area_axis_numcap" "1"
-	"area_cap_point" "underpass"
+	"area_cap_point" "cap_underpass"
 	"area_hud_sprite" "sprites/hud/caparea"
 	"area_time_to_cap" "0.1"
 	solid
@@ -229579,7 +229583,7 @@ entity
 	"area_allies_numcap" "1"
 	"area_axis_cancap" "1"
 	"area_axis_numcap" "1"
-	"area_cap_point" "al1"
+	"area_cap_point" "cap_house"
 	"area_hud_sprite" "sprites/hud/caparea"
 	"area_time_to_cap" "0.1"
 	solid
@@ -342572,7 +342576,7 @@ entity
 		"OnMultiNewRound" "axis_score,Kill,,0.01,-1"
 		"OnMapSpawn" "axis_score,Kill,,0.01,-1"
 	}
-	"origin" "1072 -326 400"
+	"origin" "1012 -340 344"
 	editor
 	{
 		"color" "220 30 220"
@@ -343032,7 +343036,25 @@ entity
 	"mingustdelay" "0"
 	"minwind" "25"
 	"targetname" "wind_ent"
-	"origin" "988 -340 345"
+	"origin" "988 -340 344"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Why don't you work?"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "80201"
+	"classname" "shadow_control"
+	"color" "128 128 128"
+	"disableallshadows" "1"
+	"distance" "75"
+	"angles" "80 30 0"
+	"origin" "964 -340 344"
 	editor
 	{
 		"color" "220 30 220"
@@ -343044,12 +343066,7 @@ entity
 }
 cameras
 {
-	"activecamera" "0"
-	camera
-	{
-		"position" "[-1127.11 -2572.65 -9.62627]"
-		"look" "[-1126.2 -2572.25 -9.40893]"
-	}
+	"activecamera" "-1"
 }
 cordons
 {
