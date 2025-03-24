@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "84"
+	"mapversion" "85"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -149,7 +149,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "84"
+	"mapversion" "85"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -343062,6 +343062,34 @@ entity
 		"visgroupautoshown" "1"
 		"comments" "Why don't you work?"
 		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "80222"
+	"classname" "dod_location"
+	"location_name" "Axis Spawn"
+	"origin" "-1500.07 -2872.18 -106.302"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6500]"
+	}
+}
+entity
+{
+	"id" "80244"
+	"classname" "dod_location"
+	"location_name" "Allied Spawn"
+	"origin" "1640 1304 29"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 7000]"
 	}
 }
 cameras
