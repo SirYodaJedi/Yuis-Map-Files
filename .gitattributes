@@ -1,1 +1,5 @@
 *.qc linguist-language=Quake
+*.vmf eol=crlf
+*.map eol=lf
+*.smd eol=crlf
+*.txt eol=lf
