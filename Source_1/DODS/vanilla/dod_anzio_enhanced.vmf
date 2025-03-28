@@ -17790,7 +17790,7 @@ world
 				"v" "2064 1232 -168"
 				"v" "2064 1264 -168"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "90"
@@ -17910,7 +17910,7 @@ world
 				"v" "1920 1232 -168"
 				"v" "1920 1440 -168"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "90"
@@ -17946,7 +17946,7 @@ world
 				"v" "1920 1232 -160"
 				"v" "1920 1440 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -64] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -109786,7 +109786,7 @@ world
 				"v" "688 -416 -304"
 				"v" "688 -512 -304"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 384] 0.13"
 			"vaxis" "[1 0 0 256] 0.13"
 			"rotation" "0"
@@ -109905,7 +109905,7 @@ world
 				"v" "592 -416 -176"
 				"v" "592 -512 -176"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -111530,7 +111530,7 @@ world
 				"v" "688 -416 -304"
 				"v" "608 -416 -304"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -127656,7 +127656,7 @@ world
 				"v" "704 -400 -304"
 				"v" "704 -576 -304"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -127775,7 +127775,7 @@ world
 				"v" "688 -512 -304"
 				"v" "688 -576 -304"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 384] 0.13"
 			"vaxis" "[1 0 0 256] 0.13"
 			"rotation" "0"
@@ -127894,7 +127894,7 @@ world
 				"v" "320 -576 -304"
 				"v" "624 -576 -304"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 384] 0.13"
 			"vaxis" "[1 0 0 256] 0.13"
 			"rotation" "0"
@@ -174071,7 +174071,7 @@ world
 				"v" "-704 208 -408"
 				"v" "-704 564 -408"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 476] 0.25"
 			"vaxis" "[0 0 -1 -416] 0.25"
 			"rotation" "0"
@@ -175787,7 +175787,7 @@ world
 				"v" "512 1424 -264"
 				"v" "512 1280 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.13"
 			"vaxis" "[0 -1 0 -52] 0.13"
 			"rotation" "0"
@@ -179753,7 +179753,7 @@ world
 				"v" "672 1808 -264"
 				"v" "672 1664 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -50] 0.13"
 			"vaxis" "[0 -1 0 448] 0.13"
 			"rotation" "0"
@@ -180533,7 +180533,7 @@ world
 				"v" "64 1280 -144"
 				"v" "640 1280 -144"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.13"
 			"vaxis" "[-1 0 0 246] 0.13"
 			"rotation" "0"
@@ -180651,7 +180651,7 @@ world
 				"v" "576 1664 -144"
 				"v" "816 1664 -144"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.13"
 			"vaxis" "[-1 0 0 246] 0.13"
 			"rotation" "0"
@@ -180751,7 +180751,7 @@ world
 				"v" "640 1448 -136"
 				"v" "640 1448 -144"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 1 -448] 0.25"
 			"rotation" "0"
@@ -180769,7 +180769,7 @@ world
 				"v" "640 1448 -144"
 				"v" "816 1448 -144"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.13"
 			"vaxis" "[-1 0 0 246] 0.13"
 			"rotation" "0"
@@ -182857,7 +182857,7 @@ world
 				"v" "-272 112 -432"
 				"v" "-272 112 -304"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 -506.1] 0.25"
 			"vaxis" "[0.707107 0.707107 0 417.859] 0.25"
 			"rotation" "0"
@@ -197308,7 +197308,7 @@ world
 				"v" "16 688 -56"
 				"v" "16 672 -56"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 192] 0.25"
 			"rotation" "0"
@@ -197680,7 +197680,7 @@ world
 				"v" "16 688 -64"
 				"v" "16 892 -64"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.14"
 			"vaxis" "[1 0 0 192] 0.14"
 			"rotation" "0"
@@ -197698,7 +197698,7 @@ world
 				"v" "-416 892 -56"
 				"v" "-416 688 -56"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -192] 0.25"
 			"rotation" "0"
@@ -222152,7 +222152,7 @@ world
 				"v" "-1120 472 -408"
 				"v" "-1120 392 -408"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 448] 0.25"
 			"rotation" "90"
@@ -222444,7 +222444,7 @@ world
 				"v" "-272 112 -432"
 				"v" "-560 400 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -222462,7 +222462,7 @@ world
 				"v" "-272 80 -432"
 				"v" "-272 112 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -222480,7 +222480,7 @@ world
 				"v" "-560 400 -432"
 				"v" "-688 400 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -222498,7 +222498,7 @@ world
 				"v" "-688 80 -448"
 				"v" "-688 400 -448"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -226361,7 +226361,7 @@ world
 				"v" "-416 892 -192"
 				"v" "-416 892 -184"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -224] 0.25"
 			"rotation" "0"
@@ -226433,7 +226433,7 @@ world
 				"v" "-400 892 -184"
 				"v" "-400 676 -184"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 192] 0.25"
 			"rotation" "0"
@@ -228367,7 +228367,7 @@ world
 				"v" "-400 688 -56"
 				"v" "-400 676 -56"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 192] 0.25"
 			"rotation" "0"
@@ -228603,7 +228603,7 @@ world
 				"v" "-400 892 -192"
 				"v" "-400 892 -184"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -224] 0.25"
 			"rotation" "0"
@@ -228675,7 +228675,7 @@ world
 				"v" "-192 892 -184"
 				"v" "-192 688 -184"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.14"
 			"vaxis" "[1 0 0 192] 0.14"
 			"rotation" "0"
@@ -237906,7 +237906,7 @@ world
 				"v" "-1328 112 -288"
 				"v" "-1328 -80 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -237942,7 +237942,7 @@ world
 				"v" "-1456 112 -288"
 				"v" "-1456 -80 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -320] 0.25"
 			"rotation" "0"
@@ -237960,7 +237960,7 @@ world
 				"v" "-1328 -80 -288"
 				"v" "-1328 112 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -237978,7 +237978,7 @@ world
 				"v" "-1328 112 -288"
 				"v" "-1456 112 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -237996,7 +237996,7 @@ world
 				"v" "-1456 -80 -288"
 				"v" "-1328 -80 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -320] 0.25"
 			"rotation" "0"
@@ -252242,7 +252242,7 @@ world
 				"v" "640 1280 -144"
 				"v" "816 1280 -144"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.13"
 			"vaxis" "[-1 0 0 246] 0.13"
 			"rotation" "0"
@@ -252996,7 +252996,7 @@ world
 				"v" "512 1424 -264"
 				"v" "560 1424 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -50] 0.13"
 			"vaxis" "[0 -1 0 399] 0.13"
 			"rotation" "0"
@@ -253086,7 +253086,7 @@ world
 				"v" "560 1280 -264"
 				"v" "560 1424 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -253114,7 +253114,7 @@ world
 				"v" "672 1280 -264"
 				"v" "560 1280 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -50] 0.13"
 			"vaxis" "[0 -1 0 399] 0.13"
 			"rotation" "0"
@@ -253368,7 +253368,7 @@ world
 				"v" "640 1408 -144"
 				"v" "640 1456 -144"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 0] 0.13"
 			"vaxis" "[-1 0 0 246] 0.13"
 			"rotation" "0"
@@ -278184,7 +278184,7 @@ world
 				"v" "-576 -96 -448"
 				"v" "-576 64 -448"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -278202,7 +278202,7 @@ world
 				"v" "-688 64 -432"
 				"v" "-688 -96 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -278220,7 +278220,7 @@ world
 				"v" "-576 -96 -432"
 				"v" "-576 64 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -278238,7 +278238,7 @@ world
 				"v" "-576 64 -432"
 				"v" "-688 64 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -278256,7 +278256,7 @@ world
 				"v" "-688 -96 -432"
 				"v" "-576 -96 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -278610,7 +278610,7 @@ world
 				"v" "-668 80 -432"
 				"v" "-612 80 -432"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -296933,7 +296933,7 @@ world
 				"v" "816 1760 -264"
 				"v" "832 1760 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 -256] 0.25"
 			"rotation" "90"
@@ -297051,7 +297051,7 @@ world
 				"v" "816 2048 -264"
 				"v" "832 2048 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 -256] 0.25"
 			"rotation" "0"
@@ -297405,7 +297405,7 @@ world
 				"v" "832 1664 -264"
 				"v" "832 1680 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 1 0 -256] 0.25"
 			"rotation" "90"
@@ -300078,7 +300078,7 @@ world
 				"v" "-1264 1134 -112"
 				"v" "-1264 1134 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447214 -0.4 -171.883] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 310.097] 0.25"
 			"rotation" "0"
@@ -300132,7 +300132,7 @@ world
 				"v" "-1352 1138 -156"
 				"v" "-1352 1138 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 308.393] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 217.902] 0.25"
 			"rotation" "0"
@@ -300150,7 +300150,7 @@ world
 				"v" "-1264 1134 -116"
 				"v" "-1264 1138 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -440] 0.25"
 			"rotation" "0"
@@ -300196,7 +300196,7 @@ world
 				"v" "-1264 1166 -112"
 				"v" "-1264 1166 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447214 -0.4 -229.126] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 310.097] 0.25"
 			"rotation" "0"
@@ -300250,7 +300250,7 @@ world
 				"v" "-1352 1170 -156"
 				"v" "-1352 1170 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 365.637] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 217.902] 0.25"
 			"rotation" "0"
@@ -300268,7 +300268,7 @@ world
 				"v" "-1264 1166 -116"
 				"v" "-1264 1170 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -56] 0.25"
 			"rotation" "0"
@@ -300314,7 +300314,7 @@ world
 				"v" "-1264 1198 -112"
 				"v" "-1264 1198 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447214 -0.4 -286.37] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 310.097] 0.25"
 			"rotation" "0"
@@ -300368,7 +300368,7 @@ world
 				"v" "-1352 1202 -156"
 				"v" "-1352 1202 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 422.88] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 217.902] 0.25"
 			"rotation" "0"
@@ -300386,7 +300386,7 @@ world
 				"v" "-1264 1198 -116"
 				"v" "-1264 1202 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -184] 0.25"
 			"rotation" "0"
@@ -349626,7 +349626,7 @@ world
 				"v" "1452 128 -176"
 				"v" "1652 128 -176"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -426056,7 +426056,7 @@ world
 				"v" "-696 -80 -504"
 				"v" "-696 -80 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 124] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -427336,7 +427336,7 @@ world
 				"v" "-696 -80 -264"
 				"v" "-696 -80 -406"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 124] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -427572,7 +427572,7 @@ world
 				"v" "-704 -80 -504"
 				"v" "-704 -80 -406"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 124] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -439348,7 +439348,7 @@ world
 				"v" "816 1558 -264"
 				"v" "816 1280 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -50] 0.13"
 			"vaxis" "[0 -1 0 399] 0.13"
 			"rotation" "0"
@@ -439420,7 +439420,7 @@ world
 				"v" "672 1280 -264"
 				"v" "816 1280 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -439438,7 +439438,7 @@ world
 				"v" "816 1558 -264"
 				"v" "672 1558 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -439466,7 +439466,7 @@ world
 				"v" "816 1808 -264"
 				"v" "816 1558 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -50] 0.13"
 			"vaxis" "[0 -1 0 448] 0.13"
 			"rotation" "0"
@@ -439556,7 +439556,7 @@ world
 				"v" "672 1558 -264"
 				"v" "816 1558 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -479607,7 +479607,7 @@ entity
 				"v" "1648 288 -264"
 				"v" "1648 196 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 -1 0 -128] 0.25"
 			"rotation" "0"
@@ -479626,7 +479626,7 @@ entity
 				"v" "1648 288 -272"
 				"v" "1337 288 -272"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 -1 0 -128] 0.25"
 			"rotation" "0"
@@ -479698,7 +479698,7 @@ entity
 				"v" "1382 196 -264"
 				"v" "1648 196 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -479883,7 +479883,7 @@ entity
 				"v" "1648 -30 -264"
 				"v" "1646 -32 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -479902,7 +479902,7 @@ entity
 				"v" "1648 -30 -272"
 				"v" "1648 196 -272"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -479920,7 +479920,7 @@ entity
 				"v" "1632 196 -264"
 				"v" "1632 -32 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -479956,7 +479956,7 @@ entity
 				"v" "1648 196 -264"
 				"v" "1632 196 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -484297,7 +484297,7 @@ entity
 				"v" "-1456 112 -288"
 				"v" "-1456 64 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -484315,7 +484315,7 @@ entity
 				"v" "-1456 64 -296"
 				"v" "-1456 112 -296"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -484333,7 +484333,7 @@ entity
 				"v" "-1552 112 -288"
 				"v" "-1552 64 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -484351,7 +484351,7 @@ entity
 				"v" "-1456 64 -288"
 				"v" "-1456 112 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -484369,7 +484369,7 @@ entity
 				"v" "-1456 112 -288"
 				"v" "-1552 112 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -484387,7 +484387,7 @@ entity
 				"v" "-1552 64 -288"
 				"v" "-1456 64 -288"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -485547,7 +485547,7 @@ entity
 				"v" "-1776 -80 -264"
 				"v" "-1776 112 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.14"
 			"vaxis" "[-1 0 0 -463] 0.14"
 			"rotation" "0"
@@ -485565,7 +485565,7 @@ entity
 				"v" "-2048 112 -256"
 				"v" "-2048 -80 -256"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -485583,7 +485583,7 @@ entity
 				"v" "-1776 -80 -256"
 				"v" "-1776 112 -256"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -485601,7 +485601,7 @@ entity
 				"v" "-1776 112 -256"
 				"v" "-2048 112 -256"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -485619,7 +485619,7 @@ entity
 				"v" "-2048 -80 -256"
 				"v" "-1776 -80 -256"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -490804,7 +490804,7 @@ entity
 				"v" "1632 -32 -264"
 				"v" "1584 -32 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -490822,7 +490822,7 @@ entity
 				"v" "1632 -16 -272"
 				"v" "1584 -16 -272"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -490840,7 +490840,7 @@ entity
 				"v" "1632 -32 -264"
 				"v" "1632 -16 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -490858,7 +490858,7 @@ entity
 				"v" "1632 -16 -264"
 				"v" "1584 -16 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -490894,7 +490894,7 @@ entity
 				"v" "1584 -16 -264"
 				"v" "1584 -32 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -498752,7 +498752,7 @@ entity
 				"v" "2480 1360 -32"
 				"v" "2480 1552 -32"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[1 0 0 -160] 0.25"
 			"rotation" "0"
@@ -498770,7 +498770,7 @@ entity
 				"v" "2480 1360 -24"
 				"v" "2480 1552 -24"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -498788,7 +498788,7 @@ entity
 				"v" "2304 1552 -24"
 				"v" "2304 1360 -24"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -498806,7 +498806,7 @@ entity
 				"v" "2480 1552 -24"
 				"v" "2304 1552 -24"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 256] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -498824,7 +498824,7 @@ entity
 				"v" "2304 1360 -24"
 				"v" "2480 1360 -24"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 256] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -498852,7 +498852,7 @@ entity
 				"v" "2496 1552 -152"
 				"v" "2496 1360 -152"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[1 0 0 -160] 0.25"
 			"rotation" "0"
@@ -498870,7 +498870,7 @@ entity
 				"v" "2496 1360 -160"
 				"v" "2496 1552 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[1 0 0 -160] 0.25"
 			"rotation" "0"
@@ -498906,7 +498906,7 @@ entity
 				"v" "2224 1552 -152"
 				"v" "2224 1360 -152"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -498924,7 +498924,7 @@ entity
 				"v" "2496 1552 -152"
 				"v" "2224 1552 -152"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 256] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -498942,7 +498942,7 @@ entity
 				"v" "2224 1360 -152"
 				"v" "2496 1360 -152"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 256] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -522022,7 +522022,7 @@ entity
 				"v" "1564 279 -288.567"
 				"v" "1564 277 -288.567"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -171] 0.25"
 			"rotation" "0"
@@ -522040,7 +522040,7 @@ entity
 				"v" "1564 277 -362.567"
 				"v" "1564 279 -362.567"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -171] 0.25"
 			"rotation" "0"
@@ -522058,7 +522058,7 @@ entity
 				"v" "1364 279 -288.567"
 				"v" "1364 277 -288.567"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -171] 0.25"
 			"rotation" "0"
@@ -522076,7 +522076,7 @@ entity
 				"v" "1564 277 -288.567"
 				"v" "1564 279 -288.567"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -171] 0.25"
 			"rotation" "0"
@@ -522094,7 +522094,7 @@ entity
 				"v" "1564 279 -288.567"
 				"v" "1364 279 -288.567"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -171] 0.25"
 			"rotation" "0"
@@ -522112,7 +522112,7 @@ entity
 				"v" "1364 277 -288.567"
 				"v" "1564 277 -288.567"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -171] 0.25"
 			"rotation" "0"
@@ -522565,7 +522565,7 @@ entity
 				"v" "1382 196 -264"
 				"v" "1416 196 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -522582,7 +522582,7 @@ entity
 				"v" "1416 128 -272"
 				"v" "1416 196 -272"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -522618,7 +522618,7 @@ entity
 				"v" "1416 128 -264"
 				"v" "1416 196 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -522636,7 +522636,7 @@ entity
 				"v" "1416 196 -264"
 				"v" "1382 196 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -530943,7 +530943,7 @@ entity
 				"v" "-416 676 -192"
 				"v" "-416 676 -184"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 272] 0.25"
 			"vaxis" "[0 0 -1 -224] 0.25"
 			"rotation" "0"
@@ -596969,7 +596969,7 @@ entity
 				"v" "1632 112 -264"
 				"v" "1580 112 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -596988,7 +596988,7 @@ entity
 				"v" "1632 112 -272"
 				"v" "1632 128 -272"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -597006,7 +597006,7 @@ entity
 				"v" "1580 128 -264"
 				"v" "1576 116 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -597024,7 +597024,7 @@ entity
 				"v" "1632 112 -264"
 				"v" "1632 128 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -597042,7 +597042,7 @@ entity
 				"v" "1632 128 -264"
 				"v" "1580 128 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -597060,7 +597060,7 @@ entity
 				"v" "1580 112 -264"
 				"v" "1632 112 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -597078,7 +597078,7 @@ entity
 				"v" "1576 116 -264"
 				"v" "1580 112 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -597886,7 +597886,7 @@ entity
 				"v" "1556 -16 -264"
 				"v" "1584 -16 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -597905,7 +597905,7 @@ entity
 				"v" "1564 -32 -272"
 				"v" "1584 -32 -272"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -597941,7 +597941,7 @@ entity
 				"v" "1584 -16 -264"
 				"v" "1556 -16 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -597977,7 +597977,7 @@ entity
 				"v" "1584 -32 -264"
 				"v" "1584 -16 -264"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -598739,7 +598739,7 @@ entity
 				"v" "1916 3080 -224"
 				"v" "1916 3068 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 1 0 -48] 0.25"
 			"rotation" "0"
@@ -598757,7 +598757,7 @@ entity
 				"v" "1928 3068 -224"
 				"v" "1928 3080 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 -1 0 383.997] 0.25"
 			"rotation" "0"
@@ -598775,7 +598775,7 @@ entity
 				"v" "1928 3080 -224"
 				"v" "1916 3080 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[1 0 0 -0.00195313] 0.25"
 			"rotation" "0"
@@ -598793,7 +598793,7 @@ entity
 				"v" "1916 3068 -224"
 				"v" "1928 3068 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[-1 0 0 431.996] 0.25"
 			"rotation" "0"
@@ -598857,7 +598857,7 @@ entity
 				"v" "1724 3080 -224"
 				"v" "1724 3068 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 1 0 -48] 0.25"
 			"rotation" "0"
@@ -598875,7 +598875,7 @@ entity
 				"v" "1736 3068 -224"
 				"v" "1736 3080 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 -1 0 383.997] 0.25"
 			"rotation" "0"
@@ -598893,7 +598893,7 @@ entity
 				"v" "1736 3080 -224"
 				"v" "1724 3080 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[1 0 0 255.998] 0.25"
 			"rotation" "0"
@@ -598911,7 +598911,7 @@ entity
 				"v" "1724 3068 -224"
 				"v" "1736 3068 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[-1 0 0 175.996] 0.25"
 			"rotation" "0"
@@ -598975,7 +598975,7 @@ entity
 				"v" "2104 3068 -224"
 				"v" "2116 3068 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[-1 0 0 208] 0.25"
 			"rotation" "0"
@@ -598993,7 +598993,7 @@ entity
 				"v" "2116 3080 -224"
 				"v" "2104 3080 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[1 0 0 -384.004] 0.25"
 			"rotation" "0"
@@ -599011,7 +599011,7 @@ entity
 				"v" "2104 3080 -224"
 				"v" "2104 3068 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 1 0 -0.00195313] 0.25"
 			"rotation" "0"
@@ -599029,7 +599029,7 @@ entity
 				"v" "2116 3068 -224"
 				"v" "2116 3080 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 -1 0 431.996] 0.25"
 			"rotation" "0"
@@ -614011,7 +614011,7 @@ entity
 				"v" "-32 -688 -80"
 				"v" "-32 -656 -80"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -614083,7 +614083,7 @@ entity
 				"v" "-256 -688 -72"
 				"v" "-32 -688 -72"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 416] 0.25"
 			"rotation" "0"
@@ -697923,7 +697923,7 @@ entity
 				"v" "-544 716 -184"
 				"v" "-544 728 -192"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 -1 0 288] 0.25"
 			"vaxis" "[0 0 -1 -224] 0.25"
 			"rotation" "0"
@@ -699880,7 +699880,7 @@ entity
 				"v" "-424 908 -56"
 				"v" "-360 908 8"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 432] 0.25"
 			"vaxis" "[0 0 -1 -192] 0.25"
 			"rotation" "0"
@@ -700488,7 +700488,7 @@ entity
 				"v" "-8 672 -56"
 				"v" "-8 648 -56"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 192] 0.25"
 			"rotation" "0"
@@ -710287,7 +710287,7 @@ entity
 				"v" "-1856 -80 -136"
 				"v" "-1856 112 -136"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.14"
 			"vaxis" "[-1 0 0 -416] 0.14"
 			"rotation" "0"
@@ -710305,7 +710305,7 @@ entity
 				"v" "-2032 112 -128"
 				"v" "-2032 -80 -128"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -710323,7 +710323,7 @@ entity
 				"v" "-1856 -80 -128"
 				"v" "-1856 112 -128"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -710341,7 +710341,7 @@ entity
 				"v" "-1856 112 -128"
 				"v" "-2032 112 -128"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -710359,7 +710359,7 @@ entity
 				"v" "-2032 -80 -128"
 				"v" "-1856 -80 -128"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -732377,7 +732377,7 @@ entity
 				"v" "1724 2076 206.83"
 				"v" "1822.83 2076 108"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[0 -1 0 192] 0.25"
 			"rotation" "0"
@@ -732395,7 +732395,7 @@ entity
 				"v" "1817.17 2076 108"
 				"v" "1724 2076 201.172"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[0 1 0 16] 0.25"
 			"rotation" "0"
@@ -732413,7 +732413,7 @@ entity
 				"v" "1822.83 2076 108"
 				"v" "1724 2076 206.83"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[0.707103 0 0.70711 -261.182] 0.25"
 			"rotation" "0"
@@ -732431,7 +732431,7 @@ entity
 				"v" "1817.17 2072 108"
 				"v" "1724 2072 201.174"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[-0.707103 0 -0.70711 -74.8164] 0.25"
 			"rotation" "0"
@@ -732449,7 +732449,7 @@ entity
 				"v" "1724 2076 206.827"
 				"v" "1724 2072 206.827"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 -464] 0.25"
 			"vaxis" "[0 0 -1 96] 0.25"
 			"rotation" "0"
@@ -732467,7 +732467,7 @@ entity
 				"v" "1822.83 2072 108"
 				"v" "1822.83 2076 108"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 -1 0 464] 0.25"
 			"rotation" "0"
@@ -732495,7 +732495,7 @@ entity
 				"v" "1724 1960 206.83"
 				"v" "1822.83 1960 108"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[0 -1 0 240] 0.25"
 			"rotation" "0"
@@ -732513,7 +732513,7 @@ entity
 				"v" "1817.17 1960 108"
 				"v" "1724 1960 201.172"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[0 1 0 -32] 0.25"
 			"rotation" "0"
@@ -732531,7 +732531,7 @@ entity
 				"v" "1822.83 1960 108"
 				"v" "1724 1960 206.83"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[0.707103 0 0.70711 -261.182] 0.25"
 			"rotation" "0"
@@ -732549,7 +732549,7 @@ entity
 				"v" "1817.17 1956 108"
 				"v" "1724 1956 201.174"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.70711 0 -0.707103 266.156] 0.25"
 			"vaxis" "[-0.707103 0 -0.70711 -74.8164] 0.25"
 			"rotation" "0"
@@ -732567,7 +732567,7 @@ entity
 				"v" "1724 1960 206.827"
 				"v" "1724 1956 206.827"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 96] 0.25"
 			"rotation" "0"
@@ -732585,7 +732585,7 @@ entity
 				"v" "1822.83 1956 108"
 				"v" "1822.83 1960 108"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -755473,7 +755473,7 @@ entity
 				"v" "-1264 978 -116"
 				"v" "-1168 978 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 -0.447214 -0.4 431.7] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 -116.125] 0.25"
 			"rotation" "0"
@@ -755509,7 +755509,7 @@ entity
 				"v" "-1264 974 -112"
 				"v" "-1168 974 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 0.447214 -0.4 -500.144] 0.25"
 			"vaxis" "[0.447214 0 0.894427 -379.873] 0.25"
 			"rotation" "0"
@@ -755527,7 +755527,7 @@ entity
 				"v" "-1264 974 -116"
 				"v" "-1168 974 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 391] 0.25"
 			"vaxis" "[0 -1 0 328] 0.25"
 			"rotation" "0"
@@ -755591,7 +755591,7 @@ entity
 				"v" "-1264 974 -112"
 				"v" "-1264 974 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447214 -0.4 -397.667] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 310.097] 0.25"
 			"rotation" "0"
@@ -755645,7 +755645,7 @@ entity
 				"v" "-1352 978 -156"
 				"v" "-1352 978 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 22.1769] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 217.902] 0.25"
 			"rotation" "0"
@@ -755663,7 +755663,7 @@ entity
 				"v" "-1264 974 -116"
 				"v" "-1264 978 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -312] 0.25"
 			"rotation" "0"
@@ -755709,7 +755709,7 @@ entity
 				"v" "-1264 946 -116"
 				"v" "-1168 946 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 -0.447213 -0.4 374.529] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 -69.2212] 0.25"
 			"rotation" "90"
@@ -755745,7 +755745,7 @@ entity
 				"v" "-1264 942 -112"
 				"v" "-1168 942 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 0.447214 -0.4 69.1743] 0.25"
 			"vaxis" "[0.447214 0 0.894427 207.653] 0.25"
 			"rotation" "0"
@@ -755763,7 +755763,7 @@ entity
 				"v" "-1264 942 -116"
 				"v" "-1168 942 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 391.078] 0.25"
 			"vaxis" "[0 -1 0 246.907] 0.25"
 			"rotation" "0"
@@ -755827,7 +755827,7 @@ entity
 				"v" "-1264 942 -112"
 				"v" "-1264 942 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447213 -0.4 171.578] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 357] 0.25"
 			"rotation" "90"
@@ -755881,7 +755881,7 @@ entity
 				"v" "-1352 946 -156"
 				"v" "-1352 946 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 476.933] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 293.43] 0.25"
 			"rotation" "0"
@@ -755899,7 +755899,7 @@ entity
 				"v" "-1264 942 -116"
 				"v" "-1264 946 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -137.093] 0.25"
 			"rotation" "0"
@@ -755957,7 +755957,7 @@ entity
 				"v" "-1264 1042 -116"
 				"v" "-1168 1042 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 -0.447214 -0.4 34.186] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 -116.125] 0.25"
 			"rotation" "0"
@@ -755993,7 +755993,7 @@ entity
 				"v" "-1264 1038 -112"
 				"v" "-1168 1038 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 0.447214 -0.4 -102.631] 0.25"
 			"vaxis" "[0.447214 0 0.894427 -379.873] 0.25"
 			"rotation" "0"
@@ -756011,7 +756011,7 @@ entity
 				"v" "-1264 1038 -116"
 				"v" "-1168 1038 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 391] 0.25"
 			"vaxis" "[0 -1 0 72] 0.25"
 			"rotation" "0"
@@ -756029,7 +756029,7 @@ entity
 				"v" "-1168 1042 -160"
 				"v" "-1168 1042 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 -40.9988] 0.25"
 			"vaxis" "[0 -1 0 72] 0.25"
 			"rotation" "0"
@@ -756075,7 +756075,7 @@ entity
 				"v" "-1264 1038 -112"
 				"v" "-1264 1038 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447214 -0.4 -0.152954] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 310.097] 0.25"
 			"rotation" "0"
@@ -756129,7 +756129,7 @@ entity
 				"v" "-1352 1042 -156"
 				"v" "-1352 1042 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 136.663] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 217.902] 0.25"
 			"rotation" "0"
@@ -756147,7 +756147,7 @@ entity
 				"v" "-1264 1038 -116"
 				"v" "-1264 1042 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -56] 0.25"
 			"rotation" "0"
@@ -756193,7 +756193,7 @@ entity
 				"v" "-1264 1010 -116"
 				"v" "-1168 1010 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 -0.447213 -0.4 489.016] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 -69.2212] 0.25"
 			"rotation" "90"
@@ -756229,7 +756229,7 @@ entity
 				"v" "-1264 1006 -112"
 				"v" "-1168 1006 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 0.447214 -0.4 -45.3124] 0.25"
 			"vaxis" "[0.447214 0 0.894427 207.653] 0.25"
 			"rotation" "0"
@@ -756247,7 +756247,7 @@ entity
 				"v" "-1264 1006 -116"
 				"v" "-1168 1006 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 391.078] 0.25"
 			"vaxis" "[0 -1 0 502.907] 0.25"
 			"rotation" "0"
@@ -756265,7 +756265,7 @@ entity
 				"v" "-1168 1010 -160"
 				"v" "-1168 1010 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 -40.9207] 0.25"
 			"vaxis" "[0 -1 0 502.906] 0.25"
 			"rotation" "0"
@@ -756311,7 +756311,7 @@ entity
 				"v" "-1264 1006 -112"
 				"v" "-1264 1006 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447213 -0.4 57.0911] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 357] 0.25"
 			"rotation" "90"
@@ -756365,7 +756365,7 @@ entity
 				"v" "-1352 1010 -156"
 				"v" "-1352 1010 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 79.4199] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 293.43] 0.25"
 			"rotation" "0"
@@ -756383,7 +756383,7 @@ entity
 				"v" "-1264 1006 -116"
 				"v" "-1264 1010 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -393.093] 0.25"
 			"rotation" "0"
@@ -756441,7 +756441,7 @@ entity
 				"v" "-1264 1106 -116"
 				"v" "-1168 1106 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 -0.447214 -0.4 148.673] 0.25"
 			"vaxis" "[-0.447214 0 -0.894427 -116.125] 0.25"
 			"rotation" "0"
@@ -756477,7 +756477,7 @@ entity
 				"v" "-1264 1102 -112"
 				"v" "-1168 1102 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 0.447214 -0.4 -217.117] 0.25"
 			"vaxis" "[0.447214 0 0.894427 -379.873] 0.25"
 			"rotation" "0"
@@ -756495,7 +756495,7 @@ entity
 				"v" "-1264 1102 -116"
 				"v" "-1168 1102 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 391] 0.25"
 			"vaxis" "[0 -1 0 328] 0.25"
 			"rotation" "0"
@@ -756559,7 +756559,7 @@ entity
 				"v" "-1264 1102 -112"
 				"v" "-1264 1102 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447214 -0.4 -114.64] 0.25"
 			"vaxis" "[0.447214 0 -0.894427 310.097] 0.25"
 			"rotation" "0"
@@ -756613,7 +756613,7 @@ entity
 				"v" "-1352 1106 -156"
 				"v" "-1352 1106 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 251.15] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 217.902] 0.25"
 			"rotation" "0"
@@ -756631,7 +756631,7 @@ entity
 				"v" "-1264 1102 -116"
 				"v" "-1264 1106 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -312] 0.25"
 			"rotation" "0"
@@ -756677,7 +756677,7 @@ entity
 				"v" "-1264 1074 -116"
 				"v" "-1168 1074 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 -0.447213 -0.4 91.5022] 0.25"
 			"vaxis" "[-0.447213 0 -0.894427 -69.2212] 0.25"
 			"rotation" "90"
@@ -756713,7 +756713,7 @@ entity
 				"v" "-1264 1070 -112"
 				"v" "-1168 1070 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0.8 0.447214 -0.4 -159.799] 0.25"
 			"vaxis" "[0.447214 0 0.894427 207.653] 0.25"
 			"rotation" "0"
@@ -756731,7 +756731,7 @@ entity
 				"v" "-1264 1070 -116"
 				"v" "-1168 1070 -164"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[1 0 0 391.078] 0.25"
 			"vaxis" "[0 -1 0 246.907] 0.25"
 			"rotation" "0"
@@ -756795,7 +756795,7 @@ entity
 				"v" "-1264 1070 -112"
 				"v" "-1264 1070 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 0.447213 -0.4 -57.3956] 0.25"
 			"vaxis" "[0.447213 0 -0.894427 357] 0.25"
 			"rotation" "90"
@@ -756849,7 +756849,7 @@ entity
 				"v" "-1352 1074 -156"
 				"v" "-1352 1074 -160"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-0.8 -0.447214 -0.4 193.907] 0.25"
 			"vaxis" "[-0.447214 0 0.894427 293.43] 0.25"
 			"rotation" "0"
@@ -756867,7 +756867,7 @@ entity
 				"v" "-1264 1070 -116"
 				"v" "-1264 1074 -116"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[-1 0 0 7.07764] 0.25"
 			"vaxis" "[0 1 0 -137.093] 0.25"
 			"rotation" "0"
@@ -764854,7 +764854,7 @@ entity
 				"v" "1724 3460 -224"
 				"v" "1724 3448 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 1 0 -32] 0.25"
 			"rotation" "0"
@@ -764872,7 +764872,7 @@ entity
 				"v" "1736 3448 -224"
 				"v" "1736 3460 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[0 -1 0 367.997] 0.25"
 			"rotation" "0"
@@ -764908,7 +764908,7 @@ entity
 				"v" "1724 3448 -224"
 				"v" "1736 3448 -224"
 			}
-			"material" "WOOD/WOODFLOOR008A"
+			"material" "WOOD/WOODFLOOR008A_NOBUMP"
 			"uaxis" "[0 0 1 384] 0.25"
 			"vaxis" "[-1 0 0 175.996] 0.25"
 			"rotation" "0"
