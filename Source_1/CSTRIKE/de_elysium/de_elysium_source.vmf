@@ -31,7 +31,7 @@ world
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "cs_baggage_skybox_"
+	"skyname" "black_allowfog"
 	solid
 	{
 		"id" "170721"
@@ -51077,7 +51077,7 @@ world
 		{
 			"id" "49805"
 			"plane" "(0 1280 968) (384 1280 968) (384 1024 968)"
-			"material" "CS_ITALY/BLACK"
+			"material" "VGUI/BLACK"
 			"uaxis" "[1 0 0 2.28568] 0.35"
 			"vaxis" "[0 -1 0 -21.2857] 0.35"
 			"rotation" "0"
@@ -73503,7 +73503,7 @@ world
 		{
 			"id" "21753"
 			"plane" "(960 2496 1168) (960 2624 1168) (1312 2624 1168)"
-			"material" "LIQUIDS/BOATHOUSE_WATER"
+			"material" "LIQUIDS/BOATHOUSE_WATER_NOFLOW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -256] 0.25"
 			"rotation" "0"
@@ -87209,7 +87209,7 @@ entity
 		{
 			"id" "73379"
 			"plane" "(752 2768 1480) (752 2624 1480) (752 2624 1569)"
-			"material" "CS_ITALY/BLACK"
+			"material" "VGUI/BLACK"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92607,7 +92607,7 @@ entity
 		{
 			"id" "72625"
 			"plane" "(1231 2599 1153) (1244 2588 1153) (1244 2583 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92618,7 +92618,7 @@ entity
 		{
 			"id" "72624"
 			"plane" "(1219 2583 1152) (1244 2583 1152) (1244 2588 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92629,7 +92629,7 @@ entity
 		{
 			"id" "72623"
 			"plane" "(1244 2588 1152) (1244 2583 1152) (1244 2583 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92640,7 +92640,7 @@ entity
 		{
 			"id" "72622"
 			"plane" "(1244 2583 1152) (1219 2583 1152) (1219 2583 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92651,7 +92651,7 @@ entity
 		{
 			"id" "72621"
 			"plane" "(1219 2583 1152) (1231 2599 1152) (1231 2599 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92662,7 +92662,7 @@ entity
 		{
 			"id" "72620"
 			"plane" "(1231 2599 1152) (1244 2588 1152) (1244 2588 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92683,7 +92683,7 @@ entity
 		{
 			"id" "72607"
 			"plane" "(1254 2566 1153) (1293 2605 1153) (1297 2589 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92694,7 +92694,7 @@ entity
 		{
 			"id" "72606"
 			"plane" "(1297 2589 1152) (1293 2605 1152) (1254 2566 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92705,7 +92705,7 @@ entity
 		{
 			"id" "72605"
 			"plane" "(1254 2566 1152) (1293 2605 1152) (1293 2605 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92716,7 +92716,7 @@ entity
 		{
 			"id" "72604"
 			"plane" "(1297 2589 1152) (1254 2566 1152) (1254 2566 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92727,7 +92727,7 @@ entity
 		{
 			"id" "72603"
 			"plane" "(1293 2605 1152) (1297 2589 1152) (1297 2589 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92748,7 +92748,7 @@ entity
 		{
 			"id" "72583"
 			"plane" "(1234 2543 1153) (1234 2547 1153) (1256 2552 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92759,7 +92759,7 @@ entity
 		{
 			"id" "72582"
 			"plane" "(1234 2547 1152) (1234 2543 1152) (1247 2518 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92770,7 +92770,7 @@ entity
 		{
 			"id" "72581"
 			"plane" "(1234 2543 1152) (1234 2547 1152) (1234 2547 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92781,7 +92781,7 @@ entity
 		{
 			"id" "72580"
 			"plane" "(1256 2552 1152) (1256 2518 1152) (1256 2518 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92792,7 +92792,7 @@ entity
 		{
 			"id" "72579"
 			"plane" "(1256 2518 1152) (1247 2518 1152) (1247 2518 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92803,7 +92803,7 @@ entity
 		{
 			"id" "72578"
 			"plane" "(1234 2547 1152) (1256 2552 1152) (1256 2552 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92814,7 +92814,7 @@ entity
 		{
 			"id" "72577"
 			"plane" "(1247 2518 1152) (1234 2543 1152) (1234 2543 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92835,7 +92835,7 @@ entity
 		{
 			"id" "72524"
 			"plane" "(1169 2557 1153) (1207 2557 1153) (1207 2548 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 9999"
 			"vaxis" "[0 -1 0 0] 9999"
 			"rotation" "0"
@@ -92846,7 +92846,7 @@ entity
 		{
 			"id" "72523"
 			"plane" "(1176 2527 1152) (1207 2548 1152) (1207 2557 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 9999"
 			"vaxis" "[0 -1 0 0] 9999"
 			"rotation" "0"
@@ -92857,7 +92857,7 @@ entity
 		{
 			"id" "72522"
 			"plane" "(1207 2557 1152) (1207 2548 1152) (1207 2548 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 9999"
 			"vaxis" "[0 0 -1 0] 9999"
 			"rotation" "0"
@@ -92868,7 +92868,7 @@ entity
 		{
 			"id" "72521"
 			"plane" "(1169 2557 1152) (1207 2557 1152) (1207 2557 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 9999"
 			"vaxis" "[0 0 -1 0] 9999"
 			"rotation" "0"
@@ -92879,7 +92879,7 @@ entity
 		{
 			"id" "72520"
 			"plane" "(1207 2548 1152) (1176 2527 1152) (1176 2527 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92890,7 +92890,7 @@ entity
 		{
 			"id" "72519"
 			"plane" "(1176 2527 1152) (1169 2557 1152) (1169 2557 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92911,7 +92911,7 @@ entity
 		{
 			"id" "72553"
 			"plane" "(1129 2548 1153) (1129 2549 1153) (1140 2552 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92922,7 +92922,7 @@ entity
 		{
 			"id" "72552"
 			"plane" "(1129 2549 1152) (1129 2548 1152) (1140 2541 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92933,7 +92933,7 @@ entity
 		{
 			"id" "72551"
 			"plane" "(1129 2548 1152) (1129 2549 1152) (1129 2549 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92944,7 +92944,7 @@ entity
 		{
 			"id" "72550"
 			"plane" "(1140 2552 1152) (1140 2541 1152) (1140 2541 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92955,7 +92955,7 @@ entity
 		{
 			"id" "72549"
 			"plane" "(1140 2541 1152) (1129 2548 1152) (1129 2548 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92966,7 +92966,7 @@ entity
 		{
 			"id" "72548"
 			"plane" "(1129 2549 1152) (1140 2552 1152) (1140 2552 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -92987,7 +92987,7 @@ entity
 		{
 			"id" "72535"
 			"plane" "(1125 2516 1153) (1125 2536 1153) (1142 2536 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -92998,7 +92998,7 @@ entity
 		{
 			"id" "72534"
 			"plane" "(1125 2536 1152) (1125 2516 1152) (1142 2536 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -93009,7 +93009,7 @@ entity
 		{
 			"id" "72533"
 			"plane" "(1125 2516 1152) (1125 2536 1152) (1125 2536 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -93020,7 +93020,7 @@ entity
 		{
 			"id" "72532"
 			"plane" "(1125 2536 1152) (1142 2536 1152) (1142 2536 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -93031,7 +93031,7 @@ entity
 		{
 			"id" "72531"
 			"plane" "(1142 2536 1152) (1125 2516 1152) (1125 2516 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -93052,7 +93052,7 @@ entity
 		{
 			"id" "72564"
 			"plane" "(1104 2541 1153) (1121 2544.4 1153) (1121 2541 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -93063,7 +93063,7 @@ entity
 		{
 			"id" "72563"
 			"plane" "(1104 2541 1152) (1121 2541 1152) (1121 2544.4 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -93074,7 +93074,7 @@ entity
 		{
 			"id" "72562"
 			"plane" "(1121 2544.4 1152) (1121 2541 1152) (1121 2541 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -93085,7 +93085,7 @@ entity
 		{
 			"id" "72561"
 			"plane" "(1121 2541 1152) (1104 2541 1152) (1104 2541 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -93096,7 +93096,7 @@ entity
 		{
 			"id" "72560"
 			"plane" "(1104 2541 1152) (1121 2544.4 1152) (1121 2544.4 1153)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113084,7 +113084,7 @@ entity
 		{
 			"id" "67581"
 			"plane" "(1120 2560 1612) (992 2560 1612) (992 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 128] 0.25"
 			"rotation" "0"
@@ -113095,7 +113095,7 @@ entity
 		{
 			"id" "67580"
 			"plane" "(992 2560 1604) (992 2560 1612) (1120 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113106,7 +113106,7 @@ entity
 		{
 			"id" "67579"
 			"plane" "(1120 2688 1604) (1120 2688 1612) (992 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113117,7 +113117,7 @@ entity
 		{
 			"id" "67578"
 			"plane" "(1120 2560 1604) (1120 2560 1612) (1120 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113128,7 +113128,7 @@ entity
 		{
 			"id" "67577"
 			"plane" "(992 2688 1604) (992 2688 1612) (992 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113139,7 +113139,7 @@ entity
 		{
 			"id" "67576"
 			"plane" "(992 2560 1604) (1120 2560 1604) (1120 2688 1604)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 128] 0.25"
 			"rotation" "0"
@@ -113201,7 +113201,7 @@ entity
 		{
 			"id" "67587"
 			"plane" "(1120 2432 1612) (992 2432 1612) (992 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 128] 0.25"
 			"rotation" "0"
@@ -113212,7 +113212,7 @@ entity
 		{
 			"id" "67586"
 			"plane" "(992 2432 1604) (992 2432 1612) (1120 2432 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113223,7 +113223,7 @@ entity
 		{
 			"id" "67585"
 			"plane" "(1120 2560 1604) (1120 2560 1612) (992 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113234,7 +113234,7 @@ entity
 		{
 			"id" "67584"
 			"plane" "(1120 2432 1604) (1120 2432 1612) (1120 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113245,7 +113245,7 @@ entity
 		{
 			"id" "67583"
 			"plane" "(992 2560 1604) (992 2560 1612) (992 2432 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113256,7 +113256,7 @@ entity
 		{
 			"id" "67582"
 			"plane" "(992 2432 1604) (1120 2432 1604) (1120 2560 1604)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 128] 0.25"
 			"rotation" "0"
@@ -113318,7 +113318,7 @@ entity
 		{
 			"id" "67593"
 			"plane" "(1536 2560 1612) (1408 2560 1612) (1408 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113329,7 +113329,7 @@ entity
 		{
 			"id" "67592"
 			"plane" "(1408 2560 1604) (1408 2560 1612) (1536 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113340,7 +113340,7 @@ entity
 		{
 			"id" "67591"
 			"plane" "(1536 2688 1604) (1536 2688 1612) (1408 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113351,7 +113351,7 @@ entity
 		{
 			"id" "67590"
 			"plane" "(1536 2560 1604) (1536 2560 1612) (1536 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113362,7 +113362,7 @@ entity
 		{
 			"id" "67589"
 			"plane" "(1408 2688 1604) (1408 2688 1612) (1408 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113373,7 +113373,7 @@ entity
 		{
 			"id" "67588"
 			"plane" "(1408 2560 1604) (1536 2560 1604) (1536 2688 1604)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113435,7 +113435,7 @@ entity
 		{
 			"id" "67599"
 			"plane" "(1664 2560 1612) (1536 2560 1612) (1536 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113446,7 +113446,7 @@ entity
 		{
 			"id" "67598"
 			"plane" "(1536 2560 1604) (1536 2560 1612) (1664 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113457,7 +113457,7 @@ entity
 		{
 			"id" "67597"
 			"plane" "(1664 2688 1604) (1664 2688 1612) (1536 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113468,7 +113468,7 @@ entity
 		{
 			"id" "67596"
 			"plane" "(1664 2560 1604) (1664 2560 1612) (1664 2688 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113479,7 +113479,7 @@ entity
 		{
 			"id" "67595"
 			"plane" "(1536 2688 1604) (1536 2688 1612) (1536 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113490,7 +113490,7 @@ entity
 		{
 			"id" "67594"
 			"plane" "(1536 2560 1604) (1664 2560 1604) (1664 2688 1604)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113552,7 +113552,7 @@ entity
 		{
 			"id" "67605"
 			"plane" "(1664 2432 1612) (1536 2432 1612) (1536 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113563,7 +113563,7 @@ entity
 		{
 			"id" "67604"
 			"plane" "(1536 2432 1604) (1536 2432 1612) (1664 2432 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113574,7 +113574,7 @@ entity
 		{
 			"id" "67603"
 			"plane" "(1664 2560 1604) (1664 2560 1612) (1536 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113585,7 +113585,7 @@ entity
 		{
 			"id" "67602"
 			"plane" "(1664 2432 1604) (1664 2432 1612) (1664 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113596,7 +113596,7 @@ entity
 		{
 			"id" "67601"
 			"plane" "(1536 2560 1604) (1536 2560 1612) (1536 2432 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113607,7 +113607,7 @@ entity
 		{
 			"id" "67600"
 			"plane" "(1536 2432 1604) (1664 2432 1604) (1664 2560 1604)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113669,7 +113669,7 @@ entity
 		{
 			"id" "67611"
 			"plane" "(1536 2432 1612) (1408 2432 1612) (1408 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -113680,7 +113680,7 @@ entity
 		{
 			"id" "67610"
 			"plane" "(1408 2432 1604) (1408 2432 1612) (1536 2432 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113691,7 +113691,7 @@ entity
 		{
 			"id" "67609"
 			"plane" "(1536 2560 1604) (1536 2560 1612) (1408 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113702,7 +113702,7 @@ entity
 		{
 			"id" "67608"
 			"plane" "(1536 2432 1604) (1536 2432 1612) (1536 2560 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113713,7 +113713,7 @@ entity
 		{
 			"id" "67607"
 			"plane" "(1408 2560 1604) (1408 2560 1612) (1408 2432 1612)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -113724,7 +113724,7 @@ entity
 		{
 			"id" "67606"
 			"plane" "(1408 2432 1604) (1536 2432 1604) (1536 2560 1604)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
 			"rotation" "0"
@@ -121624,7 +121624,7 @@ entity
 		{
 			"id" "63669"
 			"plane" "(864 2312 1568) (864 2316 1568) (928 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -121668,7 +121668,7 @@ entity
 		{
 			"id" "63665"
 			"plane" "(864 2316 1376) (928 2316 1376) (928 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121679,7 +121679,7 @@ entity
 		{
 			"id" "63664"
 			"plane" "(928 2312 1376) (864 2312 1376) (864 2312 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121700,7 +121700,7 @@ entity
 		{
 			"id" "63675"
 			"plane" "(960 2312 1568) (960 2316 1568) (1024 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -121744,7 +121744,7 @@ entity
 		{
 			"id" "63671"
 			"plane" "(960 2316 1376) (1024 2316 1376) (1024 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121755,7 +121755,7 @@ entity
 		{
 			"id" "63670"
 			"plane" "(1024 2312 1376) (960 2312 1376) (960 2312 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121776,7 +121776,7 @@ entity
 		{
 			"id" "63681"
 			"plane" "(1056 2312 1568) (1056 2316 1568) (1120 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -121820,7 +121820,7 @@ entity
 		{
 			"id" "63677"
 			"plane" "(1056 2316 1376) (1120 2316 1376) (1120 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121831,7 +121831,7 @@ entity
 		{
 			"id" "63676"
 			"plane" "(1120 2312 1376) (1056 2312 1376) (1056 2312 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121852,7 +121852,7 @@ entity
 		{
 			"id" "63687"
 			"plane" "(1152 2312 1568) (1152 2316 1568) (1216 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -121896,7 +121896,7 @@ entity
 		{
 			"id" "63683"
 			"plane" "(1152 2316 1376) (1216 2316 1376) (1216 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121907,7 +121907,7 @@ entity
 		{
 			"id" "63682"
 			"plane" "(1216 2312 1376) (1152 2312 1376) (1152 2312 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121928,7 +121928,7 @@ entity
 		{
 			"id" "63693"
 			"plane" "(1248 2312 1568) (1248 2316 1568) (1312 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -121972,7 +121972,7 @@ entity
 		{
 			"id" "63689"
 			"plane" "(1248 2316 1376) (1312 2316 1376) (1312 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -121983,7 +121983,7 @@ entity
 		{
 			"id" "63688"
 			"plane" "(1312 2312 1376) (1248 2312 1376) (1248 2312 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -122004,7 +122004,7 @@ entity
 		{
 			"id" "63699"
 			"plane" "(1344 2312 1568) (1344 2316 1568) (1408 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -122048,7 +122048,7 @@ entity
 		{
 			"id" "63695"
 			"plane" "(1344 2316 1376) (1408 2316 1376) (1408 2316 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -122059,7 +122059,7 @@ entity
 		{
 			"id" "63694"
 			"plane" "(1408 2312 1376) (1344 2312 1376) (1344 2312 1568)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -128] 0.25"
 			"rotation" "0"
@@ -157032,7 +157032,7 @@ entity
 		{
 			"id" "50640"
 			"plane" "(1120 2316 1280) (1056 2316 1280) (1056 2316 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157043,7 +157043,7 @@ entity
 		{
 			"id" "50639"
 			"plane" "(1120 2312 1152) (1056 2312 1152) (1056 2312 1280)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157149,7 +157149,7 @@ entity
 		{
 			"id" "50646"
 			"plane" "(1216 2316 1280) (1152 2316 1280) (1152 2316 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157160,7 +157160,7 @@ entity
 		{
 			"id" "50645"
 			"plane" "(1216 2312 1152) (1152 2312 1152) (1152 2312 1280)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157266,7 +157266,7 @@ entity
 		{
 			"id" "50652"
 			"plane" "(1312 2316 1280) (1248 2316 1280) (1248 2316 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157277,7 +157277,7 @@ entity
 		{
 			"id" "50651"
 			"plane" "(1312 2312 1152) (1248 2312 1152) (1248 2312 1280)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157383,7 +157383,7 @@ entity
 		{
 			"id" "50658"
 			"plane" "(1408 2316 1280) (1344 2316 1280) (1344 2316 1152)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -157394,7 +157394,7 @@ entity
 		{
 			"id" "50657"
 			"plane" "(1408 2312 1152) (1344 2312 1152) (1344 2312 1280)"
-			"material" "GLASS/GLASS01"
+			"material" "GLASS/GLASS01_SIMPLECULL"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
