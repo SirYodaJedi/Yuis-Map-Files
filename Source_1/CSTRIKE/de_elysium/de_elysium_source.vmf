@@ -140008,10 +140008,10 @@ entity
 	"UseRandomTime" "1"
 	connections
 	{
-		"OnTimer" "train3teethSetSpeed10-1"
-		"OnTimer" "train2teethSetSpeed10-1"
-		"OnTimer" "train2teethStop1-1"
-		"OnTimer" "train3teethStop1-1"
+		"OnTimer" "train3teeth,SetSpeed,1,0,-1"
+		"OnTimer" "train2teeth,SetSpeed,1,0,-1"
+		"OnTimer" "train2teeth,Stop,,1,-1"
+		"OnTimer" "train3teeth,Stop,,1,-1"
 	}
 	"origin" "-41.3275 1294.65 1080"
 	editor
