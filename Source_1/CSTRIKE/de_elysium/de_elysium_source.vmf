@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "982"
+	"mapversion" "983"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "982"
+	"mapversion" "983"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -207239,7 +207239,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "2120 238 1418"
 	editor
@@ -207277,7 +207277,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "158 522.414 1254"
 	editor
@@ -207314,7 +207314,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "2094 100 1285"
 	editor
@@ -207352,7 +207352,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "1261 1053 1091"
 	editor
@@ -207390,7 +207390,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "256 157 1256"
 	editor
@@ -207428,7 +207428,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "460 156 1254"
 	editor
@@ -207466,7 +207466,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "1069.89 364 1092"
 	editor
@@ -207504,7 +207504,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "1084 630 1094"
 	editor
@@ -207542,7 +207542,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "1430 704 1092"
 	editor
@@ -207579,7 +207579,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "2108 100 1542"
 	editor
@@ -207617,7 +207617,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"StartDisabled" "0"
 	"origin" "1306 762 1224"
 	editor
@@ -259994,8 +259994,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[621.888 2718.84 1421.56]"
-		"look" "[622.012 2721.79 1420.89]"
+		"position" "[1823.12 -173.495 1611.06]"
+		"look" "[1824.02 -170.809 1609.99]"
 	}
 }
 cordons
