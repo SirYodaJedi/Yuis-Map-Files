@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "985"
+	"mapversion" "986"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "16"
 }
 palette_plus
 {
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "985"
+	"mapversion" "986"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -139393,7 +139393,7 @@ entity
 				"v" "6144 4096 5632"
 				"v" "6144 -4096 5632"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139411,7 +139411,7 @@ entity
 				"v" "6144 -4096 2560"
 				"v" "6144 4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139429,7 +139429,7 @@ entity
 				"v" "-2048 4096 5632"
 				"v" "-2048 -4096 5632"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139447,7 +139447,7 @@ entity
 				"v" "6144 -4096 5632"
 				"v" "6144 4096 5632"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139465,7 +139465,7 @@ entity
 				"v" "6144 4096 5632"
 				"v" "-2048 4096 5632"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139483,7 +139483,7 @@ entity
 				"v" "-2048 -4096 5632"
 				"v" "6144 -4096 5632"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139511,7 +139511,7 @@ entity
 				"v" "-640 4096 2560"
 				"v" "-640 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139529,7 +139529,7 @@ entity
 				"v" "-640 -512 0"
 				"v" "-640 4096 0"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139547,7 +139547,7 @@ entity
 				"v" "-2048 4096 2560"
 				"v" "-2048 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139565,7 +139565,7 @@ entity
 				"v" "-640 -512 2560"
 				"v" "-640 4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139583,7 +139583,7 @@ entity
 				"v" "-640 4096 2560"
 				"v" "-2048 4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139601,7 +139601,7 @@ entity
 				"v" "-2048 -512 2560"
 				"v" "-640 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139629,7 +139629,7 @@ entity
 				"v" "6144 -512 2560"
 				"v" "6144 -4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139647,7 +139647,7 @@ entity
 				"v" "6144 -4096 0"
 				"v" "6144 -512 0"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139665,7 +139665,7 @@ entity
 				"v" "-2048 -512 2560"
 				"v" "-2048 -4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139683,7 +139683,7 @@ entity
 				"v" "6144 -4096 2560"
 				"v" "6144 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139701,7 +139701,7 @@ entity
 				"v" "6144 -512 2560"
 				"v" "-2048 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139719,7 +139719,7 @@ entity
 				"v" "-2048 -4096 2560"
 				"v" "6144 -4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139747,7 +139747,7 @@ entity
 				"v" "6144 4096 2560"
 				"v" "6144 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139765,7 +139765,7 @@ entity
 				"v" "6144 -512 0"
 				"v" "6144 4096 0"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -139783,7 +139783,7 @@ entity
 				"v" "3200 4096 2560"
 				"v" "3200 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139801,7 +139801,7 @@ entity
 				"v" "6144 -512 2560"
 				"v" "6144 4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139819,7 +139819,7 @@ entity
 				"v" "6144 4096 2560"
 				"v" "3200 4096 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -139837,7 +139837,7 @@ entity
 				"v" "3200 -512 2560"
 				"v" "6144 -512 2560"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLS_VISCLUSTER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145533,7 +145533,7 @@ entity
 				"v" "2883.37 2239 1152"
 				"v" "2883.37 1832.76 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -44] 0.25"
 			"vaxis" "[0 -1 0 35.0391] 0.25"
 			"rotation" "0"
@@ -145551,7 +145551,7 @@ entity
 				"v" "2883.37 1832.76 1024"
 				"v" "2883.37 2239 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -44] 0.25"
 			"vaxis" "[0 -1 0 35.0391] 0.25"
 			"rotation" "0"
@@ -145569,7 +145569,7 @@ entity
 				"v" "2123 2239 1152"
 				"v" "2123 1832.76 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -35.0391] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145587,7 +145587,7 @@ entity
 				"v" "2883.37 1832.76 1152"
 				"v" "2883.37 2239 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -35.0391] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145605,7 +145605,7 @@ entity
 				"v" "2883.37 2239 1152"
 				"v" "2123 2239 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -44] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145623,7 +145623,7 @@ entity
 				"v" "2123 1832.76 1152"
 				"v" "2883.37 1832.76 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -44] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145667,7 +145667,7 @@ entity
 				"v" "2880 1120 1312"
 				"v" "2880 1024 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -145685,7 +145685,7 @@ entity
 				"v" "2880 1024 1024"
 				"v" "2880 1120 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -145703,7 +145703,7 @@ entity
 				"v" "2176 1120 1312"
 				"v" "2176 1024 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145721,7 +145721,7 @@ entity
 				"v" "2880 1024 1312"
 				"v" "2880 1120 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145739,7 +145739,7 @@ entity
 				"v" "2880 1120 1312"
 				"v" "2176 1120 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145757,7 +145757,7 @@ entity
 				"v" "2176 1024 1312"
 				"v" "2880 1024 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145801,7 +145801,7 @@ entity
 				"v" "640 896 1184"
 				"v" "640 800 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -145819,7 +145819,7 @@ entity
 				"v" "640 800 1024"
 				"v" "640 896 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -145837,7 +145837,7 @@ entity
 				"v" "544 896 1184"
 				"v" "544 800 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145855,7 +145855,7 @@ entity
 				"v" "640 800 1184"
 				"v" "640 896 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145873,7 +145873,7 @@ entity
 				"v" "640 896 1184"
 				"v" "544 896 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145891,7 +145891,7 @@ entity
 				"v" "544 800 1184"
 				"v" "640 800 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145935,7 +145935,7 @@ entity
 				"v" "1024 2016 1120"
 				"v" "1024 1504 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.488] 0.25"
 			"vaxis" "[0 -1 0 -61.8477] 0.25"
 			"rotation" "0"
@@ -145953,7 +145953,7 @@ entity
 				"v" "1024 1504 1024"
 				"v" "1024 2016 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.488] 0.25"
 			"vaxis" "[0 -1 0 -61.8477] 0.25"
 			"rotation" "0"
@@ -145971,7 +145971,7 @@ entity
 				"v" "640 2016 1120"
 				"v" "640 1504 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 61.8477] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -145989,7 +145989,7 @@ entity
 				"v" "1024 1504 1120"
 				"v" "1024 2016 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 61.8477] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146007,7 +146007,7 @@ entity
 				"v" "1024 2016 1120"
 				"v" "640 2016 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.488] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146025,7 +146025,7 @@ entity
 				"v" "640 1504 1120"
 				"v" "1024 1504 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.488] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146069,7 +146069,7 @@ entity
 				"v" "2676.26 2304.34 1152"
 				"v" "2676.26 2208.34 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 46.9404] 0.25"
 			"vaxis" "[0 -1 0 -62.6494] 0.25"
 			"rotation" "0"
@@ -146087,7 +146087,7 @@ entity
 				"v" "2676.26 2208.34 1024"
 				"v" "2676.26 2304.34 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 46.9404] 0.25"
 			"vaxis" "[0 -1 0 -62.6494] 0.25"
 			"rotation" "0"
@@ -146105,7 +146105,7 @@ entity
 				"v" "2484.26 2304.34 1152"
 				"v" "2484.26 2208.34 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 62.6494] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146123,7 +146123,7 @@ entity
 				"v" "2676.26 2208.34 1152"
 				"v" "2676.26 2304.34 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 62.6494] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146141,7 +146141,7 @@ entity
 				"v" "2676.26 2304.34 1152"
 				"v" "2484.26 2304.34 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 46.9404] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146159,7 +146159,7 @@ entity
 				"v" "2484.26 2208.34 1152"
 				"v" "2676.26 2208.34 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 46.9404] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146203,7 +146203,7 @@ entity
 				"v" "1088 1984 1160"
 				"v" "1088 1856 1160"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146221,7 +146221,7 @@ entity
 				"v" "1088 1856 1032"
 				"v" "1088 1984 1032"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146239,7 +146239,7 @@ entity
 				"v" "1056 1984 1160"
 				"v" "1056 1856 1160"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 31.9834] 0.25"
 			"rotation" "0"
@@ -146257,7 +146257,7 @@ entity
 				"v" "1088 1856 1160"
 				"v" "1088 1984 1160"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 31.9834] 0.25"
 			"rotation" "0"
@@ -146275,7 +146275,7 @@ entity
 				"v" "1088 1984 1160"
 				"v" "1056 1984 1160"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 31.9834] 0.25"
 			"rotation" "0"
@@ -146293,7 +146293,7 @@ entity
 				"v" "1056 1856 1160"
 				"v" "1088 1856 1160"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 31.9834] 0.25"
 			"rotation" "0"
@@ -146337,7 +146337,7 @@ entity
 				"v" "1792 672 1120"
 				"v" "1792 544 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4888] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -146355,7 +146355,7 @@ entity
 				"v" "1792 544 896"
 				"v" "1792 672 896"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4888] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -146373,7 +146373,7 @@ entity
 				"v" "1440 672 1120"
 				"v" "1440 544 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146391,7 +146391,7 @@ entity
 				"v" "1792 544 1120"
 				"v" "1792 672 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146409,7 +146409,7 @@ entity
 				"v" "1792 672 1120"
 				"v" "1440 672 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4888] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146427,7 +146427,7 @@ entity
 				"v" "1440 544 1120"
 				"v" "1792 544 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4888] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146471,7 +146471,7 @@ entity
 				"v" "3104 704 1248"
 				"v" "3104 -288 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -146489,7 +146489,7 @@ entity
 				"v" "3104 -288 1024"
 				"v" "3104 704 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -146507,7 +146507,7 @@ entity
 				"v" "1792 704 1248"
 				"v" "1792 -288 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146525,7 +146525,7 @@ entity
 				"v" "3104 -288 1248"
 				"v" "3104 704 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146543,7 +146543,7 @@ entity
 				"v" "3104 704 1248"
 				"v" "1792 704 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146561,7 +146561,7 @@ entity
 				"v" "1792 -288 1248"
 				"v" "3104 -288 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146605,7 +146605,7 @@ entity
 				"v" "2880 832 1344"
 				"v" "2880 736 1344"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146623,7 +146623,7 @@ entity
 				"v" "2880 736 1216"
 				"v" "2880 832 1216"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146641,7 +146641,7 @@ entity
 				"v" "2688 832 1344"
 				"v" "2688 736 1344"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146659,7 +146659,7 @@ entity
 				"v" "2880 736 1344"
 				"v" "2880 832 1344"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146677,7 +146677,7 @@ entity
 				"v" "2880 832 1344"
 				"v" "2688 832 1344"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146695,7 +146695,7 @@ entity
 				"v" "2688 736 1344"
 				"v" "2880 736 1344"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146739,7 +146739,7 @@ entity
 				"v" "2880 992 1312"
 				"v" "2880 896 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146757,7 +146757,7 @@ entity
 				"v" "2880 896 1024"
 				"v" "2880 992 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146775,7 +146775,7 @@ entity
 				"v" "2688 992 1312"
 				"v" "2688 896 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146793,7 +146793,7 @@ entity
 				"v" "2880 896 1312"
 				"v" "2880 992 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146811,7 +146811,7 @@ entity
 				"v" "2880 992 1312"
 				"v" "2688 992 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146829,7 +146829,7 @@ entity
 				"v" "2688 896 1312"
 				"v" "2880 896 1312"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146873,7 +146873,7 @@ entity
 				"v" "1568 352 1120"
 				"v" "1568 -128 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -146891,7 +146891,7 @@ entity
 				"v" "1568 -128 896"
 				"v" "1568 352 896"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -146909,7 +146909,7 @@ entity
 				"v" "800 352 1120"
 				"v" "800 -128 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146927,7 +146927,7 @@ entity
 				"v" "1568 -128 1120"
 				"v" "1568 352 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146945,7 +146945,7 @@ entity
 				"v" "1568 352 1120"
 				"v" "800 352 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -146963,7 +146963,7 @@ entity
 				"v" "800 -128 1120"
 				"v" "1568 -128 1120"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147007,7 +147007,7 @@ entity
 				"v" "832 2784 1248"
 				"v" "832 2336 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5117] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147025,7 +147025,7 @@ entity
 				"v" "832 2336 1152"
 				"v" "832 2784 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5117] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147043,7 +147043,7 @@ entity
 				"v" "512 2784 1248"
 				"v" "512 2336 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147061,7 +147061,7 @@ entity
 				"v" "832 2336 1248"
 				"v" "832 2784 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147079,7 +147079,7 @@ entity
 				"v" "832 2784 1248"
 				"v" "512 2784 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5117] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147097,7 +147097,7 @@ entity
 				"v" "512 2336 1248"
 				"v" "832 2336 1248"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5117] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147141,7 +147141,7 @@ entity
 				"v" "480 2592 1472"
 				"v" "480 2080 1472"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147159,7 +147159,7 @@ entity
 				"v" "480 2080 1152"
 				"v" "480 2592 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147177,7 +147177,7 @@ entity
 				"v" "224 2592 1472"
 				"v" "224 2080 1472"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147195,7 +147195,7 @@ entity
 				"v" "480 2080 1472"
 				"v" "480 2592 1472"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147213,7 +147213,7 @@ entity
 				"v" "480 2592 1472"
 				"v" "224 2592 1472"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147231,7 +147231,7 @@ entity
 				"v" "224 2080 1472"
 				"v" "480 2080 1472"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147275,7 +147275,7 @@ entity
 				"v" "832 2784 1538.04"
 				"v" "832 2048 1538.04"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147293,7 +147293,7 @@ entity
 				"v" "832 2048 1344"
 				"v" "832 2784 1344"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147311,7 +147311,7 @@ entity
 				"v" "512 2784 1538.04"
 				"v" "512 2048 1538.04"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 8.15723] 0.25"
 			"rotation" "0"
@@ -147329,7 +147329,7 @@ entity
 				"v" "832 2048 1538.04"
 				"v" "832 2784 1538.04"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 8.15723] 0.25"
 			"rotation" "0"
@@ -147347,7 +147347,7 @@ entity
 				"v" "832 2784 1538.04"
 				"v" "512 2784 1538.04"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 8.15723] 0.25"
 			"rotation" "0"
@@ -147365,7 +147365,7 @@ entity
 				"v" "512 2048 1538.04"
 				"v" "832 2048 1538.04"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -18.5112] 0.25"
 			"vaxis" "[0 0 -1 8.15723] 0.25"
 			"rotation" "0"
@@ -147409,7 +147409,7 @@ entity
 				"v" "512 1392 1184"
 				"v" "512 800 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147427,7 +147427,7 @@ entity
 				"v" "512 800 1024"
 				"v" "512 1392 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 -1 0 2.15234] 0.25"
 			"rotation" "0"
@@ -147445,7 +147445,7 @@ entity
 				"v" "-328 1392 1184"
 				"v" "-328 800 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147463,7 +147463,7 @@ entity
 				"v" "512 800 1184"
 				"v" "512 1392 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -2.15234] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147481,7 +147481,7 @@ entity
 				"v" "512 1392 1184"
 				"v" "-328 1392 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147499,7 +147499,7 @@ entity
 				"v" "-328 800 1184"
 				"v" "512 800 1184"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4887] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147543,7 +147543,7 @@ entity
 				"v" "2016 2688 1568"
 				"v" "2016 2304 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 -1 0 -7.00977] 0.25"
 			"rotation" "0"
@@ -147561,7 +147561,7 @@ entity
 				"v" "2016 2304 1152"
 				"v" "2016 2688 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 -1 0 -7.00977] 0.25"
 			"rotation" "0"
@@ -147579,7 +147579,7 @@ entity
 				"v" "1984 2688 1568"
 				"v" "1984 2304 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 7.00977] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147597,7 +147597,7 @@ entity
 				"v" "2016 2304 1568"
 				"v" "2016 2688 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 7.00977] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147615,7 +147615,7 @@ entity
 				"v" "2016 2688 1568"
 				"v" "1984 2688 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147633,7 +147633,7 @@ entity
 				"v" "1984 2304 1568"
 				"v" "2016 2304 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147677,7 +147677,7 @@ entity
 				"v" "1408 2784 1568"
 				"v" "1408 2336 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4902] 0.25"
 			"vaxis" "[0 -1 0 -61.8477] 0.25"
 			"rotation" "0"
@@ -147695,7 +147695,7 @@ entity
 				"v" "1408 2336 1152"
 				"v" "1408 2784 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4902] 0.25"
 			"vaxis" "[0 -1 0 -61.8477] 0.25"
 			"rotation" "0"
@@ -147713,7 +147713,7 @@ entity
 				"v" "864 2784 1568"
 				"v" "864 2336 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 61.8477] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147731,7 +147731,7 @@ entity
 				"v" "1408 2336 1568"
 				"v" "1408 2784 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 61.8477] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147749,7 +147749,7 @@ entity
 				"v" "1408 2784 1568"
 				"v" "864 2784 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4902] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147767,7 +147767,7 @@ entity
 				"v" "864 2336 1568"
 				"v" "1408 2336 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 45.4902] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147811,7 +147811,7 @@ entity
 				"v" "2080 2688 1568"
 				"v" "2080 2304 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 -1 0 56.9902] 0.25"
 			"rotation" "0"
@@ -147829,7 +147829,7 @@ entity
 				"v" "2080 2304 1152"
 				"v" "2080 2688 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 -1 0 56.9902] 0.25"
 			"rotation" "0"
@@ -147847,7 +147847,7 @@ entity
 				"v" "2048 2688 1568"
 				"v" "2048 2304 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -56.9902] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147865,7 +147865,7 @@ entity
 				"v" "2080 2304 1568"
 				"v" "2080 2688 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 -56.9902] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147883,7 +147883,7 @@ entity
 				"v" "2080 2688 1568"
 				"v" "2048 2688 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147901,7 +147901,7 @@ entity
 				"v" "2048 2304 1568"
 				"v" "2080 2304 1568"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 -14.8213] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147945,7 +147945,7 @@ entity
 				"v" "2688 2432 1152"
 				"v" "2688 2336 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -147963,7 +147963,7 @@ entity
 				"v" "2688 2336 1024"
 				"v" "2688 2432 1024"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -147981,7 +147981,7 @@ entity
 				"v" "2496 2432 1152"
 				"v" "2496 2336 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -147999,7 +147999,7 @@ entity
 				"v" "2688 2336 1152"
 				"v" "2688 2432 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -148017,7 +148017,7 @@ entity
 				"v" "2688 2432 1152"
 				"v" "2496 2432 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -148035,7 +148035,7 @@ entity
 				"v" "2496 2336 1152"
 				"v" "2688 2336 1152"
 			}
-			"material" "TOOLS/TOOLSTRIGGER"
+			"material" "TOOLS/TOOLSTRIGGER_SOUNDSCAPE"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -259995,8 +259995,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[598.998 2489.65 1208.17]"
-		"look" "[601.456 2491.41 1208.06]"
+		"position" "[-78.2058 1800.22 1550.98]"
+		"look" "[-78.6474 1803.21 1551.04]"
 	}
 }
 cordons
