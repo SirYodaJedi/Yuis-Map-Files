@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "983"
+	"mapversion" "985"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "983"
+	"mapversion" "985"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -140403,7 +140403,7 @@ entity
 	"EndV" "1"
 	"fademindist" "-1"
 	"material" "decals/cs_b_sign"
-	"sides" "69351"
+	"sides" "69344 69351 69339"
 	"StartU" "1"
 	"StartV" "0"
 	"uv0" "-32 -64 0"
@@ -141069,13 +141069,13 @@ entity
 	"BasisOrigin" "1183.32 2628.12 1184"
 	"BasisU" "1 0 0"
 	"BasisV" "0 1 -0"
-	"EndU" "1"
+	"EndU" "4"
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "glass/offwndwb_break_snow"
 	"sides" "64222"
 	"StartU" "0"
-	"StartV" "1"
+	"StartV" "4"
 	"uv0" "-64 -64 0"
 	"uv1" "-64 64 0"
 	"uv2" "64 64 0"
@@ -141086,6 +141086,7 @@ entity
 		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "I get what you're going for Phil, but need to change to displacement so that we can use vertex alpha to make the edges less abrupt"
 		"logicalpos" "[0 13500]"
 	}
 }
@@ -142060,7 +142061,7 @@ entity
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "decals/bombsite_x"
-	"sides" "49493"
+	"sides" "49493 49511"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-64 -64 0"
@@ -142198,8 +142199,8 @@ entity
 	"angles" "0 0 0"
 	"BasisNormal" "-1 0 0"
 	"BasisOrigin" "240 675 1061"
-	"BasisU" "0 1 -8.9407e-008"
-	"BasisV" "0 -8.9407e-008 -1"
+	"BasisU" "0 1 -8.9407e-08"
+	"BasisV" "0 -8.9407e-08 -1"
 	"EndU" "0"
 	"EndV" "1"
 	"fademindist" "-1"
@@ -259643,7 +259644,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/stain01"
 	"RenderOrder" "0"
-	"sides" "35041"
+	"sides" "35041 72456"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-64 -64 0"
@@ -259994,8 +259995,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1823.12 -173.495 1611.06]"
-		"look" "[1824.02 -170.809 1609.99]"
+		"position" "[598.998 2489.65 1208.17]"
+		"look" "[601.456 2491.41 1208.06]"
 	}
 }
 cordons
