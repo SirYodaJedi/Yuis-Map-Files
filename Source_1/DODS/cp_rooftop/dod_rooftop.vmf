@@ -44773,8 +44773,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "control1-proxyOnProxyRelay50-1"
-		"OnEndTouch" "control1-proxyOnProxyRelay30-1"
+		"OnStartTouch" "control1-proxy,OnProxyRelay5,,0,-1"
+		"OnEndTouch" "control1-proxy,OnProxyRelay3,,0,-1"
 	}
 	solid
 	{
@@ -44852,7 +44852,7 @@ entity
 	"classname" "math_counter"
 	connections
 	{
-		"OnHitMax" "end_roundEndRound_TerroristsWin80-1"
+		"OnHitMax" "end_round,EndRound_TerroristsWin,8,0,-1"
 	}
 }
 entity
@@ -44888,7 +44888,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "math_flagsSetValue00-1"
+		"OnMapSpawn" "math_flags,SetValue,0,0,-1"
 	}
 }
 entity
@@ -44946,8 +44946,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "control4-proxyOnProxyRelay50-1"
-		"OnEndTouch" "control4-proxyOnProxyRelay30-1"
+		"OnStartTouch" "control4-proxy,OnProxyRelay5,,0,-1"
+		"OnEndTouch" "control4-proxy,OnProxyRelay3,,0,-1"
 	}
 	solid
 	{
@@ -45069,8 +45069,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "control7-proxyOnProxyRelay50-1"
-		"OnEndTouch" "control7-proxyOnProxyRelay30-1"
+		"OnStartTouch" "control7-proxy,OnProxyRelay5,,0,-1"
+		"OnEndTouch" "control7-proxy,OnProxyRelay3,,0,-1"
 	}
 	solid
 	{
@@ -45192,8 +45192,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "control8-proxyOnProxyRelay50-1"
-		"OnEndTouch" "control8-proxyOnProxyRelay30-1"
+		"OnStartTouch" "control8-proxy,OnProxyRelay5,,0,-1"
+		"OnEndTouch" "control8-proxy,OnProxyRelay3,,0,-1"
 	}
 	solid
 	{
@@ -45315,8 +45315,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "control9-proxyOnProxyRelay50-1"
-		"OnEndTouch" "control9-proxyOnProxyRelay30-1"
+		"OnStartTouch" "control9-proxy,OnProxyRelay5,,0,-1"
+		"OnEndTouch" "control9-proxy,OnProxyRelay3,,0,-1"
 	}
 	solid
 	{
@@ -45391,12 +45391,12 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "tonemap_globalSetAutoExposureMin0.500"
-		"OnMapSpawn" "tonemap_globalSetAutoExposureMax200"
-		"OnMapSpawn" "tonemap_globalSetBloomScale1.000"
-		"OnMapSpawn" "tonemap_globalSetTonemapRate.100"
-		"OnMapSpawn" "tonemap_globalSetTonemapPercentTarget650-1"
-		"OnMapSpawn" "tonemap_globalSetTonemapPercentBrightPixels20-1"
+		"OnMapSpawn" "tonemap_global,SetAutoExposureMin,0.5,0,0"
+		"OnMapSpawn" "tonemap_global,SetAutoExposureMax,2,0,0"
+		"OnMapSpawn" "tonemap_global,SetBloomScale,1.0,0,0"
+		"OnMapSpawn" "tonemap_global,SetTonemapRate,.1,0,0"
+		"OnMapSpawn" "tonemap_global,SetTonemapPercentTarget,65,0,-1"
+		"OnMapSpawn" "tonemap_global,SetTonemapPercentBrightPixels,2,0,-1"
 	}
 }
 entity
@@ -47030,9 +47030,9 @@ entity
 	"classname" "prop_physics"
 	connections
 	{
-		"OnHealthChanged" "workspots00TurnOff0-1"
-		"OnHealthChanged" "workspotsbeam00Kill0-1"
-		"OnHealthChanged" "WorkspotsASkin00-1"
+		"OnHealthChanged" "workspots00,TurnOff,,0,-1"
+		"OnHealthChanged" "workspotsbeam00,Kill,,0,-1"
+		"OnHealthChanged" "WorkspotsA,Skin,0,0,-1"
 	}
 }
 entity
@@ -48221,7 +48221,7 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "fallscreamPlaySound0-1"
+		"OnStartTouch" "fallscream,PlaySound,,0,-1"
 	}
 	solid
 	{
@@ -48590,7 +48590,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-script_control_pointRunScriptCodeRemovePlayer_CT()0-1"
+		"OnTrigger" "control1-script_control_point,RunScriptCode,RemovePlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -48606,7 +48606,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-script_control_pointRunScriptCodeRemovePlayer_Terrorist()0-1"
+		"OnTrigger" "control1-script_control_point,RunScriptCode,RemovePlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -48722,7 +48722,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-proxyProxyRelay0-1"
+		"OnTrigger" "control1-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -48738,7 +48738,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-proxyProxyRelay0-1"
+		"OnTrigger" "control1-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -48872,8 +48872,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-relay_add_player_TDisable0-1"
-		"OnTrigger" "control1-relay_add_player_CTEnable0-1"
+		"OnTrigger" "control1-relay_add_player_T,Disable,,0,-1"
+		"OnTrigger" "control1-relay_add_player_CT,Enable,,0,-1"
 	}
 	editor
 	{
@@ -48889,8 +48889,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-relay_add_player_TEnable0-1"
-		"OnTrigger" "control1-relay_add_player_CTDisable0-1"
+		"OnTrigger" "control1-relay_add_player_T,Enable,,0,-1"
+		"OnTrigger" "control1-relay_add_player_CT,Disable,,0,-1"
 	}
 	editor
 	{
@@ -48934,7 +48934,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-script_control_pointRunScriptCodeAddPlayer_CT()0-1"
+		"OnTrigger" "control1-script_control_point,RunScriptCode,AddPlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -48950,7 +48950,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-script_control_pointRunScriptCodeAddPlayer_Terrorist()0-1"
+		"OnTrigger" "control1-script_control_point,RunScriptCode,AddPlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -48966,9 +48966,9 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-proxyOnProxyRelay90.1-1"
-		"OnTrigger" "control1-proxyOnProxyRelay80.1-1"
-		"OnTrigger" "control1-proxyOnProxyRelay70.1-1"
+		"OnTrigger" "control1-proxy,OnProxyRelay9,,0.1,-1"
+		"OnTrigger" "control1-proxy,OnProxyRelay8,,0.1,-1"
+		"OnTrigger" "control1-proxy,OnProxyRelay7,,0.1,-1"
 	}
 	editor
 	{
@@ -48984,7 +48984,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-proxyProxyRelay0.1-1"
+		"OnTrigger" "control1-proxy,ProxyRelay,,0.1,-1"
 	}
 	editor
 	{
@@ -49000,8 +49000,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-sound_success_CTPlaySound0-1"
-		"OnTrigger" "control1-relay_CT_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control1-sound_success_CT,PlaySound,,0,-1"
+		"OnTrigger" "control1-relay_CT_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -49017,8 +49017,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control1-sound_success_TPlaySound0-1"
-		"OnTrigger" "control1-relay_T_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control1-sound_success_T,PlaySound,,0,-1"
+		"OnTrigger" "control1-relay_T_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -49123,7 +49123,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "control1-script_control_pointRunScriptCodeResetCapPoint()1-1"
+		"OnMapSpawn" "control1-script_control_point,RunScriptCode,ResetCapPoint(),1,-1"
 	}
 }
 entity
@@ -49162,15 +49162,15 @@ entity
 	"classname" "func_instance_io_proxy"
 	connections
 	{
-		"OnProxyRelay9" "math_flagsAdd10-1"
-		"OnProxyRelay8" "score_TAddScoreTerrorist0-1"
-		"OnProxyRelay7" "msg_cap_point_T_AShowMessage0-1"
-		"OnProxyRelay1" "control1-relay_make_T_ONLYTrigger0-1"
-		"OnProxyRelay2" "control1-relay_make_CT_ONLYTrigger0-1"
-		"OnProxyRelay3" "control1-relay_sub_player_TTrigger0-1"
-		"OnProxyRelay4" "control1-relay_add_player_CTTrigger0-1"
-		"OnProxyRelay5" "control1-relay_add_player_TTrigger0-1"
-		"OnProxyRelay6" "control1-relay_sub_player_CTTrigger0-1"
+		"OnProxyRelay9" "math_flags,Add,1,0,-1"
+		"OnProxyRelay8" "score_T,AddScoreTerrorist,,0,-1"
+		"OnProxyRelay7" "msg_cap_point_T_A,ShowMessage,,0,-1"
+		"OnProxyRelay1" "control1-relay_make_T_ONLY,Trigger,,0,-1"
+		"OnProxyRelay2" "control1-relay_make_CT_ONLY,Trigger,,0,-1"
+		"OnProxyRelay3" "control1-relay_sub_player_T,Trigger,,0,-1"
+		"OnProxyRelay4" "control1-relay_add_player_CT,Trigger,,0,-1"
+		"OnProxyRelay5" "control1-relay_add_player_T,Trigger,,0,-1"
+		"OnProxyRelay6" "control1-relay_sub_player_CT,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -49210,7 +49210,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-script_control_pointRunScriptCodeRemovePlayer_CT()0-1"
+		"OnTrigger" "control4-script_control_point,RunScriptCode,RemovePlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -49227,7 +49227,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-script_control_pointRunScriptCodeRemovePlayer_Terrorist()0-1"
+		"OnTrigger" "control4-script_control_point,RunScriptCode,RemovePlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -49344,7 +49344,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-proxyProxyRelay0-1"
+		"OnTrigger" "control4-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -49361,7 +49361,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-proxyProxyRelay0-1"
+		"OnTrigger" "control4-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -49497,8 +49497,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-relay_add_player_TDisable0-1"
-		"OnTrigger" "control4-relay_add_player_CTEnable0-1"
+		"OnTrigger" "control4-relay_add_player_T,Disable,,0,-1"
+		"OnTrigger" "control4-relay_add_player_CT,Enable,,0,-1"
 	}
 	editor
 	{
@@ -49515,8 +49515,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-relay_add_player_TEnable0-1"
-		"OnTrigger" "control4-relay_add_player_CTDisable0-1"
+		"OnTrigger" "control4-relay_add_player_T,Enable,,0,-1"
+		"OnTrigger" "control4-relay_add_player_CT,Disable,,0,-1"
 	}
 	editor
 	{
@@ -49562,7 +49562,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-script_control_pointRunScriptCodeAddPlayer_CT()0-1"
+		"OnTrigger" "control4-script_control_point,RunScriptCode,AddPlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -49579,7 +49579,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-script_control_pointRunScriptCodeAddPlayer_Terrorist()0-1"
+		"OnTrigger" "control4-script_control_point,RunScriptCode,AddPlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -49596,9 +49596,9 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-proxyOnProxyRelay90.1-1"
-		"OnTrigger" "control4-proxyOnProxyRelay80.1-1"
-		"OnTrigger" "control4-proxyOnProxyRelay70.1-1"
+		"OnTrigger" "control4-proxy,OnProxyRelay9,,0.1,-1"
+		"OnTrigger" "control4-proxy,OnProxyRelay8,,0.1,-1"
+		"OnTrigger" "control4-proxy,OnProxyRelay7,,0.1,-1"
 	}
 	editor
 	{
@@ -49615,7 +49615,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-proxyProxyRelay0.1-1"
+		"OnTrigger" "control4-proxy,ProxyRelay,,0.1,-1"
 	}
 	editor
 	{
@@ -49632,8 +49632,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-sound_success_CTPlaySound0-1"
-		"OnTrigger" "control4-relay_CT_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control4-sound_success_CT,PlaySound,,0,-1"
+		"OnTrigger" "control4-relay_CT_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -49650,8 +49650,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control4-sound_success_TPlaySound0-1"
-		"OnTrigger" "control4-relay_T_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control4-sound_success_T,PlaySound,,0,-1"
+		"OnTrigger" "control4-relay_T_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -49757,7 +49757,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "control4-script_control_pointRunScriptCodeResetCapPoint()1-1"
+		"OnMapSpawn" "control4-script_control_point,RunScriptCode,ResetCapPoint(),1,-1"
 	}
 }
 entity
@@ -49798,15 +49798,15 @@ entity
 	"classname" "func_instance_io_proxy"
 	connections
 	{
-		"OnProxyRelay9" "math_flagsAdd10-1"
-		"OnProxyRelay8" "score_TAddScoreTerrorist0-1"
-		"OnProxyRelay7" "msg_cap_point_T_A2ShowMessage0-1"
-		"OnProxyRelay1" "control4-relay_make_T_ONLYTrigger0-1"
-		"OnProxyRelay2" "control4-relay_make_CT_ONLYTrigger0-1"
-		"OnProxyRelay3" "control4-relay_sub_player_TTrigger0-1"
-		"OnProxyRelay4" "control4-relay_add_player_CTTrigger0-1"
-		"OnProxyRelay5" "control4-relay_add_player_TTrigger0-1"
-		"OnProxyRelay6" "control4-relay_sub_player_CTTrigger0-1"
+		"OnProxyRelay9" "math_flags,Add,1,0,-1"
+		"OnProxyRelay8" "score_T,AddScoreTerrorist,,0,-1"
+		"OnProxyRelay7" "msg_cap_point_T_A2,ShowMessage,,0,-1"
+		"OnProxyRelay1" "control4-relay_make_T_ONLY,Trigger,,0,-1"
+		"OnProxyRelay2" "control4-relay_make_CT_ONLY,Trigger,,0,-1"
+		"OnProxyRelay3" "control4-relay_sub_player_T,Trigger,,0,-1"
+		"OnProxyRelay4" "control4-relay_add_player_CT,Trigger,,0,-1"
+		"OnProxyRelay5" "control4-relay_add_player_T,Trigger,,0,-1"
+		"OnProxyRelay6" "control4-relay_sub_player_CT,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -49844,7 +49844,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-script_control_pointRunScriptCodeRemovePlayer_CT()0-1"
+		"OnTrigger" "control7-script_control_point,RunScriptCode,RemovePlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -49860,7 +49860,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-script_control_pointRunScriptCodeRemovePlayer_Terrorist()0-1"
+		"OnTrigger" "control7-script_control_point,RunScriptCode,RemovePlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -49976,7 +49976,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-proxyProxyRelay0-1"
+		"OnTrigger" "control7-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -49992,7 +49992,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-proxyProxyRelay0-1"
+		"OnTrigger" "control7-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -50126,8 +50126,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-relay_add_player_TDisable0-1"
-		"OnTrigger" "control7-relay_add_player_CTEnable0-1"
+		"OnTrigger" "control7-relay_add_player_T,Disable,,0,-1"
+		"OnTrigger" "control7-relay_add_player_CT,Enable,,0,-1"
 	}
 	editor
 	{
@@ -50143,8 +50143,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-relay_add_player_TEnable0-1"
-		"OnTrigger" "control7-relay_add_player_CTDisable0-1"
+		"OnTrigger" "control7-relay_add_player_T,Enable,,0,-1"
+		"OnTrigger" "control7-relay_add_player_CT,Disable,,0,-1"
 	}
 	editor
 	{
@@ -50188,7 +50188,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-script_control_pointRunScriptCodeAddPlayer_CT()0-1"
+		"OnTrigger" "control7-script_control_point,RunScriptCode,AddPlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -50204,7 +50204,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-script_control_pointRunScriptCodeAddPlayer_Terrorist()0-1"
+		"OnTrigger" "control7-script_control_point,RunScriptCode,AddPlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -50220,9 +50220,9 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-proxyOnProxyRelay90.1-1"
-		"OnTrigger" "control7-proxyOnProxyRelay80.1-1"
-		"OnTrigger" "control7-proxyOnProxyRelay70.1-1"
+		"OnTrigger" "control7-proxy,OnProxyRelay9,,0.1,-1"
+		"OnTrigger" "control7-proxy,OnProxyRelay8,,0.1,-1"
+		"OnTrigger" "control7-proxy,OnProxyRelay7,,0.1,-1"
 	}
 	editor
 	{
@@ -50238,7 +50238,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-proxyProxyRelay0.1-1"
+		"OnTrigger" "control7-proxy,ProxyRelay,,0.1,-1"
 	}
 	editor
 	{
@@ -50254,8 +50254,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-sound_success_CTPlaySound0-1"
-		"OnTrigger" "control7-relay_CT_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control7-sound_success_CT,PlaySound,,0,-1"
+		"OnTrigger" "control7-relay_CT_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -50271,8 +50271,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control7-sound_success_TPlaySound0-1"
-		"OnTrigger" "control7-relay_T_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control7-sound_success_T,PlaySound,,0,-1"
+		"OnTrigger" "control7-relay_T_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -50377,7 +50377,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "control7-script_control_pointRunScriptCodeResetCapPoint()1-1"
+		"OnMapSpawn" "control7-script_control_point,RunScriptCode,ResetCapPoint(),1,-1"
 	}
 }
 entity
@@ -50416,15 +50416,15 @@ entity
 	"classname" "func_instance_io_proxy"
 	connections
 	{
-		"OnProxyRelay9" "math_flagsAdd10-1"
-		"OnProxyRelay8" "score_TAddScoreTerrorist0-1"
-		"OnProxyRelay7" "msg_cap_point_T_A3ShowMessage0-1"
-		"OnProxyRelay1" "control7-relay_make_T_ONLYTrigger0-1"
-		"OnProxyRelay2" "control7-relay_make_CT_ONLYTrigger0-1"
-		"OnProxyRelay3" "control7-relay_sub_player_TTrigger0-1"
-		"OnProxyRelay4" "control7-relay_add_player_CTTrigger0-1"
-		"OnProxyRelay5" "control7-relay_add_player_TTrigger0-1"
-		"OnProxyRelay6" "control7-relay_sub_player_CTTrigger0-1"
+		"OnProxyRelay9" "math_flags,Add,1,0,-1"
+		"OnProxyRelay8" "score_T,AddScoreTerrorist,,0,-1"
+		"OnProxyRelay7" "msg_cap_point_T_A3,ShowMessage,,0,-1"
+		"OnProxyRelay1" "control7-relay_make_T_ONLY,Trigger,,0,-1"
+		"OnProxyRelay2" "control7-relay_make_CT_ONLY,Trigger,,0,-1"
+		"OnProxyRelay3" "control7-relay_sub_player_T,Trigger,,0,-1"
+		"OnProxyRelay4" "control7-relay_add_player_CT,Trigger,,0,-1"
+		"OnProxyRelay5" "control7-relay_add_player_T,Trigger,,0,-1"
+		"OnProxyRelay6" "control7-relay_sub_player_CT,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -50464,7 +50464,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-script_control_pointRunScriptCodeRemovePlayer_CT()0-1"
+		"OnTrigger" "control8-script_control_point,RunScriptCode,RemovePlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -50481,7 +50481,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-script_control_pointRunScriptCodeRemovePlayer_Terrorist()0-1"
+		"OnTrigger" "control8-script_control_point,RunScriptCode,RemovePlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -50598,7 +50598,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-proxyProxyRelay0-1"
+		"OnTrigger" "control8-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -50615,7 +50615,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-proxyProxyRelay0-1"
+		"OnTrigger" "control8-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -50751,8 +50751,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-relay_add_player_TDisable0-1"
-		"OnTrigger" "control8-relay_add_player_CTEnable0-1"
+		"OnTrigger" "control8-relay_add_player_T,Disable,,0,-1"
+		"OnTrigger" "control8-relay_add_player_CT,Enable,,0,-1"
 	}
 	editor
 	{
@@ -50769,8 +50769,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-relay_add_player_TEnable0-1"
-		"OnTrigger" "control8-relay_add_player_CTDisable0-1"
+		"OnTrigger" "control8-relay_add_player_T,Enable,,0,-1"
+		"OnTrigger" "control8-relay_add_player_CT,Disable,,0,-1"
 	}
 	editor
 	{
@@ -50816,7 +50816,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-script_control_pointRunScriptCodeAddPlayer_CT()0-1"
+		"OnTrigger" "control8-script_control_point,RunScriptCode,AddPlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -50833,7 +50833,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-script_control_pointRunScriptCodeAddPlayer_Terrorist()0-1"
+		"OnTrigger" "control8-script_control_point,RunScriptCode,AddPlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -50850,9 +50850,9 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-proxyOnProxyRelay90.1-1"
-		"OnTrigger" "control8-proxyOnProxyRelay80.1-1"
-		"OnTrigger" "control8-proxyOnProxyRelay70.1-1"
+		"OnTrigger" "control8-proxy,OnProxyRelay9,,0.1,-1"
+		"OnTrigger" "control8-proxy,OnProxyRelay8,,0.1,-1"
+		"OnTrigger" "control8-proxy,OnProxyRelay7,,0.1,-1"
 	}
 	editor
 	{
@@ -50869,7 +50869,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-proxyProxyRelay0.1-1"
+		"OnTrigger" "control8-proxy,ProxyRelay,,0.1,-1"
 	}
 	editor
 	{
@@ -50886,8 +50886,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-sound_success_CTPlaySound0-1"
-		"OnTrigger" "control8-relay_CT_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control8-sound_success_CT,PlaySound,,0,-1"
+		"OnTrigger" "control8-relay_CT_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -50904,8 +50904,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control8-sound_success_TPlaySound0-1"
-		"OnTrigger" "control8-relay_T_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control8-sound_success_T,PlaySound,,0,-1"
+		"OnTrigger" "control8-relay_T_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -51011,7 +51011,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "control8-script_control_pointRunScriptCodeResetCapPoint()1-1"
+		"OnMapSpawn" "control8-script_control_point,RunScriptCode,ResetCapPoint(),1,-1"
 	}
 }
 entity
@@ -51052,15 +51052,15 @@ entity
 	"classname" "func_instance_io_proxy"
 	connections
 	{
-		"OnProxyRelay9" "math_flagsAdd10-1"
-		"OnProxyRelay8" "score_TAddScoreTerrorist0-1"
-		"OnProxyRelay7" "msg_cap_point_T_A4ShowMessage0-1"
-		"OnProxyRelay1" "control8-relay_make_T_ONLYTrigger0-1"
-		"OnProxyRelay2" "control8-relay_make_CT_ONLYTrigger0-1"
-		"OnProxyRelay3" "control8-relay_sub_player_TTrigger0-1"
-		"OnProxyRelay4" "control8-relay_add_player_CTTrigger0-1"
-		"OnProxyRelay5" "control8-relay_add_player_TTrigger0-1"
-		"OnProxyRelay6" "control8-relay_sub_player_CTTrigger0-1"
+		"OnProxyRelay9" "math_flags,Add,1,0,-1"
+		"OnProxyRelay8" "score_T,AddScoreTerrorist,,0,-1"
+		"OnProxyRelay7" "msg_cap_point_T_A4,ShowMessage,,0,-1"
+		"OnProxyRelay1" "control8-relay_make_T_ONLY,Trigger,,0,-1"
+		"OnProxyRelay2" "control8-relay_make_CT_ONLY,Trigger,,0,-1"
+		"OnProxyRelay3" "control8-relay_sub_player_T,Trigger,,0,-1"
+		"OnProxyRelay4" "control8-relay_add_player_CT,Trigger,,0,-1"
+		"OnProxyRelay5" "control8-relay_add_player_T,Trigger,,0,-1"
+		"OnProxyRelay6" "control8-relay_sub_player_CT,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -51100,7 +51100,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-script_control_pointRunScriptCodeRemovePlayer_CT()0-1"
+		"OnTrigger" "control9-script_control_point,RunScriptCode,RemovePlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -51117,7 +51117,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-script_control_pointRunScriptCodeRemovePlayer_Terrorist()0-1"
+		"OnTrigger" "control9-script_control_point,RunScriptCode,RemovePlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -51234,7 +51234,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-proxyProxyRelay0-1"
+		"OnTrigger" "control9-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -51251,7 +51251,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-proxyProxyRelay0-1"
+		"OnTrigger" "control9-proxy,ProxyRelay,,0,-1"
 	}
 	editor
 	{
@@ -51387,8 +51387,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-relay_add_player_TDisable0-1"
-		"OnTrigger" "control9-relay_add_player_CTEnable0-1"
+		"OnTrigger" "control9-relay_add_player_T,Disable,,0,-1"
+		"OnTrigger" "control9-relay_add_player_CT,Enable,,0,-1"
 	}
 	editor
 	{
@@ -51405,8 +51405,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-relay_add_player_TEnable0-1"
-		"OnTrigger" "control9-relay_add_player_CTDisable0-1"
+		"OnTrigger" "control9-relay_add_player_T,Enable,,0,-1"
+		"OnTrigger" "control9-relay_add_player_CT,Disable,,0,-1"
 	}
 	editor
 	{
@@ -51452,7 +51452,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-script_control_pointRunScriptCodeAddPlayer_CT()0-1"
+		"OnTrigger" "control9-script_control_point,RunScriptCode,AddPlayer_CT(),0,-1"
 	}
 	editor
 	{
@@ -51469,7 +51469,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-script_control_pointRunScriptCodeAddPlayer_Terrorist()0-1"
+		"OnTrigger" "control9-script_control_point,RunScriptCode,AddPlayer_Terrorist(),0,-1"
 	}
 	editor
 	{
@@ -51486,9 +51486,9 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-proxyOnProxyRelay90.1-1"
-		"OnTrigger" "control9-proxyOnProxyRelay80.1-1"
-		"OnTrigger" "control9-proxyOnProxyRelay70.1-1"
+		"OnTrigger" "control9-proxy,OnProxyRelay9,,0.1,-1"
+		"OnTrigger" "control9-proxy,OnProxyRelay8,,0.1,-1"
+		"OnTrigger" "control9-proxy,OnProxyRelay7,,0.1,-1"
 	}
 	editor
 	{
@@ -51505,7 +51505,7 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-proxyProxyRelay0.1-1"
+		"OnTrigger" "control9-proxy,ProxyRelay,,0.1,-1"
 	}
 	editor
 	{
@@ -51522,8 +51522,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-sound_success_CTPlaySound0-1"
-		"OnTrigger" "control9-relay_CT_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control9-sound_success_CT,PlaySound,,0,-1"
+		"OnTrigger" "control9-relay_CT_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -51540,8 +51540,8 @@ entity
 	"classname" "logic_relay"
 	connections
 	{
-		"OnTrigger" "control9-sound_success_TPlaySound0-1"
-		"OnTrigger" "control9-relay_T_CapturedPoint_outputTrigger0-1"
+		"OnTrigger" "control9-sound_success_T,PlaySound,,0,-1"
+		"OnTrigger" "control9-relay_T_CapturedPoint_output,Trigger,,0,-1"
 	}
 	editor
 	{
@@ -51647,7 +51647,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "control9-script_control_pointRunScriptCodeResetCapPoint()1-1"
+		"OnMapSpawn" "control9-script_control_point,RunScriptCode,ResetCapPoint(),1,-1"
 	}
 }
 entity
@@ -51688,15 +51688,15 @@ entity
 	"classname" "func_instance_io_proxy"
 	connections
 	{
-		"OnProxyRelay9" "math_flagsAdd10-1"
-		"OnProxyRelay8" "score_TAddScoreTerrorist0-1"
-		"OnProxyRelay7" "msg_cap_point_T_A5ShowMessage0-1"
-		"OnProxyRelay1" "control9-relay_make_T_ONLYTrigger0-1"
-		"OnProxyRelay2" "control9-relay_make_CT_ONLYTrigger0-1"
-		"OnProxyRelay3" "control9-relay_sub_player_TTrigger0-1"
-		"OnProxyRelay4" "control9-relay_add_player_CTTrigger0-1"
-		"OnProxyRelay5" "control9-relay_add_player_TTrigger0-1"
-		"OnProxyRelay6" "control9-relay_sub_player_CTTrigger0-1"
+		"OnProxyRelay9" "math_flags,Add,1,0,-1"
+		"OnProxyRelay8" "score_T,AddScoreTerrorist,,0,-1"
+		"OnProxyRelay7" "msg_cap_point_T_A5,ShowMessage,,0,-1"
+		"OnProxyRelay1" "control9-relay_make_T_ONLY,Trigger,,0,-1"
+		"OnProxyRelay2" "control9-relay_make_CT_ONLY,Trigger,,0,-1"
+		"OnProxyRelay3" "control9-relay_sub_player_T,Trigger,,0,-1"
+		"OnProxyRelay4" "control9-relay_add_player_CT,Trigger,,0,-1"
+		"OnProxyRelay5" "control9-relay_add_player_T,Trigger,,0,-1"
+		"OnProxyRelay6" "control9-relay_sub_player_CT,Trigger,,0,-1"
 	}
 	editor
 	{
