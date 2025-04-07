@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "1062"
+	"mapversion" "1063"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "1062"
+	"mapversion" "1063"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -258211,15 +258211,7 @@ entity
 entity
 {
 	"id" "180239"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"origin" "1505.75 1405.5 1081"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"vrad_brush_cast_shadows" "0"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "180230"
@@ -258333,14 +258325,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2500]"
@@ -258839,15 +258831,7 @@ entity
 entity
 {
 	"id" "197990"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"origin" "600.62 1494.25 1062"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"vrad_brush_cast_shadows" "0"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "197983"
@@ -258961,14 +258945,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -258977,15 +258961,7 @@ entity
 entity
 {
 	"id" "198014"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"origin" "761.12 2107.12 1186.75"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"vrad_brush_cast_shadows" "0"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "198006"
@@ -259099,14 +259075,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
@@ -259115,15 +259091,7 @@ entity
 entity
 {
 	"id" "198054"
-	"classname" "func_illusionary"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"origin" "1016.62 1733 1075.25"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"vrad_brush_cast_shadows" "0"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "198026"
@@ -259237,14 +259205,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2500]"
@@ -267197,8 +267165,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[431.371 -1539.47 -1251.92]"
-		"look" "[433.171 -1537.06 -1252.24]"
+		"position" "[1421.07 1368.71 1116.91]"
+		"look" "[1423.86 1369.83 1116.61]"
 	}
 }
 cordons
