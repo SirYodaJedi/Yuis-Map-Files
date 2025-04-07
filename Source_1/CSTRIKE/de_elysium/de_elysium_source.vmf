@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "1063"
+	"mapversion" "1072"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "4"
 }
 palette_plus
 {
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "1063"
+	"mapversion" "1072"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -66607,7 +66607,7 @@ world
 				"v" "1312 2624 1168"
 				"v" "1312 2496 1168"
 			}
-			"material" "LIQUIDS/BOATHOUSE_WATER_NOFLOW_NOFOG"
+			"material" "LIQUIDS/BOATHOUSE_WATER_NOFLOW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -146272,6 +146272,10 @@ entity
 	"heistbomb" "0"
 	"origin" "1870 2471 1216"
 	"spawnflags" "1"
+	connections
+	{
+		"BombPlanted" "Music_Bomb,PlaySound,,0,-1"
+	}
 	solid
 	{
 		"id" "159854"
@@ -147247,6 +147251,10 @@ entity
 	"heistbomb" "0"
 	"origin" "2384 160 1088"
 	"spawnflags" "1"
+	connections
+	{
+		"BombPlanted" "Music_Bomb,PlaySound,,0,-1"
+	}
 	solid
 	{
 		"id" "159875"
@@ -205299,7 +205307,7 @@ entity
 	"DefaultAnim" "sway"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0.0"
@@ -205392,6 +205400,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"shadowcastdist" "48"
 	"skin" "0"
 	"solid" "0"
 	"StartDisabled" "0"
@@ -205430,6 +205439,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"shadowcastdist" "64"
 	"skin" "0"
 	"solid" "0"
 	"StartDisabled" "0"
@@ -205565,7 +205575,7 @@ entity
 	"DefaultAnim" "sway"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0.0"
@@ -205603,7 +205613,7 @@ entity
 	"DefaultAnim" "sway"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0.0"
@@ -205658,6 +205668,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"shadowcastdist" "48"
 	"skin" "0"
 	"solid" "0"
 	"StartDisabled" "0"
@@ -205696,6 +205707,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"shadowcastdist" "64"
 	"skin" "0"
 	"solid" "0"
 	"StartDisabled" "0"
@@ -213989,7 +214001,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -214026,7 +214038,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -214063,7 +214075,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -214100,7 +214112,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -214137,7 +214149,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -214174,7 +214186,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -236809,7 +236821,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -236846,7 +236858,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -236883,7 +236895,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237268,7 +237280,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237305,7 +237317,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237342,7 +237354,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237591,7 +237603,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237628,7 +237640,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237665,7 +237677,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237702,7 +237714,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237739,7 +237751,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -237776,7 +237788,7 @@ entity
 	"body" "0"
 	"DisableBoneFollowers" "0"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
 	"fademaxdist" "0"
@@ -267160,13 +267172,113 @@ entity
 		"logicalpos" "[0 -7768]"
 	}
 }
+entity
+{
+	"id" "283244"
+	"classname" "env_wind"
+	"angles" "0 0 0"
+	"gustdirchange" "20"
+	"gustduration" "5"
+	"maxgust" "250"
+	"maxgustdelay" "20"
+	"maxwind" "50"
+	"mingust" "100"
+	"mingustdelay" "10"
+	"minwind" "20"
+	"origin" "432 408 1529.98"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "283253"
+	"classname" "env_tonemap_controller"
+	"targetname" "tonemapper"
+	"origin" "452 408 1529.98"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "283260"
+	"classname" "logic_auto"
+	"spawnflags" "1"
+	connections
+	{
+		"OnMapSpawn" "tonemapper,UseDefaultAutoExposure,,0,-1"
+		"OnMapSpawn" "tonemapper,UseDefaultBloomScale,,0,-1"
+	}
+	"origin" "452 384 1529.98"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "283273"
+	"classname" "info_no_dynamic_shadow"
+	"sides" "47277 63563 63569 49111 63566 63565 48273 48281 48263 48268 48262"
+	"origin" "472 408 1529.98"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "283346"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "Music.BombPlanted.3kliksphilip_01"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "8192"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "Music_Bomb"
+	"volstart" "0"
+	"origin" "404 414 1544"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1421.07 1368.71 1116.91]"
-		"look" "[1423.86 1369.83 1116.61]"
+		"position" "[428.318 443.121 1540.79]"
+		"look" "[427.329 440.282 1541.08]"
 	}
 }
 cordons
