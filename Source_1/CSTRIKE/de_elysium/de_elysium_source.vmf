@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "1072"
+	"mapversion" "1074"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "1072"
+	"mapversion" "1074"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -159326,7 +159326,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall06.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1056 96 866.358"
 	editor
 	{
@@ -159353,7 +159353,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall06.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1328 128 865.484"
 	editor
 	{
@@ -166667,7 +166667,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall01.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2112 2276 1600"
 	editor
 	{
@@ -166694,7 +166694,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall06.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2196 2276 1568"
 	editor
 	{
@@ -166721,7 +166721,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall06.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2352 2276 1628"
 	editor
 	{
@@ -166748,7 +166748,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall02.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-120 2472 1144"
 	editor
 	{
@@ -166775,7 +166775,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall06.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-12 2572 1146"
 	editor
 	{
@@ -166802,7 +166802,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall06.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-216 2356 1128"
 	editor
 	{
@@ -166829,7 +166829,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2760 200 1128"
 	editor
 	{
@@ -166856,7 +166856,7 @@ entity
 	"model" "models/props/de_dust/rebar_wall02.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2760 12 1096"
 	editor
 	{
@@ -267277,8 +267277,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[428.318 443.121 1540.79]"
-		"look" "[427.329 440.282 1541.08]"
+		"position" "[2063.84 1256.07 1123.89]"
+		"look" "[2066.56 1254.79 1123.6]"
 	}
 }
 cordons
