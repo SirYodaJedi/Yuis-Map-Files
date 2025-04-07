@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "1061"
+	"mapversion" "1062"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "1061"
+	"mapversion" "1062"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -222998,6 +222998,7 @@ entity
 	"fogenable" "1"
 	"fogend" "45000"
 	"fogmaxdensity" "1"
+	"fogradial" "1"
 	"fogstart" "6000"
 	"HDRColorScale" "1.0"
 	"scale" "64"
@@ -267196,8 +267197,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-235.433 309.729 1025.91]"
-		"look" "[-234.345 312.534 1025.63]"
+		"position" "[431.371 -1539.47 -1251.92]"
+		"look" "[433.171 -1537.06 -1252.24]"
 	}
 }
 cordons
