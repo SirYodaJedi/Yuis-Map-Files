@@ -350847,10 +350847,10 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "AutoInstance1-tonemap_globalSetAutoExposureMin0.80-1"
-		"OnMapSpawn" "AutoInstance1-tonemap_globalSetAutoExposureMax1.30-1"
-		"OnMapSpawn" "AutoInstance1-tonemap_globalSetBloomScale.20-1"
-		"OnMapSpawn" "AutoInstance1-tonemap_globalSetTonemapRate.10-1"
+		"OnMapSpawn" "AutoInstance1-tonemap_global,SetAutoExposureMin,0.8,0,-1"
+		"OnMapSpawn" "AutoInstance1-tonemap_global,SetAutoExposureMax,1.3,0,-1"
+		"OnMapSpawn" "AutoInstance1-tonemap_global,SetBloomScale,.2,0,-1"
+		"OnMapSpawn" "AutoInstance1-tonemap_global,SetTonemapRate,.1,0,-1"
 	}
 }
 entity
@@ -359170,7 +359170,7 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "!selfRunScriptCodePlayerSpawnedT()0-1"
+		"OnStartTouch" "!self,RunScriptCode,PlayerSpawnedT(),0,-1"
 	}
 	solid
 	{
@@ -359249,7 +359249,7 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "!selfRunScriptCodePlayerSpawnedCT()0-1"
+		"OnStartTouch" "!self,RunScriptCode,PlayerSpawnedCT(),0,-1"
 	}
 	solid
 	{
@@ -360812,7 +360812,7 @@ entity
 	"classname" "logic_auto"
 	connections
 	{
-		"OnMapSpawn" "InstanceAuto18-cascadeStart0.5-1"
+		"OnMapSpawn" "InstanceAuto18-cascade,Start,,0.5,-1"
 	}
 }
 entity
@@ -365313,8 +365313,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena1-scriptRunScriptCodeDisableTSpawn()0-1"
-		"OnEndTouch" "arena1-scriptRunScriptCodeEnableTSpawn()0-1"
+		"OnStartTouch" "arena1-script,RunScriptCode,DisableTSpawn(),0,-1"
+		"OnEndTouch" "arena1-script,RunScriptCode,EnableTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -365397,8 +365397,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena1-scriptRunScriptCodeDisableCTSpawn()0-1"
-		"OnEndTouch" "arena1-scriptRunScriptCodeEnableCTSpawn()0-1"
+		"OnStartTouch" "arena1-script,RunScriptCode,DisableCTSpawn(),0,-1"
+		"OnEndTouch" "arena1-script,RunScriptCode,EnableCTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -365523,8 +365523,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena2-scriptRunScriptCodeDisableTSpawn()0-1"
-		"OnEndTouch" "arena2-scriptRunScriptCodeEnableTSpawn()0-1"
+		"OnStartTouch" "arena2-script,RunScriptCode,DisableTSpawn(),0,-1"
+		"OnEndTouch" "arena2-script,RunScriptCode,EnableTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -365607,8 +365607,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena2-scriptRunScriptCodeDisableCTSpawn()0-1"
-		"OnEndTouch" "arena2-scriptRunScriptCodeEnableCTSpawn()0-1"
+		"OnStartTouch" "arena2-script,RunScriptCode,DisableCTSpawn(),0,-1"
+		"OnEndTouch" "arena2-script,RunScriptCode,EnableCTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -365733,8 +365733,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena3-scriptRunScriptCodeDisableTSpawn()0-1"
-		"OnEndTouch" "arena3-scriptRunScriptCodeEnableTSpawn()0-1"
+		"OnStartTouch" "arena3-script,RunScriptCode,DisableTSpawn(),0,-1"
+		"OnEndTouch" "arena3-script,RunScriptCode,EnableTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -365817,8 +365817,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena3-scriptRunScriptCodeDisableCTSpawn()0-1"
-		"OnEndTouch" "arena3-scriptRunScriptCodeEnableCTSpawn()0-1"
+		"OnStartTouch" "arena3-script,RunScriptCode,DisableCTSpawn(),0,-1"
+		"OnEndTouch" "arena3-script,RunScriptCode,EnableCTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -365943,8 +365943,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena4-scriptRunScriptCodeDisableTSpawn()0-1"
-		"OnEndTouch" "arena4-scriptRunScriptCodeEnableTSpawn()0-1"
+		"OnStartTouch" "arena4-script,RunScriptCode,DisableTSpawn(),0,-1"
+		"OnEndTouch" "arena4-script,RunScriptCode,EnableTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -366027,8 +366027,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena4-scriptRunScriptCodeDisableCTSpawn()0-1"
-		"OnEndTouch" "arena4-scriptRunScriptCodeEnableCTSpawn()0-1"
+		"OnStartTouch" "arena4-script,RunScriptCode,DisableCTSpawn(),0,-1"
+		"OnEndTouch" "arena4-script,RunScriptCode,EnableCTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -366153,8 +366153,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena5-scriptRunScriptCodeDisableTSpawn()0-1"
-		"OnEndTouch" "arena5-scriptRunScriptCodeEnableTSpawn()0-1"
+		"OnStartTouch" "arena5-script,RunScriptCode,DisableTSpawn(),0,-1"
+		"OnEndTouch" "arena5-script,RunScriptCode,EnableTSpawn(),0,-1"
 	}
 	solid
 	{
@@ -366237,8 +366237,8 @@ entity
 	"classname" "trigger_multiple"
 	connections
 	{
-		"OnStartTouch" "arena5-scriptRunScriptCodeDisableCTSpawn()0-1"
-		"OnEndTouch" "arena5-scriptRunScriptCodeEnableCTSpawn()0-1"
+		"OnStartTouch" "arena5-script,RunScriptCode,DisableCTSpawn(),0,-1"
+		"OnEndTouch" "arena5-script,RunScriptCode,EnableCTSpawn(),0,-1"
 	}
 	solid
 	{
