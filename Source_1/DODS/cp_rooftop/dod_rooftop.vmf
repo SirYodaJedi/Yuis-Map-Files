@@ -88311,7 +88311,7 @@ entity
 entity
 {
 	"id" "148826"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 171 0"
 	"origin" "-1588.56 47.5925 8350"
 	editor
@@ -88325,7 +88325,7 @@ entity
 entity
 {
 	"id" "148828"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 101 0"
 	"origin" "-1655.45 41.1179 8350"
 	editor
@@ -88339,7 +88339,7 @@ entity
 entity
 {
 	"id" "148830"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -167.5 0"
 	"origin" "-1525.08 85.282 8350"
 	editor
@@ -88353,7 +88353,7 @@ entity
 entity
 {
 	"id" "148832"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -118 0"
 	"origin" "-1523.67 155.596 8350"
 	editor
@@ -88367,7 +88367,7 @@ entity
 entity
 {
 	"id" "148834"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -88.5 0"
 	"origin" "-1551.93 213.408 8350"
 	editor
@@ -88381,7 +88381,7 @@ entity
 entity
 {
 	"id" "148869"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 96 0"
 	"origin" "-4512.97 -857.09 9192"
 	editor
@@ -88395,7 +88395,7 @@ entity
 entity
 {
 	"id" "148871"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 124 0"
 	"origin" "-4440.84 -866.841 9192"
 	editor
@@ -88409,7 +88409,7 @@ entity
 entity
 {
 	"id" "148873"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 32.5 0"
 	"origin" "-4567.06 -789.548 9192"
 	editor
@@ -88423,7 +88423,7 @@ entity
 entity
 {
 	"id" "148875"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 -30 0"
 	"origin" "-4534.18 -706.366 9192"
 	editor
@@ -88437,7 +88437,7 @@ entity
 entity
 {
 	"id" "148877"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 -57.5 0"
 	"origin" "-4457.58 -675.572 9192"
 	editor
@@ -92935,7 +92935,7 @@ hidden
 entity
 {
 	"id" "157992"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 96 0"
 	"origin" "-4516.97 -545.09 9192"
 	editor
@@ -92949,7 +92949,7 @@ entity
 entity
 {
 	"id" "157994"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 124 0"
 	"origin" "-4444.84 -554.841 9192"
 	editor
@@ -92963,7 +92963,7 @@ entity
 entity
 {
 	"id" "157996"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 32.5 0"
 	"origin" "-4571.06 -477.548 9192"
 	editor
@@ -92977,7 +92977,7 @@ entity
 entity
 {
 	"id" "157998"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 -30 0"
 	"origin" "-4538.18 -394.366 9192"
 	editor
@@ -92991,7 +92991,7 @@ entity
 entity
 {
 	"id" "158000"
-	"classname" "info_player_counterterrorist"
+	"classname" "info_player_allies"
 	"angles" "-0 -57.5 0"
 	"origin" "-4461.58 -363.572 9192"
 	editor
@@ -93005,7 +93005,7 @@ entity
 entity
 {
 	"id" "158035"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -114 0"
 	"origin" "-1523.87 701.678 8350"
 	editor
@@ -93019,7 +93019,7 @@ entity
 entity
 {
 	"id" "158037"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 176 0"
 	"origin" "-1534.93 635.392 8350"
 	editor
@@ -93033,7 +93033,7 @@ entity
 entity
 {
 	"id" "158039"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -92.5 0"
 	"origin" "-1543.85 772.748 8350"
 	editor
@@ -93047,7 +93047,7 @@ entity
 entity
 {
 	"id" "158041"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -43 0"
 	"origin" "-1611.4 792.314 8350"
 	editor
@@ -93061,7 +93061,7 @@ entity
 entity
 {
 	"id" "158043"
-	"classname" "info_player_terrorist"
+	"classname" "info_player_axis"
 	"angles" "-0 -13.5 0"
 	"origin" "-1674.56 779.98 8350"
 	editor
