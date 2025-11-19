@@ -3,6 +3,7 @@
 * * Use any of this content commercially. Paid mods are unethical, and stolen-for-profit paid mods even more so.
 * * Release any files from this repo, derivative or otherwise, on the Steam Workshop. This included compiled versions of maps.
 * * Redistribute compiled maps without the uncompiled source files.
+* * Use the maps to train machine learning algorthims.
 
 # You are NEVER permitted to
 * * Redistribute compiled maps in a form that deliberately obfuscates the contents and discourages reverse-engineering.
@@ -12,7 +13,8 @@
 # If redistributing these maps, you MUST
 * * Include the uncompiled source files. 
 ** ** For Source 1 maps, the VMF should be packed into the compiled BSP file.
-** ** For GoldSrc maps, these should be included in the map's `.res` file.
+** ** For IdTech 2 and GoldSrc maps, the MAP should be included in a ZIP file concatenated to the end of the BSP.
+** ** For IdTech 3 maps, the MAP should be included in the distributed PK3.
 * * Credit all of the original authors, as listed in the appropriate map's readme on this repo.
 * * State any changes.
 
