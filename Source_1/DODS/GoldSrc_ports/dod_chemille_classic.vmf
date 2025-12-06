@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "89"
+	"mapversion" "90"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -149,7 +149,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "89"
+	"mapversion" "90"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -179981,6 +179981,7 @@ entity
 	"cpm_axis_points" "10"
 	"cpm_point_give_delay_time" "20"
 	"cpm_timer_length" "300"
+	"cpm_timer_team" "2"
 	"point_give_delay_time" "20"
 	"targetname" "score"
 	"origin" "896 -128 384"
@@ -198069,6 +198070,7 @@ entity
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
 	"NextKey" "w22"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198091,6 +198093,7 @@ entity
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
 	"NextKey" "w12"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198112,6 +198115,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 45 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198133,6 +198137,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 45 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198175,6 +198180,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198218,6 +198224,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198239,6 +198246,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 45 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198260,6 +198268,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 45 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198282,6 +198291,7 @@ entity
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
 	"NextKey" "w72"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198304,6 +198314,7 @@ entity
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
 	"NextKey" "w62"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "100"
 	"Subdiv" "2"
@@ -198483,6 +198494,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198504,6 +198516,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198569,6 +198582,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198590,6 +198604,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 0 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198737,6 +198752,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 105 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198758,6 +198774,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 105 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198801,6 +198818,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 105 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198844,6 +198862,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 15 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198865,6 +198884,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 15 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -198886,6 +198906,7 @@ entity
 	"classname" "keyframe_rope"
 	"angles" "0 15 0"
 	"MoveSpeed" "64"
+	"PositionInterpolator" "2"
 	"RopeMaterial" "cable/cable.vmt"
 	"Slack" "25"
 	"Subdiv" "2"
@@ -235353,6 +235374,8 @@ hidden
 		"id" "47888"
 		"classname" "weapon_pschreck"
 		"angles" "0 0 0"
+		"renderamt" "255"
+		"rendercolor" "255 255 255"
 		"origin" "-1536 -2940 -132"
 		editor
 		{
@@ -235371,6 +235394,8 @@ hidden
 		"id" "47890"
 		"classname" "weapon_pschreck"
 		"angles" "0 0 0"
+		"renderamt" "255"
+		"rendercolor" "255 255 255"
 		"origin" "-1536 -2972 -132"
 		editor
 		{
@@ -238363,6 +238388,8 @@ hidden
 		"id" "47912"
 		"classname" "weapon_bazooka"
 		"angles" "0 89 0"
+		"renderamt" "255"
+		"rendercolor" "255 255 255"
 		"origin" "1096 1496 -32"
 		editor
 		{
@@ -238381,6 +238408,8 @@ hidden
 		"id" "47914"
 		"classname" "weapon_bazooka"
 		"angles" "0 89 0"
+		"renderamt" "255"
+		"rendercolor" "255 255 255"
 		"origin" "1064 1496 -32"
 		editor
 		{
@@ -343076,12 +343105,12 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnMapSpawn" "allies_score,Kill,,0.01,-1"
-		"OnMultiNewMap" "allies_score,Kill,,0.01,-1"
-		"OnMultiNewRound" "allies_score,Kill,,0.01,-1"
-		"OnMultiNewMap" "axis_score,Kill,,0.01,-1"
-		"OnMultiNewRound" "axis_score,Kill,,0.01,-1"
-		"OnMapSpawn" "axis_score,Kill,,0.01,-1"
+		"OnMultiNewRound" "relay_mapspawn_killtarget,Trigger,,0.1,-1"
+		"OnMultiNewRound" "relay_reset_hdr,Trigger,,0.1,-1"
+		"OnMultiNewMap" "relay_mapspawn_killtarget,Trigger,,0.1,-1"
+		"OnMultiNewMap" "relay_reset_hdr,Trigger,,0.1,-1"
+		"OnMapSpawn" "relay_mapspawn_killtarget,Trigger,,0.1,-1"
+		"OnMapSpawn" "relay_reset_hdr,Trigger,,0.1,-1"
 	}
 	"origin" "1012 -340 344"
 	editor
@@ -343617,9 +343646,70 @@ entity
 		"logicalpos" "[500 5500]"
 	}
 }
+entity
+{
+	"id" "83480"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "relay_reset_hdr"
+	connections
+	{
+		"OnTrigger" "hdr_controller,UseDefaultAutoExposure,,0,-1"
+		"OnTrigger" "hdr_controller,UseDefaultBloomScale,,0,-1"
+	}
+	"origin" "1012 -316 344"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 -14268]"
+	}
+}
+entity
+{
+	"id" "83482"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "relay_mapspawn_killtarget"
+	connections
+	{
+		"OnTrigger" "allies_score,Kill,,0,-1"
+		"OnTrigger" "axis_score,Kill,,0,-1"
+	}
+	"origin" "1012 -296 344"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 -14268]"
+	}
+}
+entity
+{
+	"id" "83484"
+	"classname" "env_tonemap_controller"
+	"targetname" "hdr_controller"
+	"origin" "964 -316 344"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 -15768]"
+	}
+}
 cameras
 {
-	"activecamera" "-1"
+	"activecamera" "0"
+	camera
+	{
+		"position" "[857.665 -219.552 405.975]"
+		"look" "[888.457 -238.075 402.181]"
+	}
 }
 cordons
 {
