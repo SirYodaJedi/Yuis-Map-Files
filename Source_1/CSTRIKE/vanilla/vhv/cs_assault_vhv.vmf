@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "2812"
+	"mapversion" "2815"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -73,6 +73,12 @@ visgroups
 		"name" "stupid func_lod"
 		"visgroupid" "92"
 		"color" "240 113 118"
+	}
+	visgroup
+	{
+		"name" "obsolete_overlays"
+		"visgroupid" "93"
+		"color" "128 255 255"
 	}
 }
 viewsettings
@@ -155,7 +161,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "2812"
+	"mapversion" "2815"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -174461,7 +174467,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -174599,7 +174605,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -174730,7 +174736,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -174848,7 +174854,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -174979,7 +174985,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175110,7 +175116,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175228,7 +175234,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175346,7 +175352,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175464,7 +175470,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175562,7 +175568,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175680,7 +175686,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175858,7 +175864,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -175976,7 +175982,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -176074,7 +176080,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -176225,7 +176231,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -176402,7 +176408,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -176520,7 +176526,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -176651,7 +176657,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -176944,7 +176950,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177062,7 +177068,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177180,7 +177186,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177298,7 +177304,7 @@ entity
 		}
 		editor
 		{
-			"color" "225 230 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177429,7 +177435,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177547,7 +177553,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177665,7 +177671,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177783,7 +177789,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -177914,7 +177920,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178032,7 +178038,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178150,7 +178156,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178248,7 +178254,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178379,7 +178385,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178497,7 +178503,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178615,7 +178621,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178733,7 +178739,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178844,7 +178850,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -178942,7 +178948,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179040,7 +179046,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179138,7 +179144,7 @@ entity
 		}
 		editor
 		{
-			"color" "237 254 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179414,7 +179420,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179532,7 +179538,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179650,7 +179656,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179768,7 +179774,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -179899,7 +179905,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180017,7 +180023,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180135,7 +180141,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180253,7 +180259,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180384,7 +180390,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180502,7 +180508,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180620,7 +180626,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180738,7 +180744,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180869,7 +180875,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180987,7 +180993,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181105,7 +181111,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181223,7 +181229,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181354,7 +181360,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181472,7 +181478,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181590,7 +181596,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181708,7 +181714,7 @@ entity
 		}
 		editor
 		{
-			"color" "238 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -181868,7 +181874,7 @@ hidden
 				}
 				editor
 				{
-					"color" "117 202 0"
+					"color" "220 30 220"
 					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
@@ -184137,7 +184143,7 @@ entity
 		}
 		editor
 		{
-			"color" "143 176 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184255,7 +184261,7 @@ entity
 		}
 		editor
 		{
-			"color" "143 176 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184373,7 +184379,7 @@ entity
 		}
 		editor
 		{
-			"color" "143 176 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184496,7 +184502,7 @@ entity
 		}
 		editor
 		{
-			"color" "143 176 0"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184594,7 +184600,7 @@ entity
 		}
 		editor
 		{
-			"color" "143 176 0"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184748,7 +184754,7 @@ entity
 		}
 		editor
 		{
-			"color" "135 216 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184866,7 +184872,7 @@ entity
 		}
 		editor
 		{
-			"color" "135 216 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -184984,7 +184990,7 @@ entity
 		}
 		editor
 		{
-			"color" "135 216 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -185107,7 +185113,7 @@ entity
 		}
 		editor
 		{
-			"color" "135 216 0"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -185205,7 +185211,7 @@ entity
 		}
 		editor
 		{
-			"color" "135 216 0"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -187116,7 +187122,7 @@ entity
 		}
 		editor
 		{
-			"color" "114 139 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -188118,7 +188124,7 @@ entity
 		}
 		editor
 		{
-			"color" "252 209 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -188236,7 +188242,7 @@ entity
 		}
 		editor
 		{
-			"color" "252 209 0"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -215233,7 +215239,6 @@ entity
 	"RandomAnimation" "0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"SetBodyGroup" "0"
 	"skin" "0"
 	"solid" "6"
 	"StartDisabled" "0"
@@ -217606,7 +217611,6 @@ entity
 	"RandomAnimation" "0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"SetBodyGroup" "0"
 	"skin" "0"
 	"solid" "6"
 	"StartDisabled" "0"
@@ -217877,8 +217881,6 @@ entity
 {
 	"id" "241645"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "241646"
@@ -259590,32 +259592,35 @@ entity
 		"logicalpos" "[6500 2000]"
 	}
 }
-entity
+hidden
 {
-	"id" "759865"
-	"classname" "info_overlay"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "4759.04 5649.12 -864"
-	"BasisU" "1 0 0"
-	"BasisV" "0 1 0"
-	"EndU" "2"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "de_train/train_dirt_decal_01"
-	"sides" ""
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-107.039 -16 0"
-	"uv1" "-107.039 16 0"
-	"uv2" "107.039 16 0"
-	"uv3" "107.039 -16 0"
-	"origin" "4759.04 5649.12 -864"
-	editor
+	entity
 	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[6500 2500]"
+		"id" "759865"
+		"classname" "info_overlay"
+		"BasisNormal" "0 0 1"
+		"BasisOrigin" "4759.04 5649.12 -864"
+		"BasisU" "1 0 0"
+		"BasisV" "0 1 0"
+		"EndU" "2"
+		"EndV" "0"
+		"fademindist" "-1"
+		"material" "de_train/train_dirt_decal_01"
+		"StartU" "0"
+		"StartV" "1"
+		"uv0" "-107.039 -16 0"
+		"uv1" "-107.039 16 0"
+		"uv2" "107.039 16 0"
+		"uv3" "107.039 -16 0"
+		"origin" "4759.04 5649.12 -864"
+		editor
+		{
+			"color" "80 150 225"
+			"visgroupid" "93"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[6500 2500]"
+		}
 	}
 }
 entity
@@ -313704,15 +313709,15 @@ entity
 {
 	"id" "924561"
 	"classname" "info_overlay"
-	"BasisNormal" "-4.71597e-009 -0.193786 0.981044"
+	"BasisNormal" "-4.71597e-09 -0.193786 0.981044"
 	"BasisOrigin" "6032.23 4667.36 -420.96"
-	"BasisU" "-1 2.43359e-008 0"
-	"BasisV" "-2.38746e-008 -0.981044 -0.193786"
+	"BasisU" "-1 2.43359e-08 0"
+	"BasisV" "-2.38746e-08 -0.981044 -0.193786"
 	"EndU" "1"
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "decals/prodstaina"
-	"sides" "52975"
+	"sides" "40779"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-19.7705 -32.0002 0"
@@ -313725,6 +313730,7 @@ entity
 		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Fixed"
 		"logicalpos" "[9000 -16268]"
 	}
 }
@@ -346537,6 +346543,7 @@ entity
 	"EndV" "1.0"
 	"fademindist" "-1"
 	"material" "decals/decalstain014a"
+	"sides" "50653 50650 50651"
 	"StartU" "0.0"
 	"StartV" "0.0"
 	"uv0" "-16 -32 0"
@@ -346549,6 +346556,7 @@ entity
 		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Fixed"
 		"logicalpos" "[14500 14500]"
 	}
 }
@@ -347003,7 +347011,7 @@ entity
 	"EndV" "1.0"
 	"fademindist" "-1"
 	"material" "decals/decalstain011a"
-	"sides" ""
+	"sides" "49942"
 	"StartU" "0.0"
 	"StartV" "0.0"
 	"uv0" "-64 -64 0"
@@ -347016,6 +347024,7 @@ entity
 		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Fixed"
 		"logicalpos" "[14500 -7768]"
 	}
 }
@@ -347053,13 +347062,13 @@ entity
 	"classname" "info_overlay"
 	"BasisNormal" "0 -1 0"
 	"BasisOrigin" "5642.57 5668 -350.709"
-	"BasisU" "-1 0 2.43359e-008"
-	"BasisV" "-2.43359e-008 0 -1"
+	"BasisU" "-1 0 2.43359e-08"
+	"BasisV" "-2.43359e-08 0 -1"
 	"EndU" "1.0"
 	"EndV" "1.0"
 	"fademindist" "-1"
 	"material" "decals/decalstain011a"
-	"sides" ""
+	"sides" "49934"
 	"StartU" "0.0"
 	"StartV" "0.0"
 	"uv0" "-64 -64 0"
@@ -347072,6 +347081,7 @@ entity
 		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Fixed"
 		"logicalpos" "[14500 -6768]"
 	}
 }
@@ -362796,8 +362806,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[6468.55 5721.66 -824.1]"
-		"look" "[6203.29 5716.1 -906.231]"
+		"position" "[5613.41 5580.64 -363.92]"
+		"look" "[5725.83 5823.95 -291.099]"
 	}
 }
 cordons
