@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "2824"
+	"mapversion" "2825"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -161,7 +161,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "2824"
+	"mapversion" "2825"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -182617,7 +182617,7 @@ entity
 	"lightingorigin" "misc07"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "./models/props_lab/pipesystem02a.mdl"
+	"model" "models/props_lab/pipesystem02a.mdl"
 	"solid" "6"
 	"origin" "5829.97 3661.48 -469.654"
 	editor
@@ -182640,7 +182640,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "./models/props_lab/pipesystem02a.mdl"
+	"model" "models/props_lab/pipesystem02a.mdl"
 	"solid" "6"
 	"origin" "5830.03 3661.52 -553.815"
 	editor
@@ -182663,7 +182663,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "./models/props_lab/pipesystem02a.mdl"
+	"model" "models/props_lab/pipesystem02a.mdl"
 	"solid" "6"
 	"origin" "5826.76 3661.28 -553.815"
 	editor
@@ -182687,7 +182687,7 @@ entity
 	"lightingorigin" "misc07"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "./models/props_lab/pipesystem02a.mdl"
+	"model" "models/props_lab/pipesystem02a.mdl"
 	"solid" "6"
 	"origin" "5826.97 3661.48 -469.654"
 	editor
@@ -265844,7 +265844,7 @@ entity
 				"v" "5392 5792 -288"
 				"v" "5392 5760 -288"
 			}
-			"material" "METAL/PRODVENTA"
+			"material" "METAL/PRODVENTA_FIXED"
 			"uaxis" "[0 -1 0 -386.683] 0.12"
 			"vaxis" "[0 0 -1 156.667] 0.12"
 			"rotation" "0"
@@ -265862,7 +265862,7 @@ entity
 				"v" "5736 5760 -288"
 				"v" "5736 5792 -288"
 			}
-			"material" "METAL/PRODVENTA"
+			"material" "METAL/PRODVENTA_FIXED"
 			"uaxis" "[0 1 0 99.9947] 0.12"
 			"vaxis" "[0 0 -1 156.667] 0.12"
 			"rotation" "0"
@@ -265898,7 +265898,7 @@ entity
 				"v" "5392 5760 -288"
 				"v" "5736 5760 -288"
 			}
-			"material" "METAL/PRODVENTA"
+			"material" "METAL/PRODVENTA_FIXED"
 			"uaxis" "[1 0 0 376.667] 0.12"
 			"vaxis" "[0 0 -1 158] 0.12"
 			"rotation" "0"
@@ -363613,8 +363613,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[6196.96 4606.82 -605.675]"
-		"look" "[6170.21 4879.62 -650.072]"
+		"position" "[6165.45 4906.8 -513.968]"
+		"look" "[6362.62 5097.22 -469.571]"
 	}
 }
 cordons
