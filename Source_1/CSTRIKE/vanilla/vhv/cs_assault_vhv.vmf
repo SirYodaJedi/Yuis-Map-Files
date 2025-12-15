@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "2831"
+	"mapversion" "2832"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -79,6 +79,12 @@ visgroups
 		"name" "obsolete_overlays"
 		"visgroupid" "93"
 		"color" "128 255 255"
+	}
+	visgroup
+	{
+		"name" "devshot_cameras"
+		"visgroupid" "131"
+		"color" "172 141 178"
 	}
 }
 viewsettings
@@ -161,7 +167,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "2831"
+	"mapversion" "2832"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -272869,6 +272875,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -13768]"
@@ -272885,6 +272892,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -13268]"
@@ -272901,6 +272909,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -12768]"
@@ -272917,6 +272926,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -12268]"
@@ -272933,6 +272943,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -11768]"
@@ -272949,6 +272960,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -11268]"
@@ -272965,6 +272977,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -10768]"
@@ -272981,6 +272994,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -10268]"
@@ -272997,6 +273011,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -9768]"
@@ -273013,6 +273028,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -9268]"
@@ -273029,6 +273045,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -8768]"
@@ -273045,6 +273062,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -8268]"
@@ -333552,6 +333570,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[10500 10500]"
@@ -333568,6 +333587,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[10500 11000]"
@@ -333584,6 +333604,7 @@ entity
 	editor
 	{
 		"color" "220 30 220"
+		"visgroupid" "131"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[10500 11500]"
@@ -370917,7 +370938,7 @@ cameras
 	camera
 	{
 		"position" "[5700.19 5188.29 -771.789]"
-		"look" "[5446.36 5085.75 -818.093]"
+		"look" "[5944.61 5058.31 -750.489]"
 	}
 }
 cordons
