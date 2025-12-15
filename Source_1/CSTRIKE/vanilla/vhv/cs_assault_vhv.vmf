@@ -788,7 +788,7 @@ world
 				"v" "6444 4256 -480"
 				"v" "6444 4264 -477.091"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 1 0 -132] 0.25"
 			"vaxis" "[0 0 -1 -384] 0.25"
 			"rotation" "0"
@@ -3971,7 +3971,7 @@ world
 				"v" "6444 3664 -480"
 				"v" "6444 4960 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 1 0 -262.473] 0.15"
 			"rotation" "0"
@@ -4069,7 +4069,7 @@ world
 				"v" "5012 3664 -480"
 				"v" "5012 4960 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[1 0 0 0.00195313] 0.25"
 			"rotation" "0"
@@ -4087,7 +4087,7 @@ world
 				"v" "5012 4312 -352"
 				"v" "5012 3664 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -0.981044 -0.193786 0] 0.25"
 			"rotation" "0"
@@ -4105,7 +4105,7 @@ world
 				"v" "5012 4960 -480"
 				"v" "5012 4312 -352"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -0.981044 0.193786 0] 0.25"
 			"rotation" "0"
@@ -7379,7 +7379,7 @@ world
 				"v" "5884 3664 -476"
 				"v" "5356 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0 -1 457.326] 0.15"
 			"vaxis" "[1 0 0 85.0078] 0.15"
 			"rotation" "0"
@@ -7397,7 +7397,7 @@ world
 				"v" "5356 3560 -480"
 				"v" "5884 3560 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 -235] 0.2"
 			"vaxis" "[-1 0 0 -390] 0.2"
 			"rotation" "0"
@@ -10232,7 +10232,7 @@ world
 				"v" "5797 3664 -480"
 				"v" "5797 4078 -398.222"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -390] 0.2"
 			"rotation" "0"
@@ -10250,7 +10250,7 @@ world
 				"v" "5737 3664 -476"
 				"v" "5797 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10268,7 +10268,7 @@ world
 				"v" "5737 4078 -394.224"
 				"v" "5737 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10286,7 +10286,7 @@ world
 				"v" "5797 3664 -476"
 				"v" "5797 4078 -394.221"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10368,7 +10368,7 @@ world
 				"v" "5737 4141 -385.778"
 				"v" "5797 4141 -385.778"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -390] 0.2"
 			"rotation" "0"
@@ -10386,7 +10386,7 @@ world
 				"v" "5737 4312 -348"
 				"v" "5737 4141 -381.783"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10404,7 +10404,7 @@ world
 				"v" "5797 4141 -385.778"
 				"v" "5797 4141 -381.78"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10522,7 +10522,7 @@ world
 				"v" "5797 4312 -348"
 				"v" "5797 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10540,7 +10540,7 @@ world
 				"v" "6278 3664 -480"
 				"v" "6278 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10569,7 +10569,7 @@ world
 				"v" "6278 4078 -394.222"
 				"v" "6338 4078 -394.222"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 -0.193787 -377.734] 0.2"
 			"rotation" "0"
@@ -10587,7 +10587,7 @@ world
 				"v" "6338 3664 -480"
 				"v" "6338 4078 -398.222"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -390] 0.2"
 			"rotation" "0"
@@ -10623,7 +10623,7 @@ world
 				"v" "6278 4078 -394.224"
 				"v" "6278 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10641,7 +10641,7 @@ world
 				"v" "6338 3664 -476"
 				"v" "6338 4078 -394.221"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10706,7 +10706,7 @@ world
 				"v" "6338 4312 -348"
 				"v" "6338 4141 -381.778"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 -0.193787 -377.734] 0.2"
 			"rotation" "0"
@@ -10724,7 +10724,7 @@ world
 				"v" "6278 4141 -385.778"
 				"v" "6338 4141 -385.778"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -390] 0.2"
 			"rotation" "0"
@@ -10742,7 +10742,7 @@ world
 				"v" "6278 4312 -348"
 				"v" "6278 4141 -381.783"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -10760,7 +10760,7 @@ world
 				"v" "6338 4141 -385.778"
 				"v" "6338 4141 -381.78"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -32663,7 +32663,7 @@ world
 				"v" "6828 3812 -482"
 				"v" "6828 4196 -482"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 1 0 -262.473] 0.15"
 			"rotation" "0"
@@ -36812,7 +36812,7 @@ world
 				"v" "5737 4396 -364.593"
 				"v" "5797 4396 -364.593"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.647] 0.2"
 			"rotation" "0"
@@ -36848,7 +36848,7 @@ world
 				"v" "5737 4396 -368.592"
 				"v" "5737 4396 -364.594"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -36866,7 +36866,7 @@ world
 				"v" "5797 4312 -348"
 				"v" "5797 4396 -364.594"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -36884,7 +36884,7 @@ world
 				"v" "5797 4396 -364.593"
 				"v" "5737 4396 -364.593"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0 1 -3.64648] 0.2"
 			"rotation" "0"
@@ -44394,7 +44394,7 @@ world
 				"v" "6338 4312 -348"
 				"v" "6444 4312 -348"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 -0.193787 -377.734] 0.2"
 			"rotation" "0"
@@ -44412,7 +44412,7 @@ world
 				"v" "6338 3664 -480"
 				"v" "6444 3664 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -390] 0.2"
 			"rotation" "0"
@@ -44448,7 +44448,7 @@ world
 				"v" "6338 4312 -348"
 				"v" "6338 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -44466,7 +44466,7 @@ world
 				"v" "6444 3664 -480"
 				"v" "6444 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -44513,7 +44513,7 @@ world
 				"v" "5004 4312 -348"
 				"v" "5737 4312 -348"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 -0.193787 -377.733] 0.2"
 			"rotation" "0"
@@ -44567,7 +44567,7 @@ world
 				"v" "5737 3664 -480"
 				"v" "5737 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -44585,7 +44585,7 @@ world
 				"v" "5004 4312 -348"
 				"v" "5004 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 -313] 0.2"
 			"vaxis" "[0 0 -1 -378] 0.2"
 			"rotation" "0"
@@ -44968,7 +44968,7 @@ world
 				"v" "6444 4204 -476.538"
 				"v" "6444 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.309007 0.95106 -424.134] 0.25"
 			"vaxis" "[0 -0.95106 0.309007 -148.955] 0.25"
 			"rotation" "0"
@@ -44986,7 +44986,7 @@ world
 				"v" "6444 4004 -418.166"
 				"v" "6830 4004 -418.166"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 -0.950852 0.309644 396] 0.2"
 			"rotation" "0"
@@ -45004,7 +45004,7 @@ world
 				"v" "6444 4204 -476.537"
 				"v" "6830 4204 -476.537"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0.58564 -0.810571 -440.646] 0.2"
 			"rotation" "0"
@@ -45022,7 +45022,7 @@ world
 				"v" "6444 4004 -413.963"
 				"v" "6830 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -45040,7 +45040,7 @@ world
 				"v" "6830 4204 -480.739"
 				"v" "6830 4204 -476.535"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -45058,7 +45058,7 @@ world
 				"v" "6830 4004 -413.964"
 				"v" "6830 4204 -476.539"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -45087,7 +45087,7 @@ world
 				"v" "6444 4004 -413.963"
 				"v" "6444 3804 -476.539"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.309007 -0.95106 -269.487] 0.2"
 			"vaxis" "[0 0.95106 0.309007 -391.707] 0.2"
 			"rotation" "0"
@@ -45105,7 +45105,7 @@ world
 				"v" "6444 3804 -480.743"
 				"v" "6830 3804 -480.743"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.950852 0.309644 -300.113] 0.2"
 			"rotation" "0"
@@ -45123,7 +45123,7 @@ world
 				"v" "6830 4004 -413.962"
 				"v" "6830 3804 -476.537"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0.954378 0.298601 -406.999] 0.2"
 			"rotation" "0"
@@ -45141,7 +45141,7 @@ world
 				"v" "6830 4004 -418.166"
 				"v" "6830 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 416] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -45159,7 +45159,7 @@ world
 				"v" "6830 3804 -476.536"
 				"v" "6830 4004 -413.962"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -84387,7 +84387,7 @@ world
 				"v" "6500 4340 -718.324"
 				"v" "6500 4195 -671.214"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.309007 0.95106 328.317] 0.25"
 			"vaxis" "[0 -0.95106 0.309007 353.19] 0.25"
 			"rotation" "0"
@@ -84405,7 +84405,7 @@ world
 				"v" "6780 4195 -671.214"
 				"v" "6780 4340 -718.326"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.309007 -0.95106 -101.412] 0.2"
 			"vaxis" "[0 -0.95106 0.309007 44.4154] 0.2"
 			"rotation" "0"
@@ -84423,7 +84423,7 @@ world
 				"v" "6780 4195 -675.42"
 				"v" "6780 4340 -722.532"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 -0.9509 0.3096 128.31] 0.2"
 			"rotation" "0"
@@ -84441,7 +84441,7 @@ world
 				"v" "6780 4340 -718.326"
 				"v" "6780 4195 -671.214"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0.58564 -0.810571 -483.107] 0.2"
 			"rotation" "0"
@@ -84459,7 +84459,7 @@ world
 				"v" "6500 4195 -675.422"
 				"v" "6500 4195 -671.214"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -5.00342] 0.25"
 			"rotation" "0"
@@ -84477,7 +84477,7 @@ world
 				"v" "6780 4340 -722.532"
 				"v" "6780 4340 -718.325"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0 -1 280.932] 0.2"
 			"rotation" "0"
@@ -159641,7 +159641,7 @@ world
 				"v" "12056 5700 -433.125"
 				"v" "12080 5700 -433.125"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[1 0 0 0] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159659,7 +159659,7 @@ world
 				"v" "12080 5757 -433.125"
 				"v" "12056 5757 -433.125"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[-1 0 0 0] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159695,7 +159695,7 @@ world
 				"v" "12080 5700 -433.125"
 				"v" "12080 5757 -433.125"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[0 1 0 192] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159760,7 +159760,7 @@ world
 				"v" "12056 5700 -441.125"
 				"v" "12080 5700 -441.125"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[1 0 0 0] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159778,7 +159778,7 @@ world
 				"v" "12080 5757 -441.125"
 				"v" "12056 5757 -441.125"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[-1 0 0 0] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159814,7 +159814,7 @@ world
 				"v" "12080 5700 -441.125"
 				"v" "12080 5757 -441.125"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 1 0 192] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159860,7 +159860,7 @@ world
 				"v" "12056 5700 -433.124"
 				"v" "12067 5700 -426.875"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[1 0 0 0] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159877,7 +159877,7 @@ world
 				"v" "12080 5757 -433.125"
 				"v" "12067 5757 -426.875"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[-1 0 0 0] 0.015625"
 			"vaxis" "[0 0 -1 -72] 0.015625"
 			"rotation" "0"
@@ -159895,7 +159895,7 @@ world
 				"v" "12080 5700 -433.125"
 				"v" "12067 5700 -426.875"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 -208] 0.015625"
 			"vaxis" "[0.970146 0 -0.242521 104.192] 0.015625"
 			"rotation" "0"
@@ -160912,7 +160912,7 @@ world
 				"v" "5004 4960 -476"
 				"v" "5737 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.647] 0.2"
 			"rotation" "0"
@@ -160930,7 +160930,7 @@ world
 				"v" "5737 4960 -480"
 				"v" "5004 4960 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 435] 0.2"
 			"vaxis" "[0 -0.981043 0.193787 297] 0.2"
 			"rotation" "0"
@@ -160948,7 +160948,7 @@ world
 				"v" "5737 4312 -348"
 				"v" "5737 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -160966,7 +160966,7 @@ world
 				"v" "5737 4960 -476"
 				"v" "5004 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -160984,7 +160984,7 @@ world
 				"v" "5004 4960 -480"
 				"v" "5004 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 -313] 0.2"
 			"vaxis" "[0 0 -1 297] 0.2"
 			"rotation" "0"
@@ -161014,7 +161014,7 @@ world
 				"v" "5797 4960 -476"
 				"v" "5797 4460 -377.234"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.647] 0.2"
 			"rotation" "0"
@@ -161050,7 +161050,7 @@ world
 				"v" "5737 4960 -476"
 				"v" "5737 4460 -377.233"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -161068,7 +161068,7 @@ world
 				"v" "5797 4460 -377.232"
 				"v" "5797 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -161086,7 +161086,7 @@ world
 				"v" "5737 4460 -377.234"
 				"v" "5797 4460 -377.234"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 -0.380225 -0.924894 -26.2822] 0.2"
 			"rotation" "0"
@@ -161104,7 +161104,7 @@ world
 				"v" "5797 4960 -476"
 				"v" "5737 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -161152,7 +161152,7 @@ world
 				"v" "5797 4960 -476"
 				"v" "6444 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.646] 0.2"
 			"rotation" "0"
@@ -161188,7 +161188,7 @@ world
 				"v" "5797 4960 -480"
 				"v" "5797 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -161206,7 +161206,7 @@ world
 				"v" "6444 4960 -476"
 				"v" "5797 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -161224,7 +161224,7 @@ world
 				"v" "6444 4312 -348"
 				"v" "6444 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -196398,7 +196398,7 @@ entity
 				"v" "5718 4933 -704"
 				"v" "5718 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -196416,7 +196416,7 @@ entity
 				"v" "5730 4932 -704"
 				"v" "5730 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -196434,7 +196434,7 @@ entity
 				"v" "5730 4933 -704"
 				"v" "5730 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -470.006] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -196452,7 +196452,7 @@ entity
 				"v" "5718 4932 -704"
 				"v" "5718 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 398] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -196516,7 +196516,7 @@ entity
 				"v" "5723 4951 -704"
 				"v" "5723 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -196534,7 +196534,7 @@ entity
 				"v" "5725 4933 -704"
 				"v" "5725 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -502] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -196634,7 +196634,7 @@ entity
 				"v" "5718 4952 -704"
 				"v" "5718 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -196652,7 +196652,7 @@ entity
 				"v" "5730 4951 -704"
 				"v" "5730 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -196688,7 +196688,7 @@ entity
 				"v" "5718 4951 -704"
 				"v" "5718 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 358] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -197050,7 +197050,7 @@ entity
 				"v" "5730 3692 -498.981"
 				"v" "5730 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -197068,7 +197068,7 @@ entity
 				"v" "5718 4312 -367"
 				"v" "5718 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -197086,7 +197086,7 @@ entity
 				"v" "5730 4312 -367"
 				"v" "5730 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -182.008] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -197104,7 +197104,7 @@ entity
 				"v" "5730 3692 -500"
 				"v" "5730 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 110] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -197140,7 +197140,7 @@ entity
 				"v" "5730 4312 -368.02"
 				"v" "5730 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 224] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -197168,7 +197168,7 @@ entity
 				"v" "5725 4312 -367"
 				"v" "5725 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -197186,7 +197186,7 @@ entity
 				"v" "5723 4312 -355.519"
 				"v" "5723 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -197258,7 +197258,7 @@ entity
 				"v" "5725 4312 -367"
 				"v" "5725 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 224] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -197286,7 +197286,7 @@ entity
 				"v" "5730 3692 -475.013"
 				"v" "5730 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -197304,7 +197304,7 @@ entity
 				"v" "5718 4312 -354.498"
 				"v" "5718 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -197340,7 +197340,7 @@ entity
 				"v" "5730 3692 -476.031"
 				"v" "5730 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 70] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -197376,7 +197376,7 @@ entity
 				"v" "5730 4312 -355.519"
 				"v" "5730 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 224] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -197422,7 +197422,7 @@ entity
 				"v" "5725 3673 -704"
 				"v" "5725 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -197440,7 +197440,7 @@ entity
 				"v" "5723 3691 -704"
 				"v" "5723 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -197540,7 +197540,7 @@ entity
 				"v" "5730 3691 -704"
 				"v" "5730 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -197558,7 +197558,7 @@ entity
 				"v" "5718 3692 -704"
 				"v" "5718 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -197576,7 +197576,7 @@ entity
 				"v" "5718 3691 -704"
 				"v" "5718 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -182.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -197594,7 +197594,7 @@ entity
 				"v" "5730 3692 -704"
 				"v" "5730 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 110] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -197658,7 +197658,7 @@ entity
 				"v" "5730 3672 -704"
 				"v" "5730 3672 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -197676,7 +197676,7 @@ entity
 				"v" "5718 3673 -704"
 				"v" "5718 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -197712,7 +197712,7 @@ entity
 				"v" "5730 3673 -704"
 				"v" "5730 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 70] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -197758,7 +197758,7 @@ entity
 				"v" "5723 4312 -367"
 				"v" "5723 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -197776,7 +197776,7 @@ entity
 				"v" "5725 4312 -355.52"
 				"v" "5725 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -197848,7 +197848,7 @@ entity
 				"v" "5723 4312 -367"
 				"v" "5723 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -197876,7 +197876,7 @@ entity
 				"v" "5718 4932 -498.981"
 				"v" "5718 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -197894,7 +197894,7 @@ entity
 				"v" "5730 4312 -367"
 				"v" "5730 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -197912,7 +197912,7 @@ entity
 				"v" "5730 4932 -498.981"
 				"v" "5730 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -470.006] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -197930,7 +197930,7 @@ entity
 				"v" "5730 4312 -368.018"
 				"v" "5730 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 398] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -197966,7 +197966,7 @@ entity
 				"v" "5718 4312 -368.017"
 				"v" "5718 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -197994,7 +197994,7 @@ entity
 				"v" "5718 4932 -475.011"
 				"v" "5718 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -198012,7 +198012,7 @@ entity
 				"v" "5730 4312 -354.5"
 				"v" "5730 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -198048,7 +198048,7 @@ entity
 				"v" "5730 4312 -355.518"
 				"v" "5730 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 358] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -198084,7 +198084,7 @@ entity
 				"v" "5718 4312 -355.519"
 				"v" "5718 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -205996,7 +205996,7 @@ entity
 				"v" "5510 4933 -704"
 				"v" "5510 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -206014,7 +206014,7 @@ entity
 				"v" "5522 4932 -704"
 				"v" "5522 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -206032,7 +206032,7 @@ entity
 				"v" "5522 4933 -704"
 				"v" "5522 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -278.006] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -206050,7 +206050,7 @@ entity
 				"v" "5510 4932 -704"
 				"v" "5510 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 206] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -206114,7 +206114,7 @@ entity
 				"v" "5515 4951 -704"
 				"v" "5515 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -206132,7 +206132,7 @@ entity
 				"v" "5517 4933 -704"
 				"v" "5517 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 10] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -206232,7 +206232,7 @@ entity
 				"v" "5510 4952 -704"
 				"v" "5510 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -206250,7 +206250,7 @@ entity
 				"v" "5522 4951 -704"
 				"v" "5522 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -206286,7 +206286,7 @@ entity
 				"v" "5510 4951 -704"
 				"v" "5510 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 166] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -206648,7 +206648,7 @@ entity
 				"v" "5522 3692 -498.981"
 				"v" "5522 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -206666,7 +206666,7 @@ entity
 				"v" "5510 4312 -367"
 				"v" "5510 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -206684,7 +206684,7 @@ entity
 				"v" "5522 4312 -367"
 				"v" "5522 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 137.992] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -206702,7 +206702,7 @@ entity
 				"v" "5522 3692 -500"
 				"v" "5522 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -210] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -206738,7 +206738,7 @@ entity
 				"v" "5522 4312 -368.02"
 				"v" "5522 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -96] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -206766,7 +206766,7 @@ entity
 				"v" "5517 4312 -367"
 				"v" "5517 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -206784,7 +206784,7 @@ entity
 				"v" "5515 4312 -355.519"
 				"v" "5515 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -206856,7 +206856,7 @@ entity
 				"v" "5517 4312 -367"
 				"v" "5517 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -96] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -206884,7 +206884,7 @@ entity
 				"v" "5522 3692 -475.013"
 				"v" "5522 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -206902,7 +206902,7 @@ entity
 				"v" "5510 4312 -354.498"
 				"v" "5510 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -206938,7 +206938,7 @@ entity
 				"v" "5522 3692 -476.031"
 				"v" "5522 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -250] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -206974,7 +206974,7 @@ entity
 				"v" "5522 4312 -355.519"
 				"v" "5522 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -96] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -207020,7 +207020,7 @@ entity
 				"v" "5517 3673 -704"
 				"v" "5517 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -207038,7 +207038,7 @@ entity
 				"v" "5515 3691 -704"
 				"v" "5515 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -207138,7 +207138,7 @@ entity
 				"v" "5522 3691 -704"
 				"v" "5522 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207156,7 +207156,7 @@ entity
 				"v" "5510 3692 -704"
 				"v" "5510 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207174,7 +207174,7 @@ entity
 				"v" "5510 3691 -704"
 				"v" "5510 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 137.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207192,7 +207192,7 @@ entity
 				"v" "5522 3692 -704"
 				"v" "5522 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -210] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207256,7 +207256,7 @@ entity
 				"v" "5522 3672 -704"
 				"v" "5522 3672 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -207274,7 +207274,7 @@ entity
 				"v" "5510 3673 -704"
 				"v" "5510 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -207310,7 +207310,7 @@ entity
 				"v" "5522 3673 -704"
 				"v" "5522 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -250] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -207356,7 +207356,7 @@ entity
 				"v" "5515 4312 -367"
 				"v" "5515 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -207374,7 +207374,7 @@ entity
 				"v" "5517 4312 -355.52"
 				"v" "5517 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -207446,7 +207446,7 @@ entity
 				"v" "5515 4312 -367"
 				"v" "5515 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 320] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -207474,7 +207474,7 @@ entity
 				"v" "5510 4932 -498.981"
 				"v" "5510 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -207492,7 +207492,7 @@ entity
 				"v" "5522 4312 -367"
 				"v" "5522 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -207510,7 +207510,7 @@ entity
 				"v" "5522 4932 -498.981"
 				"v" "5522 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -278.006] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -207528,7 +207528,7 @@ entity
 				"v" "5522 4312 -368.018"
 				"v" "5522 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 206] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -207564,7 +207564,7 @@ entity
 				"v" "5510 4312 -368.017"
 				"v" "5510 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 320] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -207592,7 +207592,7 @@ entity
 				"v" "5510 4932 -475.011"
 				"v" "5510 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -207610,7 +207610,7 @@ entity
 				"v" "5522 4312 -354.5"
 				"v" "5522 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -207646,7 +207646,7 @@ entity
 				"v" "5522 4312 -355.518"
 				"v" "5522 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 166] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -207682,7 +207682,7 @@ entity
 				"v" "5510 4312 -355.519"
 				"v" "5510 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 320] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -207740,7 +207740,7 @@ entity
 				"v" "5302 4933 -704"
 				"v" "5302 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207758,7 +207758,7 @@ entity
 				"v" "5314 4932 -704"
 				"v" "5314 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207776,7 +207776,7 @@ entity
 				"v" "5314 4933 -704"
 				"v" "5314 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -86.006] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207794,7 +207794,7 @@ entity
 				"v" "5302 4932 -704"
 				"v" "5302 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 14] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -207858,7 +207858,7 @@ entity
 				"v" "5307 4951 -704"
 				"v" "5307 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -207876,7 +207876,7 @@ entity
 				"v" "5309 4933 -704"
 				"v" "5309 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 10] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -207976,7 +207976,7 @@ entity
 				"v" "5302 4952 -704"
 				"v" "5302 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -207994,7 +207994,7 @@ entity
 				"v" "5314 4951 -704"
 				"v" "5314 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -208030,7 +208030,7 @@ entity
 				"v" "5302 4951 -704"
 				"v" "5302 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 486] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -208234,7 +208234,7 @@ entity
 				"v" "5314 3692 -498.981"
 				"v" "5314 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -208252,7 +208252,7 @@ entity
 				"v" "5302 4312 -367"
 				"v" "5302 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -208270,7 +208270,7 @@ entity
 				"v" "5314 4312 -367"
 				"v" "5314 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 457.992] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -208288,7 +208288,7 @@ entity
 				"v" "5314 3692 -500"
 				"v" "5314 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -18] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -208324,7 +208324,7 @@ entity
 				"v" "5314 4312 -368.02"
 				"v" "5314 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -416] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -208352,7 +208352,7 @@ entity
 				"v" "5309 4312 -367"
 				"v" "5309 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -208370,7 +208370,7 @@ entity
 				"v" "5307 4312 -355.519"
 				"v" "5307 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -208442,7 +208442,7 @@ entity
 				"v" "5309 4312 -367"
 				"v" "5309 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -416] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -208470,7 +208470,7 @@ entity
 				"v" "5314 3692 -475.013"
 				"v" "5314 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -208488,7 +208488,7 @@ entity
 				"v" "5302 4312 -354.498"
 				"v" "5302 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -208524,7 +208524,7 @@ entity
 				"v" "5314 3692 -476.031"
 				"v" "5314 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -58] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -208560,7 +208560,7 @@ entity
 				"v" "5314 4312 -355.519"
 				"v" "5314 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -416] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -208606,7 +208606,7 @@ entity
 				"v" "5309 3673 -704"
 				"v" "5309 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -208624,7 +208624,7 @@ entity
 				"v" "5307 3691 -704"
 				"v" "5307 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -208724,7 +208724,7 @@ entity
 				"v" "5314 3691 -704"
 				"v" "5314 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -208742,7 +208742,7 @@ entity
 				"v" "5302 3692 -704"
 				"v" "5302 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -208760,7 +208760,7 @@ entity
 				"v" "5302 3691 -704"
 				"v" "5302 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 457.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -208778,7 +208778,7 @@ entity
 				"v" "5314 3692 -704"
 				"v" "5314 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -18] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -208842,7 +208842,7 @@ entity
 				"v" "5314 3672 -704"
 				"v" "5314 3672 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -208860,7 +208860,7 @@ entity
 				"v" "5302 3673 -704"
 				"v" "5302 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -208896,7 +208896,7 @@ entity
 				"v" "5314 3673 -704"
 				"v" "5314 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -58] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -208942,7 +208942,7 @@ entity
 				"v" "5307 4312 -367"
 				"v" "5307 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -208960,7 +208960,7 @@ entity
 				"v" "5309 4312 -355.52"
 				"v" "5309 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -209032,7 +209032,7 @@ entity
 				"v" "5307 4312 -367"
 				"v" "5307 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -209060,7 +209060,7 @@ entity
 				"v" "5302 4932 -498.981"
 				"v" "5302 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -209078,7 +209078,7 @@ entity
 				"v" "5314 4312 -367"
 				"v" "5314 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -209096,7 +209096,7 @@ entity
 				"v" "5314 4932 -498.981"
 				"v" "5314 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -86.006] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -209114,7 +209114,7 @@ entity
 				"v" "5314 4312 -368.018"
 				"v" "5314 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 14] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -209150,7 +209150,7 @@ entity
 				"v" "5302 4312 -368.017"
 				"v" "5302 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -209178,7 +209178,7 @@ entity
 				"v" "5302 4932 -475.011"
 				"v" "5302 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -209196,7 +209196,7 @@ entity
 				"v" "5314 4312 -354.5"
 				"v" "5314 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -209232,7 +209232,7 @@ entity
 				"v" "5314 4312 -355.518"
 				"v" "5314 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 486] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -209268,7 +209268,7 @@ entity
 				"v" "5302 4312 -355.519"
 				"v" "5302 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -209484,7 +209484,7 @@ entity
 				"v" "5094 4933 -704"
 				"v" "5094 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -209502,7 +209502,7 @@ entity
 				"v" "5106 4932 -704"
 				"v" "5106 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -209520,7 +209520,7 @@ entity
 				"v" "5106 4933 -704"
 				"v" "5106 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -406.006] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -209538,7 +209538,7 @@ entity
 				"v" "5094 4932 -704"
 				"v" "5094 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 334] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -209602,7 +209602,7 @@ entity
 				"v" "5099 4951 -704"
 				"v" "5099 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -209620,7 +209620,7 @@ entity
 				"v" "5101 4933 -704"
 				"v" "5101 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 10] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -209720,7 +209720,7 @@ entity
 				"v" "5094 4952 -704"
 				"v" "5094 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -209738,7 +209738,7 @@ entity
 				"v" "5106 4951 -704"
 				"v" "5106 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -209774,7 +209774,7 @@ entity
 				"v" "5094 4951 -704"
 				"v" "5094 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 294] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -210136,7 +210136,7 @@ entity
 				"v" "5106 3692 -498.981"
 				"v" "5106 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -210154,7 +210154,7 @@ entity
 				"v" "5094 4312 -367"
 				"v" "5094 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -210172,7 +210172,7 @@ entity
 				"v" "5106 4312 -367"
 				"v" "5106 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 265.992] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -210190,7 +210190,7 @@ entity
 				"v" "5106 3692 -500"
 				"v" "5106 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -338] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -210226,7 +210226,7 @@ entity
 				"v" "5106 4312 -368.02"
 				"v" "5106 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -224] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -210254,7 +210254,7 @@ entity
 				"v" "5101 4312 -367"
 				"v" "5101 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -210272,7 +210272,7 @@ entity
 				"v" "5099 4312 -355.519"
 				"v" "5099 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -210344,7 +210344,7 @@ entity
 				"v" "5101 4312 -367"
 				"v" "5101 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -224] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -210372,7 +210372,7 @@ entity
 				"v" "5106 3692 -475.013"
 				"v" "5106 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -210390,7 +210390,7 @@ entity
 				"v" "5094 4312 -354.498"
 				"v" "5094 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -210426,7 +210426,7 @@ entity
 				"v" "5106 3692 -476.031"
 				"v" "5106 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -378] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -210462,7 +210462,7 @@ entity
 				"v" "5106 4312 -355.519"
 				"v" "5106 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -224] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -210508,7 +210508,7 @@ entity
 				"v" "5101 3673 -704"
 				"v" "5101 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -210526,7 +210526,7 @@ entity
 				"v" "5099 3691 -704"
 				"v" "5099 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -210626,7 +210626,7 @@ entity
 				"v" "5106 3691 -704"
 				"v" "5106 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -210644,7 +210644,7 @@ entity
 				"v" "5094 3692 -704"
 				"v" "5094 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -210662,7 +210662,7 @@ entity
 				"v" "5094 3691 -704"
 				"v" "5094 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 265.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -210680,7 +210680,7 @@ entity
 				"v" "5106 3692 -704"
 				"v" "5106 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -338] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -210744,7 +210744,7 @@ entity
 				"v" "5106 3672 -704"
 				"v" "5106 3672 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -210762,7 +210762,7 @@ entity
 				"v" "5094 3673 -704"
 				"v" "5094 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -210798,7 +210798,7 @@ entity
 				"v" "5106 3673 -704"
 				"v" "5106 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -378] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -210844,7 +210844,7 @@ entity
 				"v" "5099 4312 -367"
 				"v" "5099 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -210862,7 +210862,7 @@ entity
 				"v" "5101 4312 -355.52"
 				"v" "5101 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -210934,7 +210934,7 @@ entity
 				"v" "5099 4312 -367"
 				"v" "5099 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 448] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -210962,7 +210962,7 @@ entity
 				"v" "5094 4932 -498.981"
 				"v" "5094 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -210980,7 +210980,7 @@ entity
 				"v" "5106 4312 -367"
 				"v" "5106 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -210998,7 +210998,7 @@ entity
 				"v" "5106 4932 -498.981"
 				"v" "5106 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -406.006] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -211016,7 +211016,7 @@ entity
 				"v" "5106 4312 -368.018"
 				"v" "5106 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 334] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -211052,7 +211052,7 @@ entity
 				"v" "5094 4312 -368.017"
 				"v" "5094 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 448] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -211080,7 +211080,7 @@ entity
 				"v" "5094 4932 -475.011"
 				"v" "5094 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -211098,7 +211098,7 @@ entity
 				"v" "5106 4312 -354.5"
 				"v" "5106 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -211134,7 +211134,7 @@ entity
 				"v" "5106 4312 -355.518"
 				"v" "5106 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 294] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -211170,7 +211170,7 @@ entity
 				"v" "5094 4312 -355.519"
 				"v" "5094 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 448] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -211228,7 +211228,7 @@ entity
 				"v" "5926 4933 -704"
 				"v" "5926 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -211246,7 +211246,7 @@ entity
 				"v" "5938 4932 -704"
 				"v" "5938 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -211264,7 +211264,7 @@ entity
 				"v" "5938 4933 -704"
 				"v" "5938 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 361.994] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -211282,7 +211282,7 @@ entity
 				"v" "5926 4932 -704"
 				"v" "5926 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -434] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -211346,7 +211346,7 @@ entity
 				"v" "5931 4951 -704"
 				"v" "5931 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -211364,7 +211364,7 @@ entity
 				"v" "5933 4933 -704"
 				"v" "5933 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -502] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -211464,7 +211464,7 @@ entity
 				"v" "5926 4952 -704"
 				"v" "5926 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -211482,7 +211482,7 @@ entity
 				"v" "5938 4951 -704"
 				"v" "5938 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -211518,7 +211518,7 @@ entity
 				"v" "5926 4951 -704"
 				"v" "5926 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -474] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -211880,7 +211880,7 @@ entity
 				"v" "5938 3692 -498.981"
 				"v" "5938 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -211898,7 +211898,7 @@ entity
 				"v" "5926 4312 -367"
 				"v" "5926 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -211916,7 +211916,7 @@ entity
 				"v" "5938 4312 -367"
 				"v" "5938 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -502.008] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -211934,7 +211934,7 @@ entity
 				"v" "5938 3692 -500"
 				"v" "5938 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 430] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -211970,7 +211970,7 @@ entity
 				"v" "5938 4312 -368.02"
 				"v" "5938 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -211998,7 +211998,7 @@ entity
 				"v" "5933 4312 -367"
 				"v" "5933 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -212016,7 +212016,7 @@ entity
 				"v" "5931 4312 -355.519"
 				"v" "5931 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -212088,7 +212088,7 @@ entity
 				"v" "5933 4312 -367"
 				"v" "5933 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -212116,7 +212116,7 @@ entity
 				"v" "5938 3692 -475.013"
 				"v" "5938 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -212134,7 +212134,7 @@ entity
 				"v" "5926 4312 -354.498"
 				"v" "5926 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -212170,7 +212170,7 @@ entity
 				"v" "5938 3692 -476.031"
 				"v" "5938 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 390] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -212206,7 +212206,7 @@ entity
 				"v" "5938 4312 -355.519"
 				"v" "5938 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 32] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -212252,7 +212252,7 @@ entity
 				"v" "5933 3673 -704"
 				"v" "5933 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -212270,7 +212270,7 @@ entity
 				"v" "5931 3691 -704"
 				"v" "5931 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -212370,7 +212370,7 @@ entity
 				"v" "5938 3691 -704"
 				"v" "5938 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -212388,7 +212388,7 @@ entity
 				"v" "5926 3692 -704"
 				"v" "5926 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -212406,7 +212406,7 @@ entity
 				"v" "5926 3691 -704"
 				"v" "5926 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -502.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -212424,7 +212424,7 @@ entity
 				"v" "5938 3692 -704"
 				"v" "5938 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 430] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -212488,7 +212488,7 @@ entity
 				"v" "5938 3672 -704"
 				"v" "5938 3672 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -212506,7 +212506,7 @@ entity
 				"v" "5926 3673 -704"
 				"v" "5926 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -212542,7 +212542,7 @@ entity
 				"v" "5938 3673 -704"
 				"v" "5938 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 390] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -212588,7 +212588,7 @@ entity
 				"v" "5931 4312 -367"
 				"v" "5931 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -212606,7 +212606,7 @@ entity
 				"v" "5933 4312 -355.52"
 				"v" "5933 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -212678,7 +212678,7 @@ entity
 				"v" "5931 4312 -367"
 				"v" "5931 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -320] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -212706,7 +212706,7 @@ entity
 				"v" "5926 4932 -498.981"
 				"v" "5926 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -212724,7 +212724,7 @@ entity
 				"v" "5938 4312 -367"
 				"v" "5938 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -212742,7 +212742,7 @@ entity
 				"v" "5938 4932 -498.981"
 				"v" "5938 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 361.994] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -212760,7 +212760,7 @@ entity
 				"v" "5938 4312 -368.018"
 				"v" "5938 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -434] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -212796,7 +212796,7 @@ entity
 				"v" "5926 4312 -368.017"
 				"v" "5926 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -320] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -212824,7 +212824,7 @@ entity
 				"v" "5926 4932 -475.011"
 				"v" "5926 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -212842,7 +212842,7 @@ entity
 				"v" "5938 4312 -354.5"
 				"v" "5938 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -212878,7 +212878,7 @@ entity
 				"v" "5938 4312 -355.518"
 				"v" "5938 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -474] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -212914,7 +212914,7 @@ entity
 				"v" "5926 4312 -355.519"
 				"v" "5926 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -320] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -212972,7 +212972,7 @@ entity
 				"v" "6134 4933 -704"
 				"v" "6134 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -212990,7 +212990,7 @@ entity
 				"v" "6146 4932 -704"
 				"v" "6146 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -213008,7 +213008,7 @@ entity
 				"v" "6146 4933 -704"
 				"v" "6146 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 169.994] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -213026,7 +213026,7 @@ entity
 				"v" "6134 4932 -704"
 				"v" "6134 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -242] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -213090,7 +213090,7 @@ entity
 				"v" "6139 4951 -704"
 				"v" "6139 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -213108,7 +213108,7 @@ entity
 				"v" "6141 4933 -704"
 				"v" "6141 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -502] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -213208,7 +213208,7 @@ entity
 				"v" "6134 4952 -704"
 				"v" "6134 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -213226,7 +213226,7 @@ entity
 				"v" "6146 4951 -704"
 				"v" "6146 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -213262,7 +213262,7 @@ entity
 				"v" "6134 4951 -704"
 				"v" "6134 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -282] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -213624,7 +213624,7 @@ entity
 				"v" "6146 3692 -498.981"
 				"v" "6146 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -213642,7 +213642,7 @@ entity
 				"v" "6134 4312 -367"
 				"v" "6134 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -213660,7 +213660,7 @@ entity
 				"v" "6146 4312 -367"
 				"v" "6146 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -310.008] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -213678,7 +213678,7 @@ entity
 				"v" "6146 3692 -500"
 				"v" "6146 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 238] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -213714,7 +213714,7 @@ entity
 				"v" "6146 4312 -368.02"
 				"v" "6146 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 352] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -213742,7 +213742,7 @@ entity
 				"v" "6141 4312 -367"
 				"v" "6141 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -213760,7 +213760,7 @@ entity
 				"v" "6139 4312 -355.519"
 				"v" "6139 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -213832,7 +213832,7 @@ entity
 				"v" "6141 4312 -367"
 				"v" "6141 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 352] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -213860,7 +213860,7 @@ entity
 				"v" "6146 3692 -475.013"
 				"v" "6146 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -213878,7 +213878,7 @@ entity
 				"v" "6134 4312 -354.498"
 				"v" "6134 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -213914,7 +213914,7 @@ entity
 				"v" "6146 3692 -476.031"
 				"v" "6146 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 198] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -213950,7 +213950,7 @@ entity
 				"v" "6146 4312 -355.519"
 				"v" "6146 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 352] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -213996,7 +213996,7 @@ entity
 				"v" "6141 3673 -704"
 				"v" "6141 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -214014,7 +214014,7 @@ entity
 				"v" "6139 3691 -704"
 				"v" "6139 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -214114,7 +214114,7 @@ entity
 				"v" "6146 3691 -704"
 				"v" "6146 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214132,7 +214132,7 @@ entity
 				"v" "6134 3692 -704"
 				"v" "6134 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214150,7 +214150,7 @@ entity
 				"v" "6134 3691 -704"
 				"v" "6134 3691 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -310.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214168,7 +214168,7 @@ entity
 				"v" "6146 3692 -704"
 				"v" "6146 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 238] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214232,7 +214232,7 @@ entity
 				"v" "6146 3672 -704"
 				"v" "6146 3672 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -214250,7 +214250,7 @@ entity
 				"v" "6134 3673 -704"
 				"v" "6134 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -214286,7 +214286,7 @@ entity
 				"v" "6146 3673 -704"
 				"v" "6146 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 198] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -214332,7 +214332,7 @@ entity
 				"v" "6139 4312 -367"
 				"v" "6139 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -214350,7 +214350,7 @@ entity
 				"v" "6141 4312 -355.52"
 				"v" "6141 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -214422,7 +214422,7 @@ entity
 				"v" "6139 4312 -367"
 				"v" "6139 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -214450,7 +214450,7 @@ entity
 				"v" "6134 4932 -498.981"
 				"v" "6134 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -214468,7 +214468,7 @@ entity
 				"v" "6146 4312 -367"
 				"v" "6146 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -214486,7 +214486,7 @@ entity
 				"v" "6146 4932 -498.981"
 				"v" "6146 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 169.994] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -214504,7 +214504,7 @@ entity
 				"v" "6146 4312 -368.018"
 				"v" "6146 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -242] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -214540,7 +214540,7 @@ entity
 				"v" "6134 4312 -368.017"
 				"v" "6134 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -214568,7 +214568,7 @@ entity
 				"v" "6134 4932 -475.011"
 				"v" "6134 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -214586,7 +214586,7 @@ entity
 				"v" "6146 4312 -354.5"
 				"v" "6146 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -214622,7 +214622,7 @@ entity
 				"v" "6146 4312 -355.518"
 				"v" "6146 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -282] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -214658,7 +214658,7 @@ entity
 				"v" "6134 4312 -355.519"
 				"v" "6134 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -214716,7 +214716,7 @@ entity
 				"v" "6342 4933 -704"
 				"v" "6342 4933 -474.602"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 493.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214734,7 +214734,7 @@ entity
 				"v" "6354 4932 -704"
 				"v" "6354 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 13.9966] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214752,7 +214752,7 @@ entity
 				"v" "6354 4933 -704"
 				"v" "6354 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 489.994] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214770,7 +214770,7 @@ entity
 				"v" "6342 4932 -704"
 				"v" "6342 4932 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -50] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -214834,7 +214834,7 @@ entity
 				"v" "6347 4951 -704"
 				"v" "6347 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 33] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -214852,7 +214852,7 @@ entity
 				"v" "6349 4933 -704"
 				"v" "6349 4933 -474.601"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -502] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -214952,7 +214952,7 @@ entity
 				"v" "6342 4952 -704"
 				"v" "6342 4952 -478.8"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 17.9922] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -214970,7 +214970,7 @@ entity
 				"v" "6354 4951 -704"
 				"v" "6354 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 409.997] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -215006,7 +215006,7 @@ entity
 				"v" "6342 4951 -704"
 				"v" "6342 4951 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -90] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -215210,7 +215210,7 @@ entity
 				"v" "6354 3692 -498.981"
 				"v" "6354 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -444.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -215228,7 +215228,7 @@ entity
 				"v" "6342 4312 -367"
 				"v" "6342 3692 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 440.958] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -215246,7 +215246,7 @@ entity
 				"v" "6354 4312 -367"
 				"v" "6354 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -118.008] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -215264,7 +215264,7 @@ entity
 				"v" "6354 3692 -500"
 				"v" "6354 4312 -368.018"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 46] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 241.461] 0.25"
 			"rotation" "0"
@@ -215300,7 +215300,7 @@ entity
 				"v" "6354 4312 -368.02"
 				"v" "6354 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 160] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -215328,7 +215328,7 @@ entity
 				"v" "6349 4312 -367"
 				"v" "6349 3692 -498.981"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -393.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 314.461] 0.25"
 			"rotation" "0"
@@ -215346,7 +215346,7 @@ entity
 				"v" "6347 4312 -355.519"
 				"v" "6347 3692 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 436.962] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 334.461] 0.25"
 			"rotation" "0"
@@ -215418,7 +215418,7 @@ entity
 				"v" "6349 4312 -367"
 				"v" "6349 4312 -355.521"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 160] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -215446,7 +215446,7 @@ entity
 				"v" "6354 3692 -475.013"
 				"v" "6354 4312 -354.498"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 -0.981628 -408.97] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -215464,7 +215464,7 @@ entity
 				"v" "6342 4312 -354.498"
 				"v" "6342 3692 -475.012"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 0.981628 324.96] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -215500,7 +215500,7 @@ entity
 				"v" "6354 3692 -476.031"
 				"v" "6354 4312 -355.517"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 6] 0.25"
 			"vaxis" "[0 -0.981628 -0.190806 225.461] 0.25"
 			"rotation" "0"
@@ -215536,7 +215536,7 @@ entity
 				"v" "6354 4312 -355.519"
 				"v" "6354 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 160] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -215564,7 +215564,7 @@ entity
 				"v" "6347 4312 -367"
 				"v" "6347 4932 -498.982"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -467.927] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -267.772] 0.25"
 			"rotation" "0"
@@ -215582,7 +215582,7 @@ entity
 				"v" "6349 4312 -355.52"
 				"v" "6349 4932 -476.033"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 -1.07349] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -247.773] 0.25"
 			"rotation" "0"
@@ -215654,7 +215654,7 @@ entity
 				"v" "6347 4312 -367"
 				"v" "6347 4312 -355.519"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -215682,7 +215682,7 @@ entity
 				"v" "6342 4932 -498.981"
 				"v" "6342 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -6.93402] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -215700,7 +215700,7 @@ entity
 				"v" "6354 4312 -367"
 				"v" "6354 4932 -498.98"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 2.92261] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -215718,7 +215718,7 @@ entity
 				"v" "6354 4932 -498.981"
 				"v" "6354 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 489.994] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -215736,7 +215736,7 @@ entity
 				"v" "6354 4312 -368.018"
 				"v" "6354 4932 -500"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -50] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -340.772] 0.25"
 			"rotation" "0"
@@ -215772,7 +215772,7 @@ entity
 				"v" "6342 4312 -368.017"
 				"v" "6342 4312 -367"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -215800,7 +215800,7 @@ entity
 				"v" "6342 4932 -475.011"
 				"v" "6342 4312 -354.497"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -0.190806 -0.981628 -482.934] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -215818,7 +215818,7 @@ entity
 				"v" "6354 4312 -354.5"
 				"v" "6354 4932 -475.014"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0.190806 0.981628 398.924] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -215854,7 +215854,7 @@ entity
 				"v" "6354 4312 -355.518"
 				"v" "6354 4932 -476.032"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -90] 0.25"
 			"vaxis" "[0 0.981628 -0.190806 -356.772] 0.25"
 			"rotation" "0"
@@ -215890,7 +215890,7 @@ entity
 				"v" "6342 4312 -355.519"
 				"v" "6342 4312 -354.5"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -448] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -215918,7 +215918,7 @@ entity
 				"v" "6349 3673 -608"
 				"v" "6349 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -159] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -215936,7 +215936,7 @@ entity
 				"v" "6347 3691 -608"
 				"v" "6347 3691 -474.604"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 202] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -216036,7 +216036,7 @@ entity
 				"v" "6354 3672 -608"
 				"v" "6354 3672 -478.803"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -174.008] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -216054,7 +216054,7 @@ entity
 				"v" "6342 3673 -608"
 				"v" "6342 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.9961] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -216090,7 +216090,7 @@ entity
 				"v" "6354 3673 -608"
 				"v" "6354 3673 -478.201"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 6] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -216154,7 +216154,7 @@ entity
 				"v" "6354 3691 -608"
 				"v" "6354 3691 -474.604"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -210.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -216172,7 +216172,7 @@ entity
 				"v" "6342 3692 -608"
 				"v" "6342 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 205.996] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -216190,7 +216190,7 @@ entity
 				"v" "6342 3691 -608"
 				"v" "6342 3691 -474.604"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -118.008] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -216208,7 +216208,7 @@ entity
 				"v" "6354 3692 -608"
 				"v" "6354 3692 -474"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 46] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -218498,7 +218498,7 @@ entity
 				"v" "6192 4304 -480"
 				"v" "6192 4296 -480"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 -1 0 -144] 0.25"
 			"vaxis" "[0 0 -1 -384] 0.25"
 			"rotation" "0"
@@ -252306,7 +252306,7 @@ entity
 				"v" "6633 4193 -608"
 				"v" "6633 4193 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -223] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -252424,7 +252424,7 @@ entity
 				"v" "6639 4191 -608"
 				"v" "6639 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -266.008] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252460,7 +252460,7 @@ entity
 				"v" "6639 4196 -608"
 				"v" "6639 4196 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.9922] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -252478,7 +252478,7 @@ entity
 				"v" "6640 4191 -608"
 				"v" "6640 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 313.988] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252542,7 +252542,7 @@ entity
 				"v" "6632 4191 -608"
 				"v" "6632 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -238.008] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252578,7 +252578,7 @@ entity
 				"v" "6632 4196 -608"
 				"v" "6632 4196 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 45.9844] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252596,7 +252596,7 @@ entity
 				"v" "6633 4191 -608"
 				"v" "6633 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 320.996] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -252672,7 +252672,7 @@ entity
 				"v" "6446 4193 -608"
 				"v" "6446 4193 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 13] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -252790,7 +252790,7 @@ entity
 				"v" "6452 4191 -608"
 				"v" "6452 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 481.992] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252826,7 +252826,7 @@ entity
 				"v" "6452 4196 -608"
 				"v" "6452 4196 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.9922] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -252844,7 +252844,7 @@ entity
 				"v" "6453 4191 -608"
 				"v" "6453 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 313.988] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252908,7 +252908,7 @@ entity
 				"v" "6445 4191 -608"
 				"v" "6445 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -2.00781] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252944,7 +252944,7 @@ entity
 				"v" "6445 4196 -608"
 				"v" "6445 4196 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 45.9844] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -252962,7 +252962,7 @@ entity
 				"v" "6446 4191 -608"
 				"v" "6446 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 320.996] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253038,7 +253038,7 @@ entity
 				"v" "6820 4193 -608"
 				"v" "6820 4193 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -459] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253156,7 +253156,7 @@ entity
 				"v" "6826 4191 -608"
 				"v" "6826 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -502.008] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253192,7 +253192,7 @@ entity
 				"v" "6826 4196 -608"
 				"v" "6826 4196 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.9922] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253210,7 +253210,7 @@ entity
 				"v" "6827 4191 -608"
 				"v" "6827 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 313.988] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253274,7 +253274,7 @@ entity
 				"v" "6819 4191 -608"
 				"v" "6819 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -474.008] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253310,7 +253310,7 @@ entity
 				"v" "6819 4196 -608"
 				"v" "6819 4196 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 45.9844] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253328,7 +253328,7 @@ entity
 				"v" "6820 4191 -608"
 				"v" "6820 4191 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 320.996] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253404,7 +253404,7 @@ entity
 				"v" "6826 4007 -608"
 				"v" "6826 4007 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -146.934] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253522,7 +253522,7 @@ entity
 				"v" "6820 4009 -608"
 				"v" "6820 4009 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -189.942] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253558,7 +253558,7 @@ entity
 				"v" "6820 4004 -608"
 				"v" "6820 4004 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 65.1006] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253576,7 +253576,7 @@ entity
 				"v" "6819 4009 -608"
 				"v" "6819 4009 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 -166.12] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253640,7 +253640,7 @@ entity
 				"v" "6827 4009 -608"
 				"v" "6827 4009 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -161.942] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253676,7 +253676,7 @@ entity
 				"v" "6827 4004 -608"
 				"v" "6827 4004 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 14.0928] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253694,7 +253694,7 @@ entity
 				"v" "6826 4009 -608"
 				"v" "6826 4009 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 -159.112] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253770,7 +253770,7 @@ entity
 				"v" "6820 3997 -608"
 				"v" "6820 3997 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -458.934] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253888,7 +253888,7 @@ entity
 				"v" "6826 3995 -608"
 				"v" "6826 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -501.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -253924,7 +253924,7 @@ entity
 				"v" "6826 4000 -608"
 				"v" "6826 4000 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 337.102] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -253942,7 +253942,7 @@ entity
 				"v" "6827 3995 -608"
 				"v" "6827 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -438.121] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254006,7 +254006,7 @@ entity
 				"v" "6819 3995 -608"
 				"v" "6819 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -473.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254042,7 +254042,7 @@ entity
 				"v" "6819 4000 -608"
 				"v" "6819 4000 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 286.094] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254060,7 +254060,7 @@ entity
 				"v" "6820 3995 -608"
 				"v" "6820 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -431.113] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254136,7 +254136,7 @@ entity
 				"v" "6826 3815 -608"
 				"v" "6826 3815 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 365.066] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254254,7 +254254,7 @@ entity
 				"v" "6820 3817 -608"
 				"v" "6820 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 322.059] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254290,7 +254290,7 @@ entity
 				"v" "6820 3812 -608"
 				"v" "6820 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -190.898] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254308,7 +254308,7 @@ entity
 				"v" "6819 3817 -608"
 				"v" "6819 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.8789] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254372,7 +254372,7 @@ entity
 				"v" "6827 3817 -608"
 				"v" "6827 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 350.059] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254408,7 +254408,7 @@ entity
 				"v" "6827 3812 -608"
 				"v" "6827 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -241.906] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254426,7 +254426,7 @@ entity
 				"v" "6826 3817 -608"
 				"v" "6826 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.8867] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254502,7 +254502,7 @@ entity
 				"v" "6584 3815 -608"
 				"v" "6584 3815 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -90.9336] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254620,7 +254620,7 @@ entity
 				"v" "6578 3817 -608"
 				"v" "6578 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -133.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254656,7 +254656,7 @@ entity
 				"v" "6578 3812 -608"
 				"v" "6578 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -190.898] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254674,7 +254674,7 @@ entity
 				"v" "6577 3817 -608"
 				"v" "6577 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.8789] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254738,7 +254738,7 @@ entity
 				"v" "6585 3817 -608"
 				"v" "6585 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -105.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254774,7 +254774,7 @@ entity
 				"v" "6585 3812 -608"
 				"v" "6585 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -241.906] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -254792,7 +254792,7 @@ entity
 				"v" "6584 3817 -608"
 				"v" "6584 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.8867] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254868,7 +254868,7 @@ entity
 				"v" "6570 3815 -608"
 				"v" "6570 3815 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -146.934] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -254986,7 +254986,7 @@ entity
 				"v" "6564 3817 -608"
 				"v" "6564 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -189.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255022,7 +255022,7 @@ entity
 				"v" "6564 3812 -608"
 				"v" "6564 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -190.898] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255040,7 +255040,7 @@ entity
 				"v" "6563 3817 -608"
 				"v" "6563 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.8789] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255104,7 +255104,7 @@ entity
 				"v" "6571 3817 -608"
 				"v" "6571 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -161.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255140,7 +255140,7 @@ entity
 				"v" "6571 3812 -608"
 				"v" "6571 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -241.906] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255158,7 +255158,7 @@ entity
 				"v" "6570 3817 -608"
 				"v" "6570 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.8867] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255234,7 +255234,7 @@ entity
 				"v" "6452 3815 -608"
 				"v" "6452 3815 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -106.934] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255352,7 +255352,7 @@ entity
 				"v" "6446 3817 -608"
 				"v" "6446 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -149.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255388,7 +255388,7 @@ entity
 				"v" "6446 3812 -608"
 				"v" "6446 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -190.898] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255406,7 +255406,7 @@ entity
 				"v" "6445 3817 -608"
 				"v" "6445 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 89.8789] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255470,7 +255470,7 @@ entity
 				"v" "6453 3817 -608"
 				"v" "6453 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -121.941] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255506,7 +255506,7 @@ entity
 				"v" "6453 3812 -608"
 				"v" "6453 3812 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -241.906] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255524,7 +255524,7 @@ entity
 				"v" "6452 3817 -608"
 				"v" "6452 3817 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 96.8867] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255600,7 +255600,7 @@ entity
 				"v" "6578 3997 -608"
 				"v" "6578 3997 -477.801"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -2.93359] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255718,7 +255718,7 @@ entity
 				"v" "6584 3995 -608"
 				"v" "6584 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -45.9414] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255754,7 +255754,7 @@ entity
 				"v" "6584 4000 -608"
 				"v" "6584 4000 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 337.102] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -255772,7 +255772,7 @@ entity
 				"v" "6585 3995 -608"
 				"v" "6585 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -438.121] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255836,7 +255836,7 @@ entity
 				"v" "6577 3995 -608"
 				"v" "6577 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 -17.9414] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255872,7 +255872,7 @@ entity
 				"v" "6577 4000 -608"
 				"v" "6577 4000 -479"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 286.094] 0.25"
 			"vaxis" "[0 0 -1 162] 0.25"
 			"rotation" "0"
@@ -255890,7 +255890,7 @@ entity
 				"v" "6578 3995 -608"
 				"v" "6578 3995 -477"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -431.113] 0.25"
 			"vaxis" "[0 0 -1 251] 0.25"
 			"rotation" "0"
@@ -256756,7 +256756,7 @@ entity
 				"v" "5822 4274 -491"
 				"v" "5822 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 1 -378.008] 0.25"
 			"vaxis" "[1 0 0 450] 0.25"
 			"rotation" "0"
@@ -256774,7 +256774,7 @@ entity
 				"v" "6093 4286 -490"
 				"v" "5822 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 -1 373.996] 0.25"
 			"vaxis" "[1 0 0 450] 0.25"
 			"rotation" "0"
@@ -256792,7 +256792,7 @@ entity
 				"v" "6093 4286 -491"
 				"v" "5822 4286 -491"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 409.992] 0.25"
 			"vaxis" "[1 0 0 450] 0.25"
 			"rotation" "0"
@@ -256874,7 +256874,7 @@ entity
 				"v" "5822 4279 -509"
 				"v" "5822 4279 -491"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 1 -327] 0.25"
 			"vaxis" "[1 0 0 11] 0.25"
 			"rotation" "0"
@@ -256892,7 +256892,7 @@ entity
 				"v" "6093 4281 -491"
 				"v" "5822 4281 -491"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 -1 370] 0.25"
 			"vaxis" "[1 0 0 31] 0.25"
 			"rotation" "0"
@@ -256992,7 +256992,7 @@ entity
 				"v" "5822 4274 -510"
 				"v" "5822 4274 -509"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 1 -342.008] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -257010,7 +257010,7 @@ entity
 				"v" "6093 4286 -509"
 				"v" "5822 4286 -509"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 -1 257.996] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -257028,7 +257028,7 @@ entity
 				"v" "6093 4286 -510"
 				"v" "5822 4286 -510"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 498.004] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -257046,7 +257046,7 @@ entity
 				"v" "6093 4274 -509"
 				"v" "5822 4274 -509"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -10] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -257544,7 +257544,7 @@ entity
 				"v" "5802 4274 -704"
 				"v" "5802 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 9.99219] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -257562,7 +257562,7 @@ entity
 				"v" "5803 4286 -704"
 				"v" "5803 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -94.0039] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -257580,7 +257580,7 @@ entity
 				"v" "5802 4286 -704"
 				"v" "5802 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 498.004] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -257598,7 +257598,7 @@ entity
 				"v" "5803 4274 -704"
 				"v" "5803 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -10] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -257662,7 +257662,7 @@ entity
 				"v" "5803 4279 -704"
 				"v" "5803 4279 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 25] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -257680,7 +257680,7 @@ entity
 				"v" "5821 4281 -704"
 				"v" "5821 4281 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -494] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -257780,7 +257780,7 @@ entity
 				"v" "5821 4274 -704"
 				"v" "5821 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 485.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -257798,7 +257798,7 @@ entity
 				"v" "5822 4286 -704"
 				"v" "5822 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -490.004] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -257816,7 +257816,7 @@ entity
 				"v" "5821 4286 -704"
 				"v" "5821 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 409.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -257834,7 +257834,7 @@ entity
 				"v" "5822 4274 -704"
 				"v" "5822 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -482] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -258332,7 +258332,7 @@ entity
 				"v" "6093 4274 -704"
 				"v" "6093 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 381.992] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258350,7 +258350,7 @@ entity
 				"v" "6094 4286 -704"
 				"v" "6094 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -466.004] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258368,7 +258368,7 @@ entity
 				"v" "6093 4286 -704"
 				"v" "6093 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 498.004] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258386,7 +258386,7 @@ entity
 				"v" "6094 4274 -704"
 				"v" "6094 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -10] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258450,7 +258450,7 @@ entity
 				"v" "6094 4279 -704"
 				"v" "6094 4279 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 397] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -258468,7 +258468,7 @@ entity
 				"v" "6112 4281 -704"
 				"v" "6112 4281 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -354] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -258568,7 +258568,7 @@ entity
 				"v" "6112 4274 -704"
 				"v" "6112 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 345.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -258586,7 +258586,7 @@ entity
 				"v" "6113 4286 -704"
 				"v" "6113 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -350.004] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -258604,7 +258604,7 @@ entity
 				"v" "6112 4286 -704"
 				"v" "6112 4286 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 409.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -258622,7 +258622,7 @@ entity
 				"v" "6113 4274 -704"
 				"v" "6113 4274 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -482] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -258763,7 +258763,7 @@ entity
 				"v" "6093 4856 -704"
 				"v" "6093 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 381.992] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258781,7 +258781,7 @@ entity
 				"v" "6094 4868 -704"
 				"v" "6094 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -466.004] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258799,7 +258799,7 @@ entity
 				"v" "6093 4868 -704"
 				"v" "6093 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 266.004] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258817,7 +258817,7 @@ entity
 				"v" "6094 4856 -704"
 				"v" "6094 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -290] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -258881,7 +258881,7 @@ entity
 				"v" "6094 4861 -704"
 				"v" "6094 4861 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 397] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -258899,7 +258899,7 @@ entity
 				"v" "6112 4863 -704"
 				"v" "6112 4863 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -354] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -258999,7 +258999,7 @@ entity
 				"v" "6112 4856 -704"
 				"v" "6112 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 345.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259017,7 +259017,7 @@ entity
 				"v" "6113 4868 -704"
 				"v" "6113 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -350.004] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259035,7 +259035,7 @@ entity
 				"v" "6112 4868 -704"
 				"v" "6112 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 177.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259053,7 +259053,7 @@ entity
 				"v" "6113 4856 -704"
 				"v" "6113 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -250] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259117,7 +259117,7 @@ entity
 				"v" "5822 4856 -491"
 				"v" "5822 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 1 -378.008] 0.25"
 			"vaxis" "[1 0 0 450] 0.25"
 			"rotation" "0"
@@ -259135,7 +259135,7 @@ entity
 				"v" "6093 4868 -490"
 				"v" "5822 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 -1 373.996] 0.25"
 			"vaxis" "[1 0 0 450] 0.25"
 			"rotation" "0"
@@ -259153,7 +259153,7 @@ entity
 				"v" "6093 4868 -491"
 				"v" "5822 4868 -491"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 177.992] 0.25"
 			"vaxis" "[1 0 0 450] 0.25"
 			"rotation" "0"
@@ -259235,7 +259235,7 @@ entity
 				"v" "5822 4861 -509"
 				"v" "5822 4861 -491"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 1 -327] 0.25"
 			"vaxis" "[1 0 0 11] 0.25"
 			"rotation" "0"
@@ -259253,7 +259253,7 @@ entity
 				"v" "6093 4863 -491"
 				"v" "5822 4863 -491"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 -1 370] 0.25"
 			"vaxis" "[1 0 0 31] 0.25"
 			"rotation" "0"
@@ -259353,7 +259353,7 @@ entity
 				"v" "5822 4856 -510"
 				"v" "5822 4856 -509"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 1 -342.008] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -259371,7 +259371,7 @@ entity
 				"v" "6093 4868 -509"
 				"v" "5822 4868 -509"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 0 -1 257.996] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -259389,7 +259389,7 @@ entity
 				"v" "6093 4868 -510"
 				"v" "5822 4868 -510"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 266.004] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -259407,7 +259407,7 @@ entity
 				"v" "6093 4856 -509"
 				"v" "5822 4856 -509"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -290] 0.25"
 			"vaxis" "[1 0 0 434] 0.25"
 			"rotation" "0"
@@ -259471,7 +259471,7 @@ entity
 				"v" "5802 4856 -704"
 				"v" "5802 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 9.99219] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -259489,7 +259489,7 @@ entity
 				"v" "5803 4868 -704"
 				"v" "5803 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -94.0039] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -259507,7 +259507,7 @@ entity
 				"v" "5802 4868 -704"
 				"v" "5802 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 266.004] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -259525,7 +259525,7 @@ entity
 				"v" "5803 4856 -704"
 				"v" "5803 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -290] 0.25"
 			"vaxis" "[0 0 -1 -42] 0.25"
 			"rotation" "0"
@@ -259589,7 +259589,7 @@ entity
 				"v" "5803 4861 -704"
 				"v" "5803 4861 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 25] 0.25"
 			"vaxis" "[0 0 -1 47] 0.25"
 			"rotation" "0"
@@ -259607,7 +259607,7 @@ entity
 				"v" "5821 4863 -704"
 				"v" "5821 4863 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -494] 0.25"
 			"vaxis" "[0 0 -1 67] 0.25"
 			"rotation" "0"
@@ -259707,7 +259707,7 @@ entity
 				"v" "5821 4856 -704"
 				"v" "5821 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[1 0 0 485.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259725,7 +259725,7 @@ entity
 				"v" "5822 4868 -704"
 				"v" "5822 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[-1 0 0 -490.004] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259743,7 +259743,7 @@ entity
 				"v" "5821 4868 -704"
 				"v" "5821 4868 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 -1 0 177.992] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -259761,7 +259761,7 @@ entity
 				"v" "5822 4856 -704"
 				"v" "5822 4856 -490"
 			}
-			"material" "METAL/METALPIPE003A_CHEAP"
+			"material" "METAL/METALPIPE003A"
 			"uaxis" "[0 1 0 -250] 0.25"
 			"vaxis" "[0 0 -1 -26] 0.25"
 			"rotation" "0"
@@ -267091,7 +267091,7 @@ entity
 				"v" "2376 5328 -600"
 				"v" "2760 5328 -600"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[1 0 0 223.988] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267109,7 +267109,7 @@ entity
 				"v" "2760 6240 -600"
 				"v" "2376 6240 -600"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[-1 0 0 -224.002] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267145,7 +267145,7 @@ entity
 				"v" "2760 5328 -600"
 				"v" "2760 6240 -600"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 1 0 128] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267209,7 +267209,7 @@ entity
 				"v" "2376 5328 -472"
 				"v" "2760 5328 -472"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[1 0 0 223.988] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267227,7 +267227,7 @@ entity
 				"v" "2760 6240 -472"
 				"v" "2376 6240 -472"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[-1 0 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267263,7 +267263,7 @@ entity
 				"v" "2760 5328 -472"
 				"v" "2760 6240 -472"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[0 1 0 128] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267308,7 +267308,7 @@ entity
 				"v" "2376 5600 -472"
 				"v" "2567.59 5600 -422"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[1 0 0 224] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267325,7 +267325,7 @@ entity
 				"v" "2760 6240 -472"
 				"v" "2567.59 6240 -422"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[-1 0 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -352] 0.25"
 			"rotation" "0"
@@ -267455,7 +267455,7 @@ entity
 				"v" "5632 7808 -392"
 				"v" "5632 8192 -392"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -267491,7 +267491,7 @@ entity
 				"v" "4340 7808 -392"
 				"v" "5632 7808 -392"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -267573,7 +267573,7 @@ entity
 				"v" "5632 7808 -520"
 				"v" "5632 8192 -520"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -267609,7 +267609,7 @@ entity
 				"v" "4340 7808 -520"
 				"v" "5632 7808 -520"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -267691,7 +267691,7 @@ entity
 				"v" "5632 7808 -264"
 				"v" "5632 8192 -264"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -267727,7 +267727,7 @@ entity
 				"v" "4340 7808 -264"
 				"v" "5632 7808 -264"
 			}
-			"material" "METAL/METALWALL070E_CHEAP"
+			"material" "METAL/METALWALL070E"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -267789,7 +267789,7 @@ entity
 				"v" "5632 7808 -264"
 				"v" "5632 8000.41 -214"
 			}
-			"material" "METAL/METALWALL070A_CHEAP"
+			"material" "METAL/METALWALL070A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -288593,7 +288593,7 @@ entity
 				"v" "6460 4312 -348"
 				"v" "6460 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.193784 -0.981044 153.961] 0.2"
 			"vaxis" "[0 -0.981044 0.193784 296.595] 0.2"
 			"rotation" "0"
@@ -288629,7 +288629,7 @@ entity
 				"v" "6460 4312 -348"
 				"v" "6444 4312 -348"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.646] 0.2"
 			"rotation" "0"
@@ -288665,7 +288665,7 @@ entity
 				"v" "6460 4960 -476"
 				"v" "6444 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -288683,7 +288683,7 @@ entity
 				"v" "6444 4960 -480"
 				"v" "6444 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -288711,7 +288711,7 @@ entity
 				"v" "6460 3664 -480"
 				"v" "6460 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.193786 -0.981044 475.934] 0.15"
 			"vaxis" "[0 -0.981043 -0.193786 -503.139] 0.15"
 			"rotation" "0"
@@ -288747,7 +288747,7 @@ entity
 				"v" "6460 3664 -476"
 				"v" "6444 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 -0.193787 -377.734] 0.2"
 			"rotation" "0"
@@ -288765,7 +288765,7 @@ entity
 				"v" "6460 4312 -352"
 				"v" "6444 4312 -352"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -390] 0.2"
 			"rotation" "0"
@@ -288783,7 +288783,7 @@ entity
 				"v" "6444 3664 -480"
 				"v" "6444 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -288801,7 +288801,7 @@ entity
 				"v" "6444 4312 -348"
 				"v" "6444 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -288841,7 +288841,7 @@ entity
 				"v" "4996 4396 -268.593"
 				"v" "4996 4396 -264.594"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.193786 0.981044 -319.386] 0.15"
 			"vaxis" "[0 -0.981043 0.193786 266.804] 0.15"
 			"rotation" "0"
@@ -288859,7 +288859,7 @@ entity
 				"v" "6460 4312 -248"
 				"v" "6460 4396 -264.594"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.193786 -0.981044 210.518] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 -486.901] 0.2"
 			"rotation" "0"
@@ -288895,7 +288895,7 @@ entity
 				"v" "6460 4396 -264.593"
 				"v" "6460 4312 -248"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 315.719] 0.2"
 			"rotation" "0"
@@ -288913,7 +288913,7 @@ entity
 				"v" "6460 4312 -252"
 				"v" "6460 4396 -268.593"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.981043 0.19379 -331.064] 0.2"
 			"rotation" "0"
@@ -288931,7 +288931,7 @@ entity
 				"v" "6460 4396 -268.593"
 				"v" "6460 4396 -264.593"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0 1 -213.033] 0.2"
 			"rotation" "0"
@@ -290533,7 +290533,7 @@ entity
 				"v" "6460 4220 -270.173"
 				"v" "6460 4220 -266.176"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.193786 -0.981044 105.963] 0.15"
 			"vaxis" "[0 -0.981043 -0.193786 -373.948] 0.15"
 			"rotation" "0"
@@ -290587,7 +290587,7 @@ entity
 				"v" "6460 4312 -252"
 				"v" "6372 4312 -252"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.980918 0.194424 -487.212] 0.2"
 			"rotation" "0"
@@ -290623,7 +290623,7 @@ entity
 				"v" "6372 4312 -248"
 				"v" "6372 4220 -266.179"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -290687,7 +290687,7 @@ entity
 				"v" "4996 4220 -270.173"
 				"v" "5120 4220 -270.173"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 41.5391] 0.2"
 			"vaxis" "[0 -0.981043 -0.193787 -165.095] 0.2"
 			"rotation" "0"
@@ -290705,7 +290705,7 @@ entity
 				"v" "4996 4312 -248"
 				"v" "4996 4220 -266.179"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.193796 0.981042 443.719] 0.2"
 			"vaxis" "[0 -0.981042 -0.193796 -164.933] 0.2"
 			"rotation" "0"
@@ -290841,7 +290841,7 @@ entity
 				"v" "6372 4220 -270.173"
 				"v" "6372 4220 -266.176"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -291018,7 +291018,7 @@ entity
 				"v" "4992 4312 -348"
 				"v" "4992 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.193786 0.981044 382.045] 0.2"
 			"vaxis" "[0 -0.981044 -0.193786 -40.3911] 0.2"
 			"rotation" "0"
@@ -291054,7 +291054,7 @@ entity
 				"v" "4992 4312 -348"
 				"v" "5004 4312 -348"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981 -0.1938 -377.733] 0.2"
 			"rotation" "0"
@@ -291090,7 +291090,7 @@ entity
 				"v" "4992 3664 -476"
 				"v" "5004 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -291108,7 +291108,7 @@ entity
 				"v" "5004 3664 -480"
 				"v" "5004 3664 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -291154,7 +291154,7 @@ entity
 				"v" "4992 4960 -476"
 				"v" "5004 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.647] 0.2"
 			"rotation" "0"
@@ -291172,7 +291172,7 @@ entity
 				"v" "4992 4312 -352"
 				"v" "5004 4312 -352"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 435.396] 0.2"
 			"vaxis" "[0 -0.981043 0.193787 296.613] 0.2"
 			"rotation" "0"
@@ -291190,7 +291190,7 @@ entity
 				"v" "4992 4960 -480"
 				"v" "4992 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.193786 0.981044 159.99] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.654] 0.2"
 			"rotation" "0"
@@ -291208,7 +291208,7 @@ entity
 				"v" "5004 4960 -476"
 				"v" "4992 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -298634,7 +298634,7 @@ entity
 				"v" "3648 6072 -742"
 				"v" "3648 6072 -738"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 -97.0551] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -244.719] 0.25"
 			"rotation" "0"
@@ -298652,7 +298652,7 @@ entity
 				"v" "3392 6216 -690"
 				"v" "3392 6072 -738"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 -161.053] 0.25"
 			"vaxis" "[0.316228 0.9 0.3 83.671] 0.25"
 			"rotation" "0"
@@ -298670,7 +298670,7 @@ entity
 				"v" "3648 6216 -694"
 				"v" "3648 6216 -690"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.600001 0.799999 -201.579] 0.25"
 			"rotation" "0"
@@ -298688,7 +298688,7 @@ entity
 				"v" "3648 6216 -690"
 				"v" "3648 6072 -738"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -244.733] 0.25"
 			"rotation" "0"
@@ -298706,7 +298706,7 @@ entity
 				"v" "3648 6072 -742"
 				"v" "3648 6216 -694"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -96.8281] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -244.718] 0.25"
 			"rotation" "0"
@@ -298752,7 +298752,7 @@ entity
 				"v" "2972 6408 -480"
 				"v" "2972 6408 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 -103.843] 0.25"
 			"vaxis" "[0.316228 0.9 0.3 159.671] 0.25"
 			"rotation" "0"
@@ -298770,7 +298770,7 @@ entity
 				"v" "2972 6216 -540"
 				"v" "3632 6216 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 0 -1 -246.453] 0.25"
 			"rotation" "0"
@@ -298806,7 +298806,7 @@ entity
 				"v" "2972 6408 -476"
 				"v" "3632 6408 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -269] 0.25"
 			"rotation" "0"
@@ -298842,7 +298842,7 @@ entity
 				"v" "3632 6216 -544"
 				"v" "3632 6216 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -298870,7 +298870,7 @@ entity
 				"v" "3648 6216 -544"
 				"v" "3648 6216 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 472.155] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -269.439] 0.25"
 			"rotation" "0"
@@ -298888,7 +298888,7 @@ entity
 				"v" "3632 6216 -544"
 				"v" "3632 6216 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 0 -1 -246.453] 0.25"
 			"rotation" "0"
@@ -298924,7 +298924,7 @@ entity
 				"v" "3648 6216 -540"
 				"v" "3632 6216 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -269] 0.25"
 			"rotation" "0"
@@ -298942,7 +298942,7 @@ entity
 				"v" "3648 6408 -480"
 				"v" "3632 6408 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -96.8281] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -269.438] 0.25"
 			"rotation" "0"
@@ -298960,7 +298960,7 @@ entity
 				"v" "3632 6408 -480"
 				"v" "3632 6408 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -299042,7 +299042,7 @@ entity
 				"v" "2972 6600 -540"
 				"v" "3632 6600 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 0.316228 423.199] 0.25"
 			"rotation" "0"
@@ -299106,7 +299106,7 @@ entity
 				"v" "3648 6408 -480"
 				"v" "3648 6408 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.316228 -0.948683 235.254] 0.25"
 			"vaxis" "[-0.316228 -0.9 0.3 -357.843] 0.25"
 			"rotation" "0"
@@ -299160,7 +299160,7 @@ entity
 				"v" "3648 6408 -476"
 				"v" "3632 6408 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 0.316228 423.199] 0.25"
 			"rotation" "0"
@@ -299178,7 +299178,7 @@ entity
 				"v" "3648 6600 -544"
 				"v" "3632 6600 -544"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -192.824] 0.25"
 			"vaxis" "[0 -0.8 0.6 -293.317] 0.25"
 			"rotation" "0"
@@ -299224,7 +299224,7 @@ entity
 				"v" "2972 6792 -480"
 				"v" "2972 6792 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 -77.5696] 0.25"
 			"vaxis" "[0.316228 0.9 0.3 313.271] 0.25"
 			"rotation" "0"
@@ -299278,7 +299278,7 @@ entity
 				"v" "2972 6792 -476"
 				"v" "3632 6792 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -430.904] 0.25"
 			"rotation" "0"
@@ -299314,7 +299314,7 @@ entity
 				"v" "3632 6600 -544"
 				"v" "3632 6600 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -299342,7 +299342,7 @@ entity
 				"v" "3648 6600 -544"
 				"v" "3648 6600 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 -13.5712] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -348.262] 0.25"
 			"rotation" "0"
@@ -299396,7 +299396,7 @@ entity
 				"v" "3648 6600 -540"
 				"v" "3632 6600 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -430.904] 0.25"
 			"rotation" "0"
@@ -299414,7 +299414,7 @@ entity
 				"v" "3648 6792 -480"
 				"v" "3632 6792 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -96.8281] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -348.261] 0.25"
 			"rotation" "0"
@@ -299432,7 +299432,7 @@ entity
 				"v" "3632 6792 -480"
 				"v" "3632 6792 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -299514,7 +299514,7 @@ entity
 				"v" "2972 6984 -540"
 				"v" "3632 6984 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 0.316228 261.295] 0.25"
 			"rotation" "0"
@@ -299578,7 +299578,7 @@ entity
 				"v" "3648 6792 -480"
 				"v" "3648 6792 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.316228 -0.948683 -303.02] 0.25"
 			"vaxis" "[-0.316228 -0.9 0.3 -511.443] 0.25"
 			"rotation" "0"
@@ -299632,7 +299632,7 @@ entity
 				"v" "3648 6792 -476"
 				"v" "3632 6792 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 0.316228 261.295] 0.25"
 			"rotation" "0"
@@ -299650,7 +299650,7 @@ entity
 				"v" "3648 6984 -544"
 				"v" "3632 6984 -544"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -192.824] 0.25"
 			"vaxis" "[0 -0.8 0.6 -88.518] 0.25"
 			"rotation" "0"
@@ -299696,7 +299696,7 @@ entity
 				"v" "2972 7176 -480"
 				"v" "2972 7176 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 -51.2956] 0.25"
 			"vaxis" "[0.316228 0.9 0.3 466.871] 0.25"
 			"rotation" "0"
@@ -299750,7 +299750,7 @@ entity
 				"v" "2972 7176 -476"
 				"v" "3632 7176 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -80.8079] 0.25"
 			"rotation" "0"
@@ -299786,7 +299786,7 @@ entity
 				"v" "3632 6984 -544"
 				"v" "3632 6984 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -299814,7 +299814,7 @@ entity
 				"v" "3648 6984 -544"
 				"v" "3648 6984 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.316228 -0.948683 12.7031] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 84.9152] 0.25"
 			"rotation" "0"
@@ -299868,7 +299868,7 @@ entity
 				"v" "3648 6984 -540"
 				"v" "3632 6984 -540"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 400] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 -80.8079] 0.25"
 			"rotation" "0"
@@ -299886,7 +299886,7 @@ entity
 				"v" "3648 7176 -480"
 				"v" "3632 7176 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -96.8281] 0.25"
 			"vaxis" "[0 -0.948683 -0.316228 84.9152] 0.25"
 			"rotation" "0"
@@ -299904,7 +299904,7 @@ entity
 				"v" "3632 7176 -480"
 				"v" "3632 7176 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -300050,7 +300050,7 @@ entity
 				"v" "3648 7176 -480"
 				"v" "3648 7176 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.316228 -0.948683 182.706] 0.25"
 			"vaxis" "[-0.316228 -0.9 0.3 -153.044] 0.25"
 			"rotation" "0"
@@ -300122,7 +300122,7 @@ entity
 				"v" "3648 7368 -544"
 				"v" "3632 7368 -544"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 -192.824] 0.25"
 			"vaxis" "[0 -0.8 0.6 116.282] 0.25"
 			"rotation" "0"
@@ -300558,7 +300558,7 @@ entity
 				"v" "6444 4220 -481.544"
 				"v" "6444 4204 -476.538"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.309007 0.95106 -424.134] 0.25"
 			"vaxis" "[0 -0.95106 0.309007 -148.955] 0.25"
 			"rotation" "0"
@@ -300576,7 +300576,7 @@ entity
 				"v" "6844 4204 -476.536"
 				"v" "6844 4220 -481.542"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.309007 -0.95106 327.152] 0.2"
 			"vaxis" "[0 -0.95106 0.309007 -199.266] 0.2"
 			"rotation" "0"
@@ -300594,7 +300594,7 @@ entity
 				"v" "6844 4204 -480.742"
 				"v" "6844 4220 -485.748"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 -0.9509 0.3096 396] 0.2"
 			"rotation" "0"
@@ -300612,7 +300612,7 @@ entity
 				"v" "6844 4220 -481.543"
 				"v" "6844 4204 -476.537"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0.58564 -0.810571 -440.646] 0.2"
 			"rotation" "0"
@@ -300630,7 +300630,7 @@ entity
 				"v" "6844 4220 -485.748"
 				"v" "6844 4220 -481.544"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 -0.588852 -0.808241 -229.264] 0.2"
 			"rotation" "0"
@@ -300648,7 +300648,7 @@ entity
 				"v" "6444 4204 -480.743"
 				"v" "6444 4204 -476.538"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -300688,7 +300688,7 @@ entity
 				"v" "6844 4004 -413.962"
 				"v" "6844 4204 -476.538"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.309007 -0.95106 327.152] 0.2"
 			"vaxis" "[0 -0.95106 0.309007 -199.266] 0.2"
 			"rotation" "0"
@@ -300706,7 +300706,7 @@ entity
 				"v" "6844 4204 -480.741"
 				"v" "6830 4204 -480.741"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 -0.950852 0.309644 396] 0.2"
 			"rotation" "0"
@@ -300724,7 +300724,7 @@ entity
 				"v" "6844 4004 -413.963"
 				"v" "6830 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0.58564 -0.810571 -440.646] 0.2"
 			"rotation" "0"
@@ -300742,7 +300742,7 @@ entity
 				"v" "6830 4004 -418.166"
 				"v" "6830 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -300760,7 +300760,7 @@ entity
 				"v" "6844 4204 -476.538"
 				"v" "6830 4204 -476.538"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -300778,7 +300778,7 @@ entity
 				"v" "6830 4204 -476.539"
 				"v" "6830 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -300806,7 +300806,7 @@ entity
 				"v" "6844 3804 -476.537"
 				"v" "6844 4004 -413.963"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.298601 0.954378 -509.619] 0.2"
 			"vaxis" "[0 0.954377 0.298601 -406.995] 0.2"
 			"rotation" "0"
@@ -300824,7 +300824,7 @@ entity
 				"v" "6830 4004 -418.168"
 				"v" "6830 3804 -480.742"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -235] 0.2"
 			"vaxis" "[0 0.950852 0.309644 -300.113] 0.2"
 			"rotation" "0"
@@ -300842,7 +300842,7 @@ entity
 				"v" "6844 4004 -413.962"
 				"v" "6844 3804 -476.537"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 157] 0.2"
 			"vaxis" "[0 0.954378 0.298601 -406.998] 0.2"
 			"rotation" "0"
@@ -300860,7 +300860,7 @@ entity
 				"v" "6844 4004 -413.962"
 				"v" "6830 4004 -413.962"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 416] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -300878,7 +300878,7 @@ entity
 				"v" "6830 4004 -413.961"
 				"v" "6830 3804 -476.536"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -357912,7 +357912,7 @@ entity
 				"v" "6180 4078 -476"
 				"v" "6180 3820 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0 1 489.323] 0.15"
 			"vaxis" "[0 -1 0 469] 0.15"
 			"rotation" "0"
@@ -357948,7 +357948,7 @@ entity
 				"v" "6436 3820 -480"
 				"v" "6436 4078 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 1 0 -262.473] 0.15"
 			"rotation" "0"
@@ -357984,7 +357984,7 @@ entity
 				"v" "6180 3820 -480"
 				"v" "6180 3820 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 0 -1 500.188] 0.15"
 			"rotation" "0"
@@ -358002,7 +358002,7 @@ entity
 				"v" "6436 4078 -480"
 				"v" "6436 4078 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358030,7 +358030,7 @@ entity
 				"v" "6180 4141 -476"
 				"v" "6180 4078 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0 1 489.323] 0.15"
 			"vaxis" "[0 -1 0 469] 0.15"
 			"rotation" "0"
@@ -358048,7 +358048,7 @@ entity
 				"v" "6180 4078 -480"
 				"v" "6278 4078 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 1 0 -262.473] 0.15"
 			"rotation" "0"
@@ -358084,7 +358084,7 @@ entity
 				"v" "6278 4141 -480"
 				"v" "6278 4141 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358102,7 +358102,7 @@ entity
 				"v" "6180 4078 -476"
 				"v" "6278 4078 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358120,7 +358120,7 @@ entity
 				"v" "6278 4078 -476"
 				"v" "6278 4141 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358148,7 +358148,7 @@ entity
 				"v" "6180 4304 -476"
 				"v" "6180 4141 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0 1 489.323] 0.15"
 			"vaxis" "[0 -1 0 469] 0.15"
 			"rotation" "0"
@@ -358184,7 +358184,7 @@ entity
 				"v" "6436 4141 -480"
 				"v" "6436 4304 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 1 0 -262.473] 0.15"
 			"rotation" "0"
@@ -358220,7 +358220,7 @@ entity
 				"v" "6436 4304 -480"
 				"v" "6436 4304 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 148] 0.15"
 			"vaxis" "[0 0 1 -474.991] 0.15"
 			"rotation" "0"
@@ -358238,7 +358238,7 @@ entity
 				"v" "6180 4141 -480"
 				"v" "6180 4141 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358284,7 +358284,7 @@ entity
 				"v" "6436 4141 -480"
 				"v" "6338 4141 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 72] 0.15"
 			"vaxis" "[0 1 0 -262.473] 0.15"
 			"rotation" "0"
@@ -358320,7 +358320,7 @@ entity
 				"v" "6436 4141 -476"
 				"v" "6338 4141 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358338,7 +358338,7 @@ entity
 				"v" "6338 4078 -480"
 				"v" "6338 4078 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358356,7 +358356,7 @@ entity
 				"v" "6338 4141 -476"
 				"v" "6338 4078 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -358811,7 +358811,7 @@ entity
 				"v" "4992 4977 -476"
 				"v" "4992 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 0.193786 0.981044 159.99] 0.2"
 			"vaxis" "[0 -0.981044 0.193786 296.654] 0.2"
 			"rotation" "0"
@@ -358829,7 +358829,7 @@ entity
 				"v" "6460 4960 -476"
 				"v" "6460 4977 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[0 -0.193784 -0.981044 153.961] 0.2"
 			"vaxis" "[0 -0.981044 0.193784 296.595] 0.2"
 			"rotation" "0"
@@ -358847,7 +358847,7 @@ entity
 				"v" "6460 4960 -480"
 				"v" "6460 4977 -480"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 1 0 -332.443] 0.2"
 			"rotation" "0"
@@ -358865,7 +358865,7 @@ entity
 				"v" "6460 4977 -476"
 				"v" "6460 4960 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 -1 0 305.546] 0.2"
 			"rotation" "0"
@@ -358883,7 +358883,7 @@ entity
 				"v" "6460 4977 -480"
 				"v" "6460 4977 -476"
 			}
-			"material" "METAL/METALROOF008A_CHEAP"
+			"material" "METAL/METALROOF008A_25"
 			"uaxis" "[1 0 0 -313] 0.2"
 			"vaxis" "[0 0 1 -183.447] 0.2"
 			"rotation" "0"
