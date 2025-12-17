@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "2843"
+	"mapversion" "2844"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "8"
+	"nGridSpacing" "2"
 }
 palette_plus
 {
@@ -173,7 +173,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "2843"
+	"mapversion" "2844"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -180483,7 +180483,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_wasteland/prison_cagedlight001a.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "5948 4112 -325"
 	editor
 	{
@@ -180492,6 +180492,7 @@ entity
 		"visgroupid" "9"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "too high to hit head"
 		"logicalpos" "[0 13000]"
 	}
 }
@@ -180529,7 +180530,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_wasteland/prison_cagedlight001a.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "6140 4112 -325"
 	editor
 	{
@@ -180538,6 +180539,7 @@ entity
 		"visgroupid" "9"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "too high to hit head"
 		"logicalpos" "[0 14000]"
 	}
 }
@@ -180601,7 +180603,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_wasteland/prison_cagedlight001a.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "5768 4264 -453"
 	editor
 	{
@@ -180610,6 +180612,7 @@ entity
 		"visgroupid" "9"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "too high to hit head"
 		"logicalpos" "[0 15500]"
 	}
 }
@@ -180673,7 +180676,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_wasteland/prison_cagedlight001a.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "5768 3944 -453"
 	editor
 	{
@@ -180682,6 +180685,7 @@ entity
 		"visgroupid" "9"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "too high to hit head"
 		"logicalpos" "[0 -15768]"
 	}
 }
@@ -220722,7 +220726,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5738 4234.2 -470.147"
 	editor
 	{
@@ -221041,7 +221045,7 @@ entity
 entity
 {
 	"id" "204738"
-	"classname" "func_detail_illusionary"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "204733"
@@ -221171,7 +221175,7 @@ entity
 entity
 {
 	"id" "205083"
-	"classname" "func_detail_illusionary"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "205084"
@@ -221309,7 +221313,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5738 4426.2 -470.147"
 	editor
 	{
@@ -221345,7 +221349,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5737 4108.2 -478.147"
 	editor
 	{
@@ -221367,7 +221371,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5737 4364.2 -478.147"
 	editor
 	{
@@ -221389,7 +221393,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5797 4110.2 -478.147"
 	editor
 	{
@@ -221411,7 +221415,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5797 4364.2 -478.147"
 	editor
 	{
@@ -221433,7 +221437,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "5767 4235.2 -507.147"
 	editor
 	{
@@ -221860,7 +221864,7 @@ entity
 entity
 {
 	"id" "218807"
-	"classname" "func_detail_illusionary"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "218808"
@@ -221990,7 +221994,7 @@ entity
 entity
 {
 	"id" "219554"
-	"classname" "func_detail_illusionary"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "219555"
@@ -222128,7 +222132,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_vents/vent_large_grill001.mdl"
 	"skin" "1"
-	"solid" "0"
+	"solid" "2"
 	"origin" "6204 4079.2 -352.147"
 	editor
 	{
@@ -334132,7 +334136,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props_lab/powerbox01a.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "7142 6117 -249"
 	editor
 	{
@@ -334140,6 +334144,7 @@ entity
 		"visgroupid" "9"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Bored enough players could boost up here, so giving some simple collision."
 		"logicalpos" "[10500 14000]"
 	}
 }
@@ -371471,8 +371476,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[5738.79 4389.11 -435.355]"
-		"look" "[5871.45 4176.78 -555.306]"
+		"position" "[4770.08 4877.01 -253.895]"
+		"look" "[4981.31 4971.06 -407.519]"
 	}
 }
 cordons
