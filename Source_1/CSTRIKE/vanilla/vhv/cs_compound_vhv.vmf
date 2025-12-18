@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3119"
+	"mapversion" "3122"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -119,7 +119,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3119"
+	"mapversion" "3122"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -85157,17 +85157,17 @@ entity
 {
 	"id" "1692775"
 	"classname" "sky_camera"
-	"angles" "0 108 0"
+	"angles" "0 0 0"
 	"fogblend" "1"
 	"fogcolor" "223 216 173"
 	"fogcolor2" "106 108 115"
-	"fogdir" "1 0 0"
+	"fogdir" "0 0 0"
 	"fogenable" "1"
-	"fogend" "18000"
-	"fogradial" "0"
-	"fogstart" "3000"
+	"fogend" "25000"
+	"fogradial" "1"
+	"fogstart" "-2300"
 	"scale" "16"
-	"use_angles" "1"
+	"use_angles" "0"
 	"origin" "1800 -10383.3 -14319"
 	editor
 	{
@@ -86322,6 +86322,7 @@ entity
 	"fogenable" "1"
 	"fogend" "18000"
 	"fogmaxdensity" "1"
+	"fogradial" "1"
 	"fogstart" "3000"
 	"use_angles" "1"
 	"origin" "3072 512 64"
@@ -163113,8 +163114,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1619.91 -10134.8 -13943.7]"
-		"look" "[2067.13 -10554.7 -14327.1]"
+		"position" "[3089.06 518.996 105.005]"
+		"look" "[2826.28 367.283 -551.675]"
 	}
 	camera
 	{
