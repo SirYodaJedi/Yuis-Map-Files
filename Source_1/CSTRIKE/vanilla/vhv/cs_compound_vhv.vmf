@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3158"
+	"mapversion" "3159"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -137,7 +137,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3158"
+	"mapversion" "3159"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -88804,9 +88804,16 @@ entity
 entity
 {
 	"id" "1737076"
-	"classname" "water_lod_control"
-	"cheapwaterenddistance" "3000"
-	"cheapwaterstartdistance" "2000"
+	"classname" "env_wind"
+	"angles" "0 0 0"
+	"gustdirchange" "20"
+	"gustduration" "5"
+	"maxgust" "0"
+	"maxgustdelay" "20"
+	"maxwind" "0"
+	"mingust" "0"
+	"mingustdelay" "10"
+	"minwind" "0"
 	"origin" "3008 512 64"
 	editor
 	{
@@ -88814,6 +88821,7 @@ entity
 		"visgroupid" "2"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "This used to be a water_lod_control with the transition distance set to 2K start 3K end. Changed to something a bit more useful: a dummy env_wind to disable sway if a previous map had an env_wind."
 		"logicalpos" "[1500 -4268]"
 	}
 }
@@ -166467,8 +166475,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1809.18 -10.1121 134.283]"
-		"look" "[2438.76 142.207 -187.257]"
+		"position" "[2892.17 393.4 215.352]"
+		"look" "[3172.05 827.705 -290.614]"
 	}
 	camera
 	{
