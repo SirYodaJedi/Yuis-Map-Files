@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3157"
+	"mapversion" "3158"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -137,7 +137,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3157"
+	"mapversion" "3158"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -82242,7 +82242,7 @@ entity
 	"id" "1667152"
 	"classname" "prop_static"
 	"angles" "-11.5 180 0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"fademaxdist" "1500"
 	"fademindist" "1000"
 	"fadescale" "1"
@@ -82265,7 +82265,7 @@ entity
 	"id" "1667156"
 	"classname" "prop_static"
 	"angles" "-11.5 186 0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"fademaxdist" "1500"
 	"fademindist" "1000"
 	"fadescale" "1"
@@ -166393,6 +166393,70 @@ hidden
 		}
 	}
 }
+entity
+{
+	"id" "2094679"
+	"classname" "editor_text"
+	"angles" "90 -0 0"
+	"color" "255 255 255"
+	"message" "I am too shiny!"
+	"textsize" "25"
+	"origin" "1843 189 8.00002"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Isn't loading the specular mask, for some reason."
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "2094691"
+	"classname" "env_cubemap"
+	"cubemapsize" "7"
+	"origin" "2163.5 495 62"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "2094704"
+	"classname" "env_cubemap"
+	"cubemapsize" "7"
+	"origin" "1933.68 102 51"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3000 16000]"
+	}
+}
+entity
+{
+	"id" "2094708"
+	"classname" "editor_text"
+	"angles" "90 -0 0"
+	"color" "255 255 255"
+	"message" "I'm not shiny enough!"
+	"textsize" "25"
+	"origin" "2090 244 8.00002"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Seems to not be loading cubemap at all?"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -166403,8 +166467,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1425.69 233.866 448.01]"
-		"look" "[1553.64 -436.989 210.188]"
+		"position" "[1809.18 -10.1121 134.283]"
+		"look" "[2438.76 142.207 -187.257]"
 	}
 	camera
 	{
