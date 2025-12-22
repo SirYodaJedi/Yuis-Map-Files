@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "2868"
+	"mapversion" "2869"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -179,7 +179,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "2868"
+	"mapversion" "2869"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -220463,6 +220463,7 @@ entity
 	"classname" "hostage_entity"
 	"angles" "0 111 0"
 	"HostageType" "0"
+	"model" "models/characters/hostage_01.mdl"
 	"origin" "6718.36 3895.25 -599"
 	editor
 	{
@@ -220477,7 +220478,8 @@ entity
 	"id" "97325"
 	"classname" "hostage_entity"
 	"angles" "0 100 0"
-	"HostageType" "0"
+	"HostageType" "1"
+	"model" "models/characters/hostage_02.mdl"
 	"origin" "6639.38 3889.91 -599"
 	editor
 	{
@@ -220492,7 +220494,8 @@ entity
 	"id" "97750"
 	"classname" "hostage_entity"
 	"angles" "0 100 0"
-	"HostageType" "0"
+	"HostageType" "2"
+	"model" "models/characters/hostage_03.mdl"
 	"origin" "6482.55 3839.5 -599"
 	editor
 	{
@@ -220507,7 +220510,8 @@ entity
 	"id" "97752"
 	"classname" "hostage_entity"
 	"angles" "0 111 0"
-	"HostageType" "0"
+	"HostageType" "3"
+	"model" "models/characters/hostage_04.mdl"
 	"origin" "6537.53 3836.84 -599"
 	editor
 	{
@@ -372008,7 +372012,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 243 240"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -372126,7 +372130,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 243 240"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -372244,14 +372248,14 @@ entity
 		}
 		editor
 		{
-			"color" "0 243 240"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "0 243 240"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 12500]"
@@ -372684,7 +372688,7 @@ entity
 	"origin" "7232 4896 -276"
 	editor
 	{
-		"color" "0 251 224"
+		"color" "255 255 0"
 		"visgroupid" "9"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -373093,8 +373097,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[5334.51 5059.26 -742.033]"
-		"look" "[5335.49 4918.8 -981.448]"
+		"position" "[6552.18 3994.01 -541.391]"
+		"look" "[6581.15 3718.39 -556.886]"
 	}
 }
 cordons
