@@ -149862,7 +149862,7 @@ entity
 		"visgroupid" "2"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"comments" "TODO - change to clip or blockbullets after switching the smokestack to a static prop."
+		"comments" "Originally nodraw, back when the smokestack was a giant phys prop."
 		"logicalpos" "[4500 -6768]"
 	}
 }
@@ -166106,7 +166106,7 @@ entity
 		"visgroupid" "198"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"comments" "Proppered from some immovable phys props. TODO - subdivide?"
+		"comments" "Proppered from some immovable phys props. Somehow looks okay even without subdivision."
 		"logicalpos" "[0 1500]"
 	}
 }
