@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3177"
+	"mapversion" "3178"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -161,7 +161,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3177"
+	"mapversion" "3178"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -57944,7 +57944,7 @@ entity
 entity
 {
 	"id" "1934819"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 84.5 360"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -97443,7 +97443,7 @@ entity
 entity
 {
 	"id" "1806211"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "89.5529 76.1739 -88.8302"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -97547,7 +97547,7 @@ entity
 entity
 {
 	"id" "1816394"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0.261216 269.853 -0.0397963"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -128934,7 +128934,7 @@ entity
 entity
 {
 	"id" "1916856"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 0 0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -128973,7 +128973,7 @@ entity
 entity
 {
 	"id" "1916860"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 0 0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -148071,7 +148071,7 @@ entity
 entity
 {
 	"id" "1971677"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "-0.009162 179.553 -0.00406077"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -148498,7 +148498,7 @@ entity
 entity
 {
 	"id" "1985040"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 314.5 0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -150548,7 +150548,7 @@ entity
 entity
 {
 	"id" "2003121"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0.261216 85.353 -0.0397963"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -150581,7 +150581,7 @@ entity
 entity
 {
 	"id" "2003217"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 4.5 0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -166120,8 +166120,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[2614.28 -525.551 124.72]"
-		"look" "[2026.42 -533.768 -296.191]"
+		"position" "[1559.08 -822.202 47.9513]"
+		"look" "[1115.14 -480.322 -409.04]"
 	}
 	camera
 	{
