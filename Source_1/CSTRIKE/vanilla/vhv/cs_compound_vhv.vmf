@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3196"
+	"mapversion" "3200"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -92,7 +92,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "2"
+	"nGridSpacing" "1"
 }
 palette_plus
 {
@@ -167,7 +167,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3196"
+	"mapversion" "3200"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -118870,9 +118870,9 @@ entity
 				"v" "2480 -682 128"
 			}
 			"material" "METAL/METALTRACK001A"
-			"uaxis" "[1 0 0 -182] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
+			"uaxis" "[0 0.707071 -0.707071 -476.285] 0.25"
+			"vaxis" "[-1 0 -0 -23] 0.25"
+			"rotation" "180"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
@@ -119006,9 +119006,9 @@ entity
 				"v" "2418 -674 120"
 			}
 			"material" "METAL/METALTRACK001A"
-			"uaxis" "[1 0 0 66] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
+			"uaxis" "[0 0.2425 0.9701 429.58] 0.25"
+			"vaxis" "[1 0 0 -24] 0.25"
+			"rotation" "180"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
@@ -159961,6 +159961,7 @@ entity
 		"visgroupid" "10"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - %alphatexture, so that this doesn't need to be an entity"
 		"logicalpos" "[6000 -14268]"
 	}
 }
@@ -167097,8 +167098,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[2438.61 -692.373 145.002]"
-		"look" "[3112.97 -499.017 -29.9011]"
+		"position" "[2439.28 -640.396 382.639]"
+		"look" "[1809.84 -792.68 704.109]"
 	}
 	camera
 	{
