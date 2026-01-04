@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3207"
+	"mapversion" "3209"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -173,7 +173,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3207"
+	"mapversion" "3209"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -128310,7 +128310,7 @@ entity
 entity
 {
 	"id" "1931149"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 83.5 0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -146636,7 +146636,7 @@ entity
 entity
 {
 	"id" "1984884"
-	"classname" "prop_physics_multiplayer"
+	"classname" "prop_physics"
 	"angles" "0 128.5 0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
@@ -167312,8 +167312,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1909.84 2224.67 178.255]"
-		"look" "[1190.02 2209.6 243.778]"
+		"position" "[1879.41 -799.434 90.3283]"
+		"look" "[1415.3 -1089.44 -382.063]"
 	}
 	camera
 	{
