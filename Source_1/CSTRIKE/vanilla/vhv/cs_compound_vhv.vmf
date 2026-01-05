@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3210"
+	"mapversion" "3212"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -173,7 +173,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3210"
+	"mapversion" "3212"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -3371,10 +3371,10 @@ world
 				"v" "1824 -896 528"
 			}
 			"material" "PROPS/RUBBERROOF002A"
-			"uaxis" "[1 0 0 -240] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"uaxis" "[1 0 0 -240] 1"
+			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -3490,10 +3490,10 @@ world
 				"v" "2176 -896 528"
 			}
 			"material" "PROPS/RUBBERROOF002A"
-			"uaxis" "[1 0 0 -240] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"uaxis" "[1 0 0 -240] 1"
+			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -3609,10 +3609,10 @@ world
 				"v" "2176 -240 528"
 			}
 			"material" "PROPS/RUBBERROOF002A"
-			"uaxis" "[1 0 0 -240] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"uaxis" "[1 0 0 -240] 1"
+			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -3728,10 +3728,10 @@ world
 				"v" "1824 -240 528"
 			}
 			"material" "PROPS/RUBBERROOF002A"
-			"uaxis" "[1 0 0 -240] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"uaxis" "[1 0 0 -240] 1"
+			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -26657,7 +26657,7 @@ world
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -26776,7 +26776,7 @@ world
 			"uaxis" "[1 0 0 -128] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -158308,10 +158308,10 @@ entity
 				"v" "3120 1376 9"
 			}
 			"material" "DECALS/HRPOINT"
-			"uaxis" "[0.707107 0.707107 0 -287.982] 0.353554"
-			"vaxis" "[0.707107 -0.707107 0 -416.006] 0.353554"
+			"uaxis" "[0.707107 0.707107 0 -287.982] 0.3536"
+			"vaxis" "[0.707107 -0.707107 0 -416.006] 0.3536"
 			"rotation" "45"
-			"lightmapscale" "16"
+			"lightmapscale" "4"
 			"smoothing_groups" "0"
 		}
 		side
@@ -158426,10 +158426,10 @@ entity
 				"v" "2112 2168 9"
 			}
 			"material" "DECALS/HRPOINT"
-			"uaxis" "[0.707107 -0.707107 0 111.998] 0.353554"
-			"vaxis" "[-0.707107 -0.707107 0 503.878] 0.348029"
+			"uaxis" "[0.707107 -0.707107 0 111.998] 0.3536"
+			"vaxis" "[-0.707107 -0.707107 0 503.878] 0.348"
 			"rotation" "315"
-			"lightmapscale" "16"
+			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
 		side
@@ -167312,8 +167312,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1409 -329.518 2971.82]"
-		"look" "[1620.26 -577.75 2326.53]"
+		"position" "[1915.73 -791.554 633.666]"
+		"look" "[1317.87 -927.383 250.565]"
 	}
 	camera
 	{
