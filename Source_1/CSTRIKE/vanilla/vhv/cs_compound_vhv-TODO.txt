@@ -1,6 +1,2 @@
 * fix lighting on box shelves
 * Do something about the problematic specular maps on the streets
-* Fix glowing windows inside windows being finnicky:
-	* change the actual into static props
-	* change the textures behind them to match the wall
-	* make on-grid-of-1 func_null to emit light
