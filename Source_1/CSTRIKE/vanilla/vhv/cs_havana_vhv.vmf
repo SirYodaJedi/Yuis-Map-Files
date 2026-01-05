@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "564"
+	"mapversion" "566"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -329,7 +329,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "564"
+	"mapversion" "566"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -233869,8 +233869,6 @@ entity
 {
 	"id" "923"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "924"
@@ -234003,8 +234001,6 @@ entity
 {
 	"id" "925"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "926"
@@ -234137,8 +234133,6 @@ entity
 {
 	"id" "927"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "928"
@@ -234271,8 +234265,6 @@ entity
 {
 	"id" "930"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "931"
@@ -234405,8 +234397,6 @@ entity
 {
 	"id" "932"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "933"
@@ -234539,8 +234529,6 @@ entity
 {
 	"id" "934"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "935"
@@ -234673,8 +234661,6 @@ entity
 {
 	"id" "944"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "945"
@@ -234807,8 +234793,6 @@ entity
 {
 	"id" "946"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "947"
@@ -234941,8 +234925,6 @@ entity
 {
 	"id" "948"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "949"
@@ -235075,8 +235057,6 @@ entity
 {
 	"id" "951"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "952"
@@ -235209,8 +235189,6 @@ entity
 {
 	"id" "953"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "954"
@@ -235343,8 +235321,6 @@ entity
 {
 	"id" "955"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "956"
@@ -235477,8 +235453,6 @@ entity
 {
 	"id" "958"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "959"
@@ -235611,8 +235585,6 @@ entity
 {
 	"id" "960"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "961"
@@ -235745,8 +235717,6 @@ entity
 {
 	"id" "962"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "963"
@@ -235879,8 +235849,6 @@ entity
 {
 	"id" "1106"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1107"
@@ -236013,8 +235981,6 @@ entity
 {
 	"id" "1108"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1109"
@@ -236147,8 +236113,6 @@ entity
 {
 	"id" "1110"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1111"
@@ -236281,8 +236245,6 @@ entity
 {
 	"id" "1382"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1383"
@@ -236416,7 +236378,6 @@ entity
 	"id" "1704"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -236446,7 +236407,6 @@ entity
 	"id" "1724"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -236476,7 +236436,6 @@ entity
 	"id" "2069"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -236506,7 +236465,6 @@ entity
 	"id" "2081"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -236536,7 +236494,6 @@ entity
 	"id" "2084"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -236566,7 +236523,6 @@ entity
 	"id" "2087"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -236596,7 +236552,6 @@ entity
 	"id" "2097"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -236696,7 +236651,6 @@ entity
 	"id" "2155"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -236726,7 +236680,6 @@ entity
 	"id" "2158"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -236756,7 +236709,6 @@ entity
 	"id" "2272"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -237686,7 +237638,6 @@ entity
 	"id" "21424"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237714,7 +237665,6 @@ entity
 	"id" "21427"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237742,7 +237692,6 @@ entity
 	"id" "21430"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237770,7 +237719,6 @@ entity
 	"id" "21433"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237798,7 +237746,6 @@ entity
 	"id" "21436"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237876,7 +237823,6 @@ entity
 	"id" "22551"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237904,7 +237850,6 @@ entity
 	"id" "22554"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237932,7 +237877,6 @@ entity
 	"id" "22557"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237960,7 +237904,6 @@ entity
 	"id" "22560"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -237988,7 +237931,6 @@ entity
 	"id" "22563"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -249423,8 +249365,6 @@ entity
 {
 	"id" "744"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "745"
@@ -249557,8 +249497,6 @@ entity
 {
 	"id" "746"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "747"
@@ -249691,8 +249629,6 @@ entity
 {
 	"id" "748"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "749"
@@ -249825,8 +249761,6 @@ entity
 {
 	"id" "736"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "737"
@@ -249959,8 +249893,6 @@ entity
 {
 	"id" "738"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "739"
@@ -250093,8 +250025,6 @@ entity
 {
 	"id" "740"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "741"
@@ -250291,7 +250221,6 @@ entity
 	"id" "117218"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250319,7 +250248,6 @@ entity
 	"id" "117221"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250347,7 +250275,6 @@ entity
 	"id" "117224"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250375,7 +250302,6 @@ entity
 	"id" "117227"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250403,7 +250329,6 @@ entity
 	"id" "117230"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250481,7 +250406,6 @@ entity
 	"id" "117213"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250735,7 +250659,6 @@ entity
 	"id" "117658"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250763,7 +250686,6 @@ entity
 	"id" "117661"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250791,7 +250713,6 @@ entity
 	"id" "117664"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250819,7 +250740,6 @@ entity
 	"id" "117667"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250847,7 +250767,6 @@ entity
 	"id" "117670"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -250925,7 +250844,6 @@ entity
 	"id" "117653"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251179,7 +251097,6 @@ entity
 	"id" "117935"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251207,7 +251124,6 @@ entity
 	"id" "117938"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251235,7 +251151,6 @@ entity
 	"id" "117941"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251263,7 +251178,6 @@ entity
 	"id" "117944"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251291,7 +251205,6 @@ entity
 	"id" "117947"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251369,7 +251282,6 @@ entity
 	"id" "117930"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251615,7 +251527,6 @@ entity
 	"id" "114758"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251643,7 +251554,6 @@ entity
 	"id" "114761"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251671,7 +251581,6 @@ entity
 	"id" "114764"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251699,7 +251608,6 @@ entity
 	"id" "114767"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251727,7 +251635,6 @@ entity
 	"id" "114770"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -251805,7 +251712,6 @@ entity
 	"id" "114753"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252397,7 +252303,6 @@ entity
 	"id" "116271"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252425,7 +252330,6 @@ entity
 	"id" "116274"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252453,7 +252357,6 @@ entity
 	"id" "116277"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252481,7 +252384,6 @@ entity
 	"id" "116280"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252509,7 +252411,6 @@ entity
 	"id" "116283"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252587,7 +252488,6 @@ entity
 	"id" "116266"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252841,7 +252741,6 @@ entity
 	"id" "137211"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252869,7 +252768,6 @@ entity
 	"id" "137214"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252897,7 +252795,6 @@ entity
 	"id" "137217"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252925,7 +252822,6 @@ entity
 	"id" "137220"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -252953,7 +252849,6 @@ entity
 	"id" "137223"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253036,7 +252931,6 @@ entity
 	"id" "137232"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253066,7 +252960,6 @@ entity
 	"id" "137620"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253094,7 +252987,6 @@ entity
 	"id" "137623"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253122,7 +253014,6 @@ entity
 	"id" "137626"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253150,7 +253041,6 @@ entity
 	"id" "137629"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253178,7 +253068,6 @@ entity
 	"id" "137632"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253261,7 +253150,6 @@ entity
 	"id" "137641"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253318,7 +253206,6 @@ entity
 	"id" "1773"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253375,7 +253262,6 @@ entity
 	"id" "1768"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253458,7 +253344,6 @@ entity
 	"id" "2187"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -253634,7 +253519,6 @@ entity
 	"id" "1538"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -253770,7 +253654,6 @@ entity
 	"id" "1539"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -253874,8 +253757,6 @@ entity
 {
 	"id" "90460"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "90657"
@@ -254010,7 +253891,6 @@ entity
 	"id" "22367"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -254038,7 +253918,6 @@ entity
 	"id" "22370"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -254066,7 +253945,6 @@ entity
 	"id" "22373"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -254094,7 +253972,6 @@ entity
 	"id" "22376"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -254122,7 +253999,6 @@ entity
 	"id" "22379"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "1"
-	"disableshadows" "1"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -254325,8 +254201,6 @@ entity
 {
 	"id" "222260"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "222261"
@@ -254459,8 +254333,6 @@ entity
 {
 	"id" "222262"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "222263"
@@ -254593,8 +254465,6 @@ entity
 {
 	"id" "222264"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "222265"
@@ -255295,7 +255165,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/tv_monitor01.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -255338,6 +255207,7 @@ entity
 	"id" "260288"
 	"classname" "prop_dynamic"
 	"angles" "0 270 0"
+	"body" "2"
 	"disableshadows" "0"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
@@ -255354,7 +255224,6 @@ entity
 	"RandomAnimation" "0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"SetBodyGroup" "2"
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
@@ -259077,7 +258946,6 @@ entity
 	"id" "299683"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -259232,8 +259100,6 @@ entity
 {
 	"id" "168"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "169"
@@ -259365,8 +259231,6 @@ entity
 {
 	"id" "179"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "180"
@@ -259498,8 +259362,6 @@ entity
 {
 	"id" "181"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "182"
@@ -259631,8 +259493,6 @@ entity
 {
 	"id" "217"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "218"
@@ -259764,8 +259624,6 @@ entity
 {
 	"id" "292"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "293"
@@ -259897,8 +259755,6 @@ entity
 {
 	"id" "294"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "295"
@@ -260030,8 +259886,6 @@ entity
 {
 	"id" "296"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "297"
@@ -260167,9 +260021,7 @@ entity
 	"origin" "184 1388 304"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "460"
@@ -260772,8 +260624,6 @@ entity
 {
 	"id" "470"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "471"
@@ -260905,8 +260755,6 @@ entity
 {
 	"id" "557"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "558"
@@ -261041,9 +260889,7 @@ entity
 	"origin" "498 -528.5 326"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "613"
@@ -261177,9 +261023,7 @@ entity
 	"origin" "1116.5 -296 121"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "615"
@@ -261341,9 +261185,7 @@ entity
 	"origin" "-700.5 -584 448.5"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "640"
@@ -261478,9 +261320,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "670"
@@ -262673,8 +262513,6 @@ entity
 {
 	"id" "695"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "696"
@@ -262806,8 +262644,6 @@ entity
 {
 	"id" "697"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "698"
@@ -262939,8 +262775,6 @@ entity
 {
 	"id" "699"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "700"
@@ -263072,8 +262906,6 @@ entity
 {
 	"id" "701"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "702"
@@ -263205,8 +263037,6 @@ entity
 {
 	"id" "703"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "704"
@@ -263338,8 +263168,6 @@ entity
 {
 	"id" "705"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "706"
@@ -263471,8 +263299,6 @@ entity
 {
 	"id" "756"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "757"
@@ -263604,8 +263430,6 @@ entity
 {
 	"id" "758"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "759"
@@ -263740,9 +263564,7 @@ entity
 	"origin" "-1472 735.5 251.5"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "762"
@@ -263876,9 +263698,7 @@ entity
 	"origin" "-1455.5 416 232"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "764"
@@ -264012,9 +263832,7 @@ entity
 	"origin" "-704 463.5 348"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "766"
@@ -264149,11 +263967,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
-	"speed" "100"
-	"wait" "4"
+	"rendermode" "0"
 	solid
 	{
 		"id" "803"
@@ -264288,11 +264102,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
-	"speed" "100"
-	"wait" "4"
+	"rendermode" "0"
 	solid
 	{
 		"id" "805"
@@ -264427,11 +264237,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
-	"speed" "100"
-	"wait" "4"
+	"rendermode" "0"
 	solid
 	{
 		"id" "807"
@@ -264566,11 +264372,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
-	"speed" "100"
-	"wait" "4"
+	"rendermode" "0"
 	solid
 	{
 		"id" "809"
@@ -264705,11 +264507,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
-	"speed" "100"
-	"wait" "4"
+	"rendermode" "0"
 	solid
 	{
 		"id" "811"
@@ -264844,11 +264642,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
-	"speed" "100"
-	"wait" "4"
+	"rendermode" "0"
 	solid
 	{
 		"id" "813"
@@ -264982,9 +264776,7 @@ entity
 	"origin" "-863 984 276.5"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "838"
@@ -266062,9 +265854,7 @@ entity
 	"origin" "-352 1664.5 236"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1205"
@@ -266198,9 +265988,7 @@ entity
 	"origin" "219 -190 111"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1235"
@@ -266334,9 +266122,7 @@ entity
 	"origin" "-424 1656.5 200"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1240"
@@ -266470,9 +266256,7 @@ entity
 	"origin" "84.5 -314 116.5"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1242"
@@ -266606,9 +266390,7 @@ entity
 	"origin" "96 1967.5 152"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1307"
@@ -266742,9 +266524,7 @@ entity
 	"origin" "104 1975.5 392"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1309"
@@ -266878,9 +266658,7 @@ entity
 	"origin" "160 767.5 413"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1419"
@@ -267015,9 +266793,7 @@ entity
 	"origin" "-316 522.5 109"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "1447"
@@ -267351,8 +267127,6 @@ entity
 {
 	"id" "1620"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1621"
@@ -267484,8 +267258,6 @@ entity
 {
 	"id" "1667"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1668"
@@ -267696,7 +267468,6 @@ entity
 	"id" "1793"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -267722,7 +267493,6 @@ entity
 	"id" "1794"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -267748,7 +267518,6 @@ entity
 	"id" "1795"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -267773,8 +267542,6 @@ entity
 {
 	"id" "1797"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1798"
@@ -267906,8 +267673,6 @@ entity
 {
 	"id" "1800"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1801"
@@ -268039,8 +267804,6 @@ entity
 {
 	"id" "1804"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1805"
@@ -268172,8 +267935,6 @@ entity
 {
 	"id" "1808"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1809"
@@ -268305,8 +268066,6 @@ entity
 {
 	"id" "1812"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1813"
@@ -268438,8 +268197,6 @@ entity
 {
 	"id" "1816"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1817"
@@ -268571,8 +268328,6 @@ entity
 {
 	"id" "1820"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1821"
@@ -268704,8 +268459,6 @@ entity
 {
 	"id" "1824"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1825"
@@ -268837,8 +268590,6 @@ entity
 {
 	"id" "1828"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1829"
@@ -268970,8 +268721,6 @@ entity
 {
 	"id" "1832"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1833"
@@ -269102,8 +268851,7 @@ entity
 entity
 {
 	"id" "2059"
-	"classname" "func_ladder"
-	"spawnflags" "0"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "2060"
@@ -269217,14 +268965,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupid" "14"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -269234,8 +268982,7 @@ entity
 entity
 {
 	"id" "2061"
-	"classname" "func_ladder"
-	"spawnflags" "0"
+	"classname" "func_detail"
 	solid
 	{
 		"id" "2062"
@@ -269349,14 +269096,14 @@ entity
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 180 0"
 		"visgroupid" "14"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -269370,9 +269117,7 @@ entity
 	"origin" "787 1062.5 351"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "2251"
@@ -269506,9 +269251,7 @@ entity
 	"origin" "768 1259.79 345"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "2262"
@@ -269642,9 +269385,7 @@ entity
 	"origin" "928 1237.79 365"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"rendermode" "4"
-	"skin" "-1"
-	"spawnflags" "0"
+	"rendermode" "0"
 	solid
 	{
 		"id" "2265"
@@ -269775,8 +269516,6 @@ entity
 {
 	"id" "2268"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2269"
@@ -269940,8 +269679,6 @@ entity
 {
 	"id" "2376"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2377"
@@ -270073,8 +269810,6 @@ entity
 {
 	"id" "2388"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2389"
@@ -270206,8 +269941,6 @@ entity
 {
 	"id" "2390"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2391"
@@ -270339,8 +270072,6 @@ entity
 {
 	"id" "2509"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2510"
@@ -270472,8 +270203,6 @@ entity
 {
 	"id" "2537"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2538"
@@ -270723,8 +270452,6 @@ entity
 {
 	"id" "2540"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2542"
@@ -271014,8 +270741,6 @@ entity
 {
 	"id" "2548"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2549"
@@ -271501,8 +271226,6 @@ entity
 {
 	"id" "2553"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2554"
@@ -271870,8 +271593,6 @@ entity
 {
 	"id" "2646"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2647"
@@ -272003,8 +271724,6 @@ entity
 {
 	"id" "2648"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "204732"
@@ -272176,8 +271895,6 @@ entity
 {
 	"id" "2653"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2654"
@@ -272309,8 +272026,6 @@ entity
 {
 	"id" "2663"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "2664"
@@ -273399,8 +273114,6 @@ entity
 	"classname" "hostage_entity"
 	"angles" "0 291 0"
 	"model" "models/characters/hostage_01.mdl"
-	"skin" "0"
-	"spawnflags" "0"
 	"origin" "80 814 288"
 	editor
 	{
@@ -273416,8 +273129,6 @@ entity
 	"classname" "hostage_entity"
 	"angles" "0 294 0"
 	"model" "models/characters/hostage_02.mdl"
-	"skin" "0"
-	"spawnflags" "0"
 	"origin" "348 817 288"
 	editor
 	{
@@ -273433,8 +273144,6 @@ entity
 	"classname" "hostage_entity"
 	"angles" "0 270 0"
 	"model" "models/characters/hostage_03.mdl"
-	"skin" "0"
-	"spawnflags" "0"
 	"origin" "128 1280 288"
 	editor
 	{
@@ -273450,8 +273159,6 @@ entity
 	"classname" "hostage_entity"
 	"angles" "0 270 0"
 	"model" "models/characters/hostage_04.mdl"
-	"skin" "0"
-	"spawnflags" "0"
 	"origin" "240 1280 288"
 	editor
 	{
@@ -291699,7 +291406,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureFridge001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -291736,7 +291442,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureTable002a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -291782,7 +291487,6 @@ entity
 	"id" "2195"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -291836,7 +291540,6 @@ entity
 	"id" "2200"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "10"
 	"HDRColorScale" "1.0"
@@ -291881,7 +291584,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_interiors/Furniture_Desk01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -291921,7 +291623,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureChair001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -291995,7 +291696,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_interiors/Furniture_Desk01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -292035,7 +291735,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureChair001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -292238,7 +291937,6 @@ entity
 	"id" "2676"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292267,7 +291965,6 @@ entity
 	"id" "2149"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292321,7 +292018,6 @@ entity
 	"id" "2144"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292375,7 +292071,6 @@ entity
 	"id" "2192"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292429,7 +292124,6 @@ entity
 	"id" "2223"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292483,7 +292177,6 @@ entity
 	"id" "2228"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292537,7 +292230,6 @@ entity
 	"id" "1736"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -292780,7 +292472,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureChair001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -292817,7 +292508,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureChair001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -292854,7 +292544,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureChair001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -292891,7 +292580,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureTable003a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293390,7 +293078,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293428,7 +293115,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293466,7 +293152,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293504,7 +293189,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293542,7 +293226,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293580,7 +293263,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293805,7 +293487,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/chair02a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293842,7 +293523,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/chair02a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -293879,7 +293559,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureTable001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -300113,7 +299792,6 @@ entity
 	"id" "35771"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -300142,7 +299820,6 @@ entity
 	"id" "35861"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -304859,7 +304536,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/MetalBucket01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -304897,7 +304573,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/MetalBucket01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -304935,7 +304610,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/MetalBucket01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -304973,7 +304647,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/MetalBucket01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -305011,7 +304684,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/metal_paintcan001b.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -305049,7 +304721,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/metal_paintcan001b.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -305087,7 +304758,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/metalPot001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -305125,7 +304795,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/metalPot001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -305163,7 +304832,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/metalPot001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -308705,7 +308373,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/FurnitureDrawer001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -310051,7 +309718,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "-104 2168 36"
 	editor
 	{
@@ -310073,7 +309739,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "328 1616 40"
 	editor
 	{
@@ -310095,7 +309760,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "328 1708 40"
 	editor
 	{
@@ -310117,7 +309781,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "-364 2173.41 243.164"
 	editor
 	{
@@ -310139,7 +309802,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "-227.964 2172.8 243.164"
 	editor
 	{
@@ -310165,7 +309827,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "132 604 36"
 	editor
 	{
@@ -310191,7 +309852,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "316 604 36"
 	editor
 	{
@@ -310765,7 +310425,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "72 2168 36"
 	editor
 	{
@@ -310791,7 +310450,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "272 2160 36"
 	editor
 	{
@@ -310830,8 +310488,6 @@ entity
 {
 	"id" "182455"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "182456"
@@ -319244,7 +318900,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/Shoe001a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -322914,7 +322569,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_junk/bicycle01a.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -323242,7 +322896,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "124 -140.028 275.164"
 	editor
 	{
@@ -323264,7 +322917,6 @@ entity
 	"model" "models/props_trainstation/bench_indoor001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "24 -140.028 275.164"
 	editor
 	{
@@ -323526,7 +323178,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -323564,7 +323215,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -324054,7 +323704,6 @@ entity
 	"model" "models/props_wasteland/prison_pipefaucet001a.mdl"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "384 616 44"
 	editor
 	{
@@ -324191,7 +323840,6 @@ entity
 	"id" "35852"
 	"classname" "env_sprite"
 	"disablereceiveshadows" "0"
-	"disableshadows" "0"
 	"framerate" "10.0"
 	"GlowProxySize" "6"
 	"HDRColorScale" "1.0"
@@ -334586,8 +334234,6 @@ entity
 {
 	"id" "241471"
 	"classname" "func_detail"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
 	solid
 	{
 		"id" "1179"
@@ -340922,7 +340568,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -340960,7 +340605,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -340998,7 +340642,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -341036,7 +340679,6 @@ entity
 	"minhealthdmg" "0"
 	"model" "models/props_c17/oildrum001.mdl"
 	"modelscale" "1.0"
-	"multiplayer_physics_mode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"renderamt" "255"
@@ -349826,8 +349468,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-43.4414 309.503 550.781]"
-		"look" "[-10.7971 733.749 529.971]"
+		"position" "[92 184 224.5]"
+		"look" "[92 610.008 224.5]"
 	}
 }
 cordons
