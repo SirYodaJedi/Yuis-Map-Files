@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "566"
+	"mapversion" "568"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -254,7 +254,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "16"
 }
 palette_plus
 {
@@ -329,7 +329,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "566"
+	"mapversion" "568"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -81840,124 +81840,6 @@ world
 		editor
 		{
 			"color" "0 253 122"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "88051"
-		side
-		{
-			"id" "19662"
-			"plane" "(2464 896 -16) (2464 -2176 -16) (3072 -2176 -16)"
-			vertices_plus
-			{
-				"v" "2464 896 -16"
-				"v" "2464 -2176 -16"
-				"v" "3072 -2176 -16"
-				"v" "3072 896 -16"
-			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 85.3333] 1.5"
-			"vaxis" "[0 -1 0 -10.6666] 1.5"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "19663"
-			"plane" "(2464 -2176 -16) (2464 896 -16) (2464 896 1024)"
-			vertices_plus
-			{
-				"v" "2464 -2176 -16"
-				"v" "2464 896 -16"
-				"v" "2464 896 1024"
-				"v" "2464 -2176 1024"
-			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[0 1 0 5] 1.5"
-			"vaxis" "[0 0 -1 -5] 1.5"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "19664"
-			"plane" "(3072 896 -16) (3072 -2176 -16) (3072 -2176 1024)"
-			vertices_plus
-			{
-				"v" "3072 896 -16"
-				"v" "3072 -2176 -16"
-				"v" "3072 -2176 1024"
-				"v" "3072 896 1024"
-			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[0 1 0 42.6664] 0.375"
-			"vaxis" "[0 0 -1 0] 0.375"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "19665"
-			"plane" "(2464 -2176 1024) (2464 896 1024) (3072 896 1024)"
-			vertices_plus
-			{
-				"v" "2464 -2176 1024"
-				"v" "2464 896 1024"
-				"v" "3072 896 1024"
-				"v" "3072 -2176 1024"
-			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 -1 0 -32] 1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "19666"
-			"plane" "(2464 896 1024) (2464 896 -16) (3072 896 -16)"
-			vertices_plus
-			{
-				"v" "2464 896 1024"
-				"v" "2464 896 -16"
-				"v" "3072 896 -16"
-				"v" "3072 896 1024"
-			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 0 -1 -32] 1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "19667"
-			"plane" "(3072 -2176 1024) (3072 -2176 -16) (2464 -2176 -16)"
-			vertices_plus
-			{
-				"v" "3072 -2176 1024"
-				"v" "3072 -2176 -16"
-				"v" "2464 -2176 -16"
-				"v" "2464 -2176 1024"
-			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 0 -1 -32] 1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 187 148"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -180616,124 +180498,6 @@ world
 	}
 	solid
 	{
-		"id" "219196"
-		side
-		{
-			"id" "34278"
-			"plane" "(2848 896 0) (1952 896 0) (1440 384 0)"
-			vertices_plus
-			{
-				"v" "2848 896 0"
-				"v" "1952 896 0"
-				"v" "1440 384 0"
-				"v" "2848 384 0"
-			}
-			"material" "CS_HAVANA/ICEILB01"
-			"uaxis" "[-1 0 0 426.666] 0.25"
-			"vaxis" "[0 1 0 -341.334] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "34277"
-			"plane" "(2848 384 16) (1440 384 16) (1952 896 16)"
-			vertices_plus
-			{
-				"v" "2848 384 16"
-				"v" "1440 384 16"
-				"v" "1952 896 16"
-				"v" "2848 896 16"
-			}
-			"material" "CS_HAVANA/SDWLKA01"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[-1 0 0 256] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "34276"
-			"plane" "(1952 896 0) (2848 896 0) (2848 896 16)"
-			vertices_plus
-			{
-				"v" "1952 896 0"
-				"v" "2848 896 -0"
-				"v" "2848 896 16"
-				"v" "1952 896 16"
-			}
-			"material" "CS_HAVANA/ICEILB01"
-			"uaxis" "[1 0 0 128] 0.25"
-			"vaxis" "[0 0 -1 256] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "34275"
-			"plane" "(2848 384 0) (1440 384 0) (1440 384 16)"
-			vertices_plus
-			{
-				"v" "2848 384 0"
-				"v" "1440 384 -0"
-				"v" "1440 384 16"
-				"v" "2848 384 16"
-			}
-			"material" "CS_HAVANA/CURB04"
-			"uaxis" "[-1 0 0 320] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "34274"
-			"plane" "(2848 896 0) (2848 384 0) (2848 384 16)"
-			vertices_plus
-			{
-				"v" "2848 896 -0"
-				"v" "2848 384 -0"
-				"v" "2848 384 16"
-				"v" "2848 896 16"
-			}
-			"material" "CS_HAVANA/ICEILB01"
-			"uaxis" "[0 1 0 256] 0.25"
-			"vaxis" "[0 0 -1 256] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "34273"
-			"plane" "(1440 384 0) (1952 896 0) (1952 896 16)"
-			vertices_plus
-			{
-				"v" "1440 384 0"
-				"v" "1952 896 0"
-				"v" "1952 896 16"
-				"v" "1440 384 16"
-			}
-			"material" "CS_HAVANA/ICEILB01"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 161 222"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
 		"id" "219209"
 		side
 		{
@@ -232392,6 +232156,596 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "309547"
+		side
+		{
+			"id" "36427"
+			"plane" "(2464 64 -16) (2464 -2176 -16) (3072 -2176 -16)"
+			vertices_plus
+			{
+				"v" "2464 64 -16"
+				"v" "2464 -2176 -16"
+				"v" "3072 -2176 -16"
+				"v" "3072 64 -16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 85.3333] 1.5"
+			"vaxis" "[0 -1 0 -10.6666] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36426"
+			"plane" "(2464 -2176 -16) (2464 64 -16) (2464 64 1024)"
+			vertices_plus
+			{
+				"v" "2464 -2176 -16"
+				"v" "2464 64 -16"
+				"v" "2464 64 1024"
+				"v" "2464 -2176 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 5] 1.5"
+			"vaxis" "[0 0 -1 -5] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36425"
+			"plane" "(3072 64 -16) (3072 -2176 -16) (3072 -2176 1024)"
+			vertices_plus
+			{
+				"v" "3072 64 -16"
+				"v" "3072 -2176 -16"
+				"v" "3072 -2176 1024"
+				"v" "3072 64 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 42.6664] 0.375"
+			"vaxis" "[0 0 -1 0] 0.375"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36424"
+			"plane" "(2464 -2176 1024) (2464 64 1024) (3072 64 1024)"
+			vertices_plus
+			{
+				"v" "2464 -2176 1024"
+				"v" "2464 64 1024"
+				"v" "3072 64 1024"
+				"v" "3072 -2176 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36423"
+			"plane" "(3072 -2176 1024) (3072 -2176 -16) (2464 -2176 -16)"
+			vertices_plus
+			{
+				"v" "3072 -2176 1024"
+				"v" "3072 -2176 -16"
+				"v" "2464 -2176 -16"
+				"v" "2464 -2176 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36422"
+			"plane" "(2464 64 1024) (2464 64 -16) (3072 64 -16)"
+			vertices_plus
+			{
+				"v" "2464 64 1024"
+				"v" "2464 64 -16"
+				"v" "3072 64 -16"
+				"v" "3072 64 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 187 148"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "309549"
+		side
+		{
+			"id" "36439"
+			"plane" "(2464 896 -16) (2464 576 -16) (3072 576 -16)"
+			vertices_plus
+			{
+				"v" "2464 896 -16"
+				"v" "2464 576 -16"
+				"v" "3072 576 -16"
+				"v" "3072 896 -16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 85.3333] 1.5"
+			"vaxis" "[0 -1 0 -10.6666] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36438"
+			"plane" "(2464 576 -16) (2464 896 -16) (2464 896 1024)"
+			vertices_plus
+			{
+				"v" "2464 576 -16"
+				"v" "2464 896 -16"
+				"v" "2464 896 1024"
+				"v" "2464 576 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 5] 1.5"
+			"vaxis" "[0 0 -1 -5] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36437"
+			"plane" "(3072 896 -16) (3072 576 -16) (3072 576 1024)"
+			vertices_plus
+			{
+				"v" "3072 896 -16"
+				"v" "3072 576 -16"
+				"v" "3072 576 1024"
+				"v" "3072 896 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 42.6664] 0.375"
+			"vaxis" "[0 0 -1 0] 0.375"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36436"
+			"plane" "(2464 576 1024) (2464 896 1024) (3072 896 1024)"
+			vertices_plus
+			{
+				"v" "2464 576 1024"
+				"v" "2464 896 1024"
+				"v" "3072 896 1024"
+				"v" "3072 576 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36435"
+			"plane" "(2464 896 1024) (2464 896 -16) (3072 896 -16)"
+			vertices_plus
+			{
+				"v" "2464 896 1024"
+				"v" "2464 896 -16"
+				"v" "3072 896 -16"
+				"v" "3072 896 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36434"
+			"plane" "(3072 576 1024) (3072 576 -16) (2464 576 -16)"
+			vertices_plus
+			{
+				"v" "3072 576 1024"
+				"v" "3072 576 -16"
+				"v" "2464 576 -16"
+				"v" "2464 576 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 187 148"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "309558"
+		side
+		{
+			"id" "36445"
+			"plane" "(2464 576 -16) (2464 64 -16) (2944 64 -16)"
+			vertices_plus
+			{
+				"v" "2464 576 -16"
+				"v" "2464 64 -16"
+				"v" "2944 64 -16"
+				"v" "2944 576 -16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 85.3333] 1.5"
+			"vaxis" "[0 -1 0 -10.6666] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36444"
+			"plane" "(2464 64 -16) (2464 576 -16) (2464 576 16)"
+			vertices_plus
+			{
+				"v" "2464 64 -16"
+				"v" "2464 576 -16"
+				"v" "2464 576 16"
+				"v" "2464 64 16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 5] 1.5"
+			"vaxis" "[0 0 -1 -5] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36443"
+			"plane" "(2464 64 16) (2464 576 16) (2944 576 16)"
+			vertices_plus
+			{
+				"v" "2464 64 16"
+				"v" "2464 576 16"
+				"v" "2944 576 16"
+				"v" "2944 64 16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36442"
+			"plane" "(2464 576 16) (2464 576 -16) (2944 576 -16)"
+			vertices_plus
+			{
+				"v" "2464 576 16"
+				"v" "2464 576 -16"
+				"v" "2944 576 -16"
+				"v" "2944 576 16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36441"
+			"plane" "(2944 64 -16) (2464 64 -16) (2464 64 16)"
+			vertices_plus
+			{
+				"v" "2944 64 -16"
+				"v" "2464 64 -16"
+				"v" "2464 64 16"
+				"v" "2944 64 16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36440"
+			"plane" "(2944 576 -16) (2944 64 -16) (2944 64 16)"
+			vertices_plus
+			{
+				"v" "2944 576 -16"
+				"v" "2944 64 -16"
+				"v" "2944 64 16"
+				"v" "2944 576 16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 187 148"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "309559"
+		side
+		{
+			"id" "36451"
+			"plane" "(2944 64 -16) (3072 64 -16) (3072 576 -16)"
+			vertices_plus
+			{
+				"v" "2944 64 -16"
+				"v" "3072 64 -16"
+				"v" "3072 576 -16"
+				"v" "2944 576 -16"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 85.3333] 1.5"
+			"vaxis" "[0 -1 0 -10.6666] 1.5"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36450"
+			"plane" "(3072 576 -16) (3072 64 -16) (3072 64 1024)"
+			vertices_plus
+			{
+				"v" "3072 576 -16"
+				"v" "3072 64 -16"
+				"v" "3072 64 1024"
+				"v" "3072 576 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 42.6664] 0.375"
+			"vaxis" "[0 0 -1 0] 0.375"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36449"
+			"plane" "(2944 576 1024) (3072 576 1024) (3072 64 1024)"
+			vertices_plus
+			{
+				"v" "2944 576 1024"
+				"v" "3072 576 1024"
+				"v" "3072 64 1024"
+				"v" "2944 64 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 -32] 1"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36448"
+			"plane" "(2944 576 -16) (3072 576 -16) (3072 576 1024)"
+			vertices_plus
+			{
+				"v" "2944 576 -16"
+				"v" "3072 576 -16"
+				"v" "3072 576 1024"
+				"v" "2944 576 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36447"
+			"plane" "(3072 64 1024) (3072 64 -16) (2944 64 -16)"
+			vertices_plus
+			{
+				"v" "3072 64 1024"
+				"v" "3072 64 -16"
+				"v" "2944 64 -16"
+				"v" "2944 64 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36446"
+			"plane" "(2944 64 -16) (2944 576 -16) (2944 576 1024)"
+			vertices_plus
+			{
+				"v" "2944 64 -16"
+				"v" "2944 576 -16"
+				"v" "2944 576 1024"
+				"v" "2944 64 1024"
+			}
+			"material" "TOOLS/TOOLSSKYBOX"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 187 148"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "309571"
+		side
+		{
+			"id" "36457"
+			"plane" "(2464 896 0) (1952 896 0) (1440 384 0)"
+			vertices_plus
+			{
+				"v" "2464 896 0"
+				"v" "1952 896 0"
+				"v" "1440 384 0"
+				"v" "2464 384 0"
+			}
+			"material" "CS_HAVANA/ICEILB01"
+			"uaxis" "[-1 0 0 426.666] 0.25"
+			"vaxis" "[0 1 0 -341.334] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36456"
+			"plane" "(2464 384 16) (1440 384 16) (1952 896 16)"
+			vertices_plus
+			{
+				"v" "2464 384 16"
+				"v" "1440 384 16"
+				"v" "1952 896 16"
+				"v" "2464 896 16"
+			}
+			"material" "CS_HAVANA/SDWLKA01"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[-1 0 0 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36455"
+			"plane" "(1952 896 0) (2464 896 0) (2464 896 16)"
+			vertices_plus
+			{
+				"v" "1952 896 0"
+				"v" "2464 896 0"
+				"v" "2464 896 16"
+				"v" "1952 896 16"
+			}
+			"material" "CS_HAVANA/ICEILB01"
+			"uaxis" "[1 0 0 128] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36454"
+			"plane" "(2464 384 0) (1440 384 -0) (1440 384 16)"
+			vertices_plus
+			{
+				"v" "2464 384 0"
+				"v" "1440 384 -0"
+				"v" "1440 384 16"
+				"v" "2464 384 16"
+			}
+			"material" "CS_HAVANA/CURB04"
+			"uaxis" "[-1 0 0 320] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36453"
+			"plane" "(1440 384 0) (1952 896 0) (1952 896 16)"
+			vertices_plus
+			{
+				"v" "1440 384 0"
+				"v" "1952 896 0"
+				"v" "1952 896 16"
+				"v" "1440 384 16"
+			}
+			"material" "CS_HAVANA/ICEILB01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "36452"
+			"plane" "(2464 896 -0) (2464 384 -0) (2464 384 16)"
+			vertices_plus
+			{
+				"v" "2464 896 -0"
+				"v" "2464 384 -0"
+				"v" "2464 384 16"
+				"v" "2464 896 16"
+			}
+			"material" "CS_HAVANA/ICEILB01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 161 222"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "442"
@@ -249162,7 +249516,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1634 -384 64"
 	editor
 	{
@@ -249170,6 +249524,7 @@ entity
 		"groupid" "89758"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[500 -9768]"
 	}
 }
@@ -250163,7 +250518,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1456 960 112"
 	editor
 	{
@@ -250171,6 +250526,7 @@ entity
 		"groupid" "93067"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[500 -2268]"
 	}
 }
@@ -250184,7 +250540,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1456 1012 336"
 	editor
 	{
@@ -250192,6 +250548,7 @@ entity
 		"groupid" "93067"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[500 -1768]"
 	}
 }
@@ -250205,7 +250562,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1456 824 336"
 	editor
 	{
@@ -250213,6 +250570,7 @@ entity
 		"groupid" "93067"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[500 -1268]"
 	}
 }
@@ -254081,7 +254439,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1040 -448 340"
 	editor
 	{
@@ -254089,6 +254447,7 @@ entity
 		"groupid" "219570"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[2000 6000]"
 	}
 }
@@ -254102,7 +254461,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1248 -448 340"
 	editor
 	{
@@ -254110,6 +254469,7 @@ entity
 		"groupid" "219570"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[2000 6500]"
 	}
 }
@@ -254123,7 +254483,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1408 -448 340"
 	editor
 	{
@@ -254131,6 +254491,7 @@ entity
 		"groupid" "219570"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[2000 7000]"
 	}
 }
@@ -254144,7 +254505,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1040 -448 124"
 	editor
 	{
@@ -254152,6 +254513,7 @@ entity
 		"groupid" "219571"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[2000 7500]"
 	}
 }
@@ -254165,7 +254527,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1248 -448 124"
 	editor
 	{
@@ -254173,6 +254535,7 @@ entity
 		"groupid" "219571"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[2000 8000]"
 	}
 }
@@ -254186,7 +254549,7 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1408 -448 124"
 	editor
 	{
@@ -254194,6 +254557,7 @@ entity
 		"groupid" "219571"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[2000 8500]"
 	}
 }
@@ -254605,7 +254969,7 @@ hidden
 		"lightmapresolutionx" "32"
 		"lightmapresolutiony" "32"
 		"model" "models/props/cs_havana/wndc.mdl"
-		"solid" "0"
+		"solid" "2"
 		"origin" "-672 1632 540"
 		editor
 		{
@@ -254615,6 +254979,7 @@ hidden
 			"visgroupid" "34"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
+			"comments" "TODO - verify movement is uninhibited"
 			"logicalpos" "[2000 10500]"
 		}
 	}
@@ -254631,7 +254996,7 @@ hidden
 		"lightmapresolutionx" "32"
 		"lightmapresolutiony" "32"
 		"model" "models/props/cs_havana/wndc.mdl"
-		"solid" "0"
+		"solid" "2"
 		"origin" "-512 1632 540"
 		editor
 		{
@@ -254641,6 +255006,7 @@ hidden
 			"visgroupid" "34"
 			"visgroupshown" "0"
 			"visgroupautoshown" "1"
+			"comments" "TODO - verify movement is uninhibited"
 			"logicalpos" "[2000 11000]"
 		}
 	}
@@ -260022,6 +260388,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "460"
@@ -260890,6 +261257,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "613"
@@ -261024,6 +261392,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "615"
@@ -261186,6 +261555,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "640"
@@ -261321,6 +261691,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "670"
@@ -263565,6 +263936,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "762"
@@ -263699,6 +264071,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "764"
@@ -263833,6 +264206,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "766"
@@ -263968,6 +264342,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "803"
@@ -264103,6 +264478,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "805"
@@ -264238,6 +264614,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "807"
@@ -264373,6 +264750,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "809"
@@ -264508,6 +264886,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "811"
@@ -264643,6 +265022,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "813"
@@ -264777,6 +265157,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "838"
@@ -265855,6 +266236,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1205"
@@ -265989,6 +266371,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1235"
@@ -266123,6 +266506,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1240"
@@ -266257,6 +266641,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1242"
@@ -266391,6 +266776,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1307"
@@ -266525,6 +266911,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1309"
@@ -266659,6 +267046,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1419"
@@ -266794,6 +267182,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1447"
@@ -269118,6 +269507,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "2251"
@@ -269252,6 +269642,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "2262"
@@ -269386,6 +269777,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"rendermode" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "2265"
@@ -273271,6 +273663,7 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "5"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "1792"
@@ -299878,13 +300271,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndz2.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-32 -424 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5000 -2768]"
 	}
 }
@@ -299898,13 +300292,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndz2.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "160 -424 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5000 -2268]"
 	}
 }
@@ -299918,13 +300313,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndz2.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "352 -424 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5000 -1768]"
 	}
 }
@@ -299938,13 +300334,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndz2.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "536 -424 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5000 -1268]"
 	}
 }
@@ -299958,13 +300355,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "752 288 108"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5000 -768]"
 	}
 }
@@ -300198,13 +300596,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1456 -84 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 4500]"
 	}
 }
@@ -300218,13 +300617,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1456 108 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 5000]"
 	}
 }
@@ -300238,13 +300638,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1456 300 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 5500]"
 	}
 }
@@ -300258,13 +300659,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1472 1372 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 6000]"
 	}
 }
@@ -300278,13 +300680,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1472 1184 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 6500]"
 	}
 }
@@ -300298,13 +300701,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1472 988 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 7000]"
 	}
 }
@@ -300318,13 +300722,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2172 16 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 7500]"
 	}
 }
@@ -300338,13 +300743,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2364 16 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 8000]"
 	}
 }
@@ -300358,13 +300764,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-992 176 336"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 8500]"
 	}
 }
@@ -300378,13 +300785,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-992 368 336"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 9000]"
 	}
 }
@@ -300398,13 +300806,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-992 688 336"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 9500]"
 	}
 }
@@ -300418,13 +300827,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "312 -1120 96"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 10000]"
 	}
 }
@@ -300438,13 +300848,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "92 -1120 96"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 10500]"
 	}
 }
@@ -300458,13 +300869,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "768 -1120 96"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 11000]"
 	}
 }
@@ -300478,13 +300890,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1424 800 324"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 11500]"
 	}
 }
@@ -300498,13 +300911,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1424 608 324"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 12000]"
 	}
 }
@@ -300518,13 +300932,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2000 64 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 12500]"
 	}
 }
@@ -300538,13 +300953,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1808 64 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 13000]"
 	}
 }
@@ -300558,13 +300974,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1616 64 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 13500]"
 	}
 }
@@ -300578,13 +300995,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-496 -448 356"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 14000]"
 	}
 }
@@ -300598,13 +301016,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-688 -448 356"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 14500]"
 	}
 }
@@ -300618,13 +301037,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1056 1280 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 15000]"
 	}
 }
@@ -300638,13 +301058,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1056 1280 120"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 15500]"
 	}
 }
@@ -300658,13 +301079,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1000 308 324"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 16000]"
 	}
 }
@@ -300678,13 +301100,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1000 112 324"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -16268]"
 	}
 }
@@ -300698,13 +301121,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-832 480 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -15768]"
 	}
 }
@@ -300718,13 +301142,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-704 128 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -15268]"
 	}
 }
@@ -300738,13 +301163,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-704 -1000 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -14768]"
 	}
 }
@@ -300758,13 +301184,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-704 -1192 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -14268]"
 	}
 }
@@ -300778,13 +301205,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-704 -808 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -13768]"
 	}
 }
@@ -300798,13 +301226,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1044 500 300"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -13268]"
 	}
 }
@@ -300818,13 +301247,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1044 692 300"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -12768]"
 	}
 }
@@ -300838,13 +301268,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndz2.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2016 504 288"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -12268]"
 	}
 }
@@ -300858,13 +301289,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndz2.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2212 504 288"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -11768]"
 	}
 }
@@ -300878,13 +301310,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-864 816 328"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -11268]"
 	}
 }
@@ -300898,13 +301331,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-672 816 328"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -10768]"
 	}
 }
@@ -300918,13 +301352,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-480 816 328"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -10268]"
 	}
 }
@@ -300938,13 +301373,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-384 1104 328"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -9768]"
 	}
 }
@@ -300958,13 +301394,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-496 -448 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -9268]"
 	}
 }
@@ -300978,13 +301415,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-688 -448 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -8768]"
 	}
 }
@@ -300998,13 +301436,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "96 -1120 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -8268]"
 	}
 }
@@ -301018,13 +301457,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "608 -1120 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -7768]"
 	}
 }
@@ -301038,13 +301478,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "800 -1120 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -7268]"
 	}
 }
@@ -301058,13 +301499,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "896 -1256 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -6768]"
 	}
 }
@@ -301078,13 +301520,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1632 -1184 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -6268]"
 	}
 }
@@ -301098,13 +301541,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1632 -1344 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -5768]"
 	}
 }
@@ -301118,13 +301562,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1632 -1504 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -5268]"
 	}
 }
@@ -301138,13 +301583,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-176 496 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -4768]"
 	}
 }
@@ -301158,13 +301604,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-176 688 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -4268]"
 	}
 }
@@ -301178,13 +301625,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "656 512 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -3768]"
 	}
 }
@@ -301198,13 +301646,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "688 -32 332"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -3268]"
 	}
 }
@@ -301218,13 +301667,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "496 -128 332"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -2768]"
 	}
 }
@@ -301238,13 +301688,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "296 -128 332"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -2268]"
 	}
 }
@@ -301259,13 +301710,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-352 1664 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -1768]"
 	}
 }
@@ -301279,13 +301731,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-544 1664 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -1268]"
 	}
 }
@@ -301299,13 +301752,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1000 320 108"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[5500 -768]"
 	}
 }
@@ -301319,13 +301773,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1000 128 108"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 0]"
 	}
 }
@@ -301339,13 +301794,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2016 528 92"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 500]"
 	}
 }
@@ -301359,13 +301815,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1808 48 92"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 1000]"
 	}
 }
@@ -301379,13 +301836,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1616 48 92"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 1500]"
 	}
 }
@@ -301399,13 +301857,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2000 48 92"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 2000]"
 	}
 }
@@ -301419,13 +301878,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1008 936 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 2500]"
 	}
 }
@@ -301439,13 +301899,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1008 1128 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 3000]"
 	}
 }
@@ -301459,13 +301920,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1008 1320 316"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 3500]"
 	}
 }
@@ -301479,13 +301941,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1280 1572 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 4000]"
 	}
 }
@@ -301499,13 +301962,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1120 1648 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 4500]"
 	}
 }
@@ -301519,13 +301983,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-84 2160 300"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 5000]"
 	}
 }
@@ -301539,13 +302004,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "96 2160 300"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 5500]"
 	}
 }
@@ -301559,13 +302025,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "288 2160 300"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 6000]"
 	}
 }
@@ -304253,13 +304720,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-50 -416 114"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 9500]"
 	}
 }
@@ -304273,13 +304741,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "142 -416 114"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 10000]"
 	}
 }
@@ -304293,13 +304762,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "340 -416 114"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 10500]"
 	}
 }
@@ -304313,13 +304783,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "530 -416 114"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 11000]"
 	}
 }
@@ -304333,13 +304804,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "496 1636 308"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 11500]"
 	}
 }
@@ -304353,13 +304825,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "496 1822 308"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 12000]"
 	}
 }
@@ -304373,13 +304846,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "496 1440 308"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 12500]"
 	}
 }
@@ -304393,13 +304867,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "0 -1250 312"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 13000]"
 	}
 }
@@ -304413,13 +304888,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-768 -798 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 13500]"
 	}
 }
@@ -304433,13 +304909,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-768 -1174 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 14000]"
 	}
 }
@@ -304453,13 +304930,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-640 -1458 318"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 14500]"
 	}
 }
@@ -304852,7 +305330,7 @@ entity
 	"id" "50545"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -305527,13 +306005,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1244 16 296"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 -7268]"
 	}
 }
@@ -305547,13 +306026,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1432 16 296"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6000 -6768]"
 	}
 }
@@ -305562,13 +306042,13 @@ entity
 	"id" "58217"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "410 -16 364"
 	editor
 	{
@@ -305583,13 +306063,13 @@ entity
 	"id" "59368"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "286 -16 364"
 	editor
 	{
@@ -305604,13 +306084,13 @@ entity
 	"id" "60462"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "534 -16 364"
 	editor
 	{
@@ -305625,13 +306105,13 @@ entity
 	"id" "70326"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-58 -524 144"
 	editor
 	{
@@ -305646,13 +306126,13 @@ entity
 	"id" "73669"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "66 -524 144"
 	editor
 	{
@@ -305667,13 +306147,13 @@ entity
 	"id" "73677"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "190 -524 144"
 	editor
 	{
@@ -305688,13 +306168,13 @@ entity
 	"id" "73679"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "314 -524 144"
 	editor
 	{
@@ -305709,13 +306189,13 @@ entity
 	"id" "73681"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "438 -524 144"
 	editor
 	{
@@ -305730,13 +306210,13 @@ entity
 	"id" "73683"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "562 -524 144"
 	editor
 	{
@@ -305751,13 +306231,13 @@ entity
 	"id" "77822"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "-58 -524 368"
 	editor
 	{
@@ -305772,13 +306252,13 @@ entity
 	"id" "77846"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "66 -524 368"
 	editor
 	{
@@ -305793,13 +306273,13 @@ entity
 	"id" "77858"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "190 -524 368"
 	editor
 	{
@@ -305814,13 +306294,13 @@ entity
 	"id" "77870"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "314 -524 368"
 	editor
 	{
@@ -305835,13 +306315,13 @@ entity
 	"id" "77882"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "438 -524 368"
 	editor
 	{
@@ -305856,13 +306336,13 @@ entity
 	"id" "77894"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/arch_c.mdl"
-	"solid" "0"
+	"solid" "6"
 	"origin" "562 -524 368"
 	editor
 	{
@@ -306604,13 +307084,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1464 1840 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6500 12500]"
 	}
 }
@@ -306624,13 +307105,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1464 1892 336"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6500 13000]"
 	}
 }
@@ -306644,13 +307126,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1464 1704 336"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6500 13500]"
 	}
 }
@@ -306664,13 +307147,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndl.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "-1598 1614 336"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[6500 14000]"
 	}
 }
@@ -307841,7 +308325,7 @@ entity
 	"id" "127747"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -307866,7 +308350,7 @@ entity
 	"id" "127771"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -307891,7 +308375,7 @@ entity
 	"id" "127773"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -307916,7 +308400,7 @@ entity
 	"id" "127775"
 	"classname" "prop_static"
 	"angles" "0 180 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -308332,7 +308816,7 @@ entity
 	"id" "144415"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -309866,7 +310350,7 @@ entity
 	"id" "165724"
 	"classname" "prop_static"
 	"angles" "0 180 0"
-	"disableshadows" "1"
+	"disableshadows" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -310137,13 +310621,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2008 -512 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7000 -4268]"
 	}
 }
@@ -310157,13 +310642,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2176 -512 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7000 -3768]"
 	}
 }
@@ -310177,13 +310663,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2360 -512 320"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7000 -3268]"
 	}
 }
@@ -310197,13 +310684,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "860 -448 340"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7000 -2768]"
 	}
 }
@@ -310399,13 +310887,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "540 -1120 96"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 1500]"
 	}
 }
@@ -322373,13 +322862,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndb.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1440 768 92"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -13268]"
 	}
 }
@@ -322393,13 +322883,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndg.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1616 496 324"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -12768]"
 	}
 }
@@ -322413,13 +322904,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1808 -384 64"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -12268]"
 	}
 }
@@ -322433,13 +322925,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1664 -1200 352"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -11768]"
 	}
 }
@@ -322453,13 +322946,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndd.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1664 -1456 352"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -11268]"
 	}
 }
@@ -322473,13 +322967,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2128.4 -1088 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -10768]"
 	}
 }
@@ -322493,13 +322988,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1968.4 -1088 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -10268]"
 	}
 }
@@ -322513,13 +323009,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1808.4 -1088 112"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[7500 -9768]"
 	}
 }
@@ -323885,6 +324382,7 @@ entity
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "FIXME - Outside of map"
 		"logicalpos" "[8000 13000]"
 	}
 }
@@ -323898,13 +324396,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "2208 528 92"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[8000 13500]"
 	}
 }
@@ -323918,13 +324417,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1316 16 96"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[8000 14000]"
 	}
 }
@@ -323938,13 +324438,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1160 16 96"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[8000 14500]"
 	}
 }
@@ -323958,13 +324459,14 @@ entity
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
 	"model" "models/props/cs_havana/wndc.mdl"
-	"solid" "0"
+	"solid" "2"
 	"origin" "1112 16 296"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "TODO - verify movement is uninhibited"
 		"logicalpos" "[8000 15000]"
 	}
 }
@@ -340460,8 +340962,8 @@ entity
 {
 	"id" "48288"
 	"classname" "env_cubemap"
-	"cubemapsize" "7"
-	"sides" ""
+	"cubemapsize" "9"
+	"sides" "35654 35588 35582 35576 35666 35660"
 	"origin" "304 736 307.5"
 	editor
 	{
@@ -340475,8 +340977,8 @@ entity
 {
 	"id" "48522"
 	"classname" "env_cubemap"
-	"cubemapsize" "7"
-	"sides" "13598"
+	"cubemapsize" "9"
+	"sides" "13598 35564 35570 35672 35678 35684"
 	"origin" "111 736 306.5"
 	editor
 	{
@@ -349468,8 +349970,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[92 184 224.5]"
-		"look" "[92 610.008 224.5]"
+		"position" "[368.378 83.0607 404.633]"
+		"look" "[743.231 -112.908 455.071]"
 	}
 }
 cordons
