@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "580"
+	"mapversion" "584"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -321,11 +321,11 @@ postprocess_plus
 {
 	"enable" "1"
 	"copied_from_controller" "1"
-	"bloom_scale" "1"
+	"bloom_scale" "0.7"
 	"bloom_exponent" "2.5"
 	"bloom_saturation" "1"
 	"auto_exposure_min" "0.5"
-	"auto_exposure_max" "2"
+	"auto_exposure_max" "1.5"
 	"tonemap_percent_target" "60"
 	"tonemap_percent_bright_pixels" "2"
 	"tonemap_min_avg_luminance" "3"
@@ -341,7 +341,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "580"
+	"mapversion" "584"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -296756,10 +296756,11 @@ entity
 	"fogenable" "1"
 	"fogend" "20000"
 	"fogmaxdensity" "1"
+	"fogradial" "1"
 	"fogstart" "500"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"origin" "678.372 -848 184"
+	"origin" "680 -848 184"
 	editor
 	{
 		"color" "255 255 255"
@@ -303258,6 +303259,7 @@ entity
 	"fogdir" "-1 0 0"
 	"fogenable" "1"
 	"fogend" "17000"
+	"fogradial" "1"
 	"fogstart" "1000"
 	"scale" "4"
 	"use_angles" "0"
@@ -326232,7 +326234,7 @@ entity
 	"overlaysize" "-1"
 	"rendercolor" "249 232 172"
 	"size" "16"
-	"target" "sun"
+	"target" "sun_target"
 	"VertSize0" "40"
 	"VertSize1" "16"
 	"VertSize2" "10"
@@ -326251,7 +326253,8 @@ entity
 	"id" "232067"
 	"classname" "info_target"
 	"angles" "0 0 0"
-	"targetname" "sun"
+	"spawnflags" "0"
+	"targetname" "sun_target"
 	"origin" "488 -992 276.764"
 	editor
 	{
@@ -345042,6 +345045,8 @@ entity
 		"OnMapSpawn" "door_b,Enable,,0,-1"
 		"OnMapSpawn" "door_c,Enable,,0,-1"
 		"OnMapSpawn" "door_d,Enable,,0,-1"
+		"OnMapSpawn" "configure_hdr,Trigger,,0.1,-1"
+		"OnMapSpawn" "sun_target,Kill,,0.1,-1"
 	}
 	"origin" "372.661 -545 185.981"
 	editor
@@ -349949,13 +349954,71 @@ entity
 		"logicalpos" "[0 3000]"
 	}
 }
+entity
+{
+	"id" "327025"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "configure_hdr"
+	connections
+	{
+		"OnTrigger" "tonemapper,SetBloomScale,0.7,0,-1"
+		"OnTrigger" "tonemapper,SetAutoExposureMax,1.5,0,-1"
+		"OnTrigger" "tonemapper,SetAutoExposureMin,0.5,0,-1"
+	}
+	"origin" "652 -848 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5000 -4768]"
+	}
+}
+entity
+{
+	"id" "327032"
+	"classname" "env_tonemap_controller"
+	"targetname" "tonemapper"
+	"origin" "652 -824 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5000 -4768]"
+	}
+}
+entity
+{
+	"id" "330336"
+	"classname" "env_wind"
+	"angles" "0 0 0"
+	"gustdirchange" "20"
+	"gustduration" "5"
+	"maxgust" "0"
+	"maxgustdelay" "20"
+	"maxwind" "0"
+	"mingust" "0"
+	"mingustdelay" "10"
+	"minwind" "0"
+	"origin" "680 -824 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5000 -4768]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[148.635 -161.205 54.4902]"
-		"look" "[547.691 -150.059 -93.9752]"
+		"position" "[-33.0845 -775.284 534.759]"
+		"look" "[-208.19 -389.259 576.322]"
 	}
 }
 cordons
