@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "585"
+	"mapversion" "588"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -341,7 +341,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "585"
+	"mapversion" "588"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -266209,8 +266209,8 @@ entity
 				"v" "1216 1640 352"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[0 -1 0 5.66668] 1.5"
-			"vaxis" "[0 0 -1 10.6667] 1.5"
+			"uaxis" "[0 1 0 5.66668] 0.25"
+			"vaxis" "[0 0 -1 10.6667] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266227,8 +266227,8 @@ entity
 				"v" "1208 1636 352"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[0 -1 0 8.33332] 0.75"
-			"vaxis" "[0 0 -1 0] 0.75"
+			"uaxis" "[0 -1 0 8.33332] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266245,8 +266245,8 @@ entity
 				"v" "1216 1640 20"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 -1 0 -8] 1"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266263,8 +266263,8 @@ entity
 				"v" "1216 1636 352"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 -1 0 -8] 1"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266281,8 +266281,8 @@ entity
 				"v" "1208 1636 352"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266299,8 +266299,8 @@ entity
 				"v" "1216 1640 352"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266340,8 +266340,8 @@ entity
 				"v" "1208 1640 272"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[0 -1 0 5.66668] 1.5"
-			"vaxis" "[0 0 -1 -2.66668] 1.5"
+			"uaxis" "[0 1 0 5.66668] 0.25"
+			"vaxis" "[0 0 -1 -2.66668] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266358,8 +266358,8 @@ entity
 				"v" "1156 1636 272"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[0 -1 0 8.33332] 0.75"
-			"vaxis" "[0 0 -1 -10.6667] 0.75"
+			"uaxis" "[0 -1 0 8.33332] 0.25"
+			"vaxis" "[0 0 -1 -10.6667] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266376,8 +266376,8 @@ entity
 				"v" "1208 1640 240"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 8] 1"
-			"vaxis" "[0 -1 0 -8] 1"
+			"uaxis" "[-1 0 0 8] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266394,8 +266394,8 @@ entity
 				"v" "1208 1636 272"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 8] 1"
-			"vaxis" "[0 -1 0 -8] 1"
+			"uaxis" "[1 0 0 8] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266412,8 +266412,8 @@ entity
 				"v" "1156 1636 272"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 8] 1"
-			"vaxis" "[0 0 -1 -4] 1"
+			"uaxis" "[1 0 0 8] 0.25"
+			"vaxis" "[0 0 -1 -4] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -266430,8 +266430,8 @@ entity
 				"v" "1208 1640 272"
 			}
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
-			"uaxis" "[1 0 0 8] 1"
-			"vaxis" "[0 0 -1 -4] 1"
+			"uaxis" "[-1 0 0 8] 0.25"
+			"vaxis" "[0 0 -1 -4] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -298589,21 +298589,37 @@ entity
 entity
 {
 	"id" "46405"
-	"classname" "prop_static"
+	"classname" "prop_physics_override"
 	"angles" "0 270 0"
+	"body" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
+	"forcetoenablemotion" "0"
+	"health" "0"
+	"inertiaScale" "1.0"
+	"massScale" "0"
+	"minhealthdmg" "0"
 	"model" "models/props/cs_havana/wndx1.mdl"
-	"solid" "2"
+	"modelscale" "1.0"
+	"nodamageforces" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"spawnflags" "142"
+	"vrad_model_cast_shadows" "1"
 	"origin" "1120 1648 312"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"comments" "TODO - verify movement is uninhibited"
+		"comments" "Made into a 'debris' prop_physics_override because it inhibits movement, but I still want bullet decals. Lighting isn't too bad becuase it's in a consistent location."
 		"logicalpos" "[6000 4500]"
 	}
 }
@@ -350063,8 +350079,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1780.33 1578.19 252.984]"
-		"look" "[1522.92 1239.07 264.876]"
+		"position" "[1178.53 1596.1 296.988]"
+		"look" "[1426.55 1895.91 123.749]"
 	}
 }
 cordons
