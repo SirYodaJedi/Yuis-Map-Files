@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "3213"
+	"mapversion" "3214"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -98,7 +98,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "8"
 }
 palette_plus
 {
@@ -173,7 +173,7 @@ bgimages_plus
 world
 {
 	"id" "675742"
-	"mapversion" "3213"
+	"mapversion" "3214"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -87172,6 +87172,7 @@ entity
 	"id" "1775257"
 	"classname" "env_cubemap"
 	"cubemapsize" "9"
+	"parallaxobb" "cubemaps_tspawn"
 	"sides" "227376"
 	"origin" "2096.54 -280 323.967"
 	editor
@@ -103401,7 +103402,7 @@ entity
 	"id" "1884862"
 	"classname" "env_cubemap"
 	"cubemapsize" "7"
-	"sides" ""
+	"parallaxobb" "cubemaps_tspawn"
 	"origin" "1760 -576 144"
 	editor
 	{
@@ -103417,7 +103418,7 @@ entity
 	"id" "1884898"
 	"classname" "env_cubemap"
 	"cubemapsize" "7"
-	"sides" ""
+	"parallaxobb" "cubemaps_tspawn"
 	"origin" "2112 -576 144"
 	editor
 	{
@@ -120944,6 +120945,7 @@ entity
 	"id" "1765617"
 	"classname" "env_cubemap"
 	"cubemapsize" "9"
+	"parallaxobb" "cubemaps_tspawn"
 	"sides" "240934"
 	"origin" "2272.54 -280 323.967"
 	editor
@@ -148119,7 +148121,7 @@ entity
 	"id" "1992929"
 	"classname" "env_cubemap"
 	"cubemapsize" "7"
-	"sides" ""
+	"parallaxobb" "cubemaps_tspawn"
 	"origin" "2096 -576 464"
 	editor
 	{
@@ -148135,7 +148137,7 @@ entity
 	"id" "1992962"
 	"classname" "env_cubemap"
 	"cubemapsize" "7"
-	"sides" ""
+	"parallaxobb" "cubemaps_tspawn"
 	"origin" "1744 -576 464"
 	editor
 	{
@@ -156579,6 +156581,7 @@ entity
 	"id" "2061715"
 	"classname" "env_cubemap"
 	"cubemapsize" "9"
+	"parallaxobb" "cubemaps_tspawn"
 	"sides" "240946"
 	"origin" "1744.54 -280 323.967"
 	editor
@@ -167321,6 +167324,138 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "2124155"
+	"classname" "parallax_obb"
+	"targetname" "cubemaps_tspawn"
+	solid
+	{
+		"id" "2124153"
+		side
+		{
+			"id" "242725"
+			"plane" "(1520 -256 512) (2336 -256 512) (2336 -896 512)"
+			vertices_plus
+			{
+				"v" "1520 -256 512"
+				"v" "2336 -256 512"
+				"v" "2336 -896 512"
+				"v" "1520 -896 512"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242724"
+			"plane" "(1520 -896 0) (2336 -896 0) (2336 -256 0)"
+			vertices_plus
+			{
+				"v" "1520 -896 0"
+				"v" "2336 -896 0"
+				"v" "2336 -256 0"
+				"v" "1520 -256 0"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242723"
+			"plane" "(1520 -256 512) (1520 -896 512) (1520 -896 0)"
+			vertices_plus
+			{
+				"v" "1520 -256 512"
+				"v" "1520 -896 512"
+				"v" "1520 -896 0"
+				"v" "1520 -256 0"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242722"
+			"plane" "(2336 -256 0) (2336 -896 0) (2336 -896 512)"
+			vertices_plus
+			{
+				"v" "2336 -256 0"
+				"v" "2336 -896 0"
+				"v" "2336 -896 512"
+				"v" "2336 -256 512"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242721"
+			"plane" "(2336 -256 512) (1520 -256 512) (1520 -256 0)"
+			vertices_plus
+			{
+				"v" "2336 -256 512"
+				"v" "1520 -256 512"
+				"v" "1520 -256 0"
+				"v" "2336 -256 0"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242720"
+			"plane" "(2336 -896 0) (1520 -896 0) (1520 -896 512)"
+			vertices_plus
+			{
+				"v" "2336 -896 0"
+				"v" "1520 -896 0"
+				"v" "1520 -896 512"
+				"v" "2336 -896 512"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Parallax-corrected cubemaps don't exist in CS:S, but in case gmod or jbep3 decide to get PCC, go ahead and mark the windows as using it, so the reflections are able to support it. It's backwards compatible, so it won't break CS:S."
+		"logicalpos" "[0 500]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -167331,8 +167466,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1744.4 -618.123 151.252]"
-		"look" "[2431.29 -441.761 291.675]"
+		"position" "[2171.38 -246.176 457.464]"
+		"look" "[2021.07 -953.29 462.513]"
 	}
 	camera
 	{
