@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "2885"
+	"mapversion" "2887"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -185,7 +185,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "2885"
+	"mapversion" "2887"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -186110,6 +186110,7 @@ entity
 {
 	"id" "209714"
 	"classname" "light"
+	"_castentityshadow" "1"
 	"_constant_attn" "0"
 	"_distance" "0"
 	"_light" "186 1 1 75"
@@ -186157,6 +186158,7 @@ entity
 {
 	"id" "212741"
 	"classname" "light"
+	"_castentityshadow" "1"
 	"_constant_attn" "0"
 	"_distance" "0"
 	"_light" "135 1 1 60"
@@ -186230,6 +186232,7 @@ entity
 {
 	"id" "213689"
 	"classname" "light"
+	"_castentityshadow" "1"
 	"_constant_attn" "0"
 	"_distance" "0"
 	"_light" "135 1 1 75"
@@ -186303,6 +186306,7 @@ entity
 {
 	"id" "214374"
 	"classname" "light"
+	"_castentityshadow" "1"
 	"_constant_attn" "0"
 	"_distance" "0"
 	"_light" "191 2 2 60"
@@ -194309,6 +194313,7 @@ entity
 {
 	"id" "544228"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "60000"
 	"_distance" "0"
@@ -194329,6 +194334,7 @@ entity
 		"groupid" "544238"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Need shadows to be affected by this for the physics props in here."
 		"logicalpos" "[500 10500]"
 	}
 }
@@ -194785,6 +194791,7 @@ entity
 {
 	"id" "601173"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "65"
 	"_constant_attn" "90000"
 	"_distance" "0"
@@ -195397,6 +195404,7 @@ entity
 {
 	"id" "660359"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "60"
 	"_constant_attn" "0"
 	"_distance" "512"
@@ -195702,6 +195710,7 @@ entity
 {
 	"id" "687517"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "75"
 	"_constant_attn" "90000"
 	"_distance" "0"
@@ -195751,6 +195760,7 @@ entity
 {
 	"id" "695623"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "80"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -197177,6 +197187,7 @@ entity
 {
 	"id" "516863"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "85"
 	"_constant_attn" "0"
 	"_distance" "512"
@@ -198365,6 +198376,7 @@ entity
 		"groupid" "1173889"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "These represent sunlight coming in from the window. Default shadow direction is already based upon the sun, so a separate spotlight with _castentityshadows should be unnecessary."
 		"logicalpos" "[1500 -13268]"
 	}
 }
@@ -198387,6 +198399,7 @@ entity
 		"groupid" "1173889"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "These represent sunlight coming in from the window. Default shadow direction is already based upon the sun, so a separate spotlight with _castentityshadows should be unnecessary."
 		"logicalpos" "[1500 -12768]"
 	}
 }
@@ -198409,6 +198422,7 @@ entity
 		"groupid" "1173889"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "These represent sunlight coming in from the window. Default shadow direction is already based upon the sun, so a separate spotlight with _castentityshadows should be unnecessary."
 		"logicalpos" "[1500 -12268]"
 	}
 }
@@ -198431,6 +198445,7 @@ entity
 		"groupid" "1173889"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "These represent sunlight coming in from the window. Default shadow direction is already based upon the sun, so a separate spotlight with _castentityshadows should be unnecessary."
 		"logicalpos" "[1500 -11768]"
 	}
 }
@@ -198453,6 +198468,7 @@ entity
 		"groupid" "1173889"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "These represent sunlight coming in from the window. Default shadow direction is already based upon the sun, so a separate spotlight with _castentityshadows should be unnecessary."
 		"logicalpos" "[1500 -11268]"
 	}
 }
@@ -198475,6 +198491,7 @@ entity
 		"groupid" "1173889"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "These represent sunlight coming in from the window. Default shadow direction is already based upon the sun, so a separate spotlight with _castentityshadows should be unnecessary."
 		"logicalpos" "[1500 -10768]"
 	}
 }
@@ -224363,6 +224380,7 @@ entity
 {
 	"id" "92016"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "75"
 	"_constant_attn" "45000"
 	"_distance" "0"
@@ -226304,6 +226322,7 @@ entity
 {
 	"id" "211480"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "29"
 	"_constant_attn" "90000"
 	"_distance" "0"
@@ -226634,6 +226653,7 @@ entity
 {
 	"id" "216098"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "29"
 	"_constant_attn" "90000"
 	"_distance" "0"
@@ -228799,6 +228819,7 @@ entity
 {
 	"id" "238406"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "29"
 	"_constant_attn" "90000"
 	"_distance" "0"
@@ -228818,6 +228839,7 @@ entity
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "_castentityshadows is probably pointless here"
 		"logicalpos" "[2500 -5768]"
 	}
 }
@@ -249564,6 +249586,7 @@ entity
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
+		"comments" "Not affecting shadows b/c players can't enter here. The sun should be stronger anyway."
 		"logicalpos" "[3500 14500]"
 	}
 }
@@ -255019,6 +255042,7 @@ entity
 {
 	"id" "586451"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "55"
 	"_constant_attn" "0"
 	"_distance" "512"
@@ -265932,6 +265956,7 @@ entity
 {
 	"id" "649006"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "60"
 	"_constant_attn" "30000"
 	"_distance" "0"
@@ -265958,6 +265983,7 @@ entity
 {
 	"id" "650433"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "60"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -266355,6 +266381,7 @@ entity
 {
 	"id" "687511"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "75"
 	"_constant_attn" "90000"
 	"_distance" "0"
@@ -268228,6 +268255,7 @@ entity
 {
 	"id" "738540"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "65"
 	"_constant_attn" "0"
 	"_distance" "512"
@@ -271327,6 +271355,7 @@ entity
 {
 	"id" "769435"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "60"
 	"_constant_attn" "60000"
 	"_distance" "0"
@@ -334543,6 +334572,7 @@ entity
 {
 	"id" "1008001"
 	"classname" "light"
+	"_castentityshadow" "1"
 	"_constant_attn" "0"
 	"_distance" "0"
 	"_light" "238 252 214 100"
@@ -334861,6 +334891,7 @@ entity
 {
 	"id" "1011706"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -335757,6 +335788,7 @@ entity
 {
 	"id" "1025989"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "95000"
 	"_distance" "0"
@@ -335783,6 +335815,7 @@ entity
 {
 	"id" "1026121"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "40"
 	"_constant_attn" "35000"
 	"_distance" "0"
@@ -336885,6 +336918,7 @@ entity
 {
 	"id" "93227"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "70"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -348273,6 +348307,7 @@ entity
 {
 	"id" "1188140"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "80000"
 	"_distance" "99000"
@@ -348300,6 +348335,7 @@ entity
 {
 	"id" "1188400"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "99000"
@@ -348327,6 +348363,7 @@ entity
 {
 	"id" "1188575"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "99000"
@@ -373648,8 +373685,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[6848.64 4481.96 -505.362]"
-		"look" "[6883.23 4222.8 -598.455]"
+		"position" "[6362.63 4461.13 -419.553]"
+		"look" "[6577.12 4298.31 -352.413]"
 	}
 }
 cordons

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "584"
+	"mapversion" "585"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -341,7 +341,7 @@ bgimages_plus
 world
 {
 	"id" "0"
-	"mapversion" "584"
+	"mapversion" "585"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -236162,6 +236162,7 @@ entity
 {
 	"id" "21417"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -236347,6 +236348,7 @@ entity
 {
 	"id" "22544"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -248749,6 +248751,7 @@ entity
 {
 	"id" "117233"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -249187,6 +249190,7 @@ entity
 {
 	"id" "117673"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -249625,6 +249629,7 @@ entity
 {
 	"id" "117950"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -250055,6 +250060,7 @@ entity
 {
 	"id" "114773"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -250831,6 +250837,7 @@ entity
 {
 	"id" "116286"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -251269,6 +251276,7 @@ entity
 {
 	"id" "137226"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -251298,6 +251306,7 @@ entity
 {
 	"id" "137229"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -251488,6 +251497,7 @@ entity
 {
 	"id" "137635"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -251517,6 +251527,7 @@ entity
 {
 	"id" "137638"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -251572,6 +251583,7 @@ entity
 {
 	"id" "2733"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -251684,6 +251696,7 @@ entity
 {
 	"id" "2689"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -251792,6 +251805,7 @@ entity
 {
 	"id" "2716"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -251941,6 +251955,7 @@ entity
 {
 	"id" "2738"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -252020,6 +252035,7 @@ entity
 {
 	"id" "2682"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -252419,6 +252435,7 @@ entity
 {
 	"id" "22360"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "50"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -269556,6 +269573,7 @@ entity
 {
 	"id" "2690"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -269584,6 +269602,7 @@ entity
 {
 	"id" "2691"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -269612,6 +269631,7 @@ entity
 {
 	"id" "2692"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -269640,6 +269660,7 @@ entity
 {
 	"id" "2693"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -269668,6 +269689,7 @@ entity
 {
 	"id" "2694"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -269696,6 +269718,7 @@ entity
 {
 	"id" "2697"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269745,6 +269768,7 @@ entity
 {
 	"id" "2702"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269771,6 +269795,7 @@ entity
 {
 	"id" "2703"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269796,6 +269821,7 @@ entity
 {
 	"id" "2707"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269822,6 +269848,7 @@ entity
 {
 	"id" "2708"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269848,6 +269875,7 @@ entity
 {
 	"id" "2709"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269874,6 +269902,7 @@ entity
 {
 	"id" "2710"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269923,6 +269952,7 @@ entity
 {
 	"id" "2713"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269949,6 +269979,7 @@ entity
 {
 	"id" "2715"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -269975,6 +270006,7 @@ entity
 {
 	"id" "2719"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270023,6 +270055,7 @@ entity
 {
 	"id" "2721"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270072,6 +270105,7 @@ entity
 {
 	"id" "2724"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270098,6 +270132,7 @@ entity
 {
 	"id" "2725"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270124,6 +270159,7 @@ entity
 {
 	"id" "2726"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270150,6 +270186,7 @@ entity
 {
 	"id" "2728"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270176,6 +270213,7 @@ entity
 {
 	"id" "2729"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -270204,6 +270242,7 @@ entity
 {
 	"id" "2730"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -270232,6 +270271,7 @@ entity
 {
 	"id" "2731"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -270260,6 +270300,7 @@ entity
 {
 	"id" "2732"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_constant_attn" "0"
 	"_distance" "0"
@@ -270288,6 +270329,7 @@ entity
 {
 	"id" "2734"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270314,6 +270356,7 @@ entity
 {
 	"id" "2735"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270340,6 +270383,7 @@ entity
 {
 	"id" "2737"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -270414,6 +270458,7 @@ entity
 {
 	"id" "2749"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -345894,6 +345939,7 @@ entity
 {
 	"id" "299686"
 	"classname" "light_spot"
+	"_castentityshadow" "1"
 	"_cone" "45"
 	"_exponent" "1"
 	"_inner_cone" "30"
@@ -350017,8 +350063,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-33.0845 -775.284 534.759]"
-		"look" "[-208.19 -389.259 576.322]"
+		"position" "[1780.33 1578.19 252.984]"
+		"look" "[1522.92 1239.07 264.876]"
 	}
 }
 cordons
