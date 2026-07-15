@@ -37,6 +37,8 @@
 # Source 1 leaks and portal files
 *.lin
 *.prt
+# NRC autocaulk output
+*.caulk
 
 ## Material metadata (distributed seprately, if not included in a given game or SDK)
 # VMT (Valve Material Type) - Source 1
